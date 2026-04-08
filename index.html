@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GTAI Consultoria Avançada - Automação AI para Empresas</title>
+    <meta name="description" content="GTAI Consultoria Avançada - Implementamos soluções de automação AI para otimizar os seus processos empresariais.">
+    <link rel="icon" type="image/png" href="GTAI_logo_melhorado.png">
+    <style>
+        :root {
+            --primary: #0f172a;
+            --accent: #3b82f6;
+            --accent-light: #60a5fa;
+            --success: #10b981;
+            --text: #334155;
+            --text-light: #64748b;
+            --bg: #ffffff;
+            --bg-light: #f8fafc;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.7;
+            color: var(--text);
+            background: var(--bg);
+        }
+
+        a { text-decoration: none; }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* Header */
+        header {
+            background: var(--primary);
+            padding: 15px 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .logo img {
+            height: 45px;
+            width: auto;
+        }
+
+        .logo-text {
+            color: white;
+            font-size: 1.3rem;
+            font-weight: 700;
+        }
+
+        .logo-text span {
+            color: var(--accent-light);
+        }
+
+        nav ul {
+            display: flex;
+            gap: 30px;
+            list-style: none;
+        }
+
+        nav a {
+            color: #94a3b8;
+            text-decoration: none;
+            transition: color 0.3s;
+            font-weight: 500;
+        }
+
+        nav a:hover {
+            color: white;
+        }
+
+        /* Hero */
+        .hero {
+            background: linear-gradient(135deg, var(--primary) 0%, #1e293b 100%);
+            padding: 100px 0;
+            text-align: center;
+            color: white;
+        }
+
+        .hero h1 {
+            font-size: 3.2rem;
+            font-weight: 800;
+            margin-bottom: 20px;
+            line-height: 1.2;
+        }
+
+        .hero h1 span {
+            color: var(--accent-light);
+        }
+
+        .hero p {
+            font-size: 1.25rem;
+            color: #94a3b8;
+            max-width: 650px;
+            margin: 0 auto 40px;
+        }
+
+        .btn {
+            display: inline-block;
+            background: var(--accent);
+            color: white;
+            padding: 15px 35px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1.05rem;
+            transition: all 0.3s;
+            border: none;
+            cursor: pointer;
+        }
+
+        .btn:hover {
+            background: var(--accent-light);
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(59, 130, 246, 0.3);
+        }
+
+        .btn-outline {
+            background: transparent;
+            border: 2px solid var(--accent);
+            margin-left: 15px;
+        }
+
+        .btn-outline:hover {
+            background: var(--accent);
+        }
+
+        /* Services */
+        .services {
+            padding: 80px 0;
+            background: var(--bg-light);
+        }
+
+        .section-title {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+
+        .section-title h2 {
+            font-size: 2.5rem;
+            color: var(--primary);
+            margin-bottom: 15px;
+        }
+
+        .section-title p {
+            color: var(--text-light);
+            max-width: 550px;
+            margin: 0 auto;
+            font-size: 1.1rem;
+        }
+
+        .services-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 30px;
+        }
+
+        .service-card {
+            background: white;
+            padding: 35px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+            transition: all 0.3s;
+            border: 1px solid #e2e8f0;
+        }
+
+        .service-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 30px rgba(0,0,0,0.1);
+        }
+
+        .service-icon {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+
+        .service-card h3 {
+            font-size: 1.35rem;
+            margin-bottom: 12px;
+            color: var(--primary);
+            font-weight: 700;
+        }
+
+        .service-card p {
+            color: var(--text-light);
+            font-size: 1rem;
+        }
+
+        /* Pricing */
+        .pricing {
+            padding: 80px 0;
+        }
+
+        .pricing-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .price-card {
+            background: white;
+            padding: 40px 30px;
+            border-radius: 16px;
+            text-align: center;
+            border: 2px solid #e2e8f0;
+            transition: all 0.3s;
+        }
+
+        .price-card.featured {
+            border-color: var(--accent);
+            transform: scale(1.05);
+            box-shadow: 0 20px 40px rgba(59, 130, 246, 0.15);
+        }
+
+        .price-card h3 {
+            font-size: 1.5rem;
+            color: var(--primary);
+            margin-bottom: 10px;
+        }
+
+        .price {
+            font-size: 2.5rem;
+            font-weight: 800;
+            color: var(--accent);
+            margin-bottom: 5px;
+        }
+
+        .price span {
+            font-size: 1rem;
+            color: var(--text-light);
+            font-weight: 400;
+        }
+
+        .price-card ul {
+            list-style: none;
+            margin: 25px 0;
+            text-align: left;
+        }
+
+        .price-card li {
+            padding: 10px 0;
+            border-bottom: 1px solid #f1f5f9;
+            color: var(--text);
+        }
+
+        .price-card li::before {
+            content: "✓";
+            color: var(--success);
+            font-weight: bold;
+            margin-right: 10px;
+        }
+
+        /* About */
+        .about {
+            padding: 80px 0;
+            background: var(--bg-light);
+        }
+
+        .about-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 60px;
+            align-items: center;
+        }
+
+        .about h2 {
+            font-size: 2.5rem;
+            color: var(--primary);
+            margin-bottom: 25px;
+        }
+
+        .about p {
+            color: var(--text-light);
+            margin-bottom: 20px;
+            font-size: 1.05rem;
+        }
+
+        .about-stats {
+            display: flex;
+            gap: 40px;
+            margin-top: 35px;
+        }
+
+        .stat {
+            text-align: center;
+        }
+
+        .stat-number {
+            font-size: 2.8rem;
+            font-weight: 800;
+            color: var(--accent);
+        }
+
+        .stat-label {
+            color: var(--text-light);
+            font-size: 0.95rem;
+        }
+
+        /* FAQ */
+        .faq {
+            padding: 80px 0;
+        }
+
+        .faq-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+            gap: 30px;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .faq-item {
+            background: var(--bg-light);
+            padding: 25px;
+            border-radius: 12px;
+        }
+
+        .faq-item h3 {
+            color: var(--primary);
+            margin-bottom: 12px;
+            font-size: 1.15rem;
+        }
+
+        .faq-item p {
+            color: var(--text-light);
+            font-size: 0.95rem;
+        }
+
+        /* CTA */
+        .cta {
+            background: linear-gradient(135deg, var(--primary) 0%, #1e293b 100%);
+            padding: 80px 0;
+            text-align: center;
+            color: white;
+        }
+
+        .cta h2 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+
+        .cta p {
+            color: #94a3b8;
+            margin-bottom: 35px;
+            font-size: 1.15rem;
+            max-width: 550px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        /* Footer */
+        footer {
+            background: var(--primary);
+            padding: 40px 0;
+            color: #94a3b8;
+            text-align: center;
+        }
+
+        footer p {
+            margin-bottom: 10px;
+        }
+
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 25px;
+            margin-top: 15px;
+        }
+
+        .footer-links a {
+            color: #94a3b8;
+            font-size: 0.95rem;
+        }
+
+        .footer-links a:hover {
+            color: white;
+        }
+
+        .contact-info {
+            font-size: 0.9rem;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .hero h1 { font-size: 2.2rem; }
+            nav ul { display: none; }
+            .about-content { grid-template-columns: 1fr; }
+            .about-stats { justify-content: center; }
+            .btn { display: block; margin: 10px auto; width: max-content; }
+            .btn-outline { margin-left: 0; }
+            .price-card.featured { transform: none; }
+            .faq-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <nav>
+                <a href="#" class="logo">
+                    <img src="GTAI_logo_melhorado.png" alt="GTAI Consultoria Avançada">
+                    <span class="logo-text">Consultoria Avançada</span>
+                </a>
+                <ul>
+                    <li><a href="#servicos">Serviços</a></li>
+                    <li><a href="#precos">Planos</a></li>
+                    <li><a href="#sobre">Sobre</a></li>
+                    <li><a href="#faq">FAQ</a></li>
+                    <li><a href="#contacto">Contacto</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h1>Transforme a Sua Empresa numa Máquina de Resultados com <span>Inteligência Artificial</span></h1>
+            <p>Não adicionamos tecnologia. Adicionamos tempo, eficiência e rentabilidade ao seu negócio. Descubra como com o nosso assessment gratuito.</p>
+            <a href="#contacto" class="btn">Agendar Assessment Grátis</a>
+            <a href="#servicos" class="btn btn-outline">Ver Serviços</a>
+        </div>
+    </section>
+
+    <section class="services" id="servicos">
+        <div class="container">
+            <div class="section-title">
+                <h2>Nossos Serviços</h2>
+                <p>Soluções personalizadas para transformar os seus processos empresariais</p>
+            </div>
+            <div class="services-grid">
+                <div class="service-card">
+                    <div class="service-icon">🤖</div>
+                    <h3>Automação de Processos</h3>
+                    <p>Automatize tarefas repetitivas e liberte a sua equipa para atividades de maior valor.</p>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon">🧠</div>
+                    <h3>Inteligência Artificial</h3>
+                    <p>Implemente soluções de IA adaptadas às necessidades específicas do seu negócio.</p>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon">⚙️</div>
+                    <h3>Workflows n8n</h3>
+                    <p>Desenvolvemos workflows personalizados na plataforma n8n para otimizar operações.</p>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon">📊</div>
+                    <h3>Análise de Dados</h3>
+                    <p>Transforme dados em insights acionáveis para melhores decisões de negócio.</p>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon">🔗</div>
+                    <h3>Integração de Sistemas</h3>
+                    <p>Conecte as suas aplicações e sistemas para um fluxo de informação sem falhas.</p>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon">📱</div>
+                    <h3>Automação de Marketing</h3>
+                    <p>Automatize campanhas, lead nurturing e comunicação com clientes.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="pricing" id="precos">
+        <div class="container">
+            <div class="section-title">
+                <h2>Escolha o Plano Ideal</h2>
+                <p>Soluções flexíveis para empresas de todas as dimensões</p>
+            </div>
+            <div class="pricing-grid">
+                <div class="price-card">
+                    <h3>Starter</h3>
+                    <div class="price">€1.500<span>/projeto</span></div>
+                    <p style="color: var(--text-light); margin-bottom: 20px;">Para empresas que querem começar</p>
+                    <ul>
+                        <li>Mapeamento de 3 processos</li>
+                        <li>Automação de 1 processo</li>
+                        <li>Setup e integração básica</li>
+                        <li>30 dias de suporte</li>
+                    </ul>
+                    <a href="#contacto" class="btn" style="width: 100%;">Solicitar Orçamento</a>
+                </div>
+                <div class="price-card featured">
+                    <h3>Business</h3>
+                    <div class="price">€3.500<span>/projeto</span></div>
+                    <p style="color: var(--text-light); margin-bottom: 20px;">Para empresas que querem escalar</p>
+                    <ul>
+                        <li>Mapeamento de até 8 processos</li>
+                        <li>Automação de até 4 processos</li>
+                        <li>Integração com sistemas existentes</li>
+                        <li>90 dias de suporte</li>
+                        <li>Relatórios mensais de ROI</li>
+                    </ul>
+                    <a href="#contacto" class="btn" style="width: 100%;">Solicitar Orçamento</a>
+                </div>
+                <div class="price-card">
+                    <h3>Enterprise</h3>
+                    <div class="price">Sob Consulta</div>
+                    <p style="color: var(--text-light); margin-bottom: 20px;">Para empresas que querem liderar</p>
+                    <ul>
+                        <li>Transformação completa</li>
+                        <li>IA personalizada</li>
+                        <li>Suporte dedicado 24/7</li>
+                        <li>SLA garantido</li>
+                        <li>Formação interna</li>
+                    </ul>
+                    <a href="#contacto" class="btn" style="width: 100%;">Solicitar Reunião</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="about" id="sobre">
+        <div class="container">
+            <div class="about-content">
+                <div>
+                    <h2>Sobre a GTAI</h2>
+                    <p>Somos uma consultoria especializada em automação inteligente e soluções de inteligência artificial para empresas.</p>
+                    <p>Nossa missão é ajudar empresas a transformarem-se digitalmente através de soluções automatizadas que aumentam eficiência e reduzem custos operacionais.</p>
+                    <p>Com anos de experiência em automação de processos e implementação de IA, temos capacidade para transformar qualquer desafio operacional numa oportunidade de eficiência.</p>
+                    <div class="about-stats">
+                        <div class="stat">
+                            <div class="stat-number">50+</div>
+                            <div class="stat-label">Projetos Entregues</div>
+                        </div>
+                        <div class="stat">
+                            <div class="stat-number">30+</div>
+                            <div class="stat-label">Empresas Clientes</div>
+                        </div>
+                        <div class="stat">
+                            <div class="stat-number">95%</div>
+                            <div class="stat-label">Satisfação</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="faq" id="faq">
+        <div class="container">
+            <div class="section-title">
+                <h2>Perguntas Frequentes</h2>
+            </div>
+            <div class="faq-grid">
+                <div class="faq-item">
+                    <h3>Preciso de conhecimentos técnicos?</h3>
+                    <p>Não. A GTAI trata de toda a parte técnica. O que precisa é de processos manuais que quer otimizar. Nós fazemos o resto.</p>
+                </div>
+                <div class="faq-item">
+                    <h3>Quanto tempo demora uma implementação?</h3>
+                    <p>Starter: 2-3 semanas, Business: 4-6 semanas, Enterprise: 8-12 semanas. O tempo real depende da complexidade.</p>
+                </div>
+                <div class="faq-item">
+                    <h3>E se algo correr errado?</h3>
+                    <p>Todos os projetos incluem suporte pós-implementação. Se algo não funcionar como esperado, corrigimos sem custos adicionais.</p>
+                </div>
+                <div class="faq-item">
+                    <h3>Os meus dados ficam seguros?</h3>
+                    <p>Absolutamente. Follow RGPD. Todos os dados são processados de forma segura. Não partilhamos informação com terceiros.</p>
+                </div>
+                <div class="faq-item">
+                    <h3>Preciso de substituir os meus sistemas?</h3>
+                    <p>Não. Integração é o nosso forte. Trabalhamos com o que já tem. Se necessário, sugerimos otimizações, mas nunca forçamos substituição.</p>
+                </div>
+                <div class="faq-item">
+                    <h3>Como funciona o assessment gratuito?</h3>
+                    <p>Uma análise de 30 minutos que revela: quanto tempo perde em processos manuais, quanto pode poupar, e que ROI esperar.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="cta" id="contacto">
+        <div class="container">
+            <h2>Pronto para Transformar o Seu Negócio?</h2>
+            <p>Reserve 30 minutos para uma conversa sem compromisso. Entendemos o seu negócio, identificamos oportunidades, e propomos um plano concreto.</p>
+            <a href="mailto:contact@gtai.pt" class="btn">Agendar Conversa — É Grátis</a>
+            <p style="margin-top: 20px; font-size: 0.9rem; color: #94a3b8;">📅 Respondemos em 24 horas úteis. Sem spam. Sem compromissos.</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 GTAI Consultoria Avançada. Todos os direitos reservados.</p>
+            <div class="footer-links">
+                <a href="privacy.html">Política de Privacidade</a>
+            </div>
+            <div class="contact-info" style="margin-top: 20px;">
+                <p>Email: contact@gtai.pt</p>
+                <p>Website: www.gtai.pt</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
