@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T10:52:44.892273+00:00",
+  "generated_at": "2026-06-16T10:57:17.592396+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1233,103 +1233,328 @@
   ],
   "activity_feed": [
     {
+      "type": "tp_hit",
+      "ticker": "BNB",
+      "direction": "SHORT",
+      "pnl": 7.5,
+      "reason": "TP1 batido +20.3%, BNB a virar (+0.48%), take profit \u2014 fecho do resto da posi\u00e7\u00e3o",
+      "date": "2026-06-16T10:56",
+      "id": 33
+    },
+    {
       "type": "close_partial",
-      "ticker": "ETH",
+      "ticker": "QQQ",
       "direction": "LONG",
-      "pnl": -0.95,
-      "reason": "Apenas 0.9% acima do SL em downtrend confirmado + volume 0.9x fraco + correla\u00e7\u00e3o 0.86 com BTC \u2014 fechar preventivamente para preservar capital e reduzir concentra\u00e7\u00e3o cripto",
-      "date": "2026-05-07T19:10",
-      "id": 4
+      "pnl": 1.32,
+      "reason": "Reduzir concentra\u00e7\u00e3o de 30.9% para ~20% (close partial 33%)",
+      "date": "2026-06-16T10:56",
+      "id": 34
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "QQQ",
+      "direction": "LONG",
+      "pnl": 0.2,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-06-15T15:30",
+      "id": 34
     },
     {
       "type": "sl_hit",
-      "ticker": "BTC",
-      "direction": "LONG",
-      "pnl": -2.13,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-05-08T08:16",
-      "id": 2
-    },
-    {
-      "type": "close",
       "ticker": "META",
       "direction": "LONG",
-      "pnl": -2.31,
-      "reason": "DOWNTREND confirmado + MACD bearish (-1.54 vs signal -1.37 e divergindo) + underperformance -0.88% vs QQQ +2.09% \u2014 sair antes de SL",
-      "date": "2026-05-08T19:02",
-      "id": 6
+      "pnl": -10.31,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-06-12T14:54",
+      "id": 27
     },
     {
-      "type": "close",
-      "ticker": "AMD",
+      "type": "tp_hit",
+      "ticker": "SOL",
       "direction": "SHORT",
-      "pnl": -2.72,
-      "reason": "AMD +8.9% contra SHORT \u2014 UPTREND forte + RSI 68.9 + SL a apenas 1.7% (\u20ac383.80 vs \u20ac377.21 atual) \u2014 fechar preventivamente para proteger capital",
-      "date": "2026-05-08T19:02",
-      "id": 8
+      "pnl": 25.01,
+      "reason": "\ud83c\udfc6 TP2",
+      "date": "2026-06-12T01:30",
+      "id": 29
     },
     {
-      "type": "close",
-      "ticker": "AMD",
+      "type": "tp_hit",
+      "ticker": "SOL",
       "direction": "SHORT",
-      "pnl": -4.85,
-      "reason": "AMD +11.59% contra SHORT. UPTREND brutal + RSI 80.7 + volume 1.4x. SL a apenas 1.6% \u2014 fechar preventivamente antes de bater stop. N\u00e3o lutar contra o momentum.",
-      "date": "2026-05-09T09:02",
-      "id": 9
+      "pnl": 24.97,
+      "reason": "\u2705 TP1 (50%)",
+      "date": "2026-06-12T01:20",
+      "id": 29
+    },
+    {
+      "type": "tp_hit",
+      "ticker": "BNB",
+      "direction": "SHORT",
+      "pnl": 9.5,
+      "reason": "\u2705 TP1 (50%)",
+      "date": "2026-06-12T01:20",
+      "id": 33
     },
     {
       "type": "sl_hit",
       "ticker": "QQQ",
       "direction": "SHORT",
-      "pnl": -1.5,
+      "pnl": -4.6,
       "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-05-09T09:04",
-      "id": 7
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "DOGE",
-      "direction": "SHORT",
-      "pnl": 0.05,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-09T09:25",
-      "id": 11
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "DOGE",
-      "direction": "SHORT",
-      "pnl": 0.12,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-09T09:35",
-      "id": 11
-    },
-    {
-      "type": "close",
-      "ticker": "META",
-      "direction": "LONG",
-      "pnl": 0.01,
-      "reason": "DOWNTREND ativo + MACD negativo (-1.6236) + RSI 45.6 \u2014 posi\u00e7\u00e3o LONG contra tend\u00eancia. Sair no breakeven antes de deteriora\u00e7\u00e3o.",
-      "date": "2026-05-09T15:32",
-      "id": 10
+      "date": "2026-05-13T17:59",
+      "id": 30
     },
     {
       "type": "sl_hit",
-      "ticker": "DOGE",
+      "ticker": "TSLA",
       "direction": "SHORT",
-      "pnl": -0.1,
+      "pnl": -8.39,
       "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-05-10T18:34",
-      "id": 11
+      "date": "2026-05-13T15:39",
+      "id": 32
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "BNB",
+      "direction": "SHORT",
+      "pnl": 0.05,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-13T15:08",
+      "id": 33
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "TSLA",
+      "direction": "SHORT",
+      "pnl": -0.0,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-13T14:58",
+      "id": 32
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "BNB",
+      "direction": "SHORT",
+      "pnl": 0.46,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-13T14:58",
+      "id": 33
+    },
+    {
+      "type": "sl_hit",
+      "ticker": "AAPL",
+      "direction": "SHORT",
+      "pnl": -3.75,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-05-13T14:38",
+      "id": 28
+    },
+    {
+      "type": "sl_hit",
+      "ticker": "BNB",
+      "direction": "SHORT",
+      "pnl": -3.78,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-05-13T09:46",
+      "id": 31
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "BNB",
+      "direction": "SHORT",
+      "pnl": -1.15,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-13T02:24",
+      "id": 31
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "BNB",
+      "direction": "SHORT",
+      "pnl": -0.03,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-12T22:42",
+      "id": 31
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "BNB",
+      "direction": "SHORT",
+      "pnl": -0.09,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-12T22:32",
+      "id": 31
     },
     {
       "type": "auto_trim",
       "ticker": "SOL",
       "direction": "SHORT",
-      "pnl": 0.0,
+      "pnl": -0.02,
       "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-10T18:54",
-      "id": 12
+      "date": "2026-05-12T19:41",
+      "id": 29
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "pnl": 0.12,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-12T19:31",
+      "id": 29
+    },
+    {
+      "type": "sl_hit",
+      "ticker": "BNB",
+      "direction": "SHORT",
+      "pnl": 1.85,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-05-12T19:11",
+      "id": 24
+    },
+    {
+      "type": "sl_hit",
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "pnl": 2.51,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-05-12T19:11",
+      "id": 25
+    },
+    {
+      "type": "close",
+      "ticker": "AAPL",
+      "direction": "SHORT",
+      "pnl": -0.6,
+      "reason": "SHORT contra UPTREND confirmado (RSI 59.2, +0.62% hoje) \u2014 PTJ: nunca contra a tend\u00eancia. Posi\u00e7\u00e3o em perda leve (-0.82\u20ac) sem catalisador de revers\u00e3o. Acima limite 25% (28.1%).",
+      "date": "2026-05-12T19:03",
+      "id": 26
+    },
+    {
+      "type": "close",
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "pnl": 3.91,
+      "reason": "SHORT a lutar contra UPTREND RSI 77.4 \u2014 PTJ: nunca contra a tend\u00eancia. Liberta slot para AMD SHORT com melhor setup.",
+      "date": "2026-05-12T18:54",
+      "id": 23
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "AAPL",
+      "direction": "SHORT",
+      "pnl": -0.27,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-12T15:00",
+      "id": 26
+    },
+    {
+      "type": "close",
+      "ticker": "META",
+      "direction": "LONG",
+      "pnl": 0.28,
+      "reason": "DOWNTREND estrutural + RSI 26.3 oversold em downtrend = fraqueza, n\u00e3o revers\u00e3o. PTJ: nunca contra a tend\u00eancia. Sa\u00edda limpa a breakeven.",
+      "date": "2026-05-12T12:04",
+      "id": 22
+    },
+    {
+      "type": "close",
+      "ticker": "GLD",
+      "direction": "LONG",
+      "pnl": -0.28,
+      "reason": "Fechar posi\u00e7\u00e3o defensiva em regime RISK-ON forte (US-China truce). Libertar slot para AAPL SHORT de maior convic\u00e7\u00e3o t\u00e9cnica. GLD em lucro (SL estava em \u20ac362).",
+      "date": "2026-05-12T11:25",
+      "id": 5
+    },
+    {
+      "type": "close",
+      "ticker": "AAPL",
+      "direction": "SHORT",
+      "pnl": -0.26,
+      "reason": "Liberar posi\u00e7\u00e3o para TSLA SHORT de alta convic\u00e7\u00e3o (6 posi\u00e7\u00f5es > m\u00e1ximo 5). AAPL RSI 68 zona de sa\u00edda, momentum a enfraquecer.",
+      "date": "2026-05-12T10:54",
+      "id": 19
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "BNB",
+      "direction": "SHORT",
+      "pnl": 0.17,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-12T01:15",
+      "id": 24
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "BNB",
+      "direction": "SHORT",
+      "pnl": -0.03,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-12T01:05",
+      "id": 24
+    },
+    {
+      "type": "close_partial",
+      "ticker": "SPY",
+      "direction": "SHORT",
+      "pnl": 0.26,
+      "reason": "SHORT contra regime RISK-ON confirmado. SPY em UPTREND estrutural com S&P +9.7% acima MA200. Fechar para libertar slot e reduzir exposi\u00e7\u00e3o contra-tend\u00eancia.",
+      "date": "2026-05-11T23:24",
+      "id": 21
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "pnl": 0.02,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-11T23:04",
+      "id": 23
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "pnl": 0.03,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-11T22:54",
+      "id": 23
+    },
+    {
+      "type": "close_partial",
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "pnl": -0.69,
+      "reason": "Setor cripto extremamente overbought (SOL RSI 84.3 proxy). Compliance j\u00e1 reduziu 33% na sess\u00e3o anterior. Fechar para libertar slot e reduzir exposi\u00e7\u00e3o cripto no pico.",
+      "date": "2026-05-11T22:24",
+      "id": 17
+    },
+    {
+      "type": "close",
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "pnl": -4.95,
+      "reason": "Posi\u00e7\u00e3o em -8.4% \u2014 regra obrigat\u00f3ria de fecho em -8% sem catalisador de revers\u00e3o. SOL em UPTREND com RSI 66 e BB 84%, SHORT contra regime RISK-ON. SL a apenas 1.4% de dist\u00e2ncia.",
+      "date": "2026-05-11T22:02",
+      "id": 15
+    },
+    {
+      "type": "close",
+      "ticker": "TSLA",
+      "direction": "SHORT",
+      "pnl": -4.08,
+      "reason": "TSLA +3.98% hoje, RSI 74.5 overbought mas momentum bullish forte. SL a \u20ac382.75 vs atual \u20ac377.57 (1.4% margem). Fechar antes de SL.",
+      "date": "2026-05-11T22:02",
+      "id": 20
+    },
+    {
+      "type": "close",
+      "ticker": "QQQ",
+      "direction": "SHORT",
+      "pnl": -1.27,
+      "reason": "SHORT contr\u00e1rio ao regime RISK-ON, reduzido a 67%, slot necess\u00e1rio para sinal mais forte TSLA",
+      "date": "2026-05-11T16:54",
+      "id": 18
     },
     {
       "type": "auto_trim",
@@ -1337,26 +1562,62 @@
       "direction": "SHORT",
       "pnl": 0.0,
       "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-10T20:54",
-      "id": 13
+      "date": "2026-05-11T12:40",
+      "id": 17
     },
     {
       "type": "auto_trim",
       "ticker": "AVAX",
       "direction": "SHORT",
-      "pnl": 0.08,
+      "pnl": 0.16,
       "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-10T21:04",
-      "id": 13
+      "date": "2026-05-11T12:30",
+      "id": 17
+    },
+    {
+      "type": "sl_hit",
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "pnl": 0.82,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-05-11T12:00",
+      "id": 16
     },
     {
       "type": "auto_trim",
-      "ticker": "DOGE",
+      "ticker": "AVAX",
       "direction": "SHORT",
-      "pnl": 0.75,
+      "pnl": 0.09,
       "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-11T01:16",
-      "id": 14
+      "date": "2026-05-11T11:40",
+      "id": 16
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "pnl": 0.0,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-11T11:29",
+      "id": 16
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "pnl": -0.03,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-11T10:08",
+      "id": 15
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "pnl": 0.01,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-11T09:58",
+      "id": 15
     },
     {
       "type": "close",
@@ -1387,21 +1648,21 @@
     },
     {
       "type": "auto_trim",
-      "ticker": "SOL",
+      "ticker": "DOGE",
       "direction": "SHORT",
-      "pnl": 0.01,
+      "pnl": 0.75,
       "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-11T09:58",
-      "id": 15
+      "date": "2026-05-11T01:16",
+      "id": 14
     },
     {
       "type": "auto_trim",
-      "ticker": "SOL",
+      "ticker": "AVAX",
       "direction": "SHORT",
-      "pnl": -0.03,
+      "pnl": 0.08,
       "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-11T10:08",
-      "id": 15
+      "date": "2026-05-10T21:04",
+      "id": 13
     },
     {
       "type": "auto_trim",
@@ -1409,368 +1670,107 @@
       "direction": "SHORT",
       "pnl": 0.0,
       "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-11T11:29",
-      "id": 16
+      "date": "2026-05-10T20:54",
+      "id": 13
     },
     {
       "type": "auto_trim",
-      "ticker": "AVAX",
+      "ticker": "SOL",
       "direction": "SHORT",
-      "pnl": 0.09,
+      "pnl": 0.0,
       "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-11T11:40",
-      "id": 16
+      "date": "2026-05-10T18:54",
+      "id": 12
     },
     {
       "type": "sl_hit",
-      "ticker": "AVAX",
+      "ticker": "DOGE",
       "direction": "SHORT",
-      "pnl": 0.82,
+      "pnl": -0.1,
       "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-05-11T12:00",
-      "id": 16
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "AVAX",
-      "direction": "SHORT",
-      "pnl": 0.16,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-11T12:30",
-      "id": 17
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "AVAX",
-      "direction": "SHORT",
-      "pnl": 0.0,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-11T12:40",
-      "id": 17
-    },
-    {
-      "type": "close",
-      "ticker": "QQQ",
-      "direction": "SHORT",
-      "pnl": -1.27,
-      "reason": "SHORT contr\u00e1rio ao regime RISK-ON, reduzido a 67%, slot necess\u00e1rio para sinal mais forte TSLA",
-      "date": "2026-05-11T16:54",
-      "id": 18
-    },
-    {
-      "type": "close",
-      "ticker": "SOL",
-      "direction": "SHORT",
-      "pnl": -4.95,
-      "reason": "Posi\u00e7\u00e3o em -8.4% \u2014 regra obrigat\u00f3ria de fecho em -8% sem catalisador de revers\u00e3o. SOL em UPTREND com RSI 66 e BB 84%, SHORT contra regime RISK-ON. SL a apenas 1.4% de dist\u00e2ncia.",
-      "date": "2026-05-11T22:02",
-      "id": 15
-    },
-    {
-      "type": "close",
-      "ticker": "TSLA",
-      "direction": "SHORT",
-      "pnl": -4.08,
-      "reason": "TSLA +3.98% hoje, RSI 74.5 overbought mas momentum bullish forte. SL a \u20ac382.75 vs atual \u20ac377.57 (1.4% margem). Fechar antes de SL.",
-      "date": "2026-05-11T22:02",
-      "id": 20
-    },
-    {
-      "type": "close_partial",
-      "ticker": "AVAX",
-      "direction": "SHORT",
-      "pnl": -0.69,
-      "reason": "Setor cripto extremamente overbought (SOL RSI 84.3 proxy). Compliance j\u00e1 reduziu 33% na sess\u00e3o anterior. Fechar para libertar slot e reduzir exposi\u00e7\u00e3o cripto no pico.",
-      "date": "2026-05-11T22:24",
-      "id": 17
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "SOL",
-      "direction": "SHORT",
-      "pnl": 0.03,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-11T22:54",
-      "id": 23
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "SOL",
-      "direction": "SHORT",
-      "pnl": 0.02,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-11T23:04",
-      "id": 23
-    },
-    {
-      "type": "close_partial",
-      "ticker": "SPY",
-      "direction": "SHORT",
-      "pnl": 0.26,
-      "reason": "SHORT contra regime RISK-ON confirmado. SPY em UPTREND estrutural com S&P +9.7% acima MA200. Fechar para libertar slot e reduzir exposi\u00e7\u00e3o contra-tend\u00eancia.",
-      "date": "2026-05-11T23:24",
-      "id": 21
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": -0.03,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-12T01:05",
-      "id": 24
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": 0.17,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-12T01:15",
-      "id": 24
-    },
-    {
-      "type": "close",
-      "ticker": "AAPL",
-      "direction": "SHORT",
-      "pnl": -0.26,
-      "reason": "Liberar posi\u00e7\u00e3o para TSLA SHORT de alta convic\u00e7\u00e3o (6 posi\u00e7\u00f5es > m\u00e1ximo 5). AAPL RSI 68 zona de sa\u00edda, momentum a enfraquecer.",
-      "date": "2026-05-12T10:54",
-      "id": 19
-    },
-    {
-      "type": "close",
-      "ticker": "GLD",
-      "direction": "LONG",
-      "pnl": -0.28,
-      "reason": "Fechar posi\u00e7\u00e3o defensiva em regime RISK-ON forte (US-China truce). Libertar slot para AAPL SHORT de maior convic\u00e7\u00e3o t\u00e9cnica. GLD em lucro (SL estava em \u20ac362).",
-      "date": "2026-05-12T11:25",
-      "id": 5
+      "date": "2026-05-10T18:34",
+      "id": 11
     },
     {
       "type": "close",
       "ticker": "META",
       "direction": "LONG",
-      "pnl": 0.28,
-      "reason": "DOWNTREND estrutural + RSI 26.3 oversold em downtrend = fraqueza, n\u00e3o revers\u00e3o. PTJ: nunca contra a tend\u00eancia. Sa\u00edda limpa a breakeven.",
-      "date": "2026-05-12T12:04",
-      "id": 22
+      "pnl": 0.01,
+      "reason": "DOWNTREND ativo + MACD negativo (-1.6236) + RSI 45.6 \u2014 posi\u00e7\u00e3o LONG contra tend\u00eancia. Sair no breakeven antes de deteriora\u00e7\u00e3o.",
+      "date": "2026-05-09T15:32",
+      "id": 10
     },
     {
       "type": "auto_trim",
-      "ticker": "AAPL",
-      "direction": "SHORT",
-      "pnl": -0.27,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-12T15:00",
-      "id": 26
-    },
-    {
-      "type": "close",
-      "ticker": "SOL",
-      "direction": "SHORT",
-      "pnl": 3.91,
-      "reason": "SHORT a lutar contra UPTREND RSI 77.4 \u2014 PTJ: nunca contra a tend\u00eancia. Liberta slot para AMD SHORT com melhor setup.",
-      "date": "2026-05-12T18:54",
-      "id": 23
-    },
-    {
-      "type": "close",
-      "ticker": "AAPL",
-      "direction": "SHORT",
-      "pnl": -0.6,
-      "reason": "SHORT contra UPTREND confirmado (RSI 59.2, +0.62% hoje) \u2014 PTJ: nunca contra a tend\u00eancia. Posi\u00e7\u00e3o em perda leve (-0.82\u20ac) sem catalisador de revers\u00e3o. Acima limite 25% (28.1%).",
-      "date": "2026-05-12T19:03",
-      "id": 26
-    },
-    {
-      "type": "sl_hit",
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": 1.85,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-05-12T19:11",
-      "id": 24
-    },
-    {
-      "type": "sl_hit",
-      "ticker": "AVAX",
-      "direction": "SHORT",
-      "pnl": 2.51,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-05-12T19:11",
-      "id": 25
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "SOL",
+      "ticker": "DOGE",
       "direction": "SHORT",
       "pnl": 0.12,
       "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-12T19:31",
-      "id": 29
+      "date": "2026-05-09T09:35",
+      "id": 11
     },
     {
       "type": "auto_trim",
-      "ticker": "SOL",
-      "direction": "SHORT",
-      "pnl": -0.02,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-12T19:41",
-      "id": 29
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": -0.09,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-12T22:32",
-      "id": 31
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": -0.03,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-12T22:42",
-      "id": 31
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": -1.15,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-13T02:24",
-      "id": 31
-    },
-    {
-      "type": "sl_hit",
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": -3.78,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-05-13T09:46",
-      "id": 31
-    },
-    {
-      "type": "sl_hit",
-      "ticker": "AAPL",
-      "direction": "SHORT",
-      "pnl": -3.75,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-05-13T14:38",
-      "id": 28
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "TSLA",
-      "direction": "SHORT",
-      "pnl": -0.0,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-13T14:58",
-      "id": 32
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": 0.46,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-13T14:58",
-      "id": 33
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "BNB",
+      "ticker": "DOGE",
       "direction": "SHORT",
       "pnl": 0.05,
       "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-13T15:08",
-      "id": 33
-    },
-    {
-      "type": "sl_hit",
-      "ticker": "TSLA",
-      "direction": "SHORT",
-      "pnl": -8.39,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-05-13T15:39",
-      "id": 32
+      "date": "2026-05-09T09:25",
+      "id": 11
     },
     {
       "type": "sl_hit",
       "ticker": "QQQ",
       "direction": "SHORT",
-      "pnl": -4.6,
+      "pnl": -1.5,
       "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-05-13T17:59",
-      "id": 30
+      "date": "2026-05-09T09:04",
+      "id": 7
     },
     {
-      "type": "tp_hit",
-      "ticker": "SOL",
+      "type": "close",
+      "ticker": "AMD",
       "direction": "SHORT",
-      "pnl": 24.97,
-      "reason": "\u2705 TP1 (50%)",
-      "date": "2026-06-12T01:20",
-      "id": 29
+      "pnl": -4.85,
+      "reason": "AMD +11.59% contra SHORT. UPTREND brutal + RSI 80.7 + volume 1.4x. SL a apenas 1.6% \u2014 fechar preventivamente antes de bater stop. N\u00e3o lutar contra o momentum.",
+      "date": "2026-05-09T09:02",
+      "id": 9
     },
     {
-      "type": "tp_hit",
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": 9.5,
-      "reason": "\u2705 TP1 (50%)",
-      "date": "2026-06-12T01:20",
-      "id": 33
-    },
-    {
-      "type": "tp_hit",
-      "ticker": "SOL",
-      "direction": "SHORT",
-      "pnl": 25.01,
-      "reason": "\ud83c\udfc6 TP2",
-      "date": "2026-06-12T01:30",
-      "id": 29
-    },
-    {
-      "type": "sl_hit",
+      "type": "close",
       "ticker": "META",
       "direction": "LONG",
-      "pnl": -10.31,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-06-12T14:54",
-      "id": 27
+      "pnl": -2.31,
+      "reason": "DOWNTREND confirmado + MACD bearish (-1.54 vs signal -1.37 e divergindo) + underperformance -0.88% vs QQQ +2.09% \u2014 sair antes de SL",
+      "date": "2026-05-08T19:02",
+      "id": 6
     },
     {
-      "type": "auto_trim",
-      "ticker": "QQQ",
-      "direction": "LONG",
-      "pnl": 0.2,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-06-15T15:30",
-      "id": 34
-    },
-    {
-      "type": "tp_hit",
-      "ticker": "BNB",
+      "type": "close",
+      "ticker": "AMD",
       "direction": "SHORT",
-      "pnl": 7.5,
-      "reason": "TP1 batido +20.3%, BNB a virar (+0.48%), take profit \u2014 fecho do resto da posi\u00e7\u00e3o",
-      "date": "2026-06-16T10:56",
-      "id": 33
+      "pnl": -2.72,
+      "reason": "AMD +8.9% contra SHORT \u2014 UPTREND forte + RSI 68.9 + SL a apenas 1.7% (\u20ac383.80 vs \u20ac377.21 atual) \u2014 fechar preventivamente para proteger capital",
+      "date": "2026-05-08T19:02",
+      "id": 8
+    },
+    {
+      "type": "sl_hit",
+      "ticker": "BTC",
+      "direction": "LONG",
+      "pnl": -2.13,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-05-08T08:16",
+      "id": 2
     },
     {
       "type": "close_partial",
-      "ticker": "QQQ",
+      "ticker": "ETH",
       "direction": "LONG",
-      "pnl": 1.32,
-      "reason": "Reduzir concentra\u00e7\u00e3o de 30.9% para ~20% (close partial 33%)",
-      "date": "2026-06-16T10:56",
-      "id": 34
+      "pnl": -0.95,
+      "reason": "Apenas 0.9% acima do SL em downtrend confirmado + volume 0.9x fraco + correla\u00e7\u00e3o 0.86 com BTC \u2014 fechar preventivamente para preservar capital e reduzir concentra\u00e7\u00e3o cripto",
+      "date": "2026-05-07T19:10",
+      "id": 4
     }
   ],
   "session_analysis": [

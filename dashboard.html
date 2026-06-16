@@ -214,6 +214,20 @@
         }
 
         /* Activity Feed */
+        .feed-toolbar {
+            display: flex; gap: 8px; padding: 12px 20px;
+            border-bottom: 1px solid var(--border); flex-wrap: wrap;
+        }
+        .feed-toolbar .filter-btn {
+            padding: 4px 14px; border-radius: 16px; border: 1px solid var(--border);
+            background: transparent; color: var(--text-muted); font-size: 0.8rem;
+            cursor: pointer; transition: all 0.2s; font-family: inherit;
+        }
+        .feed-toolbar .filter-btn:hover { border-color: var(--accent); color: white; }
+        .feed-toolbar .filter-btn.active {
+            background: rgba(59,130,246,0.15); border-color: var(--accent);
+            color: var(--accent-light); font-weight: 600;
+        }
         .feed-list {
             max-height: 500px; overflow-y: auto;
             padding: 4px 0;
@@ -478,6 +492,8 @@
         const DATA_URL = "data.json";
 
         let charts = {};
+        let activityFeed = [];
+        let activityFilter = "all";
 
         async function checkPassword() {
             const input = document.getElementById("password-input");
@@ -788,10 +804,6 @@
             const labels = forecast.map(p => p.date);
             const historical = forecast.map(p => p.forecast ? null : p.value);
             const projected = forecast.map(p => p.forecast ? p.value : null);
-            const lower = forecast.map(p => p.forecast ? p.lower : null);
-            const upper = forecast.map(p => p.forecast ? p.upper : null);
-
-            const splitIdx = forecast.findIndex(p => p.forecast);
 
             charts.forecast = new Chart(ctx, {
                 type: "line",
@@ -810,7 +822,7 @@
                             spanGaps: false,
                         },
                         {
-                            label: "Projeção",
+                            label: "Projeção (regressão linear)",
                             data: projected,
                             borderColor: "#f59e0b",
                             borderDash: [6, 3],
@@ -821,24 +833,6 @@
                             pointBackgroundColor: "#f59e0b",
                             spanGaps: false,
                         },
-                        {
-                            label: "Intervalo",
-                            data: upper,
-                            borderColor: "rgba(245,158,11,0.2)",
-                            backgroundColor: "rgba(245,158,11,0.08)",
-                            fill: "+2",
-                            pointRadius: 0,
-                            tension: 0.3,
-                        },
-                        {
-                            label: "Intervalo base",
-                            data: lower,
-                            borderColor: "rgba(245,158,11,0.2)",
-                            backgroundColor: "rgba(245,158,11,0.08)",
-                            fill: false,
-                            pointRadius: 0,
-                            tension: 0.3,
-                        }
                     ]
                 },
                 options: {
@@ -993,8 +987,9 @@
         }
 
         function renderActivityFeed(feed) {
+            activityFeed = feed || [];
             const container = document.getElementById("activity-feed");
-            if (!feed || feed.length === 0) {
+            if (!activityFeed || activityFeed.length === 0) {
                 container.innerHTML =
                     '<div style="padding:40px;text-align:center;color:var(--text-muted)">Sem atividade registada</div>';
                 return;
@@ -1009,8 +1004,33 @@
                 "session": "📊",
             };
 
-            let html = '<div class="feed-list">';
-            for (const item of feed) {
+            // Count by type for the filter buttons
+            const counts = { all: activityFeed.length, trades: 0, sessions: 0 };
+            for (const item of activityFeed) {
+                if (item.type === "session") counts.sessions++;
+                else counts.trades++;
+            }
+
+            let html = '<div class="feed-toolbar">';
+            const filters = [
+                { key: "all", label: `Todas (${counts.all})` },
+                { key: "trades", label: `Trades (${counts.trades})` },
+                { key: "sessions", label: `Sessões (${counts.sessions})` },
+            ];
+            for (const f of filters) {
+                const active = f.key === activityFilter ? " active" : "";
+                html += `<button class="filter-btn${active}" onclick="setFeedFilter('${f.key}')">${f.label}</button>`;
+            }
+            html += '</div>';
+
+            const filtered = activityFilter === "all"
+                ? activityFeed
+                : activityFeed.filter(i =>
+                    activityFilter === "trades" ? i.type !== "session" : i.type === "session"
+                );
+
+            html += '<div class="feed-list">';
+            for (const item of filtered) {
                 const icon = icons[item.type] || "📌";
                 const pnlClass = item.pnl >= 0 ? "positive" : "negative";
                 const pnlSign = item.pnl >= 0 ? "+" : "";
@@ -1046,6 +1066,11 @@
             }
             html += '</div>';
             container.innerHTML = html;
+        }
+
+        function setFeedFilter(filter) {
+            activityFilter = filter;
+            renderActivityFeed(activityFeed);
         }
 
         function renderSessionAnalysis(analyses) {
