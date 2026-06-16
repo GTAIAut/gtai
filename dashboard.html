@@ -1,0 +1,881 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GTAA Dashboard — Empresa Financeira</title>
+    <link rel="icon" type="image/png" href="GTAI_logo_melhorado.png">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0/dist/chartjs-plugin-datalabels.min.js"></script>
+    <style>
+        :root {
+            --primary: #0f172a;
+            --accent: #3b82f6;
+            --accent-light: #60a5fa;
+            --success: #10b981;
+            --danger: #ef4444;
+            --warning: #f59e0b;
+            --text: #e2e8f0;
+            --text-muted: #94a3b8;
+            --bg: #0f172a;
+            --bg-card: #1e293b;
+            --bg-card-hover: #273548;
+            --border: #334155;
+            --green: #10b981;
+            --red: #ef4444;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            min-height: 100vh;
+        }
+
+        /* Password Gate */
+        #password-gate {
+            position: fixed; inset: 0;
+            background: var(--primary);
+            display: flex; align-items: center; justify-content: center;
+            z-index: 9999;
+        }
+        #password-gate.hidden { display: none; }
+
+        .gate-box {
+            background: var(--bg-card);
+            padding: 40px; border-radius: 16px;
+            border: 1px solid var(--border);
+            text-align: center; max-width: 400px; width: 90%;
+        }
+        .gate-box h1 {
+            font-size: 1.5rem; margin-bottom: 8px; color: white;
+        }
+        .gate-box p {
+            color: var(--text-muted); margin-bottom: 24px; font-size: 0.95rem;
+        }
+        .gate-box .lock-icon {
+            font-size: 3rem; margin-bottom: 16px;
+        }
+        .gate-box input {
+            width: 100%; padding: 12px 16px;
+            background: var(--primary); border: 1px solid var(--border);
+            border-radius: 8px; color: white; font-size: 1rem;
+            outline: none; transition: border-color 0.3s;
+        }
+        .gate-box input:focus { border-color: var(--accent); }
+        .gate-box .btn {
+            width: 100%; margin-top: 12px; padding: 12px;
+            background: var(--accent); color: white; border: none;
+            border-radius: 8px; font-size: 1rem; font-weight: 600;
+            cursor: pointer; transition: background 0.3s;
+        }
+        .gate-box .btn:hover { background: var(--accent-light); }
+        .gate-box .error {
+            color: var(--danger); margin-top: 8px; font-size: 0.9rem; display: none;
+        }
+        .gate-box .error.show { display: block; }
+
+        /* Dashboard */
+        #dashboard { display: none; padding: 20px; max-width: 1400px; margin: 0 auto; }
+        #dashboard.active { display: block; }
+
+        /* Header */
+        .dash-header {
+            display: flex; justify-content: space-between; align-items: center;
+            margin-bottom: 24px; padding-bottom: 16px;
+            border-bottom: 1px solid var(--border); flex-wrap: wrap; gap: 12px;
+        }
+        .dash-header h1 {
+            font-size: 1.6rem; font-weight: 700;
+            display: flex; align-items: center; gap: 10px;
+        }
+        .dash-header h1 span { color: var(--accent-light); }
+        .dash-header .status-bar {
+            display: flex; align-items: center; gap: 16px; font-size: 0.85rem; color: var(--text-muted);
+        }
+        .dash-header .status-dot {
+            width: 8px; height: 8px; border-radius: 50%; background: var(--success);
+            display: inline-block;
+        }
+
+        /* Summary Cards */
+        .summary {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 16px; margin-bottom: 24px;
+        }
+        .card {
+            background: var(--bg-card); border-radius: 12px;
+            padding: 20px; border: 1px solid var(--border);
+            transition: all 0.3s;
+        }
+        .card:hover { border-color: var(--accent); background: var(--bg-card-hover); }
+        .card .label {
+            font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px;
+            color: var(--text-muted); margin-bottom: 8px;
+        }
+        .card .value {
+            font-size: 1.5rem; font-weight: 700; color: white;
+        }
+        .card .value.positive { color: var(--green); }
+        .card .value.negative { color: var(--red); }
+        .card .sub {
+            font-size: 0.8rem; color: var(--text-muted); margin-top: 4px;
+        }
+        .card .sub.positive { color: var(--green); }
+        .card .sub.negative { color: var(--red); }
+
+        /* Charts */
+        .charts-row {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 16px; margin-bottom: 24px;
+        }
+        .chart-card {
+            background: var(--bg-card); border-radius: 12px;
+            padding: 20px; border: 1px solid var(--border);
+        }
+        .chart-card h3 {
+            font-size: 0.95rem; color: var(--text-muted); margin-bottom: 16px;
+            font-weight: 600;
+        }
+        .chart-card canvas { width: 100% !important; height: auto !important; max-height: 350px; }
+
+        /* Tables */
+        .table-section {
+            margin-bottom: 24px;
+        }
+        .table-card {
+            background: var(--bg-card); border-radius: 12px;
+            border: 1px solid var(--border); overflow: hidden;
+        }
+        .table-card h3 {
+            padding: 16px 20px; font-size: 1rem; color: var(--text-muted);
+            border-bottom: 1px solid var(--border); font-weight: 600;
+        }
+        table {
+            width: 100%; border-collapse: collapse;
+        }
+        th {
+            text-align: left; padding: 12px 20px; font-size: 0.75rem;
+            text-transform: uppercase; letter-spacing: 0.5px;
+            color: var(--text-muted); border-bottom: 1px solid var(--border);
+            font-weight: 600;
+        }
+        td {
+            padding: 12px 20px; font-size: 0.9rem;
+            border-bottom: 1px solid var(--border);
+        }
+        tr:last-child td { border-bottom: none; }
+        tr:hover td { background: var(--bg-card-hover); }
+        .tag {
+            display: inline-block; padding: 2px 10px; border-radius: 20px;
+            font-size: 0.75rem; font-weight: 600;
+        }
+        .tag.long { background: rgba(16, 185, 129, 0.15); color: var(--green); }
+        .tag.short { background: rgba(239, 68, 68, 0.15); color: var(--red); }
+        .tag.success { background: rgba(16, 185, 129, 0.15); color: var(--green); }
+        .tag.fail { background: rgba(239, 68, 68, 0.15); color: var(--red); }
+        .tag.running { background: rgba(59, 130, 246, 0.15); color: var(--accent); }
+        .tag.crypto { background: rgba(245, 158, 11, 0.15); color: var(--warning); }
+        .tag.equity { background: rgba(59, 130, 246, 0.15); color: var(--accent); }
+
+        /* Sessions row */
+        .sessions-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 12px; margin-bottom: 24px;
+        }
+        .agent-card {
+            background: var(--bg-card); border-radius: 8px;
+            padding: 14px; border: 1px solid var(--border); text-align: center;
+        }
+        .agent-card .name {
+            font-size: 0.8rem; color: var(--text-muted); margin-bottom: 6px;
+        }
+        .agent-card .runs {
+            font-size: 1.1rem; font-weight: 700; color: white;
+        }
+        .agent-card .runs.ok { color: var(--green); }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .charts-row { grid-template-columns: 1fr; }
+            #dashboard { padding: 12px; }
+            .dash-header h1 { font-size: 1.2rem; }
+            .card .value { font-size: 1.2rem; }
+            th, td { padding: 8px 12px; }
+        }
+        @media (max-width: 480px) {
+            .summary { grid-template-columns: 1fr 1fr; }
+            .dash-header { flex-direction: column; align-items: flex-start; }
+        }
+
+        /* Loading */
+        .loading {
+            text-align: center; padding: 40px; color: var(--text-muted);
+        }
+        .spin {
+            display: inline-block; width: 24px; height: 24px;
+            border: 3px solid var(--border); border-top-color: var(--accent);
+            border-radius: 50%; animation: spin 0.8s linear infinite;
+            margin-bottom: 12px;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+
+        /* Footer */
+        .dash-footer {
+            text-align: center; padding: 20px; color: var(--text-muted);
+            font-size: 0.8rem; border-top: 1px solid var(--border); margin-top: 24px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Password Gate -->
+    <div id="password-gate">
+        <div class="gate-box">
+            <div class="lock-icon">🔒</div>
+            <h1>GTAA Dashboard</h1>
+            <p>Empresa Financeira — Painel Privado</p>
+            <input type="password" id="password-input" placeholder="Introduz a password" autofocus
+                   onkeydown="if(event.key==='Enter')checkPassword()">
+            <button class="btn" onclick="checkPassword()">Entrar</button>
+            <div class="error" id="password-error">Password incorreta.</div>
+        </div>
+    </div>
+
+    <!-- Dashboard -->
+    <div id="dashboard">
+        <div class="dash-header">
+            <h1>📈 <span>GTAA</span> Dashboard</h1>
+            <div class="status-bar">
+                <span class="status-dot"></span>
+                <span id="last-updated">A carregar...</span>
+            </div>
+        </div>
+
+        <!-- Summary Cards -->
+        <div class="summary" id="summary-cards"></div>
+
+        <!-- Agent Stats -->
+        <div class="sessions-grid" id="agent-stats"></div>
+
+        <!-- Charts -->
+        <div class="charts-row">
+            <div class="chart-card">
+                <h3>📊 Equity Curve</h3>
+                <canvas id="equity-chart"></canvas>
+            </div>
+            <div class="chart-card">
+                <h3>🥧 Alocação por Ativo</h3>
+                <canvas id="allocation-chart"></canvas>
+            </div>
+        </div>
+
+        <!-- Monthly PnL Chart -->
+        <div class="charts-row">
+            <div class="chart-card">
+                <h3>📊 P&L Mensal</h3>
+                <canvas id="monthly-chart"></canvas>
+            </div>
+            <div class="chart-card">
+                <h3>📊 P&L por Ticker</h3>
+                <canvas id="ticker-chart"></canvas>
+            </div>
+        </div>
+
+        <!-- Forecast + Drawdown -->
+        <div class="charts-row">
+            <div class="chart-card">
+                <h3>🔮 Previsão (Regressão Linear)</h3>
+                <canvas id="forecast-chart"></canvas>
+            </div>
+            <div class="chart-card">
+                <h3>📉 Drawdown</h3>
+                <canvas id="drawdown-chart"></canvas>
+            </div>
+        </div>
+
+        <!-- Open Positions -->
+        <div class="table-section">
+            <div class="table-card">
+                <h3>🔓 Posições Abertas</h3>
+                <div id="positions-table"><div class="loading"><div class="spin"></div></div></div>
+            </div>
+        </div>
+
+        <!-- Recent Trades -->
+        <div class="table-section">
+            <div class="table-card">
+                <h3>📜 Últimos Trades Fechados</h3>
+                <div id="trades-table"><div class="loading"><div class="spin"></div></div></div>
+            </div>
+        </div>
+
+        <!-- Recent Sessions -->
+        <div class="table-section">
+            <div class="table-card">
+                <h3>🔄 Sessões Recentes (Paperclip)</h3>
+                <div id="sessions-table"><div class="loading"><div class="spin"></div></div></div>
+            </div>
+        </div>
+
+        <div class="dash-footer">
+            GTAA — Automated Trading System · Dados atualizados via Paperclip
+        </div>
+    </div>
+
+    <script>
+        const PASSWORD_HASH = "7b80bc3bcfbc73f283ceb13398cec2279a5b4cfc2295d5073c9a7301eb0aa011";
+        const DATA_URL = "data.json";
+
+        let charts = {};
+
+        async function checkPassword() {
+            const input = document.getElementById("password-input");
+            const error = document.getElementById("password-error");
+            const hash = await sha256(input.value);
+            if (hash === PASSWORD_HASH) {
+                error.classList.remove("show");
+                document.getElementById("password-gate").classList.add("hidden");
+                document.getElementById("dashboard").classList.add("active");
+                loadDashboard();
+            } else {
+                error.classList.add("show");
+                input.value = "";
+                input.focus();
+            }
+        }
+
+        async function sha256(str) {
+            const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(str));
+            return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, "0")).join("");
+        }
+
+        async function loadDashboard() {
+            try {
+                const resp = await fetch(DATA_URL + "?t=" + Date.now());
+                if (!resp.ok) throw new Error("HTTP " + resp.status);
+                const data = await resp.json();
+                renderDashboard(data);
+            } catch (e) {
+                console.error("Erro a carregar dados:", e);
+                document.getElementById("summary-cards").innerHTML =
+                    `<div class="card"><div class="label">Erro</div><div class="value negative">Falha a carregar dados</div><div class="sub">${e.message}</div></div>`;
+            }
+        }
+
+        function renderDashboard(data) {
+            const s = data.stats;
+            const p = data.portfolio;
+
+            // Last updated
+            document.getElementById("last-updated").textContent =
+                "Atualizado: " + new Date(data.generated_at).toLocaleString("pt-PT");
+
+            // Summary cards
+            document.getElementById("summary-cards").innerHTML = `
+                <div class="card">
+                    <div class="label">Valor Portfolio</div>
+                    <div class="value ${s.total_pnl_pct >= 0 ? 'positive' : 'negative'}">
+                        €${s.portfolio_value.toFixed(2)}
+                    </div>
+                    <div class="sub ${s.total_pnl_pct >= 0 ? 'positive' : 'negative'}">
+                        ${s.total_pnl_pct >= 0 ? '+' : ''}${s.total_pnl_pct}%
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="label">P&L Total</div>
+                    <div class="value ${s.total_pnl_eur >= 0 ? 'positive' : 'negative'}">
+                        ${s.total_pnl_eur >= 0 ? '+' : ''}€${s.total_pnl_eur.toFixed(2)}
+                    </div>
+                    <div class="sub">${s.total_trades} trades</div>
+                </div>
+                <div class="card">
+                    <div class="label">Cash Disponível</div>
+                    <div class="value">€${s.cash_eur.toFixed(2)}</div>
+                    <div class="sub">${s.invested_eur.toFixed(2)}€ investido</div>
+                </div>
+                <div class="card">
+                    <div class="label">Win Rate</div>
+                    <div class="value positive">${s.win_rate}%</div>
+                    <div class="sub">${s.total_wins}W / ${s.total_losses}L</div>
+                </div>
+                <div class="card">
+                    <div class="label">Avg Win / Loss</div>
+                    <div class="value positive">+€${s.avg_win}</div>
+                    <div class="sub negative">-€${Math.abs(s.avg_loss)}</div>
+                </div>
+                <div class="card">
+                    <div class="label">Posições Abertas</div>
+                    <div class="value">${s.open_positions}</div>
+                    <div class="sub">Cash: ${(s.cash_eur / p.initial_capital * 100).toFixed(0)}%</div>
+                </div>
+            `;
+
+            // Agent stats
+            const agentHtml = Object.entries(s.agent_stats).map(([name, st]) => `
+                <div class="agent-card">
+                    <div class="name">${name}</div>
+                    <div class="runs ${st.ok > 0 ? 'ok' : ''}">${st.ok}/${st.total}</div>
+                    <div style="font-size:0.75rem;color:var(--text-muted)">runs OK</div>
+                </div>
+            `).join("");
+            document.getElementById("agent-stats").innerHTML = agentHtml;
+
+            // Charts
+            renderEquityCurve(data.equity_curve);
+            renderAllocation(data.positions);
+            renderMonthlyPnL(data.monthly_pnl);
+            renderTickerPnL(data.ticker_pnl);
+            renderForecast(data.forecast);
+            renderDrawdown(data.drawdown);
+
+            // Tables
+            renderPositions(data.positions);
+            renderRecentTrades(data.recent_trades);
+            renderSessions(data.recent_sessions);
+        }
+
+        function renderEquityCurve(curve) {
+            const ctx = document.getElementById("equity-chart").getContext("2d");
+            if (charts.equity) charts.equity.destroy();
+
+            const labels = curve.map(p => p.date);
+            const values = curve.map(p => p.value);
+
+            charts.equity = new Chart(ctx, {
+                type: "line",
+                data: {
+                    labels,
+                    datasets: [{
+                        label: "Portfolio (€)",
+                        data: values,
+                        borderColor: "#3b82f6",
+                        backgroundColor: "rgba(59,130,246,0.1)",
+                        fill: true,
+                        tension: 0.3,
+                        pointRadius: labels.map((_, i) =>
+                            i === 0 || i === labels.length - 1 ? 4 : 2
+                        ),
+                        pointBackgroundColor: "#3b82f6",
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    plugins: {
+                        legend: { display: false },
+                        tooltip: {
+                            callbacks: {
+                                label: ctx => "€" + ctx.parsed.y.toFixed(2)
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            ticks: { color: "#64748b", maxTicksLimit: 8 },
+                            grid: { color: "rgba(51,65,85,0.3)" }
+                        },
+                        y: {
+                            ticks: { color: "#64748b", callback: v => "€" + v.toFixed(0) },
+                            grid: { color: "rgba(51,65,85,0.3)" }
+                        }
+                    }
+                }
+            });
+        }
+
+        function renderAllocation(positions) {
+            const ctx = document.getElementById("allocation-chart").getContext("2d");
+            if (charts.allocation) charts.allocation.destroy();
+
+            if (positions.length === 0) {
+                ctx.canvas.parentNode.innerHTML =
+                    '<div style="text-align:center;padding:40px;color:var(--text-muted)">Sem posições abertas</div>';
+                return;
+            }
+
+            const labels = positions.map(p => p.ticker + " " + p.direction);
+            const values = positions.map(p => p.invested);
+            const colors = positions.map(p => p.is_crypto ? "#f59e0b" : "#3b82f6");
+
+            charts.allocation = new Chart(ctx, {
+                type: "doughnut",
+                data: {
+                    labels,
+                    datasets: [{
+                        data: values,
+                        backgroundColor: colors,
+                        borderColor: "#1e293b",
+                        borderWidth: 2,
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    plugins: {
+                        legend: {
+                            position: "bottom",
+                            labels: { color: "#94a3b8", padding: 12, font: { size: 11 } }
+                        },
+                        tooltip: {
+                            callbacks: {
+                                label: ctx => ctx.label + ": €" + ctx.parsed.toFixed(2)
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        function renderMonthlyPnL(monthly) {
+            const ctx = document.getElementById("monthly-chart").getContext("2d");
+            if (charts.monthly) charts.monthly.destroy();
+
+            if (monthly.length === 0) {
+                ctx.canvas.parentNode.innerHTML =
+                    '<div style="text-align:center;padding:40px;color:var(--text-muted)">Sem dados mensais</div>';
+                return;
+            }
+
+            charts.monthly = new Chart(ctx, {
+                type: "bar",
+                data: {
+                    labels: monthly.map(p => p.month),
+                    datasets: [{
+                        label: "P&L (€)",
+                        data: monthly.map(p => p.pnl),
+                        backgroundColor: monthly.map(p => p.pnl >= 0 ? "rgba(16,185,129,0.7)" : "rgba(239,68,68,0.7)"),
+                        borderColor: monthly.map(p => p.pnl >= 0 ? "#10b981" : "#ef4444"),
+                        borderWidth: 1,
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    plugins: {
+                        legend: { display: false },
+                        tooltip: {
+                            callbacks: {
+                                label: ctx => "€" + ctx.parsed.y.toFixed(2)
+                            }
+                        }
+                    },
+                    scales: {
+                        x: { ticks: { color: "#64748b" }, grid: { color: "rgba(51,65,85,0.3)" } },
+                        y: {
+                            ticks: { color: "#64748b", callback: v => "€" + v.toFixed(0) },
+                            grid: { color: "rgba(51,65,85,0.3)" }
+                        }
+                    }
+                }
+            });
+        }
+
+        function renderTickerPnL(tickers) {
+            const ctx = document.getElementById("ticker-chart").getContext("2d");
+            if (charts.ticker) charts.ticker.destroy();
+
+            if (tickers.length === 0) {
+                ctx.canvas.parentNode.innerHTML =
+                    '<div style="text-align:center;padding:40px;color:var(--text-muted)">Sem dados</div>';
+                return;
+            }
+
+            const top = tickers.slice(0, 10);
+            charts.ticker = new Chart(ctx, {
+                type: "bar",
+                data: {
+                    labels: top.map(t => t.ticker),
+                    datasets: [{
+                        label: "P&L (€)",
+                        data: top.map(t => t.pnl),
+                        backgroundColor: top.map(t => t.pnl >= 0 ? "rgba(16,185,129,0.7)" : "rgba(239,68,68,0.7)"),
+                        borderColor: top.map(t => t.pnl >= 0 ? "#10b981" : "#ef4444"),
+                        borderWidth: 1,
+                    }]
+                },
+                options: {
+                    indexAxis: "y",
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    plugins: {
+                        legend: { display: false },
+                        tooltip: {
+                            callbacks: {
+                                label: ctx => "€" + ctx.parsed.x.toFixed(2)
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            ticks: { color: "#64748b", callback: v => "€" + v.toFixed(0) },
+                            grid: { color: "rgba(51,65,85,0.3)" }
+                        },
+                        y: {
+                            ticks: { color: "#94a3b8", font: { size: 11 } },
+                            grid: { display: false }
+                        }
+                    }
+                }
+            });
+        }
+
+        function renderForecast(forecast) {
+            const ctx = document.getElementById("forecast-chart").getContext("2d");
+            if (charts.forecast) charts.forecast.destroy();
+
+            if (!forecast || forecast.length < 2) {
+                ctx.canvas.parentNode.innerHTML =
+                    '<div style="text-align:center;padding:40px;color:var(--text-muted)">Sem dados suficientes para previsão</div>';
+                return;
+            }
+
+            const labels = forecast.map(p => p.date);
+            const historical = forecast.map(p => p.forecast ? null : p.value);
+            const projected = forecast.map(p => p.forecast ? p.value : null);
+            const lower = forecast.map(p => p.forecast ? p.lower : null);
+            const upper = forecast.map(p => p.forecast ? p.upper : null);
+
+            const splitIdx = forecast.findIndex(p => p.forecast);
+
+            charts.forecast = new Chart(ctx, {
+                type: "line",
+                data: {
+                    labels,
+                    datasets: [
+                        {
+                            label: "Histórico",
+                            data: historical,
+                            borderColor: "#3b82f6",
+                            backgroundColor: "rgba(59,130,246,0.1)",
+                            fill: false,
+                            tension: 0.3,
+                            pointRadius: 3,
+                            pointBackgroundColor: "#3b82f6",
+                            spanGaps: false,
+                        },
+                        {
+                            label: "Projeção",
+                            data: projected,
+                            borderColor: "#f59e0b",
+                            borderDash: [6, 3],
+                            fill: false,
+                            tension: 0.3,
+                            pointRadius: 5,
+                            pointStyle: "triangle",
+                            pointBackgroundColor: "#f59e0b",
+                            spanGaps: false,
+                        },
+                        {
+                            label: "Intervalo",
+                            data: upper,
+                            borderColor: "rgba(245,158,11,0.2)",
+                            backgroundColor: "rgba(245,158,11,0.08)",
+                            fill: "+2",
+                            pointRadius: 0,
+                            tension: 0.3,
+                        },
+                        {
+                            label: "Intervalo base",
+                            data: lower,
+                            borderColor: "rgba(245,158,11,0.2)",
+                            backgroundColor: "rgba(245,158,11,0.08)",
+                            fill: false,
+                            pointRadius: 0,
+                            tension: 0.3,
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    plugins: {
+                        legend: {
+                            position: "bottom",
+                            labels: { color: "#94a3b8", font: { size: 10 }, boxWidth: 14 }
+                        },
+                        tooltip: {
+                            callbacks: {
+                                label: ctx => ctx.dataset.label + ": €" + (ctx.parsed.y || 0).toFixed(2)
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            ticks: { color: "#64748b", maxTicksLimit: 8 },
+                            grid: { color: "rgba(51,65,85,0.3)" }
+                        },
+                        y: {
+                            ticks: { color: "#64748b", callback: v => "€" + v.toFixed(0) },
+                            grid: { color: "rgba(51,65,85,0.3)" }
+                        }
+                    }
+                }
+            });
+        }
+
+        function renderDrawdown(drawdown) {
+            const ctx = document.getElementById("drawdown-chart").getContext("2d");
+            if (charts.drawdown) charts.drawdown.destroy();
+
+            if (!drawdown || drawdown.length < 2) {
+                ctx.canvas.parentNode.innerHTML =
+                    '<div style="text-align:center;padding:40px;color:var(--text-muted)">Sem dados de drawdown</div>';
+                return;
+            }
+
+            const labels = drawdown.map(d => d.date);
+            const values = drawdown.map(d => -Math.abs(d.drawdown_pct));
+            const maxDD = Math.min(...values);
+
+            charts.drawdown = new Chart(ctx, {
+                type: "line",
+                data: {
+                    labels,
+                    datasets: [{
+                        label: "Drawdown (%)",
+                        data: values,
+                        borderColor: "#ef4444",
+                        backgroundColor: "rgba(239,68,68,0.15)",
+                        fill: true,
+                        tension: 0.3,
+                        pointRadius: 0,
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    plugins: {
+                        legend: { display: false },
+                        tooltip: {
+                            callbacks: {
+                                label: ctx => Math.abs(ctx.parsed.y).toFixed(2) + "%"
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            ticks: { color: "#64748b", maxTicksLimit: 6 },
+                            grid: { color: "rgba(51,65,85,0.3)" }
+                        },
+                        y: {
+                            min: Math.min(-5, maxDD * 1.2),
+                            max: 0,
+                            ticks: {
+                                color: "#64748b",
+                                callback: v => Math.abs(v).toFixed(1) + "%"
+                            },
+                            grid: { color: "rgba(51,65,85,0.3)" }
+                        }
+                    }
+                }
+            });
+        }
+
+        function renderPositions(positions) {
+            const container = document.getElementById("positions-table");
+            if (positions.length === 0) {
+                container.innerHTML =
+                    '<div style="padding:40px;text-align:center;color:var(--text-muted)">Nenhuma posição aberta</div>';
+                return;
+            }
+
+            let html = `<table>
+                <thead><tr>
+                    <th>Ticker</th><th>Dir</th><th>Entry (€)</th><th>Size</th><th>Investido</th>
+                    <th>Leverage</th><th>SL</th><th>TP1</th><th>Conf.</th><th>Classe</th>
+                </tr></thead><tbody>`;
+
+            for (const p of positions) {
+                html += `<tr>
+                    <td><strong>${p.ticker}</strong></td>
+                    <td><span class="tag ${p.direction === 'LONG' ? 'long' : 'short'}">${p.direction}</span></td>
+                    <td>€${p.entry}</td>
+                    <td>${p.size}</td>
+                    <td>€${p.invested}</td>
+                    <td>${p.leverage}x</td>
+                    <td${p.at_tp1 ? ' style="color:var(--green)"' : ''}>${p.sl ? '€' + p.sl : '-'}</td>
+                    <td>${p.tp1 ? '€' + p.tp1 : '-'}</td>
+                    <td>${p.confidence}/10</td>
+                    <td><span class="tag ${p.is_crypto ? 'crypto' : 'equity'}">${p.is_crypto ? 'Crypto' : 'Equity'}</span></td>
+                </tr>`;
+            }
+
+            html += '</tbody></table>';
+            container.innerHTML = html;
+        }
+
+        function renderRecentTrades(trades) {
+            const container = document.getElementById("trades-table");
+            if (trades.length === 0) {
+                container.innerHTML =
+                    '<div style="padding:40px;text-align:center;color:var(--text-muted)">Nenhum trade fechado</div>';
+                return;
+            }
+
+            let html = `<table>
+                <thead><tr>
+                    <th>Ticker</th><th>Dir</th><th>P&L</th><th>Motivo</th><th>Data</th>
+                </tr></thead><tbody>`;
+
+            for (const t of trades) {
+                const isWin = t.pnl >= 0;
+                html += `<tr>
+                    <td><strong>${t.ticker}</strong></td>
+                    <td><span class="tag ${t.direction === 'LONG' ? 'long' : 'short'}">${t.direction}</span></td>
+                    <td style="color:${isWin ? 'var(--green)' : 'var(--red)'};font-weight:600">
+                        ${isWin ? '+' : ''}€${t.pnl.toFixed(2)}
+                    </td>
+                    <td style="font-size:0.85rem">${t.reason || '-'}</td>
+                    <td style="font-size:0.85rem;color:var(--text-muted)">
+                        ${new Date(t.closed_at).toLocaleString("pt-PT")}
+                    </td>
+                </tr>`;
+            }
+
+            html += '</tbody></table>';
+            container.innerHTML = html;
+        }
+
+        function renderSessions(sessions) {
+            const container = document.getElementById("sessions-table");
+            if (sessions.length === 0) {
+                container.innerHTML =
+                    '<div style="padding:40px;text-align:center;color:var(--text-muted)">Sem sessões recentes</div>';
+                return;
+            }
+
+            let html = `<table>
+                <thead><tr>
+                    <th>ID</th><th>Agente</th><th>Status</th><th>Criada</th><th>Completada</th>
+                </tr></thead><tbody>`;
+
+            for (const s of sessions) {
+                const statusLower = s.status.toLowerCase();
+                let statusTag = "running";
+                if (statusLower === "succeeded" || statusLower === "success") statusTag = "success";
+                else if (statusLower === "failed" || statusLower === "error") statusTag = "fail";
+
+                html += `<tr>
+                    <td style="font-family:monospace;font-size:0.8rem">${s.id}</td>
+                    <td>${s.agent}</td>
+                    <td><span class="tag ${statusTag}">${s.status}</span></td>
+                    <td style="font-size:0.85rem;color:var(--text-muted)">
+                        ${new Date(s.created).toLocaleString("pt-PT")}
+                    </td>
+                    <td style="font-size:0.85rem;color:var(--text-muted)">
+                        ${s.completed ? new Date(s.completed).toLocaleString("pt-PT") : '-'}
+                    </td>
+                </tr>`;
+            }
+
+            html += '</tbody></table>';
+            container.innerHTML = html;
+        }
+    </script>
+</body>
+</html>
