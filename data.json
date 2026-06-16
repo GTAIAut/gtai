@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T12:45:36.994852+00:00",
+  "generated_at": "2026-06-16T13:00:37.137559+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "12/20",
+    "recent_session_rate": "10/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1091,6 +1091,48 @@
   ],
   "recent_sessions": [
     {
+      "id": "666a6a44",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-16T13:00:20.397Z",
+      "completed": ""
+    },
+    {
+      "id": "ce094cb5",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-16T13:00:20.317Z",
+      "completed": ""
+    },
+    {
+      "id": "48d98f55",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-16T13:00:19.241Z",
+      "completed": ""
+    },
+    {
+      "id": "c1e3dbd3",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-16T13:00:17.890Z",
+      "completed": ""
+    },
+    {
+      "id": "0b0b13f6",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-16T13:00:16.860Z",
+      "completed": ""
+    },
+    {
+      "id": "466cf5cd",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-16T13:00:16.094Z",
+      "completed": ""
+    },
+    {
       "id": "7cc566d9",
       "agent": "Desconhecido",
       "status": "succeeded",
@@ -1186,48 +1228,6 @@
       "agent": "Desconhecido",
       "status": "cancelled",
       "created": "2026-06-15T14:09:36.276Z",
-      "completed": ""
-    },
-    {
-      "id": "cfb218fa",
-      "agent": "Desconhecido",
-      "status": "cancelled",
-      "created": "2026-06-15T13:30:58.408Z",
-      "completed": ""
-    },
-    {
-      "id": "dc415fb4",
-      "agent": "Desconhecido",
-      "status": "cancelled",
-      "created": "2026-06-15T13:00:46.441Z",
-      "completed": ""
-    },
-    {
-      "id": "e27eb660",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-15T11:15:00.136Z",
-      "completed": ""
-    },
-    {
-      "id": "22fba3ca",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-15T10:40:56.681Z",
-      "completed": ""
-    },
-    {
-      "id": "a75eec65",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-15T10:29:05.047Z",
-      "completed": ""
-    },
-    {
-      "id": "45ddd5bf",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-15T09:25:46.512Z",
       "completed": ""
     }
   ],
@@ -1775,44 +1775,6 @@
   ],
   "session_analysis": [
     {
-      "session_type": "MEIODIA",
-      "session_num": 20,
-      "date": "10/05/2026 12:03",
-      "summary": "## \ud83d\udccb POSTMORTEM \u2014 Sess\u00e3o MEIODIA #20 \u2014 10/05/2026\n\n**Elaborado por:** Registador de Decis\u00f5es  \n**Data de an\u00e1lise:** 10/05/2026 \u2014 P\u00f3s-sess\u00e3o 12:03\n\n---\n\n## 1. OS TRADES FAZIAM SENTIDO DADO O CONTEXTO MACRO?\n\n**Resposta: Sim \u2014 os tr\u00eas LONGs est\u00e3o bem alinhados com o regime RISK-ON.**\n\n| Trade | Catalisador | Alinhamento Macro | Avalia\u00e7\u00e3o |\n|-------|------------|-------------------|-----------|\n| NVDA LONG | RSI 60.3 + MACD bullish cross + AI momentum | \u2705 RISK-ON + DXY fraco + yields em queda | **Adequado** |\n| BTC LONG | RSI 60.0 + MACD bullish + DXY -0.40% | \u2705 Cripto beneficia de DXY fraco + RISK-ON | **Adequado** |\n| ETH LONG | RSI 43.3 (zona de valor) + Uptrend | \u2705 Assim\u00e9trico \u2014 RSI baixo em RISK-ON | **Conservador e correto** |\n| GLD UPDATE_SL | Ajuste t\u00e9cnico | Neutro \u2014 prote\u00e7\u00e3o de capi",
-      "trades": [
-        {
-          "ticker": "NVDA",
-          "action": "NVDA LONG",
-          "detail": "RSI 60.3 + MACD bullish cross + AI momentum",
-          "assessment": "**Adequado**"
-        },
-        {
-          "ticker": "BTC",
-          "action": "BTC LONG",
-          "detail": "RSI 60.0 + MACD bullish + DXY -0.40%",
-          "assessment": "**Adequado**"
-        },
-        {
-          "ticker": "ETH",
-          "action": "ETH LONG",
-          "detail": "RSI 43.3 (zona de valor) + Uptrend",
-          "assessment": "**Conservador e correto**"
-        },
-        {
-          "ticker": "GLD",
-          "action": "GLD UPDATE_SL",
-          "detail": "Ajuste t\u00e9cnico",
-          "assessment": "Ajuste t\u00e9cnico"
-        }
-      ],
-      "findings": [
-        "**Resposta: Sim \u2014 os tr\u00eas LONGs est\u00e3o bem alinhados com o regime RISK-ON.**",
-        "| NVDA LONG | RSI 60.3 + MACD bullish cross + AI momentum | \u2705 RISK-ON + DXY fraco + yields em queda | **Adequado** |",
-        "| BTC LONG | RSI 60.0 + MACD bullish + DXY -0.40% | \u2705 Cripto beneficia de DXY fraco + RISK-ON | **Adequado** |",
-        "| ETH LONG | RSI 43.3 (zona de valor) + Uptrend | \u2705 Assim\u00e9trico \u2014 RSI baixo em RISK-ON | **Conservador e correto** |"
-      ]
-    },
-    {
       "session_type": "PRE_NOITE",
       "session_num": 21,
       "date": "10/05/2026 19:04",
@@ -1926,6 +1888,16 @@
       "trades": [],
       "findings": [
         "Postmortem conclu\u00eddo. Score 5/10 \u2014 sess\u00e3o com fundamento macro v\u00e1lido (Extreme Fear bounce) mas execu\u00e7\u00e3o agressiva: 3 LONGs crypto correlacionados a 3x, cash 80%\u219217% sem hedge, R/R lim\u00edtrofes em regim"
+      ]
+    },
+    {
+      "session_type": "MEIODIA",
+      "session_num": 31,
+      "date": "16/06/2026 10:07",
+      "summary": "Postmortem conclu\u00eddo e registado como coment\u00e1rio. Score 5/10 \u2014 sess\u00e3o com m\u00e9ritos (BNB close, cash deploy, compliance QQQ) mas viola\u00e7\u00e3o grave de R/R m\u00ednimo em 3 trades cripto e contradi\u00e7\u00e3o regime-a\u00e7\u00e3o. 5 li\u00e7\u00f5es documentadas.",
+      "trades": [],
+      "findings": [
+        "Postmortem conclu\u00eddo e registado como coment\u00e1rio. Score 5/10 \u2014 sess\u00e3o com m\u00e9ritos (BNB close, cash deploy, compliance QQQ) mas viola\u00e7\u00e3o grave de R/R m\u00ednimo em 3 trades cripto e contradi\u00e7\u00e3o regime-a\u00e7\u00e3o"
       ]
     }
   ]
