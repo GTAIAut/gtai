@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T10:45:36.924984+00:00",
+  "generated_at": "2026-06-16T10:47:58.551448+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1229,6 +1229,704 @@
       "status": "succeeded",
       "created": "2026-06-15T09:25:46.512Z",
       "completed": ""
+    }
+  ],
+  "activity_feed": [
+    {
+      "type": "close_partial",
+      "ticker": "ETH",
+      "direction": "LONG",
+      "pnl": -0.95,
+      "reason": "Apenas 0.9% acima do SL em downtrend confirmado + volume 0.9x fraco + correla\u00e7\u00e3o 0.86 com BTC \u2014 fechar preventivamente para preservar capital e reduzir concentra\u00e7\u00e3o cripto",
+      "date": "2026-05-07T19:10",
+      "id": 4
+    },
+    {
+      "type": "sl_hit",
+      "ticker": "BTC",
+      "direction": "LONG",
+      "pnl": -2.13,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-05-08T08:16",
+      "id": 2
+    },
+    {
+      "type": "close",
+      "ticker": "META",
+      "direction": "LONG",
+      "pnl": -2.31,
+      "reason": "DOWNTREND confirmado + MACD bearish (-1.54 vs signal -1.37 e divergindo) + underperformance -0.88% vs QQQ +2.09% \u2014 sair antes de SL",
+      "date": "2026-05-08T19:02",
+      "id": 6
+    },
+    {
+      "type": "close",
+      "ticker": "AMD",
+      "direction": "SHORT",
+      "pnl": -2.72,
+      "reason": "AMD +8.9% contra SHORT \u2014 UPTREND forte + RSI 68.9 + SL a apenas 1.7% (\u20ac383.80 vs \u20ac377.21 atual) \u2014 fechar preventivamente para proteger capital",
+      "date": "2026-05-08T19:02",
+      "id": 8
+    },
+    {
+      "type": "close",
+      "ticker": "AMD",
+      "direction": "SHORT",
+      "pnl": -4.85,
+      "reason": "AMD +11.59% contra SHORT. UPTREND brutal + RSI 80.7 + volume 1.4x. SL a apenas 1.6% \u2014 fechar preventivamente antes de bater stop. N\u00e3o lutar contra o momentum.",
+      "date": "2026-05-09T09:02",
+      "id": 9
+    },
+    {
+      "type": "sl_hit",
+      "ticker": "QQQ",
+      "direction": "SHORT",
+      "pnl": -1.5,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-05-09T09:04",
+      "id": 7
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "DOGE",
+      "direction": "SHORT",
+      "pnl": 0.05,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-09T09:25",
+      "id": 11
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "DOGE",
+      "direction": "SHORT",
+      "pnl": 0.12,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-09T09:35",
+      "id": 11
+    },
+    {
+      "type": "close",
+      "ticker": "META",
+      "direction": "LONG",
+      "pnl": 0.01,
+      "reason": "DOWNTREND ativo + MACD negativo (-1.6236) + RSI 45.6 \u2014 posi\u00e7\u00e3o LONG contra tend\u00eancia. Sair no breakeven antes de deteriora\u00e7\u00e3o.",
+      "date": "2026-05-09T15:32",
+      "id": 10
+    },
+    {
+      "type": "sl_hit",
+      "ticker": "DOGE",
+      "direction": "SHORT",
+      "pnl": -0.1,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-05-10T18:34",
+      "id": 11
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "pnl": 0.0,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-10T18:54",
+      "id": 12
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "pnl": 0.0,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-10T20:54",
+      "id": 13
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "pnl": 0.08,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-10T21:04",
+      "id": 13
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "DOGE",
+      "direction": "SHORT",
+      "pnl": 0.75,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-11T01:16",
+      "id": 14
+    },
+    {
+      "type": "close",
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "pnl": 5.51,
+      "reason": "Lock +9.5% profit \u2014 AVAX +4.24% hoje contra SHORT, regime RISK-ON com cripto a pump, acima limite 15% cripto \u2014 tomar lucro antes de eros\u00e3o",
+      "date": "2026-05-11T09:04",
+      "id": 13
+    },
+    {
+      "type": "close",
+      "ticker": "DOGE",
+      "direction": "SHORT",
+      "pnl": 6.1,
+      "reason": "Lock +8.8% profit \u2014 acima limite 15% cripto, regime RISK-ON desfavor\u00e1vel para SHORT, consolidar ganhos",
+      "date": "2026-05-11T09:04",
+      "id": 14
+    },
+    {
+      "type": "close",
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "pnl": 0.73,
+      "reason": "SOL +3.46% hoje, RSI 78.2 mas tend\u00eancia UP forte, breakeven eminente \u2014 sair antes de loss",
+      "date": "2026-05-11T09:04",
+      "id": 12
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "pnl": 0.01,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-11T09:58",
+      "id": 15
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "pnl": -0.03,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-11T10:08",
+      "id": 15
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "pnl": 0.0,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-11T11:29",
+      "id": 16
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "pnl": 0.09,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-11T11:40",
+      "id": 16
+    },
+    {
+      "type": "sl_hit",
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "pnl": 0.82,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-05-11T12:00",
+      "id": 16
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "pnl": 0.16,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-11T12:30",
+      "id": 17
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "pnl": 0.0,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-11T12:40",
+      "id": 17
+    },
+    {
+      "type": "close",
+      "ticker": "QQQ",
+      "direction": "SHORT",
+      "pnl": -1.27,
+      "reason": "SHORT contr\u00e1rio ao regime RISK-ON, reduzido a 67%, slot necess\u00e1rio para sinal mais forte TSLA",
+      "date": "2026-05-11T16:54",
+      "id": 18
+    },
+    {
+      "type": "close",
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "pnl": -4.95,
+      "reason": "Posi\u00e7\u00e3o em -8.4% \u2014 regra obrigat\u00f3ria de fecho em -8% sem catalisador de revers\u00e3o. SOL em UPTREND com RSI 66 e BB 84%, SHORT contra regime RISK-ON. SL a apenas 1.4% de dist\u00e2ncia.",
+      "date": "2026-05-11T22:02",
+      "id": 15
+    },
+    {
+      "type": "close",
+      "ticker": "TSLA",
+      "direction": "SHORT",
+      "pnl": -4.08,
+      "reason": "TSLA +3.98% hoje, RSI 74.5 overbought mas momentum bullish forte. SL a \u20ac382.75 vs atual \u20ac377.57 (1.4% margem). Fechar antes de SL.",
+      "date": "2026-05-11T22:02",
+      "id": 20
+    },
+    {
+      "type": "close_partial",
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "pnl": -0.69,
+      "reason": "Setor cripto extremamente overbought (SOL RSI 84.3 proxy). Compliance j\u00e1 reduziu 33% na sess\u00e3o anterior. Fechar para libertar slot e reduzir exposi\u00e7\u00e3o cripto no pico.",
+      "date": "2026-05-11T22:24",
+      "id": 17
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "pnl": 0.03,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-11T22:54",
+      "id": 23
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "pnl": 0.02,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-11T23:04",
+      "id": 23
+    },
+    {
+      "type": "close_partial",
+      "ticker": "SPY",
+      "direction": "SHORT",
+      "pnl": 0.26,
+      "reason": "SHORT contra regime RISK-ON confirmado. SPY em UPTREND estrutural com S&P +9.7% acima MA200. Fechar para libertar slot e reduzir exposi\u00e7\u00e3o contra-tend\u00eancia.",
+      "date": "2026-05-11T23:24",
+      "id": 21
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "BNB",
+      "direction": "SHORT",
+      "pnl": -0.03,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-12T01:05",
+      "id": 24
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "BNB",
+      "direction": "SHORT",
+      "pnl": 0.17,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-12T01:15",
+      "id": 24
+    },
+    {
+      "type": "close",
+      "ticker": "AAPL",
+      "direction": "SHORT",
+      "pnl": -0.26,
+      "reason": "Liberar posi\u00e7\u00e3o para TSLA SHORT de alta convic\u00e7\u00e3o (6 posi\u00e7\u00f5es > m\u00e1ximo 5). AAPL RSI 68 zona de sa\u00edda, momentum a enfraquecer.",
+      "date": "2026-05-12T10:54",
+      "id": 19
+    },
+    {
+      "type": "close",
+      "ticker": "GLD",
+      "direction": "LONG",
+      "pnl": -0.28,
+      "reason": "Fechar posi\u00e7\u00e3o defensiva em regime RISK-ON forte (US-China truce). Libertar slot para AAPL SHORT de maior convic\u00e7\u00e3o t\u00e9cnica. GLD em lucro (SL estava em \u20ac362).",
+      "date": "2026-05-12T11:25",
+      "id": 5
+    },
+    {
+      "type": "close",
+      "ticker": "META",
+      "direction": "LONG",
+      "pnl": 0.28,
+      "reason": "DOWNTREND estrutural + RSI 26.3 oversold em downtrend = fraqueza, n\u00e3o revers\u00e3o. PTJ: nunca contra a tend\u00eancia. Sa\u00edda limpa a breakeven.",
+      "date": "2026-05-12T12:04",
+      "id": 22
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "AAPL",
+      "direction": "SHORT",
+      "pnl": -0.27,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-12T15:00",
+      "id": 26
+    },
+    {
+      "type": "close",
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "pnl": 3.91,
+      "reason": "SHORT a lutar contra UPTREND RSI 77.4 \u2014 PTJ: nunca contra a tend\u00eancia. Liberta slot para AMD SHORT com melhor setup.",
+      "date": "2026-05-12T18:54",
+      "id": 23
+    },
+    {
+      "type": "close",
+      "ticker": "AAPL",
+      "direction": "SHORT",
+      "pnl": -0.6,
+      "reason": "SHORT contra UPTREND confirmado (RSI 59.2, +0.62% hoje) \u2014 PTJ: nunca contra a tend\u00eancia. Posi\u00e7\u00e3o em perda leve (-0.82\u20ac) sem catalisador de revers\u00e3o. Acima limite 25% (28.1%).",
+      "date": "2026-05-12T19:03",
+      "id": 26
+    },
+    {
+      "type": "sl_hit",
+      "ticker": "BNB",
+      "direction": "SHORT",
+      "pnl": 1.85,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-05-12T19:11",
+      "id": 24
+    },
+    {
+      "type": "sl_hit",
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "pnl": 2.51,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-05-12T19:11",
+      "id": 25
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "pnl": 0.12,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-12T19:31",
+      "id": 29
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "pnl": -0.02,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-12T19:41",
+      "id": 29
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "BNB",
+      "direction": "SHORT",
+      "pnl": -0.09,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-12T22:32",
+      "id": 31
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "BNB",
+      "direction": "SHORT",
+      "pnl": -0.03,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-12T22:42",
+      "id": 31
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "BNB",
+      "direction": "SHORT",
+      "pnl": -1.15,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-13T02:24",
+      "id": 31
+    },
+    {
+      "type": "sl_hit",
+      "ticker": "BNB",
+      "direction": "SHORT",
+      "pnl": -3.78,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-05-13T09:46",
+      "id": 31
+    },
+    {
+      "type": "sl_hit",
+      "ticker": "AAPL",
+      "direction": "SHORT",
+      "pnl": -3.75,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-05-13T14:38",
+      "id": 28
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "TSLA",
+      "direction": "SHORT",
+      "pnl": -0.0,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-13T14:58",
+      "id": 32
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "BNB",
+      "direction": "SHORT",
+      "pnl": 0.46,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-13T14:58",
+      "id": 33
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "BNB",
+      "direction": "SHORT",
+      "pnl": 0.05,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-13T15:08",
+      "id": 33
+    },
+    {
+      "type": "sl_hit",
+      "ticker": "TSLA",
+      "direction": "SHORT",
+      "pnl": -8.39,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-05-13T15:39",
+      "id": 32
+    },
+    {
+      "type": "sl_hit",
+      "ticker": "QQQ",
+      "direction": "SHORT",
+      "pnl": -4.6,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-05-13T17:59",
+      "id": 30
+    },
+    {
+      "type": "tp_hit",
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "pnl": 24.97,
+      "reason": "\u2705 TP1 (50%)",
+      "date": "2026-06-12T01:20",
+      "id": 29
+    },
+    {
+      "type": "tp_hit",
+      "ticker": "BNB",
+      "direction": "SHORT",
+      "pnl": 9.5,
+      "reason": "\u2705 TP1 (50%)",
+      "date": "2026-06-12T01:20",
+      "id": 33
+    },
+    {
+      "type": "tp_hit",
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "pnl": 25.01,
+      "reason": "\ud83c\udfc6 TP2",
+      "date": "2026-06-12T01:30",
+      "id": 29
+    },
+    {
+      "type": "sl_hit",
+      "ticker": "META",
+      "direction": "LONG",
+      "pnl": -10.31,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-06-12T14:54",
+      "id": 27
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "QQQ",
+      "direction": "LONG",
+      "pnl": 0.2,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-06-15T15:30",
+      "id": 34
+    },
+    {
+      "type": "tp_hit",
+      "ticker": "BNB",
+      "direction": "SHORT",
+      "pnl": 7.5,
+      "reason": "TP1 batido +20.3%, BNB a virar (+0.48%), take profit \u2014 fecho do resto da posi\u00e7\u00e3o",
+      "date": "2026-06-16T10:56",
+      "id": 33
+    },
+    {
+      "type": "close_partial",
+      "ticker": "QQQ",
+      "direction": "LONG",
+      "pnl": 1.32,
+      "reason": "Reduzir concentra\u00e7\u00e3o de 30.9% para ~20% (close partial 33%)",
+      "date": "2026-06-16T10:56",
+      "id": 34
+    }
+  ],
+  "session_analysis": [
+    {
+      "session_type": "MEIODIA",
+      "session_num": 20,
+      "date": "10/05/2026 12:03",
+      "summary": "## \ud83d\udccb POSTMORTEM \u2014 Sess\u00e3o MEIODIA #20 \u2014 10/05/2026\n\n**Elaborado por:** Registador de Decis\u00f5es  \n**Data de an\u00e1lise:** 10/05/2026 \u2014 P\u00f3s-sess\u00e3o 12:03\n\n---\n\n## 1. OS TRADES FAZIAM SENTIDO DADO O CONTEXTO MACRO?\n\n**Resposta: Sim \u2014 os tr\u00eas LONGs est\u00e3o bem alinhados com o regime RISK-ON.**\n\n| Trade | Catalisador | Alinhamento Macro | Avalia\u00e7\u00e3o |\n|-------|------------|-------------------|-----------|\n| NVDA LONG | RSI 60.3 + MACD bullish cross + AI momentum | \u2705 RISK-ON + DXY fraco + yields em queda | **Adequado** |\n| BTC LONG | RSI 60.0 + MACD bullish + DXY -0.40% | \u2705 Cripto beneficia de DXY fraco + RISK-ON | **Adequado** |\n| ETH LONG | RSI 43.3 (zona de valor) + Uptrend | \u2705 Assim\u00e9trico \u2014 RSI baixo em RISK-ON | **Conservador e correto** |\n| GLD UPDATE_SL | Ajuste t\u00e9cnico | Neutro \u2014 prote\u00e7\u00e3o de capi",
+      "trades": [
+        {
+          "ticker": "NVDA",
+          "action": "NVDA LONG",
+          "detail": "RSI 60.3 + MACD bullish cross + AI momentum",
+          "assessment": "**Adequado**"
+        },
+        {
+          "ticker": "BTC",
+          "action": "BTC LONG",
+          "detail": "RSI 60.0 + MACD bullish + DXY -0.40%",
+          "assessment": "**Adequado**"
+        },
+        {
+          "ticker": "ETH",
+          "action": "ETH LONG",
+          "detail": "RSI 43.3 (zona de valor) + Uptrend",
+          "assessment": "**Conservador e correto**"
+        },
+        {
+          "ticker": "GLD",
+          "action": "GLD UPDATE_SL",
+          "detail": "Ajuste t\u00e9cnico",
+          "assessment": "Ajuste t\u00e9cnico"
+        }
+      ],
+      "findings": [
+        "**Resposta: Sim \u2014 os tr\u00eas LONGs est\u00e3o bem alinhados com o regime RISK-ON.**",
+        "| NVDA LONG | RSI 60.3 + MACD bullish cross + AI momentum | \u2705 RISK-ON + DXY fraco + yields em queda | **Adequado** |",
+        "| BTC LONG | RSI 60.0 + MACD bullish + DXY -0.40% | \u2705 Cripto beneficia de DXY fraco + RISK-ON | **Adequado** |",
+        "| ETH LONG | RSI 43.3 (zona de valor) + Uptrend | \u2705 Assim\u00e9trico \u2014 RSI baixo em RISK-ON | **Conservador e correto** |"
+      ]
+    },
+    {
+      "session_type": "PRE_NOITE",
+      "session_num": 21,
+      "date": "10/05/2026 19:04",
+      "summary": "## \ud83d\udccb POSTMORTEM \u2014 Sess\u00e3o PRE_NOITE #21 \u2014 10/05/2026\n\n**Elaborado por:** Registador de Decis\u00f5es  \n**Data de an\u00e1lise:** 10/05/2026 \u2014 P\u00f3s-sess\u00e3o 19:04\n\n---\n\n## 1. OS TRADES FAZIAM SENTIDO DADO O CONTEXTO MACRO?\n\n**Resposta: Sim, com nuance \u2014 o regime RISK-ON justifica os LONGs, mas a cumula\u00e7\u00e3o de posi\u00e7\u00f5es cripto em overbought \u00e9 um risco estrutural.**\n\n| Trade | A\u00e7\u00e3o | Justifica\u00e7\u00e3o | Avalia\u00e7\u00e3o |\n|-------|------|-------------|-----------|\n| SOL SHORT | CLOSE_PARTIAL 33% | Compliance obrigat\u00f3rio \u2014 posi\u00e7\u00e3o oversized 21.1% vs limite 15% | \u2705 Correto e disciplinado |\n| GLD LONG | UPDATE_SL para 358.00 | Tighten SL de 308.35 (inadmiss\u00edvel -17%) para 358.00 (-2.7%) | \u2705 Melhoria cr\u00edtica de gest\u00e3o de risco |\n| SPY LONG | OPEN | RSI 61.7 + UPTREND + VIX 17.2 + RISK-ON | \u2705 Setup t\u00e9cnico s\u00f3lido |\n| XRP LON",
+      "trades": [
+        {
+          "ticker": "SOL",
+          "action": "SOL SHORT",
+          "detail": "CLOSE_PARTIAL 33%",
+          "assessment": "\u2705 Correto e disciplinado"
+        },
+        {
+          "ticker": "GLD",
+          "action": "GLD LONG",
+          "detail": "UPDATE_SL para 358.00",
+          "assessment": "\u2705 Melhoria cr\u00edtica de gest\u00e3o de risco"
+        },
+        {
+          "ticker": "SPY",
+          "action": "SPY LONG",
+          "detail": "OPEN",
+          "assessment": "\u2705 Setup t\u00e9cnico s\u00f3lido"
+        }
+      ],
+      "findings": [
+        "| SOL SHORT | CLOSE_PARTIAL 33% | Compliance obrigat\u00f3rio \u2014 posi\u00e7\u00e3o oversized 21.1% vs limite 15% | \u2705 Correto e disciplinado |",
+        "| SPY LONG | OPEN | RSI 61.7 + UPTREND + VIX 17.2 + RISK-ON | \u2705 Setup t\u00e9cnico s\u00f3lido |"
+      ]
+    },
+    {
+      "session_type": "MANHA",
+      "session_num": 22,
+      "date": "11/05/2026 09:04",
+      "summary": "Postmortem da Sess\u00e3o MANHA #22 conclu\u00eddo. Score: 7.5/10. An\u00e1lise completa publicada em coment\u00e1rio \u2014 inclui verifica\u00e7\u00e3o R/R, exposi\u00e7\u00e3o alavancada, oportunidades falhadas e 5 li\u00e7\u00f5es concretas para sess\u00f5es futuras. Alerta de inconsist\u00eancia de dados de portfolio registado.",
+      "trades": [],
+      "findings": [
+        "Postmortem da Sess\u00e3o MANHA #22 conclu\u00eddo. Score: 7.5/10. An\u00e1lise completa publicada em coment\u00e1rio \u2014 inclui verifica\u00e7\u00e3o R/R, exposi\u00e7\u00e3o alavancada, oportunidades falhadas e 5 li\u00e7\u00f5es concretas para sess\u00f5"
+      ]
+    },
+    {
+      "session_type": "TARDE",
+      "session_num": 23,
+      "date": "11/05/2026 15:34",
+      "summary": "## \ud83d\udd0d POSTMORTEM \u2014 Sess\u00e3o TARDE #23 \u2014 11/05/2026\n\n---\n\n### 1. TRADES FAZIAM SENTIDO DADO O CONTEXTO MACRO?\n\n**Parcialmente sim \u2014 com uma exce\u00e7\u00e3o preocupante.**\n\n- **CLOSE_PARTIAL SOL/AVAX (33%):** Correto. Redu\u00e7\u00f5es de compliance em SHORTs contra regime RISK-ON com vi\u00e9s Bullish estrutural s\u00e3o decis\u00f5es defensivas adequadas. Manter 67% de exposi\u00e7\u00e3o SHORT em cripto com P&L positivo \u00e9 aceit\u00e1vel como hedge, mas o risco residual \u00e9 elevado.\n- **CLOSE_PARTIAL QQQ (33%):** Justificado duplo \u2014 compliance + mitiga\u00e7\u00e3o de risco. QQQ SHORT em UPTREND + RISK-ON \u00e9 contra-tend\u00eancia estrutural. A redu\u00e7\u00e3o \u00e9 prudente, mas **mant\u00ea-lo a 67% continua a ser uma aposta contra o regime dominante.**\n- **UPDATE_SL GLD \u20ac360:** Boa gest\u00e3o de posi\u00e7\u00e3o \u2014 prote\u00e7\u00e3o de lucros sem encerramento prematuro.\n- **META LONG:** \u2705 Deci",
+      "trades": [],
+      "findings": [
+        "**Parcialmente sim \u2014 com uma exce\u00e7\u00e3o preocupante.**",
+        "- **CLOSE_PARTIAL SOL/AVAX (33%):** Correto. Redu\u00e7\u00f5es de compliance em SHORTs contra regime RISK-ON com vi\u00e9s Bullish estrutural s\u00e3o decis\u00f5es defensivas adequadas. Manter 67% de exposi\u00e7\u00e3o SHORT em crip",
+        "- **CLOSE_PARTIAL QQQ (33%):** Justificado duplo \u2014 compliance + mitiga\u00e7\u00e3o de risco. QQQ SHORT em UPTREND + RISK-ON \u00e9 contra-tend\u00eancia estrutural. A redu\u00e7\u00e3o \u00e9 prudente, mas **mant\u00ea-lo a 67% continua a "
+      ]
+    },
+    {
+      "session_type": "NOITE",
+      "session_num": 24,
+      "date": "11/05/2026 22:02",
+      "summary": "## \ud83d\udccb POSTMORTEM \u2014 Sess\u00e3o NOITE #24 \u2014 11/05/2026\n\n---\n\n### 1. OS TRADES FAZIAM SENTIDO DADO O CONTEXTO MACRO?\n\n**CLOSES (SOL SHORT, TSLA SHORT) \u2014 Corretos e necess\u00e1rios.**\n- SOL SHORT com perda de -8.4% num regime RISK-ON com RSI 66 e BB 84%: regra de fecho obrigat\u00f3rio aplicada corretamente. A posi\u00e7\u00e3o estava contra a tend\u00eancia macro dominante desde o in\u00edcio \u2014 este trade nunca deveria ter sido aberto em regime RISK-ON. Fecho tardio mas disciplinado.\n- TSLA SHORT com RSI 74.5 e momentum bullish forte: fecho preventivo antes de SL correto. Com SL a apenas 1.4% de dist\u00e2ncia e momentum contra a posi\u00e7\u00e3o, a gest\u00e3o de risco justifica a sa\u00edda imediata.\n\n**CLOSE_PARTIAL (AVAX 33%, AAPL 33%) \u2014 Corretos por obriga\u00e7\u00e3o de compliance.**\n- AVAX a 22.4% > limite 15% cripto: redu\u00e7\u00e3o obrigat\u00f3ria executada. No",
+      "trades": [],
+      "findings": [
+        "**CLOSES (SOL SHORT, TSLA SHORT) \u2014 Corretos e necess\u00e1rios.**",
+        "- TSLA SHORT com RSI 74.5 e momentum bullish forte: fecho preventivo antes de SL correto. Com SL a apenas 1.4% de dist\u00e2ncia e momentum contra a posi\u00e7\u00e3o, a gest\u00e3o de risco justifica a sa\u00edda imediata.",
+        "**CLOSE_PARTIAL (AVAX 33%, AAPL 33%) \u2014 Corretos por obriga\u00e7\u00e3o de compliance.**"
+      ]
+    },
+    {
+      "session_type": "MEIODIA",
+      "session_num": 25,
+      "date": "12/05/2026 12:04",
+      "summary": "## \ud83d\udccb POSTMORTEM \u2014 Sess\u00e3o MEIODIA #25 \u2014 12/05/2026\n\n---\n\n### 1. OS TRADES FAZIAM SENTIDO DADO O CONTEXTO MACRO?\n\n**CLOSE META LONG \u2014 Correto.**\nRSI 26.3 oversold *em DOWNTREND* n\u00e3o sinaliza revers\u00e3o \u2014 sinaliza fraqueza continuada. A sa\u00edda a breakeven (+0.2%) \u00e9 disciplinada e alinhada com o princ\u00edpio PTJ de nunca lutar contra a tend\u00eancia estrutural. Decis\u00e3o sem obje\u00e7\u00e3o.\n\n**CLOSE_PARTIAL SOL / BNB / AVAX (33% cada) \u2014 Corretos, mas insuficientes.**\nAs redu\u00e7\u00f5es foram obrigat\u00f3rias por compliance (limites de 15% violados: 21.3%, 17.3%, 19.6%). No entanto, o contexto macro levanta uma quest\u00e3o mais grave: estas tr\u00eas posi\u00e7\u00f5es s\u00e3o **SHORTs em criptos em regime RISK-ON, com RSI 67-77 e BB acima de 77%**. Reduzir 33% e manter 67% da posi\u00e7\u00e3o SHORT contra a tend\u00eancia dominante n\u00e3o \u00e9 gest\u00e3o de risco \u2014 \u00e9 g",
+      "trades": [],
+      "findings": [
+        "**CLOSE META LONG \u2014 Correto.**",
+        "**CLOSE_PARTIAL SOL / BNB / AVAX (33% cada) \u2014 Corretos, mas insuficientes.**"
+      ]
+    },
+    {
+      "session_type": "PRE_NOITE",
+      "session_num": 26,
+      "date": "12/05/2026 19:03",
+      "summary": "## \ud83d\udccb POSTMORTEM \u2014 Sess\u00e3o PRE_NOITE #26 \u2014 12/05/2026 19:03\n\n---\n\n### 1. OS TRADES ABERTOS FAZIAM SENTIDO DADO O CONTEXTO MACRO?\n\n**BTC SHORT** \u2705 Fundamentado\n- DOWNTREND confirmado + MACD extremamente negativo (-244 vs signal -187) + yields 4.457% pressionam cripto = tese coerente e multi-confirmada.\n- Intraday -1.77% fornece momentum alinhado com dire\u00e7\u00e3o.\n- Ressalva: o SL de apenas 205 pontos (~0.30%) \u00e9 excecionalmente apertado para BTC com leverage 3x. Uma vela de volatilidade normal pode acionar o SL mesmo sem revers\u00e3o estrutural.\n\n**QQQ SHORT** \u2705 Fundamentado, com flag de sobreposi\u00e7\u00e3o\n- MACD bearish cross + RSI 35 (espa\u00e7o para S2) + yields 4.457% pressionam tech growth = tese s\u00f3lida.\n- R/R 2.9:1 respeita o m\u00ednimo. SL de 2 pontos (~0.33%) \u2014 igual problema de estreiteza.\n- \u26a0\ufe0f **FLAG CR\u00cdTI",
+      "trades": [],
+      "findings": [
+        "- Intraday -1.77% fornece momentum alinhado com dire\u00e7\u00e3o.",
+        "- R/R 2.9:1 respeita o m\u00ednimo. SL de 2 pontos (~0.33%) \u2014 igual problema de estreiteza."
+      ]
+    },
+    {
+      "session_type": "MANHA",
+      "session_num": 27,
+      "date": "13/05/2026 09:02",
+      "summary": "## \ud83d\udccb POSTMORTEM \u2014 Sess\u00e3o MANHA #27 \u2014 13/05/2026\n**Registador de Decis\u00f5es | An\u00e1lise Cr\u00edtica**\n\n---\n\n### 1. OS TRADES FAZIAM SENTIDO DADO O CONTEXTO MACRO?\n\n**\u2705 SIM \u2014 decis\u00f5es maioritariamente alinhadas com o regime.**\n\n- **CLOSE QQQ SHORT** \u2014 correto e urgente. Manter um SHORT em \u00edndice com regime RISK-ON + UPTREND confirmado \u00e9 uma das maiores viola\u00e7\u00f5es de disciplina poss\u00edveis. Fechar era obrigat\u00f3rio. Avalia\u00e7\u00e3o: **excelente**.\n- **CLOSE_PARTIAL AAPL/SOL/BNB** \u2014 correto por imposi\u00e7\u00e3o de regras de gest\u00e3o de risco (limites de concentra\u00e7\u00e3o). N\u00e3o foi uma decis\u00e3o discricion\u00e1ria; foi cumprimento de regras pr\u00e9-definidas. Avalia\u00e7\u00e3o: **correto (tardio \u2014 porque se chegou a 30.4%?)**.\n- **OPEN NVDA LONG** \u2014 logicamente consistente: RSI 64.2, UPTREND, setor AI em momentum, regime RISK-ON. R/R 2.24:1 est",
+      "trades": [],
+      "findings": [
+        "- **CLOSE QQQ SHORT** \u2014 correto e urgente. Manter um SHORT em \u00edndice com regime RISK-ON + UPTREND confirmado \u00e9 uma das maiores viola\u00e7\u00f5es de disciplina poss\u00edveis. Fechar era obrigat\u00f3rio. Avalia\u00e7\u00e3o: **e",
+        "- **CLOSE_PARTIAL AAPL/SOL/BNB** \u2014 correto por imposi\u00e7\u00e3o de regras de gest\u00e3o de risco (limites de concentra\u00e7\u00e3o). N\u00e3o foi uma decis\u00e3o discricion\u00e1ria; foi cumprimento de regras pr\u00e9-definidas. Avalia\u00e7\u00e3o:",
+        "- **OPEN NVDA LONG** \u2014 logicamente consistente: RSI 64.2, UPTREND, setor AI em momentum, regime RISK-ON. R/R 2.24:1 est"
+      ]
+    },
+    {
+      "session_type": "MANHA",
+      "session_num": 29,
+      "date": "15/06/2026 15:25",
+      "summary": "Postmortem conclu\u00eddo e registado como coment\u00e1rio. Score 7/10 \u2014 sess\u00e3o competente com ressalvas na gest\u00e3o de risco crypto. An\u00e1lise completa com recomenda\u00e7\u00f5es para pr\u00f3ximas sess\u00f5es.",
+      "trades": [],
+      "findings": []
+    },
+    {
+      "session_type": "MANHA",
+      "session_num": 30,
+      "date": "16/06/2026 09:33",
+      "summary": "Postmortem conclu\u00eddo. Score 5/10 \u2014 sess\u00e3o com fundamento macro v\u00e1lido (Extreme Fear bounce) mas execu\u00e7\u00e3o agressiva: 3 LONGs crypto correlacionados a 3x, cash 80%\u219217% sem hedge, R/R lim\u00edtrofes em regime divergente. 5 li\u00e7\u00f5es concretas documentadas para pr\u00f3ximas sess\u00f5es.",
+      "trades": [],
+      "findings": [
+        "Postmortem conclu\u00eddo. Score 5/10 \u2014 sess\u00e3o com fundamento macro v\u00e1lido (Extreme Fear bounce) mas execu\u00e7\u00e3o agressiva: 3 LONGs crypto correlacionados a 3x, cash 80%\u219217% sem hedge, R/R lim\u00edtrofes em regim"
+      ]
     }
   ]
 }

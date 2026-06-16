@@ -213,8 +213,103 @@
             .dash-header { flex-direction: column; align-items: flex-start; }
         }
 
+        /* Activity Feed */
+        .feed-list {
+            max-height: 500px; overflow-y: auto;
+            padding: 4px 0;
+        }
+        .feed-list::-webkit-scrollbar { width: 6px; }
+        .feed-list::-webkit-scrollbar-track { background: transparent; }
+        .feed-list::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+        .feed-item {
+            display: flex; align-items: flex-start; gap: 12px;
+            padding: 10px 20px; border-bottom: 1px solid rgba(51,65,85,0.3);
+            transition: background 0.2s; font-size: 0.88rem;
+        }
+        .feed-item:hover { background: var(--bg-card-hover); }
+        .feed-item:last-child { border-bottom: none; }
+        .feed-icon { font-size: 1.1rem; flex-shrink: 0; margin-top: 1px; }
+        .feed-body { flex: 1; min-width: 0; }
+        .feed-body .feed-title {
+            font-weight: 600; color: white; margin-bottom: 2px;
+        }
+        .feed-body .feed-title .tag { font-size: 0.7rem; margin-left: 6px; }
+        .feed-body .feed-reason {
+            color: var(--text-muted); font-size: 0.82rem;
+            line-height: 1.4; word-break: break-word;
+        }
+        .feed-body .feed-pnl {
+            font-weight: 700; font-size: 0.95rem;
+        }
+        .feed-body .feed-pnl.positive { color: var(--green); }
+        .feed-body .feed-pnl.negative { color: var(--red); }
+        .feed-body .feed-date {
+            font-size: 0.75rem; color: var(--text-muted); margin-top: 3px;
+        }
+        .feed-body .feed-score {
+            display: inline-block; padding: 1px 8px; border-radius: 10px;
+            background: rgba(59,130,246,0.15); color: var(--accent-light);
+            font-size: 0.75rem; font-weight: 600; margin-top: 3px;
+        }
+
+        /* Session Analysis */
+        .analysis-grid {
+            display: grid; gap: 16px;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            padding: 16px 20px;
+        }
+        .analysis-card {
+            background: rgba(15,23,42,0.5); border-radius: 10px;
+            border: 1px solid var(--border); padding: 16px;
+            transition: border-color 0.3s;
+        }
+        .analysis-card:hover { border-color: var(--accent); }
+        .analysis-card .ac-header {
+            display: flex; justify-content: space-between; align-items: center;
+            margin-bottom: 10px; flex-wrap: wrap; gap: 6px;
+        }
+        .analysis-card .ac-title {
+            font-weight: 600; color: white; font-size: 0.95rem;
+        }
+        .analysis-card .ac-score {
+            font-size: 0.8rem; padding: 2px 10px; border-radius: 12px;
+            background: rgba(59,130,246,0.15); color: var(--accent-light);
+        }
+        .analysis-card .ac-date {
+            font-size: 0.78rem; color: var(--text-muted); margin-bottom: 8px;
+        }
+        .analysis-card .ac-summary {
+            font-size: 0.85rem; color: var(--text-muted);
+            line-height: 1.5; max-height: 120px; overflow-y: auto;
+            margin-bottom: 10px;
+        }
+        .analysis-card .ac-trades {
+            display: flex; flex-wrap: wrap; gap: 6px;
+        }
+        .analysis-card .ac-trade-tag {
+            display: inline-flex; align-items: center; gap: 4px;
+            padding: 3px 10px; border-radius: 6px;
+            font-size: 0.78rem; font-weight: 500;
+            background: var(--bg-card); border: 1px solid var(--border);
+        }
+        .analysis-card .ac-trade-tag .dot {
+            width: 6px; height: 6px; border-radius: 50%;
+        }
+        .analysis-card .ac-trade-tag .dot.open { background: var(--accent); }
+        .analysis-card .ac-trade-tag .dot.close { background: var(--danger); }
+        .analysis-card .ac-trade-tag .dot.win { background: var(--green); }
+        .analysis-card .ac-finding {
+            font-size: 0.8rem; color: var(--warning);
+            padding: 4px 0; border-top: 1px solid rgba(51,65,85,0.3);
+            margin-top: 6px; padding-top: 6px;
+        }
+        .analysis-card .ac-finding:first-of-type { border-top: none; margin-top: 0; padding-top: 0; }
+
+        @media (max-width: 768px) {
+            .analysis-grid { grid-template-columns: 1fr; }
+        }
+
         /* Loading */
-        .loading {
             text-align: center; padding: 40px; color: var(--text-muted);
         }
         .spin {
@@ -319,6 +414,22 @@
             <div class="table-card">
                 <h3>🔄 Sessões Recentes (Paperclip)</h3>
                 <div id="sessions-table"><div class="loading"><div class="spin"></div></div></div>
+            </div>
+        </div>
+
+        <!-- Activity Feed -->
+        <div class="table-section">
+            <div class="table-card">
+                <h3>📡 Atividade Recente</h3>
+                <div id="activity-feed"><div class="loading"><div class="spin"></div></div></div>
+            </div>
+        </div>
+
+        <!-- Session Analysis -->
+        <div class="table-section">
+            <div class="table-card">
+                <h3>🧠 Análises & Decisões</h3>
+                <div id="session-analysis"><div class="loading"><div class="spin"></div></div></div>
             </div>
         </div>
 
@@ -437,6 +548,10 @@
             renderPositions(data.positions);
             renderRecentTrades(data.recent_trades);
             renderSessions(data.recent_sessions);
+
+            // Activity + Analysis
+            renderActivityFeed(data.activity_feed);
+            renderSessionAnalysis(data.session_analysis);
         }
 
         function renderEquityCurve(curve) {
@@ -838,6 +953,122 @@
             }
 
             html += '</tbody></table>';
+            container.innerHTML = html;
+        }
+
+        function renderActivityFeed(feed) {
+            const container = document.getElementById("activity-feed");
+            if (!feed || feed.length === 0) {
+                container.innerHTML =
+                    '<div style="padding:40px;text-align:center;color:var(--text-muted)">Sem atividade registada</div>';
+                return;
+            }
+
+            const icons = {
+                "tp_hit": "🎯",
+                "sl_hit": "🛑",
+                "auto_trim": "✂️",
+                "close_partial": "📉",
+                "close": "🔒",
+                "session": "📊",
+            };
+
+            let html = '<div class="feed-list">';
+            for (const item of feed) {
+                const icon = icons[item.type] || "📌";
+                const pnlClass = item.pnl >= 0 ? "positive" : "negative";
+                const pnlSign = item.pnl >= 0 ? "+" : "";
+
+                if (item.type === "session") {
+                    html += `<div class="feed-item">
+                        <div class="feed-icon">${icon}</div>
+                        <div class="feed-body">
+                            <div class="feed-title">
+                                ${item.session_type} #${item.session_num}
+                                ${item.score ? `<span class="feed-score">${item.score}/10</span>` : ""}
+                            </div>
+                            <div class="feed-reason">${item.title || "Sessão concluída"}</div>
+                            <div class="feed-date">${item.date}</div>
+                        </div>
+                    </div>`;
+                } else {
+                    const dirTag = item.direction === "LONG"
+                        ? '<span class="tag long">LONG</span>'
+                        : '<span class="tag short">SHORT</span>';
+                    html += `<div class="feed-item">
+                        <div class="feed-icon">${icon}</div>
+                        <div class="feed-body">
+                            <div class="feed-title">
+                                ${item.ticker} ${dirTag}
+                                <span class="feed-pnl ${pnlClass}">${pnlSign}€${Math.abs(item.pnl).toFixed(2)}</span>
+                            </div>
+                            <div class="feed-reason">${item.reason || ""}</div>
+                            <div class="feed-date">${item.date}</div>
+                        </div>
+                    </div>`;
+                }
+            }
+            html += '</div>';
+            container.innerHTML = html;
+        }
+
+        function renderSessionAnalysis(analyses) {
+            const container = document.getElementById("session-analysis");
+            if (!analyses || analyses.length === 0) {
+                container.innerHTML =
+                    '<div style="padding:40px;text-align:center;color:var(--text-muted)">Nenhuma análise disponível</div>';
+                return;
+            }
+
+            let html = '<div class="analysis-grid">';
+            for (const a of analyses) {
+                const scoreMatch = a.summary.match(/[Ss]core[:\s]*([\d.]+)\/10/);
+                const score = scoreMatch ? scoreMatch[1] : "";
+
+                let summaryHtml = a.summary
+                    .replace(/##/g, "")
+                    .replace(/\*\*/g, "")
+                    .replace(/---/g, "")
+                    .replace(/\n/g, " ")
+                    .substring(0, 400);
+
+                html += `<div class="analysis-card">
+                    <div class="ac-header">
+                        <div class="ac-title">${a.session_type} #${a.session_num}</div>
+                        ${score ? `<div class="ac-score">${score}/10</div>` : ""}
+                    </div>
+                    <div class="ac-date">${a.date}</div>
+                    <div class="ac-summary">${summaryHtml}${a.summary.length > 400 ? "..." : ""}</div>`;
+
+                // Trade tags
+                if (a.trades && a.trades.length > 0) {
+                    html += '<div class="ac-trades">';
+                    for (const t of a.trades) {
+                        if (!t.ticker) continue;
+                        const dotClass = t.assessment && t.assessment.toLowerCase().includes("corret") ? "win"
+                            : t.assessment && t.assessment.toLowerCase().includes("preocup") ? "close" : "open";
+                        html += `<span class="ac-trade-tag">
+                            <span class="dot ${dotClass}"></span>
+                            ${t.ticker}
+                            <span style="color:var(--text-muted);font-size:0.72rem">${t.action || ""}</span>
+                        </span>`;
+                    }
+                    html += '</div>';
+                }
+
+                // Key findings
+                if (a.findings && a.findings.length > 0) {
+                    for (const f of a.findings.slice(0, 3)) {
+                        const clean = f.replace(/\*\*/g, "").replace(/#/g, "").trim();
+                        if (clean.length > 10) {
+                            html += `<div class="ac-finding">${clean.substring(0, 200)}</div>`;
+                        }
+                    }
+                }
+
+                html += '</div>';
+            }
+            html += '</div>';
             container.innerHTML = html;
         }
 
