@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-06-16T09:48:28.300459+00:00",
+  "generated_at": "2026-06-16T09:56:35.314105+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": 36.31,
-    "total_pnl_pct": 3.63,
-    "cash_eur": 833.97,
-    "invested_eur": 196.21,
-    "portfolio_value": 1030.18,
-    "open_positions": 2,
-    "total_trades": 62,
-    "win_rate": 46.8,
-    "total_wins": 29,
+    "total_pnl_eur": 39.01,
+    "total_pnl_pct": 3.9,
+    "cash_eur": 932.08,
+    "invested_eur": 106.93,
+    "portfolio_value": 1039.01,
+    "open_positions": 1,
+    "total_trades": 64,
+    "win_rate": 48.4,
+    "total_wins": 31,
     "total_losses": 33,
-    "avg_win": 3.02,
+    "avg_win": 3.11,
     "avg_loss": -1.81,
     "best_trade": {
       "id": 29,
@@ -386,7 +386,17 @@
     },
     {
       "date": "2026-06-16",
-      "value": 1030.18
+      "value": 1035.39,
+      "trade": "BNB SHORT"
+    },
+    {
+      "date": "2026-06-16",
+      "value": 1036.71,
+      "trade": "QQQ LONG"
+    },
+    {
+      "date": "2026-06-16",
+      "value": 1039.01
     }
   ],
   "monthly_pnl": [
@@ -396,13 +406,17 @@
     },
     {
       "month": "2026-06",
-      "pnl": 49.37
+      "pnl": 58.19
     }
   ],
   "ticker_pnl": [
     {
       "ticker": "SOL",
       "pnl": 49.8
+    },
+    {
+      "ticker": "BNB",
+      "pnl": 14.45
     },
     {
       "ticker": "TSLA",
@@ -421,10 +435,6 @@
       "pnl": -7.57
     },
     {
-      "ticker": "BNB",
-      "pnl": 6.95
-    },
-    {
       "ticker": "DOGE",
       "pnl": 6.92
     },
@@ -433,12 +443,12 @@
       "pnl": -4.88
     },
     {
-      "ticker": "QQQ",
-      "pnl": -3.28
-    },
-    {
       "ticker": "BTC",
       "pnl": -2.13
+    },
+    {
+      "ticker": "QQQ",
+      "pnl": -1.96
     },
     {
       "ticker": "ETH",
@@ -561,28 +571,28 @@
     },
     {
       "date": "2026-06-16",
-      "value": 1030.18,
+      "value": 1035.39,
       "forecast": false
     },
     {
       "date": "2026-07-16",
-      "value": 1046.76,
-      "lower": 1036.16,
-      "upper": 1057.35,
+      "value": 1055.17,
+      "lower": 1044.19,
+      "upper": 1066.15,
       "forecast": true
     },
     {
       "date": "2026-08-15",
-      "value": 1069.85,
-      "lower": 1059.25,
-      "upper": 1080.44,
+      "value": 1082.07,
+      "lower": 1071.09,
+      "upper": 1093.05,
       "forecast": true
     },
     {
       "date": "2026-09-14",
-      "value": 1092.94,
-      "lower": 1082.34,
-      "upper": 1103.53,
+      "value": 1108.97,
+      "lower": 1097.99,
+      "upper": 1119.95,
       "forecast": true
     }
   ],
@@ -904,36 +914,29 @@
     },
     {
       "date": "2026-06-16",
-      "drawdown_pct": 0.75,
-      "value": 1030.18
+      "drawdown_pct": 0.25,
+      "value": 1035.39
+    },
+    {
+      "date": "2026-06-16",
+      "drawdown_pct": 0.12,
+      "value": 1036.71
+    },
+    {
+      "date": "2026-06-16",
+      "drawdown_pct": 0.0,
+      "value": 1039.01
     }
   ],
   "positions": [
     {
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "entry": 571.85,
-      "size": 0.1921,
-      "invested": 36.62,
-      "leverage": 3,
-      "sl": 548.0,
-      "tp1": 536.92,
-      "tp2": 502.77,
-      "budget_pct": 7.3,
-      "confidence": 8,
-      "is_crypto": true,
-      "at_tp1": true,
-      "reason": "RSI 79.3 mais extremo do scanner + crypto overbought + sem catalisador on-chain + volume n\u00e3o confirma subida",
-      "opened_at": "2026-05-13T14:53:32.544508"
-    },
-    {
       "ticker": "QQQ",
       "direction": "LONG",
       "entry": 637.11,
-      "size": 0.501,
-      "invested": 159.59,
+      "size": 0.3357,
+      "invested": 106.93,
       "leverage": 2,
-      "sl": 625.0,
+      "sl": 635.0,
       "tp1": 665.0,
       "tp2": null,
       "budget_pct": 16.9,
@@ -945,6 +948,20 @@
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "QQQ",
+      "direction": "LONG",
+      "pnl": 1.32,
+      "reason": "Reduzir concentra\u00e7\u00e3o de 30.9% para ~20% (close partial 33%)",
+      "closed_at": "2026-06-16T10:56:29.015584"
+    },
+    {
+      "ticker": "BNB",
+      "direction": "SHORT",
+      "pnl": 7.5,
+      "reason": "TP1 batido +20.3%, BNB a virar (+0.48%), take profit \u2014 fecho do resto da posi\u00e7\u00e3o",
+      "closed_at": "2026-06-16T10:56:29.015548"
+    },
     {
       "ticker": "QQQ",
       "direction": "LONG",
@@ -1070,20 +1087,6 @@
       "pnl": 2.51,
       "reason": "\ud83d\udd34 STOP LOSS",
       "closed_at": "2026-05-12T19:11:27.426554"
-    },
-    {
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": 1.85,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "closed_at": "2026-05-12T19:11:27.125250"
-    },
-    {
-      "ticker": "AAPL",
-      "direction": "SHORT",
-      "pnl": -0.6,
-      "reason": "SHORT contra UPTREND confirmado (RSI 59.2, +0.62% hoje) \u2014 PTJ: nunca contra a tend\u00eancia. Posi\u00e7\u00e3o em perda leve (-0.82\u20ac) sem catalisador de revers\u00e3o. Acima limite 25% (28.1%).",
-      "closed_at": "2026-05-12T19:03:05.061974"
     }
   ],
   "recent_sessions": [
