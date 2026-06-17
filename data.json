@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T05:10:04.073940+00:00",
+  "generated_at": "2026-06-17T05:15:36.793993+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -8,16 +8,16 @@
   "stats": {
     "total_pnl_eur": 38.68,
     "total_pnl_pct": 3.87,
-    "cash_eur": 442.06,
-    "invested_eur": 596.55,
-    "portfolio_value": 1038.61,
+    "cash_eur": 488.71,
+    "invested_eur": 549.81,
+    "portfolio_value": 1038.52,
     "open_positions": 4,
-    "total_trades": 67,
-    "win_rate": 49.3,
+    "total_trades": 68,
+    "win_rate": 48.5,
     "total_wins": 33,
-    "total_losses": 34,
+    "total_losses": 35,
     "avg_win": 2.94,
-    "avg_loss": -1.78,
+    "avg_loss": -1.73,
     "best_trade": {
       "id": 29,
       "ticker": "SOL",
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "10/20",
+    "recent_session_rate": "12/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -411,7 +411,12 @@
     },
     {
       "date": "2026-06-17",
-      "value": 1038.61
+      "value": 1036.32,
+      "trade": "BTC LONG"
+    },
+    {
+      "date": "2026-06-17",
+      "value": 1038.52
     }
   ],
   "monthly_pnl": [
@@ -421,7 +426,7 @@
     },
     {
       "month": "2026-06",
-      "pnl": 57.89
+      "pnl": 57.8
     }
   ],
   "ticker_pnl": [
@@ -463,7 +468,7 @@
     },
     {
       "ticker": "BTC",
-      "pnl": -2.13
+      "pnl": -2.22
     },
     {
       "ticker": "ETH",
@@ -604,28 +609,28 @@
     },
     {
       "date": "2026-06-17",
-      "value": 1038.61,
+      "value": 1038.52,
       "forecast": false
     },
     {
       "date": "2026-07-17",
-      "value": 1060.12,
-      "lower": 1049.22,
-      "upper": 1071.03,
+      "value": 1060.93,
+      "lower": 1050.07,
+      "upper": 1071.79,
       "forecast": true
     },
     {
       "date": "2026-08-16",
-      "value": 1088.84,
-      "lower": 1077.93,
-      "upper": 1099.74,
+      "value": 1090.0,
+      "lower": 1079.14,
+      "upper": 1100.86,
       "forecast": true
     },
     {
       "date": "2026-09-15",
-      "value": 1117.55,
-      "lower": 1106.64,
-      "upper": 1128.46,
+      "value": 1119.08,
+      "lower": 1108.22,
+      "upper": 1129.94,
       "forecast": true
     }
   ],
@@ -972,8 +977,13 @@
     },
     {
       "date": "2026-06-17",
+      "drawdown_pct": 0.16,
+      "value": 1036.32
+    },
+    {
+      "date": "2026-06-17",
       "drawdown_pct": 0.0,
-      "value": 1038.61
+      "value": 1038.52
     }
   ],
   "positions": [
@@ -1032,13 +1042,13 @@
       "ticker": "BTC",
       "direction": "LONG",
       "entry": 56652,
-      "size": 0.0083,
-      "invested": 155.8,
+      "size": 0.0058,
+      "invested": 109.06,
       "leverage": 3,
       "sl": 55000.0,
       "tp1": 60500.0,
       "tp2": null,
-      "budget_pct": 15.0,
+      "budget_pct": 10.5,
       "confidence": 7,
       "is_crypto": true,
       "at_tp1": false,
@@ -1047,6 +1057,13 @@
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "BTC",
+      "direction": "LONG",
+      "pnl": -0.09,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "closed_at": "2026-06-17T06:14:31.660738"
+    },
     {
       "ticker": "USO",
       "direction": "SHORT",
@@ -1179,27 +1196,20 @@
       "pnl": -0.03,
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "closed_at": "2026-05-12T22:42:39.258071"
-    },
-    {
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": -0.09,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "closed_at": "2026-05-12T22:32:35.331156"
     }
   ],
   "recent_sessions": [
     {
       "id": "acfd745b",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-17T05:10:01.206Z",
       "completed": ""
     },
     {
       "id": "3594ac2d",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-17T05:07:53.312Z",
       "completed": ""
     },
@@ -1331,6 +1341,15 @@
     }
   ],
   "activity_feed": [
+    {
+      "type": "auto_trim",
+      "ticker": "BTC",
+      "direction": "LONG",
+      "pnl": -0.09,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-06-17T06:14",
+      "id": 38
+    },
     {
       "type": "auto_trim",
       "ticker": "IWM",
@@ -1861,15 +1880,6 @@
       "reason": "AMD +11.59% contra SHORT. UPTREND brutal + RSI 80.7 + volume 1.4x. SL a apenas 1.6% \u2014 fechar preventivamente antes de bater stop. N\u00e3o lutar contra o momentum.",
       "date": "2026-05-09T09:02",
       "id": 9
-    },
-    {
-      "type": "close",
-      "ticker": "META",
-      "direction": "LONG",
-      "pnl": -2.31,
-      "reason": "DOWNTREND confirmado + MACD bearish (-1.54 vs signal -1.37 e divergindo) + underperformance -0.88% vs QQQ +2.09% \u2014 sair antes de SL",
-      "date": "2026-05-08T19:02",
-      "id": 6
     }
   ],
   "session_analysis": [
