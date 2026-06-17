@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-17T05:00:36.884065+00:00",
+  "generated_at": "2026-06-17T05:10:04.073940+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": 38.27,
-    "total_pnl_pct": 3.83,
-    "cash_eur": 478.04,
-    "invested_eur": 560.67,
-    "portfolio_value": 1038.71,
-    "open_positions": 3,
+    "total_pnl_eur": 38.68,
+    "total_pnl_pct": 3.87,
+    "cash_eur": 442.06,
+    "invested_eur": 596.55,
+    "portfolio_value": 1038.61,
+    "open_positions": 4,
     "total_trades": 67,
     "win_rate": 49.3,
     "total_wins": 33,
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "7/20",
+    "recent_session_rate": "10/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -411,7 +411,7 @@
     },
     {
       "date": "2026-06-17",
-      "value": 1038.71
+      "value": 1038.61
     }
   ],
   "monthly_pnl": [
@@ -604,28 +604,28 @@
     },
     {
       "date": "2026-06-17",
-      "value": 1038.71,
+      "value": 1038.61,
       "forecast": false
     },
     {
       "date": "2026-07-17",
-      "value": 1060.14,
-      "lower": 1049.23,
-      "upper": 1071.05,
+      "value": 1060.12,
+      "lower": 1049.22,
+      "upper": 1071.03,
       "forecast": true
     },
     {
       "date": "2026-08-16",
-      "value": 1088.86,
-      "lower": 1077.95,
-      "upper": 1099.77,
+      "value": 1088.84,
+      "lower": 1077.93,
+      "upper": 1099.74,
       "forecast": true
     },
     {
       "date": "2026-09-15",
-      "value": 1117.58,
-      "lower": 1106.68,
-      "upper": 1128.49,
+      "value": 1117.55,
+      "lower": 1106.64,
+      "upper": 1128.46,
       "forecast": true
     }
   ],
@@ -973,7 +973,7 @@
     {
       "date": "2026-06-17",
       "drawdown_pct": 0.0,
-      "value": 1038.71
+      "value": 1038.61
     }
   ],
   "positions": [
@@ -981,13 +981,13 @@
       "ticker": "IWM",
       "direction": "LONG",
       "entry": 252.83,
-      "size": 1.4373,
-      "invested": 181.7,
+      "size": 0.963,
+      "invested": 121.74,
       "leverage": 2,
       "sl": 245.25,
       "tp1": 268.0,
       "tp2": null,
-      "budget_pct": 17.5,
+      "budget_pct": 11.7,
       "confidence": 7,
       "is_crypto": false,
       "at_tp1": false,
@@ -998,13 +998,13 @@
       "ticker": "USO",
       "direction": "SHORT",
       "entry": 99.87,
-      "size": 3.6386,
-      "invested": 181.7,
+      "size": 2.4379,
+      "invested": 121.74,
       "leverage": 2,
       "sl": 102.87,
       "tp1": 93.88,
       "tp2": null,
-      "budget_pct": 17.5,
+      "budget_pct": 11.7,
       "confidence": 7,
       "is_crypto": false,
       "at_tp1": false,
@@ -1027,6 +1027,23 @@
       "at_tp1": false,
       "reason": "hedge ouro",
       "opened_at": "2026-06-16T16:05:11.112070"
+    },
+    {
+      "ticker": "BTC",
+      "direction": "LONG",
+      "entry": 56652,
+      "size": 0.0083,
+      "invested": 155.8,
+      "leverage": 3,
+      "sl": 55000.0,
+      "tp1": 60500.0,
+      "tp2": null,
+      "budget_pct": 15.0,
+      "confidence": 7,
+      "is_crypto": true,
+      "at_tp1": false,
+      "reason": "Fear&Greed 22 Extreme Fear + peace deal + MACD a melhorar. DCA bounce. R/R 2.23:1.",
+      "opened_at": "2026-06-17T06:10:00.105752"
     }
   ],
   "recent_trades": [
@@ -1173,6 +1190,62 @@
   ],
   "recent_sessions": [
     {
+      "id": "acfd745b",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-17T05:10:01.206Z",
+      "completed": ""
+    },
+    {
+      "id": "3594ac2d",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-17T05:07:53.312Z",
+      "completed": ""
+    },
+    {
+      "id": "e8e68b2b",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-17T05:00:52.177Z",
+      "completed": ""
+    },
+    {
+      "id": "318f144a",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-17T05:00:50.613Z",
+      "completed": ""
+    },
+    {
+      "id": "a486599f",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-17T05:00:49.375Z",
+      "completed": ""
+    },
+    {
+      "id": "33c2e572",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-17T05:00:48.027Z",
+      "completed": ""
+    },
+    {
+      "id": "beeb755f",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-17T05:00:46.316Z",
+      "completed": ""
+    },
+    {
+      "id": "2b47a270",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-17T05:00:44.883Z",
+      "completed": ""
+    },
+    {
       "id": "d3e4e52c",
       "agent": "Desconhecido",
       "status": "failed",
@@ -1254,62 +1327,6 @@
       "agent": "Desconhecido",
       "status": "succeeded",
       "created": "2026-06-16T14:17:15.484Z",
-      "completed": ""
-    },
-    {
-      "id": "170ccb9c",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-16T14:17:13.947Z",
-      "completed": ""
-    },
-    {
-      "id": "7a991cd8",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-16T14:17:11.543Z",
-      "completed": ""
-    },
-    {
-      "id": "df15e4a6",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-16T14:17:11.019Z",
-      "completed": ""
-    },
-    {
-      "id": "9e8eece8",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-16T14:17:09.567Z",
-      "completed": ""
-    },
-    {
-      "id": "946107b8",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-16T14:12:12.051Z",
-      "completed": ""
-    },
-    {
-      "id": "da49cbbd",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-16T14:12:11.680Z",
-      "completed": ""
-    },
-    {
-      "id": "32b3ebd3",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-16T14:12:09.968Z",
-      "completed": ""
-    },
-    {
-      "id": "0b8d18b5",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-16T14:12:08.068Z",
       "completed": ""
     }
   ],
