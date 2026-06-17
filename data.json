@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T16:45:36.917002+00:00",
+  "generated_at": "2026-06-17T04:00:36.875465+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "8/20",
+    "recent_session_rate": "7/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -410,7 +410,7 @@
       "trade": "USO SHORT"
     },
     {
-      "date": "2026-06-16",
+      "date": "2026-06-17",
       "value": 1038.71
     }
   ],
@@ -603,24 +603,29 @@
       "forecast": false
     },
     {
-      "date": "2026-07-16",
-      "value": 1059.32,
-      "lower": 1048.39,
-      "upper": 1070.25,
+      "date": "2026-06-17",
+      "value": 1038.71,
+      "forecast": false
+    },
+    {
+      "date": "2026-07-17",
+      "value": 1060.14,
+      "lower": 1049.23,
+      "upper": 1071.05,
       "forecast": true
     },
     {
-      "date": "2026-08-15",
-      "value": 1088.1,
-      "lower": 1077.16,
-      "upper": 1099.03,
+      "date": "2026-08-16",
+      "value": 1088.86,
+      "lower": 1077.95,
+      "upper": 1099.77,
       "forecast": true
     },
     {
-      "date": "2026-09-14",
-      "value": 1116.87,
-      "lower": 1105.94,
-      "upper": 1127.81,
+      "date": "2026-09-15",
+      "value": 1117.58,
+      "lower": 1106.68,
+      "upper": 1128.49,
       "forecast": true
     }
   ],
@@ -966,7 +971,7 @@
       "value": 1036.41
     },
     {
-      "date": "2026-06-16",
+      "date": "2026-06-17",
       "drawdown_pct": 0.0,
       "value": 1038.71
     }
@@ -1168,6 +1173,62 @@
   ],
   "recent_sessions": [
     {
+      "id": "d3e4e52c",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-16T18:17:32.258Z",
+      "completed": ""
+    },
+    {
+      "id": "109a7069",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-16T18:16:57.444Z",
+      "completed": ""
+    },
+    {
+      "id": "1c49e288",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-16T18:14:24.753Z",
+      "completed": ""
+    },
+    {
+      "id": "525890c8",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-16T18:13:11.640Z",
+      "completed": ""
+    },
+    {
+      "id": "e3ffbd83",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-16T18:11:37.565Z",
+      "completed": ""
+    },
+    {
+      "id": "887a39c5",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-16T18:10:03.904Z",
+      "completed": ""
+    },
+    {
+      "id": "e26c8484",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-16T18:06:33.791Z",
+      "completed": ""
+    },
+    {
+      "id": "f52a57bb",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-16T18:06:10.547Z",
+      "completed": ""
+    },
+    {
       "id": "2a108141",
       "agent": "Desconhecido",
       "status": "succeeded",
@@ -1249,62 +1310,6 @@
       "agent": "Desconhecido",
       "status": "failed",
       "created": "2026-06-16T14:12:08.068Z",
-      "completed": ""
-    },
-    {
-      "id": "2fe2d853",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-16T14:12:06.670Z",
-      "completed": ""
-    },
-    {
-      "id": "6f13af9d",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-16T14:12:04.949Z",
-      "completed": ""
-    },
-    {
-      "id": "1f546a8e",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-16T13:06:23.634Z",
-      "completed": ""
-    },
-    {
-      "id": "b877fa99",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-16T13:04:04.028Z",
-      "completed": ""
-    },
-    {
-      "id": "666a6a44",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-16T13:00:20.397Z",
-      "completed": ""
-    },
-    {
-      "id": "ce094cb5",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-16T13:00:20.317Z",
-      "completed": ""
-    },
-    {
-      "id": "48d98f55",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-16T13:00:19.241Z",
-      "completed": ""
-    },
-    {
-      "id": "c1e3dbd3",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-16T13:00:17.890Z",
       "completed": ""
     }
   ],
