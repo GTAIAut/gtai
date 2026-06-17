@@ -482,6 +482,14 @@
             </div>
         </div>
 
+        <!-- News alerts row -->
+        <div class="table-section">
+            <div class="table-card">
+                <h3>📡 Alertas de Notícias (scanner automático)</h3>
+                <div id="news-alerts"><div class="loading"><div class="spin"></div></div></div>
+            </div>
+        </div>
+
         <div class="dash-footer">
             GTAA — Automated Trading System · Dados atualizados via Paperclip
         </div>
@@ -599,6 +607,9 @@
             renderPositions(data.positions);
             renderRecentTrades(data.recent_trades);
             renderSessions(data.recent_sessions);
+
+            // News alerts
+            renderNewsAlerts(data.news_alerts);
 
             // Activity + Analysis
             renderActivityFeed(data.activity_feed);
@@ -1206,6 +1217,26 @@
                 </tr>`;
             }
 
+            html += '</tbody></table></div>';
+            container.innerHTML = html;
+        }
+
+        function renderNewsAlerts(alerts) {
+            const container = document.getElementById("news-alerts");
+            if (!alerts || alerts.length === 0) {
+                container.innerHTML = '<div style="padding:20px;text-align:center;color:var(--text-muted)">Sem alertas nas últimas horas</div>';
+                return;
+            }
+            let html = `<div style="max-height:400px;overflow-y:auto"><table>
+                <thead><tr>
+                    <th style="width:80px">Hora</th><th>Título</th>
+                </tr></thead><tbody>`;
+            for (const a of alerts) {
+                html += `<tr>
+                    <td style="font-size:0.8rem;color:var(--text-muted);white-space:nowrap">${a.time || "?"}</td>
+                    <td>${a.title || a.source || "?"}</td>
+                </tr>`;
+            }
             html += '</tbody></table></div>';
             container.innerHTML = html;
         }
