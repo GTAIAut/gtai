@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-06-17T09:00:36.901046+00:00",
+  "generated_at": "2026-06-17T09:13:47.396958+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": 38.68,
-    "total_pnl_pct": 3.87,
-    "cash_eur": 521.3,
-    "invested_eur": 517.09,
-    "portfolio_value": 1038.39,
-    "open_positions": 4,
-    "total_trades": 69,
-    "win_rate": 47.8,
-    "total_wins": 33,
+    "total_pnl_eur": 35.85,
+    "total_pnl_pct": 3.58,
+    "cash_eur": 743.29,
+    "invested_eur": 294.63,
+    "portfolio_value": 1037.92,
+    "open_positions": 3,
+    "total_trades": 70,
+    "win_rate": 48.6,
+    "total_wins": 34,
     "total_losses": 36,
-    "avg_win": 2.94,
+    "avg_win": 2.86,
     "avg_loss": -1.69,
     "best_trade": {
       "id": 29,
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "12/20",
+    "recent_session_rate": "13/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -421,7 +421,12 @@
     },
     {
       "date": "2026-06-17",
-      "value": 1038.39
+      "value": 1036.65,
+      "trade": "GLD LONG"
+    },
+    {
+      "date": "2026-06-17",
+      "value": 1037.92
     }
   ],
   "monthly_pnl": [
@@ -431,7 +436,7 @@
     },
     {
       "month": "2026-06",
-      "pnl": 57.68
+      "pnl": 58.13
     }
   ],
   "ticker_pnl": [
@@ -484,12 +489,12 @@
       "pnl": 0.31
     },
     {
-      "ticker": "GLD",
-      "pnl": -0.28
-    },
-    {
       "ticker": "SPY",
       "pnl": 0.26
+    },
+    {
+      "ticker": "GLD",
+      "pnl": 0.17
     },
     {
       "ticker": "IWM",
@@ -619,23 +624,23 @@
     },
     {
       "date": "2026-07-17",
-      "value": 1061.58,
-      "lower": 1050.77,
-      "upper": 1072.38,
+      "value": 1062.14,
+      "lower": 1051.39,
+      "upper": 1072.89,
       "forecast": true
     },
     {
       "date": "2026-08-16",
-      "value": 1090.94,
-      "lower": 1080.13,
-      "upper": 1101.74,
+      "value": 1091.75,
+      "lower": 1081.0,
+      "upper": 1102.5,
       "forecast": true
     },
     {
       "date": "2026-09-15",
-      "value": 1120.3,
-      "lower": 1109.49,
-      "upper": 1131.11,
+      "value": 1121.36,
+      "lower": 1110.61,
+      "upper": 1132.11,
       "forecast": true
     }
   ],
@@ -992,8 +997,13 @@
     },
     {
       "date": "2026-06-17",
-      "drawdown_pct": 0.0,
-      "value": 1038.39
+      "drawdown_pct": 0.13,
+      "value": 1036.65
+    },
+    {
+      "date": "2026-06-17",
+      "drawdown_pct": 0.01,
+      "value": 1037.92
     }
   ],
   "positions": [
@@ -1032,33 +1042,16 @@
       "opened_at": "2026-06-16T16:05:09.083168"
     },
     {
-      "ticker": "GLD",
-      "direction": "LONG",
-      "entry": 341.83,
-      "size": 0.5771,
-      "invested": 197.27,
-      "leverage": 1,
-      "sl": 331.57,
-      "tp1": 362.34,
-      "tp2": null,
-      "budget_pct": 19.0,
-      "confidence": 7,
-      "is_crypto": false,
-      "at_tp1": false,
-      "reason": "hedge ouro",
-      "opened_at": "2026-06-16T16:05:11.112070"
-    },
-    {
       "ticker": "BTC",
       "direction": "LONG",
       "entry": 56652,
-      "size": 0.004,
-      "invested": 76.34,
+      "size": 0.0027,
+      "invested": 51.15,
       "leverage": 3,
       "sl": 55000.0,
       "tp1": 60500.0,
       "tp2": null,
-      "budget_pct": 7.3,
+      "budget_pct": 4.9,
       "confidence": 7,
       "is_crypto": true,
       "at_tp1": false,
@@ -1067,6 +1060,13 @@
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "GLD",
+      "direction": "LONG",
+      "pnl": 0.45,
+      "reason": "Contra-tend\u00eancia + R/R 1.78:1 < 2:1 + Risk Manager rejeitou",
+      "closed_at": "2026-06-17T10:13:41.818281"
+    },
     {
       "ticker": "BTC",
       "direction": "LONG",
@@ -1199,16 +1199,107 @@
       "pnl": -3.78,
       "reason": "\ud83d\udd34 STOP LOSS",
       "closed_at": "2026-05-13T09:46:59.957451"
-    },
-    {
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": -1.15,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "closed_at": "2026-05-13T02:24:03.147894"
     }
   ],
   "recent_sessions": [
+    {
+      "id": "ce135f7b",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-17T09:13:44.051Z",
+      "completed": ""
+    },
+    {
+      "id": "ab6e144f",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-17T09:08:05.919Z",
+      "completed": ""
+    },
+    {
+      "id": "573f721a",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-17T09:01:06.642Z",
+      "completed": ""
+    },
+    {
+      "id": "077b98da",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-17T09:01:06.189Z",
+      "completed": ""
+    },
+    {
+      "id": "b78a579a",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-17T09:01:00.680Z",
+      "completed": ""
+    },
+    {
+      "id": "7b4353fa",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-17T09:01:00.516Z",
+      "completed": ""
+    },
+    {
+      "id": "abdf46de",
+      "agent": "Desconhecido",
+      "status": "cancelled",
+      "created": "2026-06-17T09:00:55.307Z",
+      "completed": ""
+    },
+    {
+      "id": "f97cae24",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-17T09:00:55.159Z",
+      "completed": ""
+    },
+    {
+      "id": "1c1c29fd",
+      "agent": "Desconhecido",
+      "status": "cancelled",
+      "created": "2026-06-17T09:00:49.877Z",
+      "completed": ""
+    },
+    {
+      "id": "b67e2117",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-17T09:00:49.314Z",
+      "completed": ""
+    },
+    {
+      "id": "7b2353ef",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-17T09:00:47.669Z",
+      "completed": ""
+    },
+    {
+      "id": "129c7e08",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-17T09:00:47.587Z",
+      "completed": ""
+    },
+    {
+      "id": "b8f58aba",
+      "agent": "Desconhecido",
+      "status": "cancelled",
+      "created": "2026-06-17T09:00:46.464Z",
+      "completed": ""
+    },
+    {
+      "id": "118f7cd4",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-17T09:00:46.427Z",
+      "completed": ""
+    },
     {
       "id": "acfd745b",
       "agent": "Desconhecido",
@@ -1250,107 +1341,18 @@
       "status": "succeeded",
       "created": "2026-06-17T05:00:48.027Z",
       "completed": ""
-    },
-    {
-      "id": "beeb755f",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-17T05:00:46.316Z",
-      "completed": ""
-    },
-    {
-      "id": "2b47a270",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-17T05:00:44.883Z",
-      "completed": ""
-    },
-    {
-      "id": "d3e4e52c",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-16T18:17:32.258Z",
-      "completed": ""
-    },
-    {
-      "id": "109a7069",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-16T18:16:57.444Z",
-      "completed": ""
-    },
-    {
-      "id": "1c49e288",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-16T18:14:24.753Z",
-      "completed": ""
-    },
-    {
-      "id": "525890c8",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-16T18:13:11.640Z",
-      "completed": ""
-    },
-    {
-      "id": "e3ffbd83",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-16T18:11:37.565Z",
-      "completed": ""
-    },
-    {
-      "id": "887a39c5",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-16T18:10:03.904Z",
-      "completed": ""
-    },
-    {
-      "id": "e26c8484",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-16T18:06:33.791Z",
-      "completed": ""
-    },
-    {
-      "id": "f52a57bb",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-16T18:06:10.547Z",
-      "completed": ""
-    },
-    {
-      "id": "2a108141",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-16T14:26:24.788Z",
-      "completed": ""
-    },
-    {
-      "id": "7d4d8590",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-16T14:24:20.175Z",
-      "completed": ""
-    },
-    {
-      "id": "fb1fbde0",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-16T14:17:17.883Z",
-      "completed": ""
-    },
-    {
-      "id": "aaa95f45",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-16T14:17:15.484Z",
-      "completed": ""
     }
   ],
   "activity_feed": [
+    {
+      "type": "close",
+      "ticker": "GLD",
+      "direction": "LONG",
+      "pnl": 0.45,
+      "reason": "Contra-tend\u00eancia + R/R 1.78:1 < 2:1 + Risk Manager rejeitou",
+      "date": "2026-06-17T10:13",
+      "id": 37
+    },
     {
       "type": "auto_trim",
       "ticker": "BTC",
@@ -1881,15 +1883,6 @@
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-09T09:25",
       "id": 11
-    },
-    {
-      "type": "sl_hit",
-      "ticker": "QQQ",
-      "direction": "SHORT",
-      "pnl": -1.5,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-05-09T09:04",
-      "id": 7
     }
   ],
   "session_analysis": [
