@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T09:30:36.946642+00:00",
+  "generated_at": "2026-06-18T09:45:37.456123+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1892,6 +1892,14 @@
   ],
   "session_analysis": [
     {
+      "session_type": "MEIODIA",
+      "session_num": 40,
+      "date": "18/06/2026 10:15",
+      "summary": "Postmortem conclu\u00eddo. Score: 4/10. Ver an\u00e1lise completa no [coment\u00e1rio acima](/GTAA/issues/GTAA-489#comment-b9807a4d).",
+      "trades": [],
+      "findings": []
+    },
+    {
       "session_type": "MANHA",
       "session_num": 39,
       "date": "18/06/2026 09:31",
@@ -1977,25 +1985,9 @@
         "- **CLOSE_PARTIAL AAPL/SOL/BNB** \u2014 correto por imposi\u00e7\u00e3o de regras de gest\u00e3o de risco (limites de concentra\u00e7\u00e3o). N\u00e3o foi uma decis\u00e3o discricion\u00e1ria; foi cumprimento de regras pr\u00e9-definidas. Avalia\u00e7\u00e3o:",
         "- **OPEN NVDA LONG** \u2014 logicamente consistente: RSI 64.2, UPTREND, setor AI em momentum, regime RISK-ON. R/R 2.24:1 est"
       ]
-    },
-    {
-      "session_type": "PRE_NOITE",
-      "session_num": 26,
-      "date": "12/05/2026 19:03",
-      "summary": "## \ud83d\udccb POSTMORTEM \u2014 Sess\u00e3o PRE_NOITE #26 \u2014 12/05/2026 19:03\n\n---\n\n### 1. OS TRADES ABERTOS FAZIAM SENTIDO DADO O CONTEXTO MACRO?\n\n**BTC SHORT** \u2705 Fundamentado\n- DOWNTREND confirmado + MACD extremamente negativo (-244 vs signal -187) + yields 4.457% pressionam cripto = tese coerente e multi-confirmada.\n- Intraday -1.77% fornece momentum alinhado com dire\u00e7\u00e3o.\n- Ressalva: o SL de apenas 205 pontos (~0.30%) \u00e9 excecionalmente apertado para BTC com leverage 3x. Uma vela de volatilidade normal pode acionar o SL mesmo sem revers\u00e3o estrutural.\n\n**QQQ SHORT** \u2705 Fundamentado, com flag de sobreposi\u00e7\u00e3o\n- MACD bearish cross + RSI 35 (espa\u00e7o para S2) + yields 4.457% pressionam tech growth = tese s\u00f3lida.\n- R/R 2.9:1 respeita o m\u00ednimo. SL de 2 pontos (~0.33%) \u2014 igual problema de estreiteza.\n- \u26a0\ufe0f **FLAG CR\u00cdTI",
-      "trades": [],
-      "findings": [
-        "- Intraday -1.77% fornece momentum alinhado com dire\u00e7\u00e3o.",
-        "- R/R 2.9:1 respeita o m\u00ednimo. SL de 2 pontos (~0.33%) \u2014 igual problema de estreiteza."
-      ]
     }
   ],
   "news_alerts": [
-    {
-      "time": "18/06 06:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: US and Iran Sign Interim Peace Deal",
-      "title": "US and Iran Sign Interim Peace Deal"
-    },
     {
       "time": "18/06 06:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Copper Falls After Fed Chairman Warsh Positions as Inflation Hawk",
@@ -2090,6 +2082,11 @@
       "time": "18/06 10:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Goldman\u2019s Kaplan Says Fed May Need to Hike as Soon as September",
       "title": "Goldman\u2019s Kaplan Says Fed May Need to Hike as Soon as September"
+    },
+    {
+      "time": "18/06 10:45",
+      "source": "**NYT World**: Iran Gets Major Economic Lifeline for Minimal Concessions in Initial Deal",
+      "title": "Iran Gets Major Economic Lifeline for Minimal Concessions in Initial Deal"
     }
   ]
 }
