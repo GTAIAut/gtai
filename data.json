@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T16:38:24.183763+00:00",
+  "generated_at": "2026-06-18T16:45:37.237754+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "16/20",
+    "recent_session_rate": "18/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1203,14 +1203,14 @@
     {
       "id": "d1924880",
       "agent": "Desconhecido",
-      "status": "queued",
+      "status": "succeeded",
       "created": "2026-06-18T16:36:23.227Z",
       "completed": ""
     },
     {
       "id": "b6d6c748",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-18T16:36:13.059Z",
       "completed": ""
     },
@@ -1983,11 +1983,6 @@
   "news_alerts": [
     {
       "time": "18/06 13:30",
-      "source": "**NYT World**: Hegseth Berates NATO Allies for \u2018Shameful\u2019 Response to U.S. War in Iran",
-      "title": "Hegseth Berates NATO Allies for \u2018Shameful\u2019 Response to U.S. War in Iran"
-    },
-    {
-      "time": "18/06 13:30",
       "source": "**NYT World**: Israel Stunned by Trump\u2019s Iran Deal",
       "title": "Israel Stunned by Trump\u2019s Iran Deal"
     },
@@ -2080,6 +2075,11 @@
       "time": "18/06 17:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Paramount-Warner\u2019s \u2018Too Low\u2019 Deal Odds Leave Room for Arb Profit",
       "title": "Paramount-Warner\u2019s \u2018Too Low\u2019 Deal Odds Leave Room for Arb Profit"
+    },
+    {
+      "time": "18/06 17:45",
+      "source": "**NYT World**: Iran War Live Updates: Vance Defends Iran Deal, With a Blunt Warning to Israel",
+      "title": "Iran War Live Updates: Vance Defends Iran Deal, With a Blunt Warning to Israel"
     }
   ]
 }
