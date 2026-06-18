@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T21:59:41.497818+00:00",
+  "generated_at": "2026-06-18T04:00:36.918998+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -425,7 +425,7 @@
       "trade": "GLD LONG"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "value": 1037.92
     }
   ],
@@ -623,24 +623,29 @@
       "forecast": false
     },
     {
-      "date": "2026-07-17",
-      "value": 1062.14,
-      "lower": 1051.39,
-      "upper": 1072.89,
+      "date": "2026-06-18",
+      "value": 1037.92,
+      "forecast": false
+    },
+    {
+      "date": "2026-07-18",
+      "value": 1063.0,
+      "lower": 1052.27,
+      "upper": 1073.74,
       "forecast": true
     },
     {
-      "date": "2026-08-16",
-      "value": 1091.75,
-      "lower": 1081.0,
-      "upper": 1102.5,
+      "date": "2026-08-17",
+      "value": 1092.56,
+      "lower": 1081.83,
+      "upper": 1103.3,
       "forecast": true
     },
     {
-      "date": "2026-09-15",
-      "value": 1121.36,
-      "lower": 1110.61,
-      "upper": 1132.11,
+      "date": "2026-09-16",
+      "value": 1122.12,
+      "lower": 1111.38,
+      "upper": 1132.85,
       "forecast": true
     }
   ],
@@ -1001,7 +1006,7 @@
       "value": 1036.65
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "drawdown_pct": 0.01,
       "value": 1037.92
     }
