@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T16:15:37.210173+00:00",
+  "generated_at": "2026-06-18T16:30:37.274175+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "18/20",
+    "recent_session_rate": "17/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1201,6 +1201,13 @@
   ],
   "recent_sessions": [
     {
+      "id": "e5320873",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-18T16:29:10.968Z",
+      "completed": ""
+    },
+    {
       "id": "720f5a46",
       "agent": "Desconhecido",
       "status": "failed",
@@ -1331,13 +1338,6 @@
       "agent": "Desconhecido",
       "status": "succeeded",
       "created": "2026-06-18T15:39:53.186Z",
-      "completed": ""
-    },
-    {
-      "id": "db1efa97",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-18T15:38:53.196Z",
       "completed": ""
     }
   ],
@@ -1983,11 +1983,6 @@
   "news_alerts": [
     {
       "time": "18/06 13:30",
-      "source": "**NYT World**: Iran War Live Updates: Oil Prices Fall as U.S.-Iran Deal Offers Hope for Shipping",
-      "title": "Iran War Live Updates: Oil Prices Fall as U.S.-Iran Deal Offers Hope for Shipping"
-    },
-    {
-      "time": "18/06 13:30",
       "source": "**NYT World**: Hegseth Berates NATO Allies for \u2018Shameful\u2019 Response to U.S. War in Iran",
       "title": "Hegseth Berates NATO Allies for \u2018Shameful\u2019 Response to U.S. War in Iran"
     },
@@ -2080,6 +2075,11 @@
       "time": "18/06 17:15",
       "source": "\ud83d\udcf0 **BBC News**: Bowen: US-Iran deal raises inescapable question of what the war was for",
       "title": "Bowen: US-Iran deal raises inescapable question of what the war was for"
+    },
+    {
+      "time": "18/06 17:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Paramount-Warner\u2019s \u2018Too Low\u2019 Deal Odds Leave Room for Arb Profit",
+      "title": "Paramount-Warner\u2019s \u2018Too Low\u2019 Deal Odds Leave Room for Arb Profit"
     }
   ]
 }
