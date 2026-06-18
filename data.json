@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T10:00:37.738986+00:00",
+  "generated_at": "2026-06-18T10:15:37.123135+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "12/20",
+    "recent_session_rate": "9/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1208,6 +1208,27 @@
   ],
   "recent_sessions": [
     {
+      "id": "cbb52057",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-18T10:02:15.855Z",
+      "completed": ""
+    },
+    {
+      "id": "a4e41651",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-18T10:01:45.845Z",
+      "completed": ""
+    },
+    {
+      "id": "09aaf030",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-18T10:00:45.861Z",
+      "completed": ""
+    },
+    {
       "id": "04f8ee73",
       "agent": "Desconhecido",
       "status": "failed",
@@ -1324,27 +1345,6 @@
       "agent": "Desconhecido",
       "status": "failed",
       "created": "2026-06-18T09:00:23.125Z",
-      "completed": ""
-    },
-    {
-      "id": "bf06ab8d",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-18T09:00:22.781Z",
-      "completed": ""
-    },
-    {
-      "id": "f633cdc7",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-18T09:00:19.284Z",
-      "completed": ""
-    },
-    {
-      "id": "b3a52245",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-18T09:00:19.250Z",
       "completed": ""
     }
   ],
@@ -1990,16 +1990,6 @@
   "news_alerts": [
     {
       "time": "18/06 06:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Copper Falls After Fed Chairman Warsh Positions as Inflation Hawk",
-      "title": "Copper Falls After Fed Chairman Warsh Positions as Inflation Hawk"
-    },
-    {
-      "time": "18/06 06:15",
-      "source": "\ud83d\udcf0 **BBC News**: US and Iranian presidents sign deal aiming to end war",
-      "title": "US and Iranian presidents sign deal aiming to end war"
-    },
-    {
-      "time": "18/06 06:15",
       "source": "**NYT World**: U.S. Details Agreement With Iran as Trump Departs G7 Summit",
       "title": "U.S. Details Agreement With Iran as Trump Departs G7 Summit"
     },
@@ -2087,6 +2077,16 @@
       "time": "18/06 10:45",
       "source": "**NYT World**: Iran Gets Major Economic Lifeline for Minimal Concessions in Initial Deal",
       "title": "Iran Gets Major Economic Lifeline for Minimal Concessions in Initial Deal"
+    },
+    {
+      "time": "18/06 11:15",
+      "source": "\ud83d\udcf0 **BBC News**: Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
+      "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war"
+    },
+    {
+      "time": "18/06 11:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Intel Shares Soar After Trump Says It Struck Apple Chip Deal",
+      "title": "Intel Shares Soar After Trump Says It Struck Apple Chip Deal"
     }
   ]
 }
