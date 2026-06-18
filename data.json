@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T08:32:01.549902+00:00",
+  "generated_at": "2026-06-18T08:45:38.318294+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "12/20",
+    "recent_session_rate": "16/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1208,16 +1208,93 @@
   ],
   "recent_sessions": [
     {
-      "id": "488e32f0",
+      "id": "5ccd990b",
       "agent": "Desconhecido",
       "status": "running",
+      "created": "2026-06-18T08:45:15.489Z",
+      "completed": ""
+    },
+    {
+      "id": "13bbd5e4",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-18T08:44:15.490Z",
+      "completed": ""
+    },
+    {
+      "id": "df32c766",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-18T08:43:15.487Z",
+      "completed": ""
+    },
+    {
+      "id": "05b73551",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-18T08:41:45.486Z",
+      "completed": ""
+    },
+    {
+      "id": "d174477e",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-18T08:40:45.460Z",
+      "completed": ""
+    },
+    {
+      "id": "89f58aa6",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-18T08:39:45.465Z",
+      "completed": ""
+    },
+    {
+      "id": "61cbc31c",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-18T08:38:47.010Z",
+      "completed": ""
+    },
+    {
+      "id": "66852f63",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-18T08:38:15.434Z",
+      "completed": ""
+    },
+    {
+      "id": "8325a556",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-18T08:37:15.435Z",
+      "completed": ""
+    },
+    {
+      "id": "6ec8f3b2",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-18T08:35:45.434Z",
+      "completed": ""
+    },
+    {
+      "id": "b6367ca1",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-18T08:34:15.446Z",
+      "completed": ""
+    },
+    {
+      "id": "488e32f0",
+      "agent": "Desconhecido",
+      "status": "succeeded",
       "created": "2026-06-18T08:31:56.948Z",
       "completed": ""
     },
     {
       "id": "a6c1ec9b",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-18T08:31:15.427Z",
       "completed": ""
     },
@@ -1268,83 +1345,6 @@
       "agent": "Desconhecido",
       "status": "failed",
       "created": "2026-06-18T08:04:35.016Z",
-      "completed": ""
-    },
-    {
-      "id": "bd503544",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-18T07:59:32.625Z",
-      "completed": ""
-    },
-    {
-      "id": "4c30b80a",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-18T07:56:31.248Z",
-      "completed": ""
-    },
-    {
-      "id": "1badf14b",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-18T07:49:54.245Z",
-      "completed": ""
-    },
-    {
-      "id": "2a1af52f",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-18T07:42:53.621Z",
-      "completed": ""
-    },
-    {
-      "id": "43c136e9",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-18T07:42:52.238Z",
-      "completed": ""
-    },
-    {
-      "id": "2faf8672",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-18T07:42:51.665Z",
-      "completed": ""
-    },
-    {
-      "id": "8eaeecb0",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-18T07:42:51.270Z",
-      "completed": ""
-    },
-    {
-      "id": "1daa1d6a",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-18T07:42:50.277Z",
-      "completed": ""
-    },
-    {
-      "id": "0637251f",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-18T07:42:49.416Z",
-      "completed": ""
-    },
-    {
-      "id": "fb45f874",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-18T05:37:29.421Z",
-      "completed": ""
-    },
-    {
-      "id": "e3c7bb66",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-18T05:07:22.799Z",
       "completed": ""
     }
   ],
@@ -1996,11 +1996,6 @@
   "news_alerts": [
     {
       "time": "22:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Warsh Says FOMC Had 'Good Family Fight' on Fed Policy as Rates Stay Steady",
-      "title": "Warsh Says FOMC Had 'Good Family Fight' on Fed Policy as Rates Stay Steady"
-    },
-    {
-      "time": "22:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Barings\u2019 High-Yield Playbook in a Warsh-Led Fed Era",
       "title": "Barings\u2019 High-Yield Playbook in a Warsh-Led Fed Era"
     },
@@ -2093,6 +2088,11 @@
       "time": "18/06 09:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Stock Gauge Nears Bear Market on Weak Growth, Tech Slide",
       "title": "China Stock Gauge Nears Bear Market on Weak Growth, Tech Slide"
+    },
+    {
+      "time": "18/06 09:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: First Saudi Supertankers Start Crossing Hormuz After Deal",
+      "title": "First Saudi Supertankers Start Crossing Hormuz After Deal"
     }
   ]
 }
