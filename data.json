@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T05:00:38.936756+00:00",
+  "generated_at": "2026-06-18T05:15:36.960544+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "9/20",
+    "recent_session_rate": "8/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1208,44 +1208,51 @@
   ],
   "recent_sessions": [
     {
+      "id": "e3c7bb66",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-18T05:07:22.799Z",
+      "completed": ""
+    },
+    {
       "id": "2bed2da6",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "failed",
       "created": "2026-06-18T05:00:22.846Z",
       "completed": ""
     },
     {
       "id": "659d4bf2",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "failed",
       "created": "2026-06-18T05:00:21.945Z",
       "completed": ""
     },
     {
       "id": "0fab826f",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "failed",
       "created": "2026-06-18T05:00:21.348Z",
       "completed": ""
     },
     {
       "id": "f3e8e801",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "failed",
       "created": "2026-06-18T05:00:20.828Z",
       "completed": ""
     },
     {
       "id": "44d4f305",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "failed",
       "created": "2026-06-18T05:00:19.901Z",
       "completed": ""
     },
     {
       "id": "32d21356",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "failed",
       "created": "2026-06-18T05:00:19.377Z",
       "completed": ""
     },
@@ -1338,13 +1345,6 @@
       "agent": "Desconhecido",
       "status": "failed",
       "created": "2026-06-17T13:00:23.779Z",
-      "completed": ""
-    },
-    {
-      "id": "b8cff89d",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-17T13:00:22.939Z",
       "completed": ""
     }
   ],
@@ -2018,6 +2018,31 @@
       "time": "22:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Fmr. Fed Vice Chair Blinder on FOMC Decision, Inflation",
       "title": "Fmr. Fed Vice Chair Blinder on FOMC Decision, Inflation"
+    },
+    {
+      "time": "18/06 06:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: US and Iran Sign Interim Peace Deal",
+      "title": "US and Iran Sign Interim Peace Deal"
+    },
+    {
+      "time": "18/06 06:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Copper Falls After Fed Chairman Warsh Positions as Inflation Hawk",
+      "title": "Copper Falls After Fed Chairman Warsh Positions as Inflation Hawk"
+    },
+    {
+      "time": "18/06 06:15",
+      "source": "\ud83d\udcf0 **BBC News**: US and Iranian presidents sign deal aiming to end war",
+      "title": "US and Iranian presidents sign deal aiming to end war"
+    },
+    {
+      "time": "18/06 06:15",
+      "source": "**NYT World**: U.S. Details Agreement With Iran as Trump Departs G7 Summit",
+      "title": "U.S. Details Agreement With Iran as Trump Departs G7 Summit"
+    },
+    {
+      "time": "18/06 06:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Oil and Gas Ships Cross Strait of Hormuz After US-Iran Deal",
+      "title": "Oil and Gas Ships Cross Strait of Hormuz After US-Iran Deal"
     }
   ]
 }
