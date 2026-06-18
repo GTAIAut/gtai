@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-06-18T10:15:37.123135+00:00",
+  "generated_at": "2026-06-18T16:09:05.705213+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": 36.59,
-    "total_pnl_pct": 3.66,
-    "cash_eur": 743.29,
-    "invested_eur": 294.63,
-    "portfolio_value": 1037.92,
-    "open_positions": 3,
-    "total_trades": 70,
-    "win_rate": 48.6,
+    "total_pnl_eur": 41.54,
+    "total_pnl_pct": 4.15,
+    "cash_eur": 789.43,
+    "invested_eur": 243.48,
+    "portfolio_value": 1032.91,
+    "open_positions": 2,
+    "total_trades": 71,
+    "win_rate": 47.9,
     "total_wins": 34,
-    "total_losses": 36,
+    "total_losses": 37,
     "avg_win": 2.86,
-    "avg_loss": -1.69,
+    "avg_loss": -1.78,
     "best_trade": {
       "id": 29,
       "ticker": "SOL",
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "9/20",
+    "recent_session_rate": "18/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -426,7 +426,12 @@
     },
     {
       "date": "2026-06-18",
-      "value": 1037.92
+      "value": 1031.64,
+      "trade": "BTC LONG"
+    },
+    {
+      "date": "2026-06-18",
+      "value": 1032.91
     }
   ],
   "monthly_pnl": [
@@ -436,7 +441,7 @@
     },
     {
       "month": "2026-06",
-      "pnl": 58.13
+      "pnl": 53.12
     }
   ],
   "ticker_pnl": [
@@ -465,6 +470,10 @@
       "pnl": -7.57
     },
     {
+      "ticker": "BTC",
+      "pnl": -7.35
+    },
+    {
       "ticker": "DOGE",
       "pnl": 6.92
     },
@@ -475,10 +484,6 @@
     {
       "ticker": "QQQ",
       "pnl": -2.7
-    },
-    {
-      "ticker": "BTC",
-      "pnl": -2.34
     },
     {
       "ticker": "ETH",
@@ -624,28 +629,28 @@
     },
     {
       "date": "2026-06-18",
-      "value": 1037.92,
+      "value": 1032.91,
       "forecast": false
     },
     {
       "date": "2026-07-18",
-      "value": 1063.0,
-      "lower": 1052.27,
-      "upper": 1073.74,
+      "value": 1062.08,
+      "lower": 1051.44,
+      "upper": 1072.71,
       "forecast": true
     },
     {
       "date": "2026-08-17",
-      "value": 1092.56,
-      "lower": 1081.83,
-      "upper": 1103.3,
+      "value": 1091.23,
+      "lower": 1080.59,
+      "upper": 1101.86,
       "forecast": true
     },
     {
       "date": "2026-09-16",
-      "value": 1122.12,
-      "lower": 1111.38,
-      "upper": 1132.85,
+      "value": 1120.38,
+      "lower": 1109.75,
+      "upper": 1131.01,
       "forecast": true
     }
   ],
@@ -1007,8 +1012,13 @@
     },
     {
       "date": "2026-06-18",
-      "drawdown_pct": 0.01,
-      "value": 1037.92
+      "drawdown_pct": 0.61,
+      "value": 1031.64
+    },
+    {
+      "date": "2026-06-18",
+      "drawdown_pct": 0.49,
+      "value": 1032.91
     }
   ],
   "positions": [
@@ -1045,26 +1055,16 @@
       "at_tp1": false,
       "reason": "Iran deal oil bearish",
       "opened_at": "2026-06-16T16:05:09.083168"
-    },
-    {
-      "ticker": "BTC",
-      "direction": "LONG",
-      "entry": 56652,
-      "size": 0.0027,
-      "invested": 51.15,
-      "leverage": 3,
-      "sl": 55000.0,
-      "tp1": 60500.0,
-      "tp2": null,
-      "budget_pct": 4.9,
-      "confidence": 7,
-      "is_crypto": true,
-      "at_tp1": false,
-      "reason": "Fear&Greed 22 Extreme Fear + peace deal + MACD a melhorar. DCA bounce. R/R 2.23:1.",
-      "opened_at": "2026-06-17T06:10:00.105752"
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "BTC",
+      "direction": "LONG",
+      "pnl": -5.01,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "closed_at": "2026-06-18T16:41:04.320524"
+    },
     {
       "ticker": "GLD",
       "direction": "LONG",
@@ -1197,158 +1197,160 @@
       "pnl": -3.75,
       "reason": "\ud83d\udd34 STOP LOSS",
       "closed_at": "2026-05-13T14:38:46.027750"
-    },
-    {
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": -3.78,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "closed_at": "2026-05-13T09:46:59.957451"
     }
   ],
   "recent_sessions": [
     {
-      "id": "cbb52057",
+      "id": "720f5a46",
       "agent": "Desconhecido",
       "status": "failed",
-      "created": "2026-06-18T10:02:15.855Z",
+      "created": "2026-06-18T15:56:53.200Z",
       "completed": ""
     },
     {
-      "id": "a4e41651",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-18T10:01:45.845Z",
-      "completed": ""
-    },
-    {
-      "id": "09aaf030",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-18T10:00:45.861Z",
-      "completed": ""
-    },
-    {
-      "id": "04f8ee73",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-18T10:00:15.860Z",
-      "completed": ""
-    },
-    {
-      "id": "12bf01b8",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-18T09:59:45.850Z",
-      "completed": ""
-    },
-    {
-      "id": "413d888a",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-18T09:58:45.855Z",
-      "completed": ""
-    },
-    {
-      "id": "244fe93c",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-18T09:58:15.851Z",
-      "completed": ""
-    },
-    {
-      "id": "74a21812",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-18T09:57:45.861Z",
-      "completed": ""
-    },
-    {
-      "id": "e60fb2f1",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-18T09:56:45.856Z",
-      "completed": ""
-    },
-    {
-      "id": "87efd757",
+      "id": "0e74bbdf",
       "agent": "Desconhecido",
       "status": "succeeded",
-      "created": "2026-06-18T09:15:39.255Z",
+      "created": "2026-06-18T15:56:23.257Z",
       "completed": ""
     },
     {
-      "id": "b749d799",
+      "id": "2fd7b53e",
       "agent": "Desconhecido",
       "status": "succeeded",
-      "created": "2026-06-18T09:14:46.555Z",
+      "created": "2026-06-18T15:56:23.202Z",
       "completed": ""
     },
     {
-      "id": "8cf6b1a1",
+      "id": "d657764f",
       "agent": "Desconhecido",
       "status": "succeeded",
-      "created": "2026-06-18T09:07:38.511Z",
+      "created": "2026-06-18T15:54:23.195Z",
       "completed": ""
     },
     {
-      "id": "2ba8b5f3",
+      "id": "b39511d3",
       "agent": "Desconhecido",
       "status": "succeeded",
-      "created": "2026-06-18T09:06:15.152Z",
+      "created": "2026-06-18T15:53:53.196Z",
       "completed": ""
     },
     {
-      "id": "b64bd0f4",
+      "id": "9b23f0ed",
       "agent": "Desconhecido",
       "status": "succeeded",
-      "created": "2026-06-18T09:00:39.921Z",
+      "created": "2026-06-18T15:52:53.188Z",
       "completed": ""
     },
     {
-      "id": "44293373",
+      "id": "80cc4645",
       "agent": "Desconhecido",
       "status": "succeeded",
-      "created": "2026-06-18T09:00:35.390Z",
+      "created": "2026-06-18T15:51:23.260Z",
       "completed": ""
     },
     {
-      "id": "8747a016",
+      "id": "e5d09889",
       "agent": "Desconhecido",
       "status": "succeeded",
-      "created": "2026-06-18T09:00:31.570Z",
+      "created": "2026-06-18T15:51:23.195Z",
       "completed": ""
     },
     {
-      "id": "75dbc537",
+      "id": "abc20ec2",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-18T15:49:53.190Z",
+      "completed": ""
+    },
+    {
+      "id": "3aa80ec9",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-18T15:48:53.197Z",
+      "completed": ""
+    },
+    {
+      "id": "5d83e4fa",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-18T15:47:53.190Z",
+      "completed": ""
+    },
+    {
+      "id": "8d6be96d",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-18T15:46:23.253Z",
+      "completed": ""
+    },
+    {
+      "id": "9cd134e9",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-18T15:46:23.182Z",
+      "completed": ""
+    },
+    {
+      "id": "4c189532",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-18T15:45:23.191Z",
+      "completed": ""
+    },
+    {
+      "id": "e430f57b",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-18T15:43:53.191Z",
+      "completed": ""
+    },
+    {
+      "id": "7d4f8cfd",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-18T15:42:53.250Z",
+      "completed": ""
+    },
+    {
+      "id": "299ccb65",
       "agent": "Desconhecido",
       "status": "failed",
-      "created": "2026-06-18T09:00:30.399Z",
+      "created": "2026-06-18T15:42:53.185Z",
       "completed": ""
     },
     {
-      "id": "a6f0d869",
+      "id": "4ea3422a",
       "agent": "Desconhecido",
       "status": "succeeded",
-      "created": "2026-06-18T09:00:26.522Z",
+      "created": "2026-06-18T15:41:23.187Z",
       "completed": ""
     },
     {
-      "id": "0dc1f6c7",
+      "id": "ab06f27b",
       "agent": "Desconhecido",
       "status": "succeeded",
-      "created": "2026-06-18T09:00:26.481Z",
+      "created": "2026-06-18T15:39:53.186Z",
       "completed": ""
     },
     {
-      "id": "e3f6effe",
+      "id": "db1efa97",
       "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-18T09:00:23.125Z",
+      "status": "succeeded",
+      "created": "2026-06-18T15:38:53.196Z",
       "completed": ""
     }
   ],
   "activity_feed": [
+    {
+      "type": "sl_hit",
+      "ticker": "BTC",
+      "direction": "LONG",
+      "pnl": -5.01,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-06-18T16:41",
+      "id": 38
+    },
     {
       "type": "close",
       "ticker": "GLD",
@@ -1879,15 +1881,6 @@
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-09T09:35",
       "id": 11
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "DOGE",
-      "direction": "SHORT",
-      "pnl": 0.05,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-09T09:25",
-      "id": 11
     }
   ],
   "session_analysis": [
@@ -1989,104 +1982,104 @@
   ],
   "news_alerts": [
     {
-      "time": "18/06 06:15",
-      "source": "**NYT World**: U.S. Details Agreement With Iran as Trump Departs G7 Summit",
-      "title": "U.S. Details Agreement With Iran as Trump Departs G7 Summit"
+      "time": "18/06 13:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: US Signs Deal With Iran, But Some Trump Allies Not Happy",
+      "title": "US Signs Deal With Iran, But Some Trump Allies Not Happy"
     },
     {
-      "time": "18/06 06:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Oil and Gas Ships Cross Strait of Hormuz After US-Iran Deal",
-      "title": "Oil and Gas Ships Cross Strait of Hormuz After US-Iran Deal"
+      "time": "18/06 13:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Signs Iran MoU, Warsh Rocks Bond Market in Debut | The Opening Trade 6/18/2026",
+      "title": "Trump Signs Iran MoU, Warsh Rocks Bond Market in Debut | The Opening Trade 6/18/2026"
     },
     {
-      "time": "18/06 07:00",
-      "source": "**Cointelegraph**: Crypto market treads thin ice following Warsh FOMC, Trump Iran comments",
-      "title": "Crypto market treads thin ice following Warsh FOMC, Trump Iran comments"
+      "time": "18/06 13:30",
+      "source": "**NYT World**: Iran War Live Updates: Oil Prices Fall as U.S.-Iran Deal Offers Hope for Shipping",
+      "title": "Iran War Live Updates: Oil Prices Fall as U.S.-Iran Deal Offers Hope for Shipping"
     },
     {
-      "time": "18/06 07:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Goldman Says Hormuz Oil Flows May Recover to Only 70% After War",
-      "title": "Goldman Says Hormuz Oil Flows May Recover to Only 70% After War"
+      "time": "18/06 13:30",
+      "source": "**NYT World**: Hegseth Berates NATO Allies for \u2018Shameful\u2019 Response to U.S. War in Iran",
+      "title": "Hegseth Berates NATO Allies for \u2018Shameful\u2019 Response to U.S. War in Iran"
     },
     {
-      "time": "18/06 07:30",
-      "source": "\ud83d\udcf0 **BBC News**: Interest rates expected to be held by Bank of England",
-      "title": "Interest rates expected to be held by Bank of England"
+      "time": "18/06 13:30",
+      "source": "**NYT World**: Israel Stunned by Trump\u2019s Iran Deal",
+      "title": "Israel Stunned by Trump\u2019s Iran Deal"
     },
     {
-      "time": "18/06 08:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Stock Gauge Heads for Bear Market as Tech Weakness Extends",
-      "title": "China Stock Gauge Heads for Bear Market as Tech Weakness Extends"
+      "time": "18/06 13:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Saudi, Qatar Add District Cooling Assets to Gulf Deals Pipeline",
+      "title": "Saudi, Qatar Add District Cooling Assets to Gulf Deals Pipeline"
     },
     {
-      "time": "18/06 08:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Fed Turns Hawkish, Spurs Surge in Rate Hike Bets | The China Show 6/18/2026",
-      "title": "Fed Turns Hawkish, Spurs Surge in Rate Hike Bets | The China Show 6/18/2026"
+      "time": "18/06 14:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Men Jailed in UK for China Spying Targeting Pro-Democracy Groups",
+      "title": "Men Jailed in UK for China Spying Targeting Pro-Democracy Groups"
     },
     {
-      "time": "18/06 08:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: JPMorgan\u2019s Ward Says Falling Oil Can Unleash European Stocks",
-      "title": "JPMorgan\u2019s Ward Says Falling Oil Can Unleash European Stocks"
+      "time": "18/06 14:30",
+      "source": "\ud83d\udcf0 **BBC News**: Interest rates held as Bank warns of impact of high energy prices",
+      "title": "Interest rates held as Bank warns of impact of high energy prices"
     },
     {
-      "time": "18/06 08:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China AI Lab\u2019s 170% Stock Surge Cements Winner-Loser Pair Trade",
-      "title": "China AI Lab\u2019s 170% Stock Surge Cements Winner-Loser Pair Trade"
+      "time": "18/06 14:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: The Crypto-Treasury Dream Unravels After a 90% Stock Plunge",
+      "title": "The Crypto-Treasury Dream Unravels After a 90% Stock Plunge"
     },
     {
-      "time": "18/06 09:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: This Hawkish Fed Was Good for Stocks: 3-Minutes MLIV",
-      "title": "This Hawkish Fed Was Good for Stocks: 3-Minutes MLIV"
+      "time": "18/06 14:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Goldman Sees More Two-Year Volatility Under Warsh Fed",
+      "title": "Goldman Sees More Two-Year Volatility Under Warsh Fed"
     },
     {
-      "time": "18/06 09:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Jumps as US-Iran Peace Deal Optimism Counters Hawkish Fed",
-      "title": "Gold Jumps as US-Iran Peace Deal Optimism Counters Hawkish Fed"
+      "time": "18/06 15:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Fed Proposes Payment Stablecoin Issuer Identification Program",
+      "title": "Fed Proposes Payment Stablecoin Issuer Identification Program"
     },
     {
-      "time": "18/06 09:15",
-      "source": "**NYT World**: Trump Angrily Defends Iran Deal and Reveals, Again, His Obsession With Obama",
-      "title": "Trump Angrily Defends Iran Deal and Reveals, Again, His Obsession With Obama"
+      "time": "18/06 15:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Dollar Rally Builds as Hawkish Fed Meeting Stokes Rate-Hike Bets",
+      "title": "Dollar Rally Builds as Hawkish Fed Meeting Stokes Rate-Hike Bets"
     },
     {
-      "time": "18/06 09:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Stock Gauge Nears Bear Market on Weak Growth, Tech Slide",
-      "title": "China Stock Gauge Nears Bear Market on Weak Growth, Tech Slide"
+      "time": "18/06 16:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Kroger Falls on Downbeat Forecast; Intel Surges on Apple Deal | Stock Movers",
+      "title": "Kroger Falls on Downbeat Forecast; Intel Surges on Apple Deal | Stock Movers"
     },
     {
-      "time": "18/06 09:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: First Saudi Supertankers Start Crossing Hormuz After Deal",
-      "title": "First Saudi Supertankers Start Crossing Hormuz After Deal"
+      "time": "18/06 16:15",
+      "source": "**NYT World**: Iran War Live Updates: Vance to Brief Reporters on Iran Deal as Criticism Mounts",
+      "title": "Iran War Live Updates: Vance to Brief Reporters on Iran Deal as Criticism Mounts"
     },
     {
-      "time": "18/06 10:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Hong Kong to Launch China Bond Futures to Promote Yuan",
-      "title": "Hong Kong to Launch China Bond Futures to Promote Yuan"
+      "time": "18/06 16:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Stocks Join Bonds Higher as US-Iran Deal Sinks\u00a0Oil",
+      "title": "Stocks Join Bonds Higher as US-Iran Deal Sinks\u00a0Oil"
     },
     {
-      "time": "18/06 10:15",
-      "source": "**NYT World**: Taiwan\u2019s President Says He Trusts Trump to Approve Arms Sales",
-      "title": "Taiwan\u2019s President Says He Trusts Trump to Approve Arms Sales"
+      "time": "18/06 16:15",
+      "source": "\ud83d\udcf0 **BBC News**: Weapons, money and ships: How is this Iran deal different from others?",
+      "title": "Weapons, money and ships: How is this Iran deal different from others?"
     },
     {
-      "time": "18/06 10:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Goldman\u2019s Kaplan Says Fed May Need to Hike as Soon as September",
-      "title": "Goldman\u2019s Kaplan Says Fed May Need to Hike as Soon as September"
+      "time": "18/06 16:30",
+      "source": "**NYT World**: Iran War Live Updates: Vance Briefs Reporters on Iran Deal as Criticism Mounts",
+      "title": "Iran War Live Updates: Vance Briefs Reporters on Iran Deal as Criticism Mounts"
     },
     {
-      "time": "18/06 10:45",
-      "source": "**NYT World**: Iran Gets Major Economic Lifeline for Minimal Concessions in Initial Deal",
-      "title": "Iran Gets Major Economic Lifeline for Minimal Concessions in Initial Deal"
+      "time": "18/06 16:45",
+      "source": "**NYT World**: Iran War Live Updates: Vance Defends Iran Deal as Criticism Mounts",
+      "title": "Iran War Live Updates: Vance Defends Iran Deal as Criticism Mounts"
     },
     {
-      "time": "18/06 11:15",
-      "source": "\ud83d\udcf0 **BBC News**: Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
-      "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war"
+      "time": "18/06 16:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Iran Deal Leaves Questions: Paggi",
+      "title": "Iran Deal Leaves Questions: Paggi"
     },
     {
-      "time": "18/06 11:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Intel Shares Soar After Trump Says It Struck Apple Chip Deal",
-      "title": "Intel Shares Soar After Trump Says It Struck Apple Chip Deal"
+      "time": "18/06 17:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: First Brands Lender Can\u2019t Distribute Cash From Bankruptcy Sales",
+      "title": "First Brands Lender Can\u2019t Distribute Cash From Bankruptcy Sales"
     }
   ]
 }
