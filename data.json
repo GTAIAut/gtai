@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T08:00:37.175551+00:00",
+  "generated_at": "2026-06-18T08:15:37.227304+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "10/20",
+    "recent_session_rate": "12/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1208,9 +1208,58 @@
   ],
   "recent_sessions": [
     {
+      "id": "4075ff99",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-18T08:11:47.722Z",
+      "completed": ""
+    },
+    {
+      "id": "0fc13569",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-18T08:04:47.856Z",
+      "completed": ""
+    },
+    {
+      "id": "d7ed39d8",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-18T08:04:44.481Z",
+      "completed": ""
+    },
+    {
+      "id": "1d839201",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-18T08:04:40.462Z",
+      "completed": ""
+    },
+    {
+      "id": "d4ed1625",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-18T08:04:37.585Z",
+      "completed": ""
+    },
+    {
+      "id": "07110c9e",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-18T08:04:36.236Z",
+      "completed": ""
+    },
+    {
+      "id": "7b3ee894",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-18T08:04:35.016Z",
+      "completed": ""
+    },
+    {
       "id": "bd503544",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-18T07:59:32.625Z",
       "completed": ""
     },
@@ -1296,55 +1345,6 @@
       "agent": "Desconhecido",
       "status": "failed",
       "created": "2026-06-18T05:00:21.945Z",
-      "completed": ""
-    },
-    {
-      "id": "0fab826f",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-18T05:00:21.348Z",
-      "completed": ""
-    },
-    {
-      "id": "f3e8e801",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-18T05:00:20.828Z",
-      "completed": ""
-    },
-    {
-      "id": "44d4f305",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-18T05:00:19.901Z",
-      "completed": ""
-    },
-    {
-      "id": "32d21356",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-18T05:00:19.377Z",
-      "completed": ""
-    },
-    {
-      "id": "8957c426",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-17T15:13:23.448Z",
-      "completed": ""
-    },
-    {
-      "id": "abf2b81b",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-17T15:10:22.835Z",
-      "completed": ""
-    },
-    {
-      "id": "15c31a01",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-17T15:03:25.096Z",
       "completed": ""
     }
   ],
@@ -2083,6 +2083,16 @@
       "time": "18/06 09:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: This Hawkish Fed Was Good for Stocks: 3-Minutes MLIV",
       "title": "This Hawkish Fed Was Good for Stocks: 3-Minutes MLIV"
+    },
+    {
+      "time": "18/06 09:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Jumps as US-Iran Peace Deal Optimism Counters Hawkish Fed",
+      "title": "Gold Jumps as US-Iran Peace Deal Optimism Counters Hawkish Fed"
+    },
+    {
+      "time": "18/06 09:15",
+      "source": "**NYT World**: Trump Angrily Defends Iran Deal and Reveals, Again, His Obsession With Obama",
+      "title": "Trump Angrily Defends Iran Deal and Reveals, Again, His Obsession With Obama"
     }
   ]
 }
