@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T06:45:36.893687+00:00",
+  "generated_at": "2026-06-18T07:00:36.891182+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2058,6 +2058,16 @@
       "time": "18/06 07:30",
       "source": "\ud83d\udcf0 **BBC News**: Interest rates expected to be held by Bank of England",
       "title": "Interest rates expected to be held by Bank of England"
+    },
+    {
+      "time": "18/06 08:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Stock Gauge Heads for Bear Market as Tech Weakness Extends",
+      "title": "China Stock Gauge Heads for Bear Market as Tech Weakness Extends"
+    },
+    {
+      "time": "18/06 08:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Fed Turns Hawkish, Spurs Surge in Rate Hike Bets | The China Show 6/18/2026",
+      "title": "Fed Turns Hawkish, Spurs Surge in Rate Hike Bets | The China Show 6/18/2026"
     }
   ]
 }
