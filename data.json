@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T08:30:37.237142+00:00",
+  "generated_at": "2026-06-18T08:32:01.549902+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1208,6 +1208,20 @@
   ],
   "recent_sessions": [
     {
+      "id": "488e32f0",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-18T08:31:56.948Z",
+      "completed": ""
+    },
+    {
+      "id": "a6c1ec9b",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-18T08:31:15.427Z",
+      "completed": ""
+    },
+    {
       "id": "4075ff99",
       "agent": "Desconhecido",
       "status": "succeeded",
@@ -1331,20 +1345,6 @@
       "agent": "Desconhecido",
       "status": "failed",
       "created": "2026-06-18T05:07:22.799Z",
-      "completed": ""
-    },
-    {
-      "id": "2bed2da6",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-18T05:00:22.846Z",
-      "completed": ""
-    },
-    {
-      "id": "659d4bf2",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-18T05:00:21.945Z",
       "completed": ""
     }
   ],
