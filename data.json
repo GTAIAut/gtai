@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T04:45:36.956675+00:00",
+  "generated_at": "2026-06-18T05:00:38.936756+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "15/20",
+    "recent_session_rate": "9/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1208,6 +1208,48 @@
   ],
   "recent_sessions": [
     {
+      "id": "2bed2da6",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-18T05:00:22.846Z",
+      "completed": ""
+    },
+    {
+      "id": "659d4bf2",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-18T05:00:21.945Z",
+      "completed": ""
+    },
+    {
+      "id": "0fab826f",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-18T05:00:21.348Z",
+      "completed": ""
+    },
+    {
+      "id": "f3e8e801",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-18T05:00:20.828Z",
+      "completed": ""
+    },
+    {
+      "id": "44d4f305",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-18T05:00:19.901Z",
+      "completed": ""
+    },
+    {
+      "id": "32d21356",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-18T05:00:19.377Z",
+      "completed": ""
+    },
+    {
       "id": "8957c426",
       "agent": "Desconhecido",
       "status": "succeeded",
@@ -1303,48 +1345,6 @@
       "agent": "Desconhecido",
       "status": "succeeded",
       "created": "2026-06-17T13:00:22.939Z",
-      "completed": ""
-    },
-    {
-      "id": "0402b674",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-17T13:00:21.056Z",
-      "completed": ""
-    },
-    {
-      "id": "5a389362",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-17T13:00:19.669Z",
-      "completed": ""
-    },
-    {
-      "id": "ce135f7b",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-17T09:13:44.051Z",
-      "completed": ""
-    },
-    {
-      "id": "ab6e144f",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-17T09:08:05.919Z",
-      "completed": ""
-    },
-    {
-      "id": "573f721a",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-17T09:01:06.642Z",
-      "completed": ""
-    },
-    {
-      "id": "077b98da",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-17T09:01:06.189Z",
       "completed": ""
     }
   ],
@@ -1893,6 +1893,16 @@
   "session_analysis": [
     {
       "session_type": "TARDE",
+      "session_num": 37,
+      "date": "17/06/2026 16:13",
+      "summary": "Postmortem conclu\u00eddo. Score: 7/10. An\u00e1lise detalhada publicada no coment\u00e1rio anterior com 5 categorias avaliadas, R/R calculado, problema de concentra\u00e7\u00e3o cripto identificado, e 4 li\u00e7\u00f5es concretas para sess\u00f5es futuras.",
+      "trades": [],
+      "findings": [
+        "Postmortem conclu\u00eddo. Score: 7/10. An\u00e1lise detalhada publicada no coment\u00e1rio anterior com 5 categorias avaliadas, R/R calculado, problema de concentra\u00e7\u00e3o cripto identificado, e 4 li\u00e7\u00f5es concretas para"
+      ]
+    },
+    {
+      "session_type": "TARDE",
       "session_num": 36,
       "date": "17/06/2026 14:11",
       "summary": "## POSTMORTEM \u2014 Sess\u00e3o TARDE #36 \u2014 Score: **6.0/10**\n\n### 1. Contexto Macro\n- USO SHORT CLOSE \u2705 Lucro garantido +\u20ac0.92 antes de Trump speak.\n- IWM LONG MANTER \u2705 Consolida\u00e7\u00e3o sem breakdown, VIX 16.\n- BTC LONG MANTER \u26a0\ufe0f Tese v\u00e1lida (F&G 22), mas SL ~1.8% \u00e9 noise trap em downtrend.\n- META SHORT 20% \u2705 RSI 82.3 OB \u2014 melhor SHORT do board.\n- TLT SHORT 20% \u2705 Yields 4.44%, CPI 3.0% ancora \u2014 mas TLT +0.11% hoje, timing prematuro.\n- GLD LONG 25% \u26a0\ufe0f Contradit\u00f3rio: fechado por R/R <2:1 na #35, reaberto maior posi\u00e7\u00e3o em #36.\n\n### 2. Limites de Risco\n- R/R \u2265 2:1 \u2705 Todos no limite (nada acima)\n- Max posi\u00e7\u00f5es \u2705 5 (limite)\n- Postmortem #35 \u26a0\ufe0f Violado (3 aberturas com P&L negativo). Exce\u00e7\u00e3o documentada mas cria precedente.\n- **Timing cr\u00edtico**: 3 posi\u00e7\u00f5es abertas 30 min antes do FOMC. Analista Macro recomen",
@@ -1980,18 +1990,6 @@
       "findings": [
         "**CLOSE META LONG \u2014 Correto.**",
         "**CLOSE_PARTIAL SOL / BNB / AVAX (33% cada) \u2014 Corretos, mas insuficientes.**"
-      ]
-    },
-    {
-      "session_type": "NOITE",
-      "session_num": 24,
-      "date": "11/05/2026 22:02",
-      "summary": "## \ud83d\udccb POSTMORTEM \u2014 Sess\u00e3o NOITE #24 \u2014 11/05/2026\n\n---\n\n### 1. OS TRADES FAZIAM SENTIDO DADO O CONTEXTO MACRO?\n\n**CLOSES (SOL SHORT, TSLA SHORT) \u2014 Corretos e necess\u00e1rios.**\n- SOL SHORT com perda de -8.4% num regime RISK-ON com RSI 66 e BB 84%: regra de fecho obrigat\u00f3rio aplicada corretamente. A posi\u00e7\u00e3o estava contra a tend\u00eancia macro dominante desde o in\u00edcio \u2014 este trade nunca deveria ter sido aberto em regime RISK-ON. Fecho tardio mas disciplinado.\n- TSLA SHORT com RSI 74.5 e momentum bullish forte: fecho preventivo antes de SL correto. Com SL a apenas 1.4% de dist\u00e2ncia e momentum contra a posi\u00e7\u00e3o, a gest\u00e3o de risco justifica a sa\u00edda imediata.\n\n**CLOSE_PARTIAL (AVAX 33%, AAPL 33%) \u2014 Corretos por obriga\u00e7\u00e3o de compliance.**\n- AVAX a 22.4% > limite 15% cripto: redu\u00e7\u00e3o obrigat\u00f3ria executada. No",
-      "trades": [],
-      "findings": [
-        "**CLOSES (SOL SHORT, TSLA SHORT) \u2014 Corretos e necess\u00e1rios.**",
-        "- TSLA SHORT com RSI 74.5 e momentum bullish forte: fecho preventivo antes de SL correto. Com SL a apenas 1.4% de dist\u00e2ncia e momentum contra a posi\u00e7\u00e3o, a gest\u00e3o de risco justifica a sa\u00edda imediata.",
-        "**CLOSE_PARTIAL (AVAX 33%, AAPL 33%) \u2014 Corretos por obriga\u00e7\u00e3o de compliance.**"
       ]
     }
   ],
