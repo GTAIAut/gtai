@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T08:15:37.227304+00:00",
+  "generated_at": "2026-06-18T08:30:37.237142+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1996,11 +1996,6 @@
   "news_alerts": [
     {
       "time": "22:45",
-      "source": "**NYT World**: Live Updates: U.S. Details Agreement With Iran as Trump Departs G7 Summit",
-      "title": "Live Updates: U.S. Details Agreement With Iran as Trump Departs G7 Summit"
-    },
-    {
-      "time": "22:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Warsh Says FOMC Had 'Good Family Fight' on Fed Policy as Rates Stay Steady",
       "title": "Warsh Says FOMC Had 'Good Family Fight' on Fed Policy as Rates Stay Steady"
     },
@@ -2093,6 +2088,11 @@
       "time": "18/06 09:15",
       "source": "**NYT World**: Trump Angrily Defends Iran Deal and Reveals, Again, His Obsession With Obama",
       "title": "Trump Angrily Defends Iran Deal and Reveals, Again, His Obsession With Obama"
+    },
+    {
+      "time": "18/06 09:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Stock Gauge Nears Bear Market on Weak Growth, Tech Slide",
+      "title": "China Stock Gauge Nears Bear Market on Weak Growth, Tech Slide"
     }
   ]
 }
