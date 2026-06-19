@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T06:00:37.069748+00:00",
+  "generated_at": "2026-06-19T06:15:37.229029+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2017,11 +2017,6 @@
   "news_alerts": [
     {
       "time": "18/06 16:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Stocks Join Bonds Higher as US-Iran Deal Sinks\u00a0Oil",
-      "title": "Stocks Join Bonds Higher as US-Iran Deal Sinks\u00a0Oil"
-    },
-    {
-      "time": "18/06 16:15",
       "source": "\ud83d\udcf0 **BBC News**: Weapons, money and ships: How is this Iran deal different from others?",
       "title": "Weapons, money and ships: How is this Iran deal different from others?"
     },
@@ -2114,6 +2109,11 @@
       "time": "19/06 07:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: US Launches Tariff Probe Into Germany Over Pharma Pricing",
       "title": "US Launches Tariff Probe Into Germany Over Pharma Pricing"
+    },
+    {
+      "time": "19/06 07:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Goldman Lops $500 Off Gold Target on No Fed Cuts This Year",
+      "title": "Goldman Lops $500 Off Gold Target on No Fed Cuts This Year"
     }
   ]
 }
