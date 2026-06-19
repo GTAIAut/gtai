@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T05:30:37.220715+00:00",
+  "generated_at": "2026-06-19T05:45:37.225168+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2016,11 +2016,6 @@
   ],
   "news_alerts": [
     {
-      "time": "18/06 16:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Kroger Falls on Downbeat Forecast; Intel Surges on Apple Deal | Stock Movers",
-      "title": "Kroger Falls on Downbeat Forecast; Intel Surges on Apple Deal | Stock Movers"
-    },
-    {
       "time": "18/06 16:15",
       "source": "**NYT World**: Iran War Live Updates: Vance to Brief Reporters on Iran Deal as Criticism Mounts",
       "title": "Iran War Live Updates: Vance to Brief Reporters on Iran Deal as Criticism Mounts"
@@ -2114,6 +2109,11 @@
       "time": "19/06 06:15",
       "source": "**Politico**: Jack Schlossberg on Trump, RFK Jr. and the future of the Democratic Party",
       "title": "Jack Schlossberg on Trump, RFK Jr. and the future of the Democratic Party"
+    },
+    {
+      "time": "19/06 06:45",
+      "source": "**Cointelegraph**: Microsoft warns users of 'Crypto Clipper' malware spread via USB drives",
+      "title": "Microsoft warns users of 'Crypto Clipper' malware spread via USB drives"
     }
   ]
 }
