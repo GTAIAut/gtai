@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T05:11:13.575115+00:00",
+  "generated_at": "2026-06-19T05:15:37.098605+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2016,31 +2016,6 @@
   ],
   "news_alerts": [
     {
-      "time": "18/06 14:30",
-      "source": "\ud83d\udcf0 **BBC News**: Interest rates held as Bank warns of impact of high energy prices",
-      "title": "Interest rates held as Bank warns of impact of high energy prices"
-    },
-    {
-      "time": "18/06 14:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: The Crypto-Treasury Dream Unravels After a 90% Stock Plunge",
-      "title": "The Crypto-Treasury Dream Unravels After a 90% Stock Plunge"
-    },
-    {
-      "time": "18/06 14:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Goldman Sees More Two-Year Volatility Under Warsh Fed",
-      "title": "Goldman Sees More Two-Year Volatility Under Warsh Fed"
-    },
-    {
-      "time": "18/06 15:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Fed Proposes Payment Stablecoin Issuer Identification Program",
-      "title": "Fed Proposes Payment Stablecoin Issuer Identification Program"
-    },
-    {
-      "time": "18/06 15:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Dollar Rally Builds as Hawkish Fed Meeting Stokes Rate-Hike Bets",
-      "title": "Dollar Rally Builds as Hawkish Fed Meeting Stokes Rate-Hike Bets"
-    },
-    {
       "time": "18/06 16:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Kroger Falls on Downbeat Forecast; Intel Surges on Apple Deal | Stock Movers",
       "title": "Kroger Falls on Downbeat Forecast; Intel Surges on Apple Deal | Stock Movers"
@@ -2114,6 +2089,31 @@
       "time": "18/06 18:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: BMO-led $775 Million Pellera Loan Deal Comes at Steep Discount",
       "title": "BMO-led $775 Million Pellera Loan Deal Comes at Steep Discount"
+    },
+    {
+      "time": "19/06 06:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Former Obama Diplomat: US-Iran Deal Favors Tehran",
+      "title": "Former Obama Diplomat: US-Iran Deal Favors Tehran"
+    },
+    {
+      "time": "19/06 06:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Emerging Equities Touch Record High as Iran Deal Takes Effect",
+      "title": "Emerging Equities Touch Record High as Iran Deal Takes Effect"
+    },
+    {
+      "time": "19/06 06:15",
+      "source": "**NYT World**: Vance Issues Blunt Warning to Israel as He Defends Trump\u2019s Deal",
+      "title": "Vance Issues Blunt Warning to Israel as He Defends Trump\u2019s Deal"
+    },
+    {
+      "time": "19/06 06:15",
+      "source": "\ud83d\udcf0 **BBC News**: US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
+      "title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'"
+    },
+    {
+      "time": "19/06 06:15",
+      "source": "**Politico**: Jack Schlossberg on Trump, RFK Jr. and the future of the Democratic Party",
+      "title": "Jack Schlossberg on Trump, RFK Jr. and the future of the Democratic Party"
     }
   ]
 }
