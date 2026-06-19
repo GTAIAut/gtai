@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T06:15:37.229029+00:00",
+  "generated_at": "2026-06-19T06:30:37.367352+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2016,11 +2016,6 @@
   ],
   "news_alerts": [
     {
-      "time": "18/06 16:15",
-      "source": "\ud83d\udcf0 **BBC News**: Weapons, money and ships: How is this Iran deal different from others?",
-      "title": "Weapons, money and ships: How is this Iran deal different from others?"
-    },
-    {
       "time": "18/06 16:30",
       "source": "**NYT World**: Iran War Live Updates: Vance Briefs Reporters on Iran Deal as Criticism Mounts",
       "title": "Iran War Live Updates: Vance Briefs Reporters on Iran Deal as Criticism Mounts"
@@ -2114,6 +2109,11 @@
       "time": "19/06 07:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Goldman Lops $500 Off Gold Target on No Fed Cuts This Year",
       "title": "Goldman Lops $500 Off Gold Target on No Fed Cuts This Year"
+    },
+    {
+      "time": "19/06 07:30",
+      "source": "\ud83d\udcf0 **BBC News**: In Trump's shadow, Vance becomes face of Iran deal",
+      "title": "In Trump's shadow, Vance becomes face of Iran deal"
     }
   ]
 }
