@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-19T09:00:37.212781+00:00",
+  "generated_at": "2026-06-19T09:10:23.746797+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": 36.95,
-    "total_pnl_pct": 3.7,
-    "cash_eur": 582.04,
-    "invested_eur": 450.87,
-    "portfolio_value": 1032.91,
-    "open_positions": 4,
+    "total_pnl_eur": 42.56,
+    "total_pnl_pct": 4.26,
+    "cash_eur": 477.79,
+    "invested_eur": 555.13,
+    "portfolio_value": 1032.92,
+    "open_positions": 5,
     "total_trades": 71,
     "win_rate": 47.9,
     "total_wins": 34,
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "15/20",
+    "recent_session_rate": "11/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -431,7 +431,7 @@
     },
     {
       "date": "2026-06-19",
-      "value": 1032.91
+      "value": 1032.92
     }
   ],
   "monthly_pnl": [
@@ -629,21 +629,21 @@
     },
     {
       "date": "2026-06-19",
-      "value": 1032.91,
+      "value": 1032.92,
       "forecast": false
     },
     {
       "date": "2026-07-19",
       "value": 1062.91,
       "lower": 1052.28,
-      "upper": 1073.54,
+      "upper": 1073.55,
       "forecast": true
     },
     {
       "date": "2026-08-18",
       "value": 1092.0,
       "lower": 1081.37,
-      "upper": 1102.63,
+      "upper": 1102.64,
       "forecast": true
     },
     {
@@ -1018,7 +1018,7 @@
     {
       "date": "2026-06-19",
       "drawdown_pct": 0.49,
-      "value": 1032.91
+      "value": 1032.92
     }
   ],
   "positions": [
@@ -1089,6 +1089,23 @@
       "at_tp1": false,
       "reason": "-9.06% 24h lideran\u00e7a bearish + momentum extremo sem sinal de bounce + Fear&Greed 14 + R/R 2.28:1",
       "opened_at": "2026-06-19T06:11:09.392704"
+    },
+    {
+      "ticker": "ETH",
+      "direction": "SHORT",
+      "entry": 1477.92,
+      "size": 0.1411,
+      "invested": 104.26,
+      "leverage": 2,
+      "sl": 1522.26,
+      "tp1": 1389.24,
+      "tp2": null,
+      "budget_pct": 10.0,
+      "confidence": 7,
+      "is_crypto": true,
+      "at_tp1": false,
+      "reason": "(downtrend + Fear&Greed 14)",
+      "opened_at": "2026-06-19T10:10:19.254151"
     }
   ],
   "recent_trades": [
@@ -1235,6 +1252,69 @@
   ],
   "recent_sessions": [
     {
+      "id": "3b6cf239",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-19T09:10:20.870Z",
+      "completed": ""
+    },
+    {
+      "id": "0619d1b0",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-19T09:08:24.536Z",
+      "completed": ""
+    },
+    {
+      "id": "db9dffdf",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-19T09:07:57.191Z",
+      "completed": ""
+    },
+    {
+      "id": "253e9e59",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-19T09:00:54.359Z",
+      "completed": ""
+    },
+    {
+      "id": "46d51e93",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-19T09:00:54.137Z",
+      "completed": ""
+    },
+    {
+      "id": "912cf33a",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-19T09:00:54.013Z",
+      "completed": ""
+    },
+    {
+      "id": "6f7eb843",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-19T09:00:53.891Z",
+      "completed": ""
+    },
+    {
+      "id": "9353471f",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-19T09:00:53.746Z",
+      "completed": ""
+    },
+    {
+      "id": "7e26e082",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-19T09:00:53.278Z",
+      "completed": ""
+    },
+    {
       "id": "8d4df39e",
       "agent": "Desconhecido",
       "status": "failed",
@@ -1309,69 +1389,6 @@
       "agent": "Desconhecido",
       "status": "succeeded",
       "created": "2026-06-18T16:36:13.059Z",
-      "completed": ""
-    },
-    {
-      "id": "e5320873",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-18T16:29:10.968Z",
-      "completed": ""
-    },
-    {
-      "id": "720f5a46",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-18T15:56:53.200Z",
-      "completed": ""
-    },
-    {
-      "id": "0e74bbdf",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-18T15:56:23.257Z",
-      "completed": ""
-    },
-    {
-      "id": "2fd7b53e",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-18T15:56:23.202Z",
-      "completed": ""
-    },
-    {
-      "id": "d657764f",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-18T15:54:23.195Z",
-      "completed": ""
-    },
-    {
-      "id": "b39511d3",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-18T15:53:53.196Z",
-      "completed": ""
-    },
-    {
-      "id": "9b23f0ed",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-18T15:52:53.188Z",
-      "completed": ""
-    },
-    {
-      "id": "80cc4645",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-18T15:51:23.260Z",
-      "completed": ""
-    },
-    {
-      "id": "e5d09889",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-18T15:51:23.195Z",
       "completed": ""
     }
   ],
