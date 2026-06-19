@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-19T13:30:37.188102+00:00",
+  "generated_at": "2026-06-19T13:41:34.596975+00:00",
   "portfolio": {
-    "initial_capital": 1000.0,
+    "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
     "total_pnl_eur": 42.56,
-    "total_pnl_pct": 4.26,
-    "cash_eur": 477.79,
-    "invested_eur": 555.13,
-    "portfolio_value": 1032.92,
+    "total_pnl_pct": 0.09,
+    "cash_eur": 23889.5,
+    "invested_eur": 27756.5,
+    "portfolio_value": 51646.0,
     "open_positions": 5,
     "total_trades": 71,
     "win_rate": 47.9,
@@ -72,366 +72,366 @@
   "equity_curve": [
     {
       "date": "2026-05-04T23:21:00",
-      "value": 1000.0
+      "value": 50000.0
     },
     {
       "date": "2026-05-06",
-      "value": 1002.1,
+      "value": 50002.1,
       "trade": "QQQ LONG"
     },
     {
       "date": "2026-05-06",
-      "value": 1003.89,
+      "value": 50003.89,
       "trade": "QQQ LONG"
     },
     {
       "date": "2026-05-06",
-      "value": 1003.48,
+      "value": 50003.48,
       "trade": "ETH LONG"
     },
     {
       "date": "2026-05-07",
-      "value": 1003.26,
+      "value": 50003.26,
       "trade": "ETH LONG"
     },
     {
       "date": "2026-05-07",
-      "value": 1002.31,
+      "value": 50002.31,
       "trade": "ETH LONG"
     },
     {
       "date": "2026-05-08",
-      "value": 1000.18,
+      "value": 50000.18,
       "trade": "BTC LONG"
     },
     {
       "date": "2026-05-08",
-      "value": 997.87,
+      "value": 49997.87,
       "trade": "META LONG"
     },
     {
       "date": "2026-05-08",
-      "value": 995.15,
+      "value": 49995.15,
       "trade": "AMD SHORT"
     },
     {
       "date": "2026-05-09",
-      "value": 990.3,
+      "value": 49990.3,
       "trade": "AMD SHORT"
     },
     {
       "date": "2026-05-09",
-      "value": 988.8,
+      "value": 49988.8,
       "trade": "QQQ SHORT"
     },
     {
       "date": "2026-05-09",
-      "value": 988.85,
+      "value": 49988.85,
       "trade": "DOGE SHORT"
     },
     {
       "date": "2026-05-09",
-      "value": 988.97,
+      "value": 49988.97,
       "trade": "DOGE SHORT"
     },
     {
       "date": "2026-05-09",
-      "value": 988.98,
+      "value": 49988.98,
       "trade": "META LONG"
     },
     {
       "date": "2026-05-10",
-      "value": 988.88,
+      "value": 49988.88,
       "trade": "DOGE SHORT"
     },
     {
       "date": "2026-05-10",
-      "value": 988.88,
+      "value": 49988.88,
       "trade": "SOL SHORT"
     },
     {
       "date": "2026-05-10",
-      "value": 988.88,
+      "value": 49988.88,
       "trade": "AVAX SHORT"
     },
     {
       "date": "2026-05-10",
-      "value": 988.96,
+      "value": 49988.96,
       "trade": "AVAX SHORT"
     },
     {
       "date": "2026-05-11",
-      "value": 989.71,
+      "value": 49989.71,
       "trade": "DOGE SHORT"
     },
     {
       "date": "2026-05-11",
-      "value": 995.22,
+      "value": 49995.22,
       "trade": "AVAX SHORT"
     },
     {
       "date": "2026-05-11",
-      "value": 1001.32,
+      "value": 50001.32,
       "trade": "DOGE SHORT"
     },
     {
       "date": "2026-05-11",
-      "value": 1002.05,
+      "value": 50002.05,
       "trade": "SOL SHORT"
     },
     {
       "date": "2026-05-11",
-      "value": 1002.06,
+      "value": 50002.06,
       "trade": "SOL SHORT"
     },
     {
       "date": "2026-05-11",
-      "value": 1002.03,
+      "value": 50002.03,
       "trade": "SOL SHORT"
     },
     {
       "date": "2026-05-11",
-      "value": 1002.03,
+      "value": 50002.03,
       "trade": "AVAX SHORT"
     },
     {
       "date": "2026-05-11",
-      "value": 1002.12,
+      "value": 50002.12,
       "trade": "AVAX SHORT"
     },
     {
       "date": "2026-05-11",
-      "value": 1002.94,
+      "value": 50002.94,
       "trade": "AVAX SHORT"
     },
     {
       "date": "2026-05-11",
-      "value": 1003.1,
+      "value": 50003.1,
       "trade": "AVAX SHORT"
     },
     {
       "date": "2026-05-11",
-      "value": 1003.1,
+      "value": 50003.1,
       "trade": "AVAX SHORT"
     },
     {
       "date": "2026-05-11",
-      "value": 1001.83,
+      "value": 50001.83,
       "trade": "QQQ SHORT"
     },
     {
       "date": "2026-05-11",
-      "value": 996.88,
+      "value": 49996.88,
       "trade": "SOL SHORT"
     },
     {
       "date": "2026-05-11",
-      "value": 992.8,
+      "value": 49992.8,
       "trade": "TSLA SHORT"
     },
     {
       "date": "2026-05-11",
-      "value": 992.11,
+      "value": 49992.11,
       "trade": "AVAX SHORT"
     },
     {
       "date": "2026-05-11",
-      "value": 992.14,
+      "value": 49992.14,
       "trade": "SOL SHORT"
     },
     {
       "date": "2026-05-11",
-      "value": 992.16,
+      "value": 49992.16,
       "trade": "SOL SHORT"
     },
     {
       "date": "2026-05-11",
-      "value": 992.42,
+      "value": 49992.42,
       "trade": "SPY SHORT"
     },
     {
       "date": "2026-05-12",
-      "value": 992.39,
+      "value": 49992.39,
       "trade": "BNB SHORT"
     },
     {
       "date": "2026-05-12",
-      "value": 992.56,
+      "value": 49992.56,
       "trade": "BNB SHORT"
     },
     {
       "date": "2026-05-12",
-      "value": 992.3,
+      "value": 49992.3,
       "trade": "AAPL SHORT"
     },
     {
       "date": "2026-05-12",
-      "value": 992.02,
+      "value": 49992.02,
       "trade": "GLD LONG"
     },
     {
       "date": "2026-05-12",
-      "value": 992.3,
+      "value": 49992.3,
       "trade": "META LONG"
     },
     {
       "date": "2026-05-12",
-      "value": 992.03,
+      "value": 49992.03,
       "trade": "AAPL SHORT"
     },
     {
       "date": "2026-05-12",
-      "value": 995.94,
+      "value": 49995.94,
       "trade": "SOL SHORT"
     },
     {
       "date": "2026-05-12",
-      "value": 995.34,
+      "value": 49995.34,
       "trade": "AAPL SHORT"
     },
     {
       "date": "2026-05-12",
-      "value": 997.19,
+      "value": 49997.19,
       "trade": "BNB SHORT"
     },
     {
       "date": "2026-05-12",
-      "value": 999.7,
+      "value": 49999.7,
       "trade": "AVAX SHORT"
     },
     {
       "date": "2026-05-12",
-      "value": 999.82,
+      "value": 49999.82,
       "trade": "SOL SHORT"
     },
     {
       "date": "2026-05-12",
-      "value": 999.8,
+      "value": 49999.8,
       "trade": "SOL SHORT"
     },
     {
       "date": "2026-05-12",
-      "value": 999.71,
+      "value": 49999.71,
       "trade": "BNB SHORT"
     },
     {
       "date": "2026-05-12",
-      "value": 999.68,
+      "value": 49999.68,
       "trade": "BNB SHORT"
     },
     {
       "date": "2026-05-13",
-      "value": 998.53,
+      "value": 49998.53,
       "trade": "BNB SHORT"
     },
     {
       "date": "2026-05-13",
-      "value": 994.75,
+      "value": 49994.75,
       "trade": "BNB SHORT"
     },
     {
       "date": "2026-05-13",
-      "value": 991.0,
+      "value": 49991.0,
       "trade": "AAPL SHORT"
     },
     {
       "date": "2026-05-13",
-      "value": 991.0,
+      "value": 49991.0,
       "trade": "TSLA SHORT"
     },
     {
       "date": "2026-05-13",
-      "value": 991.46,
+      "value": 49991.46,
       "trade": "BNB SHORT"
     },
     {
       "date": "2026-05-13",
-      "value": 991.51,
+      "value": 49991.51,
       "trade": "BNB SHORT"
     },
     {
       "date": "2026-05-13",
-      "value": 983.12,
+      "value": 49983.12,
       "trade": "TSLA SHORT"
     },
     {
       "date": "2026-05-13",
-      "value": 978.52,
+      "value": 49978.52,
       "trade": "QQQ SHORT"
     },
     {
       "date": "2026-06-12",
-      "value": 1003.49,
+      "value": 50003.49,
       "trade": "SOL SHORT"
     },
     {
       "date": "2026-06-12",
-      "value": 1012.99,
+      "value": 50012.99,
       "trade": "BNB SHORT"
     },
     {
       "date": "2026-06-12",
-      "value": 1038.0,
+      "value": 50038.0,
       "trade": "SOL SHORT"
     },
     {
       "date": "2026-06-12",
-      "value": 1027.69,
+      "value": 50027.69,
       "trade": "META LONG"
     },
     {
       "date": "2026-06-15",
-      "value": 1027.89,
+      "value": 50027.89,
       "trade": "QQQ LONG"
     },
     {
       "date": "2026-06-16",
-      "value": 1035.39,
+      "value": 50035.39,
       "trade": "BNB SHORT"
     },
     {
       "date": "2026-06-16",
-      "value": 1036.71,
+      "value": 50036.71,
       "trade": "QQQ LONG"
     },
     {
       "date": "2026-06-16",
-      "value": 1035.97,
+      "value": 50035.97,
       "trade": "QQQ LONG"
     },
     {
       "date": "2026-06-16",
-      "value": 1036.1,
+      "value": 50036.1,
       "trade": "IWM LONG"
     },
     {
       "date": "2026-06-16",
-      "value": 1036.41,
+      "value": 50036.41,
       "trade": "USO SHORT"
     },
     {
       "date": "2026-06-17",
-      "value": 1036.32,
+      "value": 50036.32,
       "trade": "BTC LONG"
     },
     {
       "date": "2026-06-17",
-      "value": 1036.2,
+      "value": 50036.2,
       "trade": "BTC LONG"
     },
     {
       "date": "2026-06-17",
-      "value": 1036.65,
+      "value": 50036.65,
       "trade": "GLD LONG"
     },
     {
       "date": "2026-06-18",
-      "value": 1031.64,
+      "value": 50031.64,
       "trade": "BTC LONG"
     },
     {
       "date": "2026-06-19",
-      "value": 1032.92
+      "value": 51646.0
     }
   ],
   "monthly_pnl": [
@@ -509,148 +509,148 @@
   "forecast": [
     {
       "date": "2026-05-04",
-      "value": 1000.0,
+      "value": 50000.0,
       "forecast": false
     },
     {
       "date": "2026-05-06",
-      "value": 1003.48,
+      "value": 50003.48,
       "forecast": false
     },
     {
       "date": "2026-05-08",
-      "value": 1000.18,
+      "value": 50000.18,
       "forecast": false
     },
     {
       "date": "2026-05-09",
-      "value": 990.3,
+      "value": 49990.3,
       "forecast": false
     },
     {
       "date": "2026-05-09",
-      "value": 988.97,
+      "value": 49988.97,
       "forecast": false
     },
     {
       "date": "2026-05-10",
-      "value": 988.88,
+      "value": 49988.88,
       "forecast": false
     },
     {
       "date": "2026-05-11",
-      "value": 989.71,
+      "value": 49989.71,
       "forecast": false
     },
     {
       "date": "2026-05-11",
-      "value": 1002.05,
+      "value": 50002.05,
       "forecast": false
     },
     {
       "date": "2026-05-11",
-      "value": 1002.03,
+      "value": 50002.03,
       "forecast": false
     },
     {
       "date": "2026-05-11",
-      "value": 1003.1,
+      "value": 50003.1,
       "forecast": false
     },
     {
       "date": "2026-05-11",
-      "value": 996.88,
+      "value": 49996.88,
       "forecast": false
     },
     {
       "date": "2026-05-11",
-      "value": 992.14,
+      "value": 49992.14,
       "forecast": false
     },
     {
       "date": "2026-05-12",
-      "value": 992.39,
+      "value": 49992.39,
       "forecast": false
     },
     {
       "date": "2026-05-12",
-      "value": 992.02,
+      "value": 49992.02,
       "forecast": false
     },
     {
       "date": "2026-05-12",
-      "value": 995.94,
+      "value": 49995.94,
       "forecast": false
     },
     {
       "date": "2026-05-12",
-      "value": 999.7,
+      "value": 49999.7,
       "forecast": false
     },
     {
       "date": "2026-05-12",
-      "value": 999.71,
+      "value": 49999.71,
       "forecast": false
     },
     {
       "date": "2026-05-13",
-      "value": 994.75,
+      "value": 49994.75,
       "forecast": false
     },
     {
       "date": "2026-05-13",
-      "value": 991.46,
+      "value": 49991.46,
       "forecast": false
     },
     {
       "date": "2026-05-13",
-      "value": 978.52,
+      "value": 49978.52,
       "forecast": false
     },
     {
       "date": "2026-06-12",
-      "value": 1038.0,
+      "value": 50038.0,
       "forecast": false
     },
     {
       "date": "2026-06-16",
-      "value": 1035.39,
+      "value": 50035.39,
       "forecast": false
     },
     {
       "date": "2026-06-16",
-      "value": 1036.1,
+      "value": 50036.1,
       "forecast": false
     },
     {
       "date": "2026-06-17",
-      "value": 1036.2,
+      "value": 50036.2,
       "forecast": false
     },
     {
       "date": "2026-06-19",
-      "value": 1032.92,
+      "value": 51646.0,
       "forecast": false
     },
     {
       "date": "2026-07-19",
-      "value": 1062.91,
-      "lower": 1052.28,
-      "upper": 1073.55,
+      "value": 50290.68,
+      "lower": 50018.94,
+      "upper": 50562.42,
       "forecast": true
     },
     {
       "date": "2026-08-18",
-      "value": 1092.0,
-      "lower": 1081.37,
-      "upper": 1102.64,
+      "value": 50419.22,
+      "lower": 50147.48,
+      "upper": 50690.96,
       "forecast": true
     },
     {
       "date": "2026-09-17",
-      "value": 1121.09,
-      "lower": 1110.46,
-      "upper": 1131.73,
+      "value": 50547.77,
+      "lower": 50276.02,
+      "upper": 50819.51,
       "forecast": true
     }
   ],
@@ -658,367 +658,367 @@
     {
       "date": "2026-05-04T23:21:00",
       "drawdown_pct": 0.0,
-      "value": 1000.0
+      "value": 50000.0
     },
     {
       "date": "2026-05-06",
       "drawdown_pct": 0.0,
-      "value": 1002.1
+      "value": 50002.1
     },
     {
       "date": "2026-05-06",
       "drawdown_pct": 0.0,
-      "value": 1003.89
+      "value": 50003.89
     },
     {
       "date": "2026-05-06",
-      "drawdown_pct": 0.04,
-      "value": 1003.48
+      "drawdown_pct": 0.0,
+      "value": 50003.48
     },
     {
       "date": "2026-05-07",
-      "drawdown_pct": 0.06,
-      "value": 1003.26
+      "drawdown_pct": 0.0,
+      "value": 50003.26
     },
     {
       "date": "2026-05-07",
-      "drawdown_pct": 0.16,
-      "value": 1002.31
+      "drawdown_pct": 0.0,
+      "value": 50002.31
     },
     {
       "date": "2026-05-08",
-      "drawdown_pct": 0.37,
-      "value": 1000.18
+      "drawdown_pct": 0.01,
+      "value": 50000.18
     },
     {
       "date": "2026-05-08",
-      "drawdown_pct": 0.6,
-      "value": 997.87
+      "drawdown_pct": 0.01,
+      "value": 49997.87
     },
     {
       "date": "2026-05-08",
-      "drawdown_pct": 0.87,
-      "value": 995.15
+      "drawdown_pct": 0.02,
+      "value": 49995.15
     },
     {
       "date": "2026-05-09",
-      "drawdown_pct": 1.35,
-      "value": 990.3
+      "drawdown_pct": 0.03,
+      "value": 49990.3
     },
     {
       "date": "2026-05-09",
-      "drawdown_pct": 1.5,
-      "value": 988.8
+      "drawdown_pct": 0.03,
+      "value": 49988.8
     },
     {
       "date": "2026-05-09",
-      "drawdown_pct": 1.5,
-      "value": 988.85
+      "drawdown_pct": 0.03,
+      "value": 49988.85
     },
     {
       "date": "2026-05-09",
-      "drawdown_pct": 1.49,
-      "value": 988.97
+      "drawdown_pct": 0.03,
+      "value": 49988.97
     },
     {
       "date": "2026-05-09",
-      "drawdown_pct": 1.49,
-      "value": 988.98
+      "drawdown_pct": 0.03,
+      "value": 49988.98
     },
     {
       "date": "2026-05-10",
-      "drawdown_pct": 1.5,
-      "value": 988.88
+      "drawdown_pct": 0.03,
+      "value": 49988.88
     },
     {
       "date": "2026-05-10",
-      "drawdown_pct": 1.5,
-      "value": 988.88
+      "drawdown_pct": 0.03,
+      "value": 49988.88
     },
     {
       "date": "2026-05-10",
-      "drawdown_pct": 1.5,
-      "value": 988.88
+      "drawdown_pct": 0.03,
+      "value": 49988.88
     },
     {
       "date": "2026-05-10",
-      "drawdown_pct": 1.49,
-      "value": 988.96
+      "drawdown_pct": 0.03,
+      "value": 49988.96
     },
     {
       "date": "2026-05-11",
-      "drawdown_pct": 1.41,
-      "value": 989.71
+      "drawdown_pct": 0.03,
+      "value": 49989.71
     },
     {
       "date": "2026-05-11",
-      "drawdown_pct": 0.86,
-      "value": 995.22
+      "drawdown_pct": 0.02,
+      "value": 49995.22
     },
     {
       "date": "2026-05-11",
-      "drawdown_pct": 0.26,
-      "value": 1001.32
+      "drawdown_pct": 0.01,
+      "value": 50001.32
     },
     {
       "date": "2026-05-11",
-      "drawdown_pct": 0.18,
-      "value": 1002.05
+      "drawdown_pct": 0.0,
+      "value": 50002.05
     },
     {
       "date": "2026-05-11",
-      "drawdown_pct": 0.18,
-      "value": 1002.06
+      "drawdown_pct": 0.0,
+      "value": 50002.06
     },
     {
       "date": "2026-05-11",
-      "drawdown_pct": 0.19,
-      "value": 1002.03
+      "drawdown_pct": 0.0,
+      "value": 50002.03
     },
     {
       "date": "2026-05-11",
-      "drawdown_pct": 0.19,
-      "value": 1002.03
+      "drawdown_pct": 0.0,
+      "value": 50002.03
     },
     {
       "date": "2026-05-11",
-      "drawdown_pct": 0.18,
-      "value": 1002.12
+      "drawdown_pct": 0.0,
+      "value": 50002.12
     },
     {
       "date": "2026-05-11",
-      "drawdown_pct": 0.09,
-      "value": 1002.94
+      "drawdown_pct": 0.0,
+      "value": 50002.94
     },
     {
       "date": "2026-05-11",
-      "drawdown_pct": 0.08,
-      "value": 1003.1
+      "drawdown_pct": 0.0,
+      "value": 50003.1
     },
     {
       "date": "2026-05-11",
-      "drawdown_pct": 0.08,
-      "value": 1003.1
+      "drawdown_pct": 0.0,
+      "value": 50003.1
     },
     {
       "date": "2026-05-11",
-      "drawdown_pct": 0.21,
-      "value": 1001.83
+      "drawdown_pct": 0.0,
+      "value": 50001.83
     },
     {
       "date": "2026-05-11",
-      "drawdown_pct": 0.7,
-      "value": 996.88
+      "drawdown_pct": 0.01,
+      "value": 49996.88
     },
     {
       "date": "2026-05-11",
-      "drawdown_pct": 1.1,
-      "value": 992.8
+      "drawdown_pct": 0.02,
+      "value": 49992.8
     },
     {
       "date": "2026-05-11",
-      "drawdown_pct": 1.17,
-      "value": 992.11
+      "drawdown_pct": 0.02,
+      "value": 49992.11
     },
     {
       "date": "2026-05-11",
-      "drawdown_pct": 1.17,
-      "value": 992.14
+      "drawdown_pct": 0.02,
+      "value": 49992.14
     },
     {
       "date": "2026-05-11",
-      "drawdown_pct": 1.17,
-      "value": 992.16
+      "drawdown_pct": 0.02,
+      "value": 49992.16
     },
     {
       "date": "2026-05-11",
-      "drawdown_pct": 1.14,
-      "value": 992.42
+      "drawdown_pct": 0.02,
+      "value": 49992.42
     },
     {
       "date": "2026-05-12",
-      "drawdown_pct": 1.15,
-      "value": 992.39
+      "drawdown_pct": 0.02,
+      "value": 49992.39
     },
     {
       "date": "2026-05-12",
-      "drawdown_pct": 1.13,
-      "value": 992.56
+      "drawdown_pct": 0.02,
+      "value": 49992.56
     },
     {
       "date": "2026-05-12",
-      "drawdown_pct": 1.15,
-      "value": 992.3
+      "drawdown_pct": 0.02,
+      "value": 49992.3
     },
     {
       "date": "2026-05-12",
-      "drawdown_pct": 1.18,
-      "value": 992.02
+      "drawdown_pct": 0.02,
+      "value": 49992.02
     },
     {
       "date": "2026-05-12",
-      "drawdown_pct": 1.15,
-      "value": 992.3
+      "drawdown_pct": 0.02,
+      "value": 49992.3
     },
     {
       "date": "2026-05-12",
-      "drawdown_pct": 1.18,
-      "value": 992.03
+      "drawdown_pct": 0.02,
+      "value": 49992.03
     },
     {
       "date": "2026-05-12",
-      "drawdown_pct": 0.79,
-      "value": 995.94
+      "drawdown_pct": 0.02,
+      "value": 49995.94
     },
     {
       "date": "2026-05-12",
-      "drawdown_pct": 0.85,
-      "value": 995.34
+      "drawdown_pct": 0.02,
+      "value": 49995.34
     },
     {
       "date": "2026-05-12",
-      "drawdown_pct": 0.67,
-      "value": 997.19
+      "drawdown_pct": 0.01,
+      "value": 49997.19
     },
     {
       "date": "2026-05-12",
-      "drawdown_pct": 0.42,
-      "value": 999.7
+      "drawdown_pct": 0.01,
+      "value": 49999.7
     },
     {
       "date": "2026-05-12",
-      "drawdown_pct": 0.41,
-      "value": 999.82
+      "drawdown_pct": 0.01,
+      "value": 49999.82
     },
     {
       "date": "2026-05-12",
-      "drawdown_pct": 0.41,
-      "value": 999.8
+      "drawdown_pct": 0.01,
+      "value": 49999.8
     },
     {
       "date": "2026-05-12",
-      "drawdown_pct": 0.42,
-      "value": 999.71
+      "drawdown_pct": 0.01,
+      "value": 49999.71
     },
     {
       "date": "2026-05-12",
-      "drawdown_pct": 0.42,
-      "value": 999.68
+      "drawdown_pct": 0.01,
+      "value": 49999.68
     },
     {
       "date": "2026-05-13",
-      "drawdown_pct": 0.53,
-      "value": 998.53
+      "drawdown_pct": 0.01,
+      "value": 49998.53
     },
     {
       "date": "2026-05-13",
-      "drawdown_pct": 0.91,
-      "value": 994.75
+      "drawdown_pct": 0.02,
+      "value": 49994.75
     },
     {
       "date": "2026-05-13",
-      "drawdown_pct": 1.28,
-      "value": 991.0
+      "drawdown_pct": 0.03,
+      "value": 49991.0
     },
     {
       "date": "2026-05-13",
-      "drawdown_pct": 1.28,
-      "value": 991.0
+      "drawdown_pct": 0.03,
+      "value": 49991.0
     },
     {
       "date": "2026-05-13",
-      "drawdown_pct": 1.24,
-      "value": 991.46
+      "drawdown_pct": 0.02,
+      "value": 49991.46
     },
     {
       "date": "2026-05-13",
-      "drawdown_pct": 1.23,
-      "value": 991.51
+      "drawdown_pct": 0.02,
+      "value": 49991.51
     },
     {
       "date": "2026-05-13",
-      "drawdown_pct": 2.07,
-      "value": 983.12
-    },
-    {
-      "date": "2026-05-13",
-      "drawdown_pct": 2.53,
-      "value": 978.52
-    },
-    {
-      "date": "2026-06-12",
       "drawdown_pct": 0.04,
-      "value": 1003.49
+      "value": 49983.12
+    },
+    {
+      "date": "2026-05-13",
+      "drawdown_pct": 0.05,
+      "value": 49978.52
     },
     {
       "date": "2026-06-12",
       "drawdown_pct": 0.0,
-      "value": 1012.99
+      "value": 50003.49
     },
     {
       "date": "2026-06-12",
       "drawdown_pct": 0.0,
-      "value": 1038.0
+      "value": 50012.99
     },
     {
       "date": "2026-06-12",
-      "drawdown_pct": 0.99,
-      "value": 1027.69
+      "drawdown_pct": 0.0,
+      "value": 50038.0
+    },
+    {
+      "date": "2026-06-12",
+      "drawdown_pct": 0.02,
+      "value": 50027.69
     },
     {
       "date": "2026-06-15",
-      "drawdown_pct": 0.97,
-      "value": 1027.89
+      "drawdown_pct": 0.02,
+      "value": 50027.89
     },
     {
       "date": "2026-06-16",
-      "drawdown_pct": 0.25,
-      "value": 1035.39
+      "drawdown_pct": 0.01,
+      "value": 50035.39
     },
     {
       "date": "2026-06-16",
-      "drawdown_pct": 0.12,
-      "value": 1036.71
+      "drawdown_pct": 0.0,
+      "value": 50036.71
     },
     {
       "date": "2026-06-16",
-      "drawdown_pct": 0.2,
-      "value": 1035.97
+      "drawdown_pct": 0.0,
+      "value": 50035.97
     },
     {
       "date": "2026-06-16",
-      "drawdown_pct": 0.18,
-      "value": 1036.1
+      "drawdown_pct": 0.0,
+      "value": 50036.1
     },
     {
       "date": "2026-06-16",
-      "drawdown_pct": 0.15,
-      "value": 1036.41
+      "drawdown_pct": 0.0,
+      "value": 50036.41
     },
     {
       "date": "2026-06-17",
-      "drawdown_pct": 0.16,
-      "value": 1036.32
+      "drawdown_pct": 0.0,
+      "value": 50036.32
     },
     {
       "date": "2026-06-17",
-      "drawdown_pct": 0.17,
-      "value": 1036.2
+      "drawdown_pct": 0.0,
+      "value": 50036.2
     },
     {
       "date": "2026-06-17",
-      "drawdown_pct": 0.13,
-      "value": 1036.65
+      "drawdown_pct": 0.0,
+      "value": 50036.65
     },
     {
       "date": "2026-06-18",
-      "drawdown_pct": 0.61,
-      "value": 1031.64
+      "drawdown_pct": 0.01,
+      "value": 50031.64
     },
     {
       "date": "2026-06-19",
-      "drawdown_pct": 0.49,
-      "value": 1032.92
+      "drawdown_pct": 0.0,
+      "value": 51646.0
     }
   ],
   "positions": [
@@ -1026,8 +1026,8 @@
       "ticker": "IWM",
       "direction": "LONG",
       "entry": 252.83,
-      "size": 0.963,
-      "invested": 121.74,
+      "size": 48.1487,
+      "invested": 6087.0,
       "leverage": 2,
       "sl": 250.0,
       "tp1": 268.0,
@@ -1043,8 +1043,8 @@
       "ticker": "USO",
       "direction": "SHORT",
       "entry": 99.87,
-      "size": 2.4379,
-      "invested": 121.74,
+      "size": 121.8944,
+      "invested": 6087.0,
       "leverage": 2,
       "sl": 102.87,
       "tp1": 93.88,
@@ -1060,8 +1060,8 @@
       "ticker": "BTC",
       "direction": "SHORT",
       "entry": 54789,
-      "size": 0.0114,
-      "invested": 124.43,
+      "size": 0.5678,
+      "invested": 6221.5,
       "leverage": 5,
       "sl": 56500.0,
       "tp1": 49500.0,
@@ -1077,8 +1077,8 @@
       "ticker": "AVAX",
       "direction": "SHORT",
       "entry": 5.31,
-      "size": 78.1123,
-      "invested": 82.96,
+      "size": 3905.6139,
+      "invested": 4148.0,
       "leverage": 5,
       "sl": 5.6,
       "tp1": 4.55,
@@ -1094,8 +1094,8 @@
       "ticker": "ETH",
       "direction": "SHORT",
       "entry": 1477.92,
-      "size": 0.1411,
-      "invested": 104.26,
+      "size": 7.0542,
+      "invested": 5213.0,
       "leverage": 2,
       "sl": 1522.26,
       "tp1": 1389.24,
