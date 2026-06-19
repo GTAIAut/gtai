@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T16:45:37.237754+00:00",
+  "generated_at": "2026-06-19T04:00:37.120399+00:00",
   "portfolio": {
     "initial_capital": 1000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -430,7 +430,7 @@
       "trade": "BTC LONG"
     },
     {
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "value": 1032.91
     }
   ],
@@ -628,29 +628,29 @@
       "forecast": false
     },
     {
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "value": 1032.91,
       "forecast": false
     },
     {
-      "date": "2026-07-18",
-      "value": 1062.08,
-      "lower": 1051.44,
-      "upper": 1072.71,
+      "date": "2026-07-19",
+      "value": 1062.91,
+      "lower": 1052.28,
+      "upper": 1073.54,
       "forecast": true
     },
     {
-      "date": "2026-08-17",
-      "value": 1091.23,
-      "lower": 1080.59,
-      "upper": 1101.86,
+      "date": "2026-08-18",
+      "value": 1092.0,
+      "lower": 1081.37,
+      "upper": 1102.63,
       "forecast": true
     },
     {
-      "date": "2026-09-16",
-      "value": 1120.38,
-      "lower": 1109.75,
-      "upper": 1131.01,
+      "date": "2026-09-17",
+      "value": 1121.09,
+      "lower": 1110.46,
+      "upper": 1131.73,
       "forecast": true
     }
   ],
@@ -1016,7 +1016,7 @@
       "value": 1031.64
     },
     {
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "drawdown_pct": 0.49,
       "value": 1032.91
     }
@@ -1982,21 +1982,6 @@
   ],
   "news_alerts": [
     {
-      "time": "18/06 13:30",
-      "source": "**NYT World**: Israel Stunned by Trump\u2019s Iran Deal",
-      "title": "Israel Stunned by Trump\u2019s Iran Deal"
-    },
-    {
-      "time": "18/06 13:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Saudi, Qatar Add District Cooling Assets to Gulf Deals Pipeline",
-      "title": "Saudi, Qatar Add District Cooling Assets to Gulf Deals Pipeline"
-    },
-    {
-      "time": "18/06 14:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Men Jailed in UK for China Spying Targeting Pro-Democracy Groups",
-      "title": "Men Jailed in UK for China Spying Targeting Pro-Democracy Groups"
-    },
-    {
       "time": "18/06 14:30",
       "source": "\ud83d\udcf0 **BBC News**: Interest rates held as Bank warns of impact of high energy prices",
       "title": "Interest rates held as Bank warns of impact of high energy prices"
@@ -2080,6 +2065,21 @@
       "time": "18/06 17:45",
       "source": "**NYT World**: Iran War Live Updates: Vance Defends Iran Deal, With a Blunt Warning to Israel",
       "title": "Iran War Live Updates: Vance Defends Iran Deal, With a Blunt Warning to Israel"
+    },
+    {
+      "time": "18/06 18:15",
+      "source": "**NYT World**: Iran War Live Updates: Vance Issues Blunt Warning to Israel as He Defends Trump\u2019s Deal",
+      "title": "Iran War Live Updates: Vance Issues Blunt Warning to Israel as He Defends Trump\u2019s Deal"
+    },
+    {
+      "time": "18/06 18:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Record $21 Billion Water Bonds Sold With Trump Budget Cuts Ahead",
+      "title": "Record $21 Billion Water Bonds Sold With Trump Budget Cuts Ahead"
+    },
+    {
+      "time": "18/06 18:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: BMO-led $775 Million Pellera Loan Deal Comes at Steep Discount",
+      "title": "BMO-led $775 Million Pellera Loan Deal Comes at Steep Discount"
     }
   ]
 }
