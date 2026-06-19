@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T14:30:37.343438+00:00",
+  "generated_at": "2026-06-19T14:45:37.212992+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2033,16 +2033,6 @@
   ],
   "news_alerts": [
     {
-      "time": "19/06 06:15",
-      "source": "\ud83d\udcf0 **BBC News**: US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
-      "title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'"
-    },
-    {
-      "time": "19/06 06:15",
-      "source": "**Politico**: Jack Schlossberg on Trump, RFK Jr. and the future of the Democratic Party",
-      "title": "Jack Schlossberg on Trump, RFK Jr. and the future of the Democratic Party"
-    },
-    {
       "time": "19/06 06:45",
       "source": "**Cointelegraph**: Microsoft warns users of 'Crypto Clipper' malware spread via USB drives",
       "title": "Microsoft warns users of 'Crypto Clipper' malware spread via USB drives"
@@ -2131,6 +2121,16 @@
       "time": "19/06 15:15",
       "source": "\ud83d\udcf0 **BBC News**: 'Neither I nor Italy ever beg': Meloni says Trump made up story about photo",
       "title": "'Neither I nor Italy ever beg': Meloni says Trump made up story about photo"
+    },
+    {
+      "time": "19/06 15:45",
+      "source": "**Cointelegraph**: Bitcoin taps $63K on Juneteenth as July Fed rate-hike odds near 40%",
+      "title": "Bitcoin taps $63K on Juneteenth as July Fed rate-hike odds near 40%"
+    },
+    {
+      "time": "19/06 15:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Alamos Gold Shares Plunge on Output Cut After Earthquake at Mine",
+      "title": "Alamos Gold Shares Plunge on Output Cut After Earthquake at Mine"
     }
   ]
 }
