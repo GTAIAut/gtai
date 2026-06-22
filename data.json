@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T13:10:45.746256+00:00",
+  "generated_at": "2026-06-22T13:15:37.437995+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2012,16 +2012,6 @@
   ],
   "news_alerts": [
     {
-      "time": "19/06 18:00",
-      "source": "**NYT World**: Italy Doesn\u2019t \u2018Beg,\u2019 Giorgia Meloni Tells Trump",
-      "title": "Italy Doesn\u2019t \u2018Beg,\u2019 Giorgia Meloni Tells Trump"
-    },
-    {
-      "time": "19/06 18:15",
-      "source": "**NYT World**: Mideast Live Updates: Diplomats Work to Preserve Iran Deal with a New Lebanon Cease-Fire",
-      "title": "Mideast Live Updates: Diplomats Work to Preserve Iran Deal with a New Lebanon Cease-Fire"
-    },
-    {
       "time": "19/06 18:30",
       "source": "**NYT World**: Mideast Live Updates: Diplomats Work to Preserve Iran Deal With a New Lebanon Cease-Fire",
       "title": "Mideast Live Updates: Diplomats Work to Preserve Iran Deal With a New Lebanon Cease-Fire"
@@ -2110,6 +2100,16 @@
       "time": "22/06 13:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: RBC Says Stocks Can Weather Fed Hikes, But Not Too Many",
       "title": "RBC Says Stocks Can Weather Fed Hikes, But Not Too Many"
+    },
+    {
+      "time": "22/06 14:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Lagarde Sees No Need for More Forceful ECB Response to War",
+      "title": "Lagarde Sees No Need for More Forceful ECB Response to War"
+    },
+    {
+      "time": "22/06 14:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: CRH to Buy Arcosa in Building Materials Firm\u2019s Biggest Deal",
+      "title": "CRH to Buy Arcosa in Building Materials Firm\u2019s Biggest Deal"
     }
   ]
 }
