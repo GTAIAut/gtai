@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T04:45:37.848817+00:00",
+  "generated_at": "2026-06-22T05:00:39.807063+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "14/20",
+    "recent_session_rate": "11/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1245,6 +1245,48 @@
   ],
   "recent_sessions": [
     {
+      "id": "750641b4",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-22T05:00:29.937Z",
+      "completed": ""
+    },
+    {
+      "id": "9c956300",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-22T05:00:29.182Z",
+      "completed": ""
+    },
+    {
+      "id": "5b53bc3c",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-22T05:00:28.393Z",
+      "completed": ""
+    },
+    {
+      "id": "279f7b14",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-22T05:00:28.071Z",
+      "completed": ""
+    },
+    {
+      "id": "66adc76a",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-22T05:00:27.753Z",
+      "completed": ""
+    },
+    {
+      "id": "ed400cb9",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-22T05:00:27.451Z",
+      "completed": ""
+    },
+    {
       "id": "b7a9ebe2",
       "agent": "Desconhecido",
       "status": "succeeded",
@@ -1340,48 +1382,6 @@
       "agent": "Desconhecido",
       "status": "succeeded",
       "created": "2026-06-19T09:00:54.137Z",
-      "completed": ""
-    },
-    {
-      "id": "912cf33a",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-19T09:00:54.013Z",
-      "completed": ""
-    },
-    {
-      "id": "6f7eb843",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-19T09:00:53.891Z",
-      "completed": ""
-    },
-    {
-      "id": "9353471f",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-19T09:00:53.746Z",
-      "completed": ""
-    },
-    {
-      "id": "7e26e082",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-19T09:00:53.278Z",
-      "completed": ""
-    },
-    {
-      "id": "8d4df39e",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-19T08:07:55.291Z",
-      "completed": ""
-    },
-    {
-      "id": "efe18647",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-19T08:07:55.034Z",
       "completed": ""
     }
   ],
@@ -1929,6 +1929,14 @@
   ],
   "session_analysis": [
     {
+      "session_type": "TARDE",
+      "session_num": 44,
+      "date": "19/06/2026 14:10",
+      "summary": "Postmortem TARDE #44 conclu\u00eddo. Score 8/10. Sess\u00e3o defensiva disciplinada com trims corretivos de concentra\u00e7\u00e3o cripto. Li\u00e7\u00e3o principal: implementar limite preventivo de concentra\u00e7\u00e3o por ativo (40% max).",
+      "trades": [],
+      "findings": []
+    },
+    {
       "session_type": "MEIODIA",
       "session_num": 40,
       "date": "18/06/2026 10:15",
@@ -2010,18 +2018,6 @@
       "summary": "Postmortem conclu\u00eddo e registado como coment\u00e1rio. Score 7/10 \u2014 sess\u00e3o competente com ressalvas na gest\u00e3o de risco crypto. An\u00e1lise completa com recomenda\u00e7\u00f5es para pr\u00f3ximas sess\u00f5es.",
       "trades": [],
       "findings": []
-    },
-    {
-      "session_type": "MANHA",
-      "session_num": 27,
-      "date": "13/05/2026 09:02",
-      "summary": "## \ud83d\udccb POSTMORTEM \u2014 Sess\u00e3o MANHA #27 \u2014 13/05/2026\n**Registador de Decis\u00f5es | An\u00e1lise Cr\u00edtica**\n\n---\n\n### 1. OS TRADES FAZIAM SENTIDO DADO O CONTEXTO MACRO?\n\n**\u2705 SIM \u2014 decis\u00f5es maioritariamente alinhadas com o regime.**\n\n- **CLOSE QQQ SHORT** \u2014 correto e urgente. Manter um SHORT em \u00edndice com regime RISK-ON + UPTREND confirmado \u00e9 uma das maiores viola\u00e7\u00f5es de disciplina poss\u00edveis. Fechar era obrigat\u00f3rio. Avalia\u00e7\u00e3o: **excelente**.\n- **CLOSE_PARTIAL AAPL/SOL/BNB** \u2014 correto por imposi\u00e7\u00e3o de regras de gest\u00e3o de risco (limites de concentra\u00e7\u00e3o). N\u00e3o foi uma decis\u00e3o discricion\u00e1ria; foi cumprimento de regras pr\u00e9-definidas. Avalia\u00e7\u00e3o: **correto (tardio \u2014 porque se chegou a 30.4%?)**.\n- **OPEN NVDA LONG** \u2014 logicamente consistente: RSI 64.2, UPTREND, setor AI em momentum, regime RISK-ON. R/R 2.24:1 est",
-      "trades": [],
-      "findings": [
-        "- **CLOSE QQQ SHORT** \u2014 correto e urgente. Manter um SHORT em \u00edndice com regime RISK-ON + UPTREND confirmado \u00e9 uma das maiores viola\u00e7\u00f5es de disciplina poss\u00edveis. Fechar era obrigat\u00f3rio. Avalia\u00e7\u00e3o: **e",
-        "- **CLOSE_PARTIAL AAPL/SOL/BNB** \u2014 correto por imposi\u00e7\u00e3o de regras de gest\u00e3o de risco (limites de concentra\u00e7\u00e3o). N\u00e3o foi uma decis\u00e3o discricion\u00e1ria; foi cumprimento de regras pr\u00e9-definidas. Avalia\u00e7\u00e3o:",
-        "- **OPEN NVDA LONG** \u2014 logicamente consistente: RSI 64.2, UPTREND, setor AI em momentum, regime RISK-ON. R/R 2.24:1 est"
-      ]
     }
   ],
   "news_alerts": [
