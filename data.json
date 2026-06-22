@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T14:30:37.302085+00:00",
+  "generated_at": "2026-06-22T14:45:37.291352+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2013,11 +2013,6 @@
   "news_alerts": [
     {
       "time": "22/06 06:15",
-      "source": "\ud83d\udcf0 **BBC News**: Trump-backed political outsider wins Colombia election, initial count shows",
-      "title": "Trump-backed political outsider wins Colombia election, initial count shows"
-    },
-    {
-      "time": "22/06 06:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Targets US Rare Earths Firms in Response to Pentagon List",
       "title": "China Targets US Rare Earths Firms in Response to Pentagon List"
     },
@@ -2110,6 +2105,11 @@
       "time": "22/06 15:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Targets US Rare Earths Firms in Response to Pentagon",
       "title": "China Targets US Rare Earths Firms in Response to Pentagon"
+    },
+    {
+      "time": "22/06 15:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Vance Hails \u2018Good Day\u2019 of Iran Talks as US Waives Oil Sanctions",
+      "title": "Vance Hails \u2018Good Day\u2019 of Iran Talks as US Waives Oil Sanctions"
     }
   ]
 }
