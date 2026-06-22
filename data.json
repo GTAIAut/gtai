@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T13:30:37.454191+00:00",
+  "generated_at": "2026-06-22T13:45:37.356259+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2012,11 +2012,6 @@
   ],
   "news_alerts": [
     {
-      "time": "19/06 18:30",
-      "source": "**NYT World**: Mideast Live Updates: Diplomats Work to Preserve Iran Deal With a New Lebanon Cease-Fire",
-      "title": "Mideast Live Updates: Diplomats Work to Preserve Iran Deal With a New Lebanon Cease-Fire"
-    },
-    {
       "time": "22/06 06:15",
       "source": "**NYT World**: Abelardo De La Espriella, Trump-Backed Rightist, Headed for Win in Colombia",
       "title": "Abelardo De La Espriella, Trump-Backed Rightist, Headed for Win in Colombia"
@@ -2110,6 +2105,11 @@
       "time": "22/06 14:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: CRH to Buy Arcosa in Building Materials Firm\u2019s Biggest Deal",
       "title": "CRH to Buy Arcosa in Building Materials Firm\u2019s Biggest Deal"
+    },
+    {
+      "time": "22/06 14:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Inflationary Environment Suggests Higher Rates, Seema Shah Says",
+      "title": "Inflationary Environment Suggests Higher Rates, Seema Shah Says"
     }
   ]
 }
