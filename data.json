@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T13:00:37.171588+00:00",
+  "generated_at": "2026-06-22T13:10:45.746256+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1236,6 +1236,69 @@
   ],
   "recent_sessions": [
     {
+      "id": "24dba485",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-22T13:10:43.336Z",
+      "completed": ""
+    },
+    {
+      "id": "1ddcfbf9",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-22T13:08:01.261Z",
+      "completed": ""
+    },
+    {
+      "id": "c8574255",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-22T13:07:50.912Z",
+      "completed": ""
+    },
+    {
+      "id": "82faf19c",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-22T13:00:51.518Z",
+      "completed": ""
+    },
+    {
+      "id": "c78d6a78",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-22T13:00:51.087Z",
+      "completed": ""
+    },
+    {
+      "id": "0578351e",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-22T13:00:50.786Z",
+      "completed": ""
+    },
+    {
+      "id": "d2bb08f2",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-22T13:00:50.421Z",
+      "completed": ""
+    },
+    {
+      "id": "9d9163c5",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-22T13:00:50.083Z",
+      "completed": ""
+    },
+    {
+      "id": "b5397089",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-22T13:00:49.645Z",
+      "completed": ""
+    },
+    {
       "id": "757c559c",
       "agent": "Desconhecido",
       "status": "succeeded",
@@ -1310,69 +1373,6 @@
       "agent": "Desconhecido",
       "status": "failed",
       "created": "2026-06-22T05:10:30.883Z",
-      "completed": ""
-    },
-    {
-      "id": "fc7826e9",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-22T05:07:30.538Z",
-      "completed": ""
-    },
-    {
-      "id": "d3d4b574",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-22T05:07:28.792Z",
-      "completed": ""
-    },
-    {
-      "id": "750641b4",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-22T05:00:29.937Z",
-      "completed": ""
-    },
-    {
-      "id": "9c956300",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-22T05:00:29.182Z",
-      "completed": ""
-    },
-    {
-      "id": "5b53bc3c",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-22T05:00:28.393Z",
-      "completed": ""
-    },
-    {
-      "id": "279f7b14",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-22T05:00:28.071Z",
-      "completed": ""
-    },
-    {
-      "id": "66adc76a",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-22T05:00:27.753Z",
-      "completed": ""
-    },
-    {
-      "id": "ed400cb9",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-22T05:00:27.451Z",
-      "completed": ""
-    },
-    {
-      "id": "b7a9ebe2",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-19T13:10:49.481Z",
       "completed": ""
     }
   ],
