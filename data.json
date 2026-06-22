@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T05:10:33.932687+00:00",
+  "generated_at": "2026-06-22T05:15:37.352380+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1247,7 +1247,7 @@
     {
       "id": "bcef117e",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "failed",
       "created": "2026-06-22T05:10:30.883Z",
       "completed": ""
     },
@@ -2022,26 +2022,6 @@
   ],
   "news_alerts": [
     {
-      "time": "19/06 08:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Currency Traders Pile Into Dollar Call Options After Hawkish Fed",
-      "title": "Currency Traders Pile Into Dollar Call Options After Hawkish Fed"
-    },
-    {
-      "time": "19/06 08:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Set for Weekly Loss as Hawkish Fed Outweighs Peace Deal",
-      "title": "Gold Set for Weekly Loss as Hawkish Fed Outweighs Peace Deal"
-    },
-    {
-      "time": "19/06 09:15",
-      "source": "**Cointelegraph**: Goldman Sachs cuts year-end gold target by $500, doubting rate cuts",
-      "title": "Goldman Sachs cuts year-end gold target by $500, doubting rate cuts"
-    },
-    {
-      "time": "19/06 10:30",
-      "source": "**NYT World**: Mideast Live Updates: Attacks in Lebanon and Delay in Talks Test U.S.-Iran Deal",
-      "title": "Mideast Live Updates: Attacks in Lebanon and Delay in Talks Test U.S.-Iran Deal"
-    },
-    {
       "time": "19/06 10:30",
       "source": "**Cointelegraph**: Bitcoin activity nears record highs on microtransaction surge",
       "title": "Bitcoin activity nears record highs on microtransaction surge"
@@ -2120,6 +2100,26 @@
       "time": "19/06 18:30",
       "source": "**NYT World**: Mideast Live Updates: Diplomats Work to Preserve Iran Deal With a New Lebanon Cease-Fire",
       "title": "Mideast Live Updates: Diplomats Work to Preserve Iran Deal With a New Lebanon Cease-Fire"
+    },
+    {
+      "time": "22/06 06:15",
+      "source": "**NYT World**: Abelardo De La Espriella, Trump-Backed Rightist, Headed for Win in Colombia",
+      "title": "Abelardo De La Espriella, Trump-Backed Rightist, Headed for Win in Colombia"
+    },
+    {
+      "time": "22/06 06:15",
+      "source": "\ud83d\udcf0 **BBC News**: Trump-backed political outsider wins Colombia election, initial count shows",
+      "title": "Trump-backed political outsider wins Colombia election, initial count shows"
+    },
+    {
+      "time": "22/06 06:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Targets US Rare Earths Firms in Response to Pentagon List",
+      "title": "China Targets US Rare Earths Firms in Response to Pentagon List"
+    },
+    {
+      "time": "22/06 06:15",
+      "source": "\ud83d\udcf0 **BBC News**: After Trump inspects Reflecting Pool, he says repair work will begin 'immediately'",
+      "title": "After Trump inspects Reflecting Pool, he says repair work will begin 'immediately'"
     }
   ]
 }
