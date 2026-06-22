@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T05:45:37.340844+00:00",
+  "generated_at": "2026-06-22T06:00:37.315316+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2023,11 +2023,6 @@
   "news_alerts": [
     {
       "time": "19/06 10:30",
-      "source": "**Cointelegraph**: Bitcoin activity nears record highs on microtransaction surge",
-      "title": "Bitcoin activity nears record highs on microtransaction surge"
-    },
-    {
-      "time": "19/06 10:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Goldman Axes $500 From Gold Target on No Fed Cuts This Year",
       "title": "Goldman Axes $500 From Gold Target on No Fed Cuts This Year"
     },
@@ -2120,6 +2115,11 @@
       "time": "22/06 06:15",
       "source": "\ud83d\udcf0 **BBC News**: After Trump inspects Reflecting Pool, he says repair work will begin 'immediately'",
       "title": "After Trump inspects Reflecting Pool, he says repair work will begin 'immediately'"
+    },
+    {
+      "time": "22/06 07:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Treasuries Decline as Trump\u2019s Iran Threats Stoke Inflation Fears",
+      "title": "Treasuries Decline as Trump\u2019s Iran Threats Stoke Inflation Fears"
     }
   ]
 }
