@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T06:30:37.254716+00:00",
+  "generated_at": "2026-06-22T06:45:37.197565+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2022,16 +2022,6 @@
   ],
   "news_alerts": [
     {
-      "time": "19/06 12:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Czech Billionaire Premier Feuds With Central Bank Over Rate Hike",
-      "title": "Czech Billionaire Premier Feuds With Central Bank Over Rate Hike"
-    },
-    {
-      "time": "19/06 13:00",
-      "source": "**NYT World**: Mideast Live Updates: Deadly Attacks in Lebanon and Delay in Talks Test U.S.-Iran Deal",
-      "title": "Mideast Live Updates: Deadly Attacks in Lebanon and Delay in Talks Test U.S.-Iran Deal"
-    },
-    {
       "time": "19/06 13:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Vitol Won Emergency Zambia Fuel Supply Deal That IMF Questioned",
       "title": "Vitol Won Emergency Zambia Fuel Supply Deal That IMF Questioned"
@@ -2120,6 +2110,16 @@
       "time": "22/06 07:30",
       "source": "\ud83d\udcf0 **BBC News**: Trump says repairs to algae-plagued Reflecting Pool will begin immediately",
       "title": "Trump says repairs to algae-plagued Reflecting Pool will begin immediately"
+    },
+    {
+      "time": "22/06 07:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Peer-Beating Tech Fund Doubles China Exposure in Contrarian Bet",
+      "title": "Peer-Beating Tech Fund Doubles China Exposure in Contrarian Bet"
+    },
+    {
+      "time": "22/06 07:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Iranian Crude Oil Exports Surge Via Hormuz as More Ships Transit",
+      "title": "Iranian Crude Oil Exports Surge Via Hormuz as More Ships Transit"
     }
   ]
 }
