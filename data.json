@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T16:15:37.441799+00:00",
+  "generated_at": "2026-06-22T16:30:37.299844+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2012,16 +2012,6 @@
   ],
   "news_alerts": [
     {
-      "time": "22/06 07:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Iranian Crude Oil Exports Surge Via Hormuz as More Ships Transit",
-      "title": "Iranian Crude Oil Exports Surge Via Hormuz as More Ships Transit"
-    },
-    {
-      "time": "22/06 08:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Chinese Stocks in Hong Kong Near Bear Market | The China Show 6/22/2026",
-      "title": "Chinese Stocks in Hong Kong Near Bear Market | The China Show 6/22/2026"
-    },
-    {
       "time": "22/06 08:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: CRH Near Biggest-Ever Deal for Arcosa, Financial Times Says",
       "title": "CRH Near Biggest-Ever Deal for Arcosa, Financial Times Says"
@@ -2110,6 +2100,16 @@
       "time": "22/06 17:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Paragon Debt Targeted by Deutsche Bank Analysts Over Deal Spree",
       "title": "Paragon Debt Targeted by Deutsche Bank Analysts Over Deal Spree"
+    },
+    {
+      "time": "22/06 17:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Centrica CEO Eyes US for More LNG Deals and Trading Expansion",
+      "title": "Centrica CEO Eyes US for More LNG Deals and Trading Expansion"
+    },
+    {
+      "time": "22/06 17:30",
+      "source": "**NYT World**: How Will Colombia\u2019s New President Fuel Trump\u2019s Drug War?",
+      "title": "How Will Colombia\u2019s New President Fuel Trump\u2019s Drug War?"
     }
   ]
 }
