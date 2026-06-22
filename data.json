@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T08:45:37.176627+00:00",
+  "generated_at": "2026-06-22T09:00:37.935773+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "15/20",
+    "recent_session_rate": "11/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1245,6 +1245,48 @@
   ],
   "recent_sessions": [
     {
+      "id": "f105a5ef",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-22T09:00:26.603Z",
+      "completed": ""
+    },
+    {
+      "id": "a8a44dcb",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-22T09:00:26.363Z",
+      "completed": ""
+    },
+    {
+      "id": "53f45375",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-22T09:00:26.196Z",
+      "completed": ""
+    },
+    {
+      "id": "1d85c258",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-22T09:00:25.980Z",
+      "completed": ""
+    },
+    {
+      "id": "a0ebaa99",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-22T09:00:25.862Z",
+      "completed": ""
+    },
+    {
+      "id": "67f93aab",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-22T09:00:25.455Z",
+      "completed": ""
+    },
+    {
       "id": "bcef117e",
       "agent": "Desconhecido",
       "status": "failed",
@@ -1341,51 +1383,17 @@
       "status": "succeeded",
       "created": "2026-06-19T13:00:56.594Z",
       "completed": ""
-    },
-    {
-      "id": "9fc77ec6",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-19T13:00:56.290Z",
-      "completed": ""
-    },
-    {
-      "id": "ba5c7d44",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-19T13:00:55.825Z",
-      "completed": ""
-    },
-    {
-      "id": "1c1358fe",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-19T13:00:55.355Z",
-      "completed": ""
-    },
-    {
-      "id": "65ad411e",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-19T13:00:54.993Z",
-      "completed": ""
-    },
-    {
-      "id": "3b6cf239",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-19T09:10:20.870Z",
-      "completed": ""
-    },
-    {
-      "id": "0619d1b0",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-19T09:08:24.536Z",
-      "completed": ""
     }
   ],
   "activity_feed": [
+    {
+      "type": "session",
+      "session_type": "MANHA",
+      "session_num": 45,
+      "date": "22/06/2026 06:10",
+      "title": "Postmortem conclu\u00eddo. Score 6.5/10. Alertas principais: (1) 3\u00ba postmortem consecutivo a identificar concentra\u00e7\u00e3o cripto excessiva sem a\u00e7\u00e3o preventiva ",
+      "score": "6.5"
+    },
     {
       "type": "sl_hit",
       "ticker": "ETH",
@@ -1916,18 +1924,17 @@
       "reason": "\ud83d\udd34 STOP LOSS",
       "date": "2026-05-10T18:34",
       "id": 11
-    },
-    {
-      "type": "close",
-      "ticker": "META",
-      "direction": "LONG",
-      "pnl": 0.01,
-      "reason": "DOWNTREND ativo + MACD negativo (-1.6236) + RSI 45.6 \u2014 posi\u00e7\u00e3o LONG contra tend\u00eancia. Sair no breakeven antes de deteriora\u00e7\u00e3o.",
-      "date": "2026-05-09T15:32",
-      "id": 10
     }
   ],
   "session_analysis": [
+    {
+      "session_type": "MANHA",
+      "session_num": 45,
+      "date": "22/06/2026 06:10",
+      "summary": "Postmortem conclu\u00eddo. Score 6.5/10. Alertas principais: (1) 3\u00ba postmortem consecutivo a identificar concentra\u00e7\u00e3o cripto excessiva sem a\u00e7\u00e3o preventiva \u2014 implementar limite 40% urgente, (2) 3x leverage antes de CPI \u00e9 risco temporal elevado. Registo de novas posi\u00e7\u00f5es SPY (#1) e QQQ (#2) criado em .paperclip/records/trade-register.md.",
+      "trades": [],
+      "findings": []
+    },
     {
       "session_type": "TARDE",
       "session_num": 44,
@@ -2010,14 +2017,6 @@
       "findings": [
         "Postmortem conclu\u00eddo. Score 5/10 \u2014 sess\u00e3o com fundamento macro v\u00e1lido (Extreme Fear bounce) mas execu\u00e7\u00e3o agressiva: 3 LONGs crypto correlacionados a 3x, cash 80%\u219217% sem hedge, R/R lim\u00edtrofes em regim"
       ]
-    },
-    {
-      "session_type": "MANHA",
-      "session_num": 29,
-      "date": "15/06/2026 15:25",
-      "summary": "Postmortem conclu\u00eddo e registado como coment\u00e1rio. Score 7/10 \u2014 sess\u00e3o competente com ressalvas na gest\u00e3o de risco crypto. An\u00e1lise completa com recomenda\u00e7\u00f5es para pr\u00f3ximas sess\u00f5es.",
-      "trades": [],
-      "findings": []
     }
   ],
   "news_alerts": [
