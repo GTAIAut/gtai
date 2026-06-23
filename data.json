@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T09:30:37.324001+00:00",
+  "generated_at": "2026-06-23T09:45:37.412279+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2010,11 +2010,6 @@
   ],
   "news_alerts": [
     {
-      "time": "22/06 17:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Paragon Debt Targeted by Deutsche Bank Analysts Over Deal Spree",
-      "title": "Paragon Debt Targeted by Deutsche Bank Analysts Over Deal Spree"
-    },
-    {
       "time": "22/06 17:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Centrica CEO Eyes US for More LNG Deals and Trading Expansion",
       "title": "Centrica CEO Eyes US for More LNG Deals and Trading Expansion"
@@ -2108,6 +2103,11 @@
       "time": "23/06 10:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: ECB\u2019s Lane Sees Danger Inflation Will Top 2% for Some Time",
       "title": "ECB\u2019s Lane Sees Danger Inflation Will Top 2% for Some Time"
+    },
+    {
+      "time": "23/06 10:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Bristow Is Said to Near Berry Aviation Deal in Government Push",
+      "title": "Bristow Is Said to Near Berry Aviation Deal in Government Push"
     }
   ]
 }
