@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T13:10:46.657007+00:00",
+  "generated_at": "2026-06-23T13:15:37.190376+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "9/20",
+    "recent_session_rate": "10/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1238,14 +1238,14 @@
     {
       "id": "3a494715",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "failed",
       "created": "2026-06-23T13:10:44.131Z",
       "completed": ""
     },
     {
       "id": "3b4ef967",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-23T13:07:33.331Z",
       "completed": ""
     },
@@ -2009,11 +2009,6 @@
   ],
   "news_alerts": [
     {
-      "time": "22/06 18:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Morgan Stanley's Gower: Fed Holding Rates Through '26",
-      "title": "Morgan Stanley's Gower: Fed Holding Rates Through '26"
-    },
-    {
       "time": "22/06 18:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Lagarde Says China Should Be Part of Any Talks on FX Imbalances",
       "title": "Lagarde Says China Should Be Part of Any Talks on FX Imbalances"
@@ -2107,6 +2102,11 @@
       "time": "23/06 12:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Iran President Visits Pakistan After Historic Deal With US",
       "title": "Iran President Visits Pakistan After Historic Deal With US"
+    },
+    {
+      "time": "23/06 14:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Oil Steadies While Tankers Openly Enter Hormuz After Peace Deal",
+      "title": "Oil Steadies While Tankers Openly Enter Hormuz After Peace Deal"
     }
   ]
 }
