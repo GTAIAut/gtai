@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T08:30:37.296538+00:00",
+  "generated_at": "2026-06-23T08:45:37.283472+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2011,11 +2011,6 @@
   ],
   "news_alerts": [
     {
-      "time": "22/06 16:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: AbbVie's Deal with Apogee; Regenxbio Moves on Gene Therapy Drug | Stock Movers",
-      "title": "AbbVie's Deal with Apogee; Regenxbio Moves on Gene Therapy Drug | Stock Movers"
-    },
-    {
       "time": "22/06 16:30",
       "source": "**NYT World**: Mideast Live Updates: U.S. Eases Sanctions as Vance Says Iran Agrees to Resume Nuclear Inspections",
       "title": "Mideast Live Updates: U.S. Eases Sanctions as Vance Says Iran Agrees to Resume Nuclear Inspections"
@@ -2109,6 +2104,11 @@
       "time": "23/06 08:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: IFM Investors Passes 50% Stake in Deal Target Atlas Arteria",
       "title": "IFM Investors Passes 50% Stake in Deal Target Atlas Arteria"
+    },
+    {
+      "time": "23/06 09:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: ECB\u2019s Lane Sees Danger Inflation Will Top 2% for Quite Some Time",
+      "title": "ECB\u2019s Lane Sees Danger Inflation Will Top 2% for Quite Some Time"
     }
   ]
 }
