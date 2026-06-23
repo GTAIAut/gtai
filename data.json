@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T13:30:37.277994+00:00",
+  "generated_at": "2026-06-23T13:45:37.354314+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2010,11 +2010,6 @@
   "news_alerts": [
     {
       "time": "23/06 06:15",
-      "source": "**Cointelegraph**: Trump signs orders for quantum computer, cryptography upgrades",
-      "title": "Trump signs orders for quantum computer, cryptography upgrades"
-    },
-    {
-      "time": "23/06 06:15",
       "source": "**NYT World**: U.S. Eases Sanctions on Iranian Oil, but Progress on Nuclear Issues Is Muddy",
       "title": "U.S. Eases Sanctions on Iranian Oil, but Progress on Nuclear Issues Is Muddy"
     },
@@ -2107,6 +2102,11 @@
       "time": "23/06 14:30",
       "source": "**Investing.com**: Constellation Energy to supply nuclear power to Walmart facility under 15-year deal",
       "title": "Constellation Energy to supply nuclear power to Walmart facility under 15-year deal"
+    },
+    {
+      "time": "23/06 14:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: US Lets Iran Sell Oil Again as Part of Deal to End War",
+      "title": "US Lets Iran Sell Oil Again as Part of Deal to End War"
     }
   ]
 }
