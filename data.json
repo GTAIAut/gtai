@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T04:45:37.396864+00:00",
+  "generated_at": "2026-06-23T05:00:38.025891+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "14/20",
+    "recent_session_rate": "12/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1236,6 +1236,48 @@
   ],
   "recent_sessions": [
     {
+      "id": "a2f43c51",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-23T05:00:28.121Z",
+      "completed": ""
+    },
+    {
+      "id": "89876c96",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-23T05:00:27.867Z",
+      "completed": ""
+    },
+    {
+      "id": "87a2a176",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-23T05:00:27.597Z",
+      "completed": ""
+    },
+    {
+      "id": "e5f79825",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-23T05:00:27.204Z",
+      "completed": ""
+    },
+    {
+      "id": "c18334c1",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-23T05:00:26.822Z",
+      "completed": ""
+    },
+    {
+      "id": "d7b214f6",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-23T05:00:26.547Z",
+      "completed": ""
+    },
+    {
       "id": "24dba485",
       "agent": "Desconhecido",
       "status": "succeeded",
@@ -1332,51 +1374,17 @@
       "status": "failed",
       "created": "2026-06-22T09:00:26.603Z",
       "completed": ""
-    },
-    {
-      "id": "a8a44dcb",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-22T09:00:26.363Z",
-      "completed": ""
-    },
-    {
-      "id": "53f45375",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-22T09:00:26.196Z",
-      "completed": ""
-    },
-    {
-      "id": "1d85c258",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-22T09:00:25.980Z",
-      "completed": ""
-    },
-    {
-      "id": "a0ebaa99",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-22T09:00:25.862Z",
-      "completed": ""
-    },
-    {
-      "id": "67f93aab",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-22T09:00:25.455Z",
-      "completed": ""
-    },
-    {
-      "id": "bcef117e",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-22T05:10:30.883Z",
-      "completed": ""
     }
   ],
   "activity_feed": [
+    {
+      "type": "session",
+      "session_type": "TARDE",
+      "session_num": 47,
+      "date": "22/06/2026 14:10",
+      "title": "\u2705 POSTMORTEM conclu\u00eddo. 7 trades registados no REGISTO.md. An\u00e1lise cr\u00edtica: score 7.0/10 \u2014 transi\u00e7\u00e3o p\u00f3s-CPI correta, mas R/R marginal em 2 trades, cr",
+      "score": "7.0"
+    },
     {
       "type": "session",
       "session_type": "MANHA",
@@ -1906,18 +1914,19 @@
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-10T21:04",
       "id": 13
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "AVAX",
-      "direction": "SHORT",
-      "pnl": 0.0,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-10T20:54",
-      "id": 13
     }
   ],
   "session_analysis": [
+    {
+      "session_type": "TARDE",
+      "session_num": 47,
+      "date": "22/06/2026 14:10",
+      "summary": "\u2705 POSTMORTEM conclu\u00eddo. 7 trades registados no REGISTO.md. An\u00e1lise cr\u00edtica: score 7.0/10 \u2014 transi\u00e7\u00e3o p\u00f3s-CPI correta, mas R/R marginal em 2 trades, cripto correlacionado a 12%, falta TP2 em 4/6 posi\u00e7\u00f5es. 5 li\u00e7\u00f5es documentadas para pr\u00f3ximas sess\u00f5es.",
+      "trades": [],
+      "findings": [
+        "\u2705 POSTMORTEM conclu\u00eddo. 7 trades registados no REGISTO.md. An\u00e1lise cr\u00edtica: score 7.0/10 \u2014 transi\u00e7\u00e3o p\u00f3s-CPI correta, mas R/R marginal em 2 trades, cripto correlacionado a 12%, falta TP2 em 4/6 posi\u00e7\u00f5"
+      ]
+    },
     {
       "session_type": "MANHA",
       "session_num": 45,
@@ -1997,16 +2006,6 @@
       "trades": [],
       "findings": [
         "Postmortem conclu\u00eddo e registado como coment\u00e1rio. Score 5/10 \u2014 sess\u00e3o com m\u00e9ritos (BNB close, cash deploy, compliance QQQ) mas viola\u00e7\u00e3o grave de R/R m\u00ednimo em 3 trades cripto e contradi\u00e7\u00e3o regime-a\u00e7\u00e3o"
-      ]
-    },
-    {
-      "session_type": "MANHA",
-      "session_num": 30,
-      "date": "16/06/2026 09:33",
-      "summary": "Postmortem conclu\u00eddo. Score 5/10 \u2014 sess\u00e3o com fundamento macro v\u00e1lido (Extreme Fear bounce) mas execu\u00e7\u00e3o agressiva: 3 LONGs crypto correlacionados a 3x, cash 80%\u219217% sem hedge, R/R lim\u00edtrofes em regime divergente. 5 li\u00e7\u00f5es concretas documentadas para pr\u00f3ximas sess\u00f5es.",
-      "trades": [],
-      "findings": [
-        "Postmortem conclu\u00eddo. Score 5/10 \u2014 sess\u00e3o com fundamento macro v\u00e1lido (Extreme Fear bounce) mas execu\u00e7\u00e3o agressiva: 3 LONGs crypto correlacionados a 3x, cash 80%\u219217% sem hedge, R/R lim\u00edtrofes em regim"
       ]
     }
   ],
