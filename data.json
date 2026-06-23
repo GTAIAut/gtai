@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T13:00:37.523466+00:00",
+  "generated_at": "2026-06-23T13:10:46.657007+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "10/20",
+    "recent_session_rate": "9/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1236,6 +1236,27 @@
   ],
   "recent_sessions": [
     {
+      "id": "3a494715",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-23T13:10:44.131Z",
+      "completed": ""
+    },
+    {
+      "id": "3b4ef967",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-23T13:07:33.331Z",
+      "completed": ""
+    },
+    {
+      "id": "3e548a9a",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-23T13:07:27.745Z",
+      "completed": ""
+    },
+    {
       "id": "6deedb2e",
       "agent": "Desconhecido",
       "status": "failed",
@@ -1266,7 +1287,7 @@
     {
       "id": "31282a97",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-23T13:00:25.653Z",
       "completed": ""
     },
@@ -1352,27 +1373,6 @@
       "agent": "Desconhecido",
       "status": "succeeded",
       "created": "2026-06-23T05:07:32.662Z",
-      "completed": ""
-    },
-    {
-      "id": "40c71403",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-23T05:07:27.747Z",
-      "completed": ""
-    },
-    {
-      "id": "a2f43c51",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-23T05:00:28.121Z",
-      "completed": ""
-    },
-    {
-      "id": "89876c96",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-23T05:00:27.867Z",
       "completed": ""
     }
   ],
