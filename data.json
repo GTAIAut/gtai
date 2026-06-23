@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T06:15:37.445538+00:00",
+  "generated_at": "2026-06-23T06:30:37.639837+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2011,11 +2011,6 @@
   ],
   "news_alerts": [
     {
-      "time": "22/06 14:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: CRH to Buy Arcosa in Building Materials Firm\u2019s Biggest Deal",
-      "title": "CRH to Buy Arcosa in Building Materials Firm\u2019s Biggest Deal"
-    },
-    {
       "time": "22/06 14:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Inflationary Environment Suggests Higher Rates, Seema Shah Says",
       "title": "Inflationary Environment Suggests Higher Rates, Seema Shah Says"
@@ -2109,6 +2104,11 @@
       "time": "23/06 06:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Stocks in Hong Kong Eye Bear Market on Spending Woes",
       "title": "China Stocks in Hong Kong Eye Bear Market on Spending Woes"
+    },
+    {
+      "time": "23/06 07:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Stocks in Hong Kong Set For Bear Market on Spending Woes",
+      "title": "China Stocks in Hong Kong Set For Bear Market on Spending Woes"
     }
   ]
 }
