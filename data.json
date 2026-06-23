@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T07:15:37.321632+00:00",
+  "generated_at": "2026-06-23T07:30:37.343647+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2011,16 +2011,6 @@
   ],
   "news_alerts": [
     {
-      "time": "22/06 15:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Vance Hails \u2018Good Day\u2019 of Iran Talks as US Waives Oil Sanctions",
-      "title": "Vance Hails \u2018Good Day\u2019 of Iran Talks as US Waives Oil Sanctions"
-    },
-    {
-      "time": "22/06 16:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: President Trump 'Burned Out' From Iran Conflict: Newman",
-      "title": "President Trump 'Burned Out' From Iran Conflict: Newman"
-    },
-    {
       "time": "22/06 16:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: AbbVie's Deal with Apogee; Regenxbio Moves on Gene Therapy Drug | Stock Movers",
       "title": "AbbVie's Deal with Apogee; Regenxbio Moves on Gene Therapy Drug | Stock Movers"
@@ -2109,6 +2099,16 @@
       "time": "23/06 08:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Iran President to Visit Pakistan Following Historic Deal With US",
       "title": "Iran President to Visit Pakistan Following Historic Deal With US"
+    },
+    {
+      "time": "23/06 08:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Asia Stocks Fall From Record as Tech Rally Cools | The China Show 6/23/2026",
+      "title": "Asia Stocks Fall From Record as Tech Rally Cools | The China Show 6/23/2026"
+    },
+    {
+      "time": "23/06 08:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: IFM Investors Passes 50% Stake in Deal Target Atlas Arteria",
+      "title": "IFM Investors Passes 50% Stake in Deal Target Atlas Arteria"
     }
   ]
 }
