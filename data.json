@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T15:00:37.379794+00:00",
+  "generated_at": "2026-06-23T15:15:37.266125+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2009,16 +2009,6 @@
   ],
   "news_alerts": [
     {
-      "time": "23/06 06:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Falls as Inflation Risks Outweigh Progress in US-Iran Talks",
-      "title": "Gold Falls as Inflation Risks Outweigh Progress in US-Iran Talks"
-    },
-    {
-      "time": "23/06 06:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Stocks in Hong Kong Eye Bear Market on Spending Woes",
-      "title": "China Stocks in Hong Kong Eye Bear Market on Spending Woes"
-    },
-    {
       "time": "23/06 07:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Stocks in Hong Kong Set For Bear Market on Spending Woes",
       "title": "China Stocks in Hong Kong Set For Bear Market on Spending Woes"
@@ -2107,6 +2097,16 @@
       "time": "23/06 16:00",
       "source": "**Investing.com**: Greece stocks lower at close of trade; Athens General Composite down 1.13%",
       "title": "Greece stocks lower at close of trade; Athens General Composite down 1.13%"
+    },
+    {
+      "time": "23/06 16:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Warsh Fed Will Rely on Supply Side Indicators, Says Morgan Stanley's Jim Caron",
+      "title": "Warsh Fed Will Rely on Supply Side Indicators, Says Morgan Stanley's Jim Caron"
+    },
+    {
+      "time": "23/06 16:15",
+      "source": "\ud83d\udcf0 **BBC News**: Dozens of ships head through Strait of Hormuz after US-Iran deal",
+      "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal"
     }
   ]
 }
