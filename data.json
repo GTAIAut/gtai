@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T09:10:14.850230+00:00",
+  "generated_at": "2026-06-23T09:15:37.174193+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "11/20",
+    "recent_session_rate": "14/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1238,28 +1238,28 @@
     {
       "id": "f8ad5a4c",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-23T09:10:12.544Z",
       "completed": ""
     },
     {
       "id": "eb5fc934",
       "agent": "Desconhecido",
-      "status": "queued",
+      "status": "succeeded",
       "created": "2026-06-23T09:07:33.053Z",
       "completed": ""
     },
     {
       "id": "88c7d77a",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-23T09:07:19.882Z",
       "completed": ""
     },
     {
       "id": "0ddafb77",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "timed_out",
       "created": "2026-06-23T09:00:19.566Z",
       "completed": ""
     },
@@ -1294,7 +1294,7 @@
     {
       "id": "c99df516",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "timed_out",
       "created": "2026-06-23T09:00:18.173Z",
       "completed": ""
     },
@@ -2010,21 +2010,6 @@
   ],
   "news_alerts": [
     {
-      "time": "22/06 16:30",
-      "source": "**NYT World**: Mideast Live Updates: U.S. Eases Sanctions as Vance Says Iran Agrees to Resume Nuclear Inspections",
-      "title": "Mideast Live Updates: U.S. Eases Sanctions as Vance Says Iran Agrees to Resume Nuclear Inspections"
-    },
-    {
-      "time": "22/06 17:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Chinese Carmakers Weighing Canada Manufacturing Deals, Joly Says",
-      "title": "Chinese Carmakers Weighing Canada Manufacturing Deals, Joly Says"
-    },
-    {
-      "time": "22/06 17:00",
-      "source": "**Cointelegraph**: Bitcoin price taps $65.5K as Iran deal sees oil drop toward 16-week low",
-      "title": "Bitcoin price taps $65.5K as Iran deal sees oil drop toward 16-week low"
-    },
-    {
       "time": "22/06 17:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Paragon Debt Targeted by Deutsche Bank Analysts Over Deal Spree",
       "title": "Paragon Debt Targeted by Deutsche Bank Analysts Over Deal Spree"
@@ -2108,6 +2093,21 @@
       "time": "23/06 09:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: ECB\u2019s Lane Sees Danger Inflation Will Top 2% for Quite Some Time",
       "title": "ECB\u2019s Lane Sees Danger Inflation Will Top 2% for Quite Some Time"
+    },
+    {
+      "time": "23/06 10:15",
+      "source": "**NYT World**: How Mark Rutte of NATO Manages an Unpredictable Trump",
+      "title": "How Mark Rutte of NATO Manages an Unpredictable Trump"
+    },
+    {
+      "time": "23/06 10:15",
+      "source": "**NYT World**: Delcy Rodr\u00edguez, Venezuela\u2019s President, Struggles to Uphold Trump\u2019s Narrative of Success",
+      "title": "Delcy Rodr\u00edguez, Venezuela\u2019s President, Struggles to Uphold Trump\u2019s Narrative of Success"
+    },
+    {
+      "time": "23/06 10:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: ECB\u2019s Lane Sees Danger Inflation Will Top 2% for Some Time",
+      "title": "ECB\u2019s Lane Sees Danger Inflation Will Top 2% for Some Time"
     }
   ]
 }
