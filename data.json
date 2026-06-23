@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T10:15:37.364371+00:00",
+  "generated_at": "2026-06-23T10:30:37.195105+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2011,11 +2011,6 @@
   "news_alerts": [
     {
       "time": "22/06 17:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Centrica CEO Eyes US for More LNG Deals and Trading Expansion",
-      "title": "Centrica CEO Eyes US for More LNG Deals and Trading Expansion"
-    },
-    {
-      "time": "22/06 17:30",
       "source": "**NYT World**: How Will Colombia\u2019s New President Fuel Trump\u2019s Drug War?",
       "title": "How Will Colombia\u2019s New President Fuel Trump\u2019s Drug War?"
     },
@@ -2108,6 +2103,11 @@
       "time": "23/06 10:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Bristow Is Said to Near Berry Aviation Deal in Government Push",
       "title": "Bristow Is Said to Near Berry Aviation Deal in Government Push"
+    },
+    {
+      "time": "23/06 11:30",
+      "source": "**Cointelegraph**: Bitcoin gets new $54K warning as BTC price hits 11-day low on Asia tech sell-off",
+      "title": "Bitcoin gets new $54K warning as BTC price hits 11-day low on Asia tech sell-off"
     }
   ]
 }
