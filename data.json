@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T12:45:37.261862+00:00",
+  "generated_at": "2026-06-23T13:00:37.523466+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "14/20",
+    "recent_session_rate": "10/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1236,6 +1236,48 @@
   ],
   "recent_sessions": [
     {
+      "id": "6deedb2e",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-23T13:00:27.051Z",
+      "completed": ""
+    },
+    {
+      "id": "ccfd34e9",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-23T13:00:26.971Z",
+      "completed": ""
+    },
+    {
+      "id": "0320abf9",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-23T13:00:26.332Z",
+      "completed": ""
+    },
+    {
+      "id": "43fb9402",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-23T13:00:26.043Z",
+      "completed": ""
+    },
+    {
+      "id": "31282a97",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-23T13:00:25.653Z",
+      "completed": ""
+    },
+    {
+      "id": "39954585",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-23T13:00:25.388Z",
+      "completed": ""
+    },
+    {
       "id": "f8ad5a4c",
       "agent": "Desconhecido",
       "status": "succeeded",
@@ -1332,51 +1374,17 @@
       "status": "succeeded",
       "created": "2026-06-23T05:00:27.867Z",
       "completed": ""
-    },
-    {
-      "id": "87a2a176",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-23T05:00:27.597Z",
-      "completed": ""
-    },
-    {
-      "id": "e5f79825",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-23T05:00:27.204Z",
-      "completed": ""
-    },
-    {
-      "id": "c18334c1",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-23T05:00:26.822Z",
-      "completed": ""
-    },
-    {
-      "id": "d7b214f6",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-23T05:00:26.547Z",
-      "completed": ""
-    },
-    {
-      "id": "24dba485",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-22T13:10:43.336Z",
-      "completed": ""
-    },
-    {
-      "id": "1ddcfbf9",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-22T13:08:01.261Z",
-      "completed": ""
     }
   ],
   "activity_feed": [
+    {
+      "type": "session",
+      "session_type": "MEIODIA",
+      "session_num": 49,
+      "date": "23/06/2026 10:10",
+      "title": "Postmortem conclu\u00eddo e registado no coment\u00e1rio acima. Score: 7/10 \u2014 decis\u00f5es alinhadas com macro, mas exposi\u00e7\u00e3o curta agregada elevada (~90%) com cash",
+      "score": "7"
+    },
     {
       "type": "session",
       "session_type": "MANHA",
@@ -1904,18 +1912,17 @@
       "reason": "SOL +3.46% hoje, RSI 78.2 mas tend\u00eancia UP forte, breakeven eminente \u2014 sair antes de loss",
       "date": "2026-05-11T09:04",
       "id": 12
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "DOGE",
-      "direction": "SHORT",
-      "pnl": 0.75,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-11T01:16",
-      "id": 14
     }
   ],
   "session_analysis": [
+    {
+      "session_type": "MEIODIA",
+      "session_num": 49,
+      "date": "23/06/2026 10:10",
+      "summary": "Postmortem conclu\u00eddo e registado no coment\u00e1rio acima. Score: 7/10 \u2014 decis\u00f5es alinhadas com macro, mas exposi\u00e7\u00e3o curta agregada elevada (~90%) com cash reduzido (~33%) \u00e9 o principal ponto de aten\u00e7\u00e3o para futuras sess\u00f5es.",
+      "trades": [],
+      "findings": []
+    },
     {
       "session_type": "MANHA",
       "session_num": 48,
@@ -1998,14 +2005,6 @@
       "findings": [
         "Postmortem conclu\u00eddo. Score 6.5/10 \u2014 sess\u00e3o tecnicamente correta mas com urgency bias detetado (2 aberturas ap\u00f3s P&L -0.2%, re-entrada IWM contradit\u00f3ria ao trim em #34). 3 recomenda\u00e7\u00f5es: limitar 1 abe"
       ]
-    },
-    {
-      "session_type": "TARDE",
-      "session_num": 33,
-      "date": "16/06/2026 15:26",
-      "summary": "Postmortem conclu\u00eddo. Score: 6/10. Principais achados: aloca\u00e7\u00e3o excessiva (75% cash numa sess\u00e3o), falta de stops documentados nos novos trades, e discrep\u00e2ncia nos dados do portfolio. Breakeven no QQQ foi o ponto alto da sess\u00e3o.",
-      "trades": [],
-      "findings": []
     }
   ],
   "news_alerts": [
