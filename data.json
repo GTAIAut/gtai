@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-23T09:00:37.682351+00:00",
+  "generated_at": "2026-06-23T09:10:14.850230+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": 108.31,
-    "total_pnl_pct": 0.22,
-    "cash_eur": 40510.38,
-    "invested_eur": 9130.5,
-    "portfolio_value": 49640.88,
+    "total_pnl_eur": 117.5,
+    "total_pnl_pct": 0.24,
+    "cash_eur": 42654.12,
+    "invested_eur": 7121.79,
+    "portfolio_value": 49775.91,
     "open_positions": 2,
     "total_trades": 74,
     "win_rate": 45.9,
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "12/20",
+    "recent_session_rate": "11/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -446,7 +446,7 @@
     },
     {
       "date": "2026-06-23",
-      "value": 49640.88
+      "value": 49775.91
     }
   ],
   "monthly_pnl": [
@@ -649,28 +649,28 @@
     },
     {
       "date": "2026-06-23",
-      "value": 49640.88,
+      "value": 49775.91,
       "forecast": false
     },
     {
       "date": "2026-07-23",
-      "value": 49645.69,
-      "lower": 49342.04,
-      "upper": 49949.33,
+      "value": 49663.03,
+      "lower": 49360.55,
+      "upper": 49965.51,
       "forecast": true
     },
     {
       "date": "2026-08-22",
-      "value": 49499.73,
-      "lower": 49196.08,
-      "upper": 49803.38,
+      "value": 49524.31,
+      "lower": 49221.82,
+      "upper": 49826.79,
       "forecast": true
     },
     {
       "date": "2026-09-21",
-      "value": 49353.78,
-      "lower": 49050.13,
-      "upper": 49657.42,
+      "value": 49385.58,
+      "lower": 49083.1,
+      "upper": 49688.06,
       "forecast": true
     }
   ],
@@ -1052,8 +1052,8 @@
     },
     {
       "date": "2026-06-23",
-      "drawdown_pct": 0.79,
-      "value": 49640.88
+      "drawdown_pct": 0.52,
+      "value": 49775.91
     }
   ],
   "positions": [
@@ -1061,13 +1061,13 @@
       "ticker": "IWM",
       "direction": "LONG",
       "entry": 252.83,
-      "size": 48.1487,
-      "invested": 6087.0,
+      "size": 32.2596,
+      "invested": 4078.29,
       "leverage": 2,
       "sl": 250.0,
       "tp1": 268.0,
       "tp2": null,
-      "budget_pct": 11.7,
+      "budget_pct": 7.8,
       "confidence": 7,
       "is_crypto": false,
       "at_tp1": false,
@@ -1236,6 +1236,27 @@
   ],
   "recent_sessions": [
     {
+      "id": "f8ad5a4c",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-23T09:10:12.544Z",
+      "completed": ""
+    },
+    {
+      "id": "eb5fc934",
+      "agent": "Desconhecido",
+      "status": "queued",
+      "created": "2026-06-23T09:07:33.053Z",
+      "completed": ""
+    },
+    {
+      "id": "88c7d77a",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-23T09:07:19.882Z",
+      "completed": ""
+    },
+    {
       "id": "0ddafb77",
       "agent": "Desconhecido",
       "status": "running",
@@ -1252,21 +1273,21 @@
     {
       "id": "3f4daee3",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "failed",
       "created": "2026-06-23T09:00:19.120Z",
       "completed": ""
     },
     {
       "id": "abb34d3b",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-23T09:00:18.765Z",
       "completed": ""
     },
     {
       "id": "2505b47a",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-23T09:00:18.514Z",
       "completed": ""
     },
@@ -1352,27 +1373,6 @@
       "agent": "Desconhecido",
       "status": "succeeded",
       "created": "2026-06-22T13:08:01.261Z",
-      "completed": ""
-    },
-    {
-      "id": "c8574255",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-22T13:07:50.912Z",
-      "completed": ""
-    },
-    {
-      "id": "82faf19c",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-22T13:00:51.518Z",
-      "completed": ""
-    },
-    {
-      "id": "c78d6a78",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-22T13:00:51.087Z",
       "completed": ""
     }
   ],
