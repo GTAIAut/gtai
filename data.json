@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T14:30:37.249429+00:00",
+  "generated_at": "2026-06-23T14:45:37.386422+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2009,11 +2009,6 @@
   ],
   "news_alerts": [
     {
-      "time": "23/06 06:15",
-      "source": "\ud83d\udcf0 **BBC News**: US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
-      "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors"
-    },
-    {
       "time": "23/06 06:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: IFM Investors Nears 50% Stake in Deal Target Atlas Arteria",
       "title": "IFM Investors Nears 50% Stake in Deal Target Atlas Arteria"
@@ -2107,6 +2102,11 @@
       "time": "23/06 15:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Says US to Control Iran\u2019s Use of Unfrozen Funds",
       "title": "Trump Says US to Control Iran\u2019s Use of Unfrozen Funds"
+    },
+    {
+      "time": "23/06 15:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: La nueva Fed de Kevin Warsh",
+      "title": "La nueva Fed de Kevin Warsh"
     }
   ]
 }
