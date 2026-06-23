@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T16:45:37.532578+00:00",
+  "generated_at": "2026-06-23T04:00:37.375954+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -445,7 +445,7 @@
       "trade": "BTC SHORT"
     },
     {
-      "date": "2026-06-22",
+      "date": "2026-06-23",
       "value": 49565.01
     }
   ],
@@ -648,29 +648,29 @@
       "forecast": false
     },
     {
-      "date": "2026-06-22",
+      "date": "2026-06-23",
       "value": 49565.01,
       "forecast": false
     },
     {
-      "date": "2026-07-22",
-      "value": 49641.05,
-      "lower": 49335.92,
-      "upper": 49946.17,
+      "date": "2026-07-23",
+      "value": 49635.94,
+      "lower": 49330.92,
+      "upper": 49940.96,
       "forecast": true
     },
     {
-      "date": "2026-08-21",
-      "value": 49491.11,
-      "lower": 49185.99,
-      "upper": 49796.24,
+      "date": "2026-08-22",
+      "value": 49485.92,
+      "lower": 49180.9,
+      "upper": 49790.94,
       "forecast": true
     },
     {
-      "date": "2026-09-20",
-      "value": 49341.18,
-      "lower": 49036.05,
-      "upper": 49646.3,
+      "date": "2026-09-21",
+      "value": 49335.9,
+      "lower": 49030.89,
+      "upper": 49640.92,
       "forecast": true
     }
   ],
@@ -1051,7 +1051,7 @@
       "value": 48394.23
     },
     {
-      "date": "2026-06-22",
+      "date": "2026-06-23",
       "drawdown_pct": 0.95,
       "value": 49565.01
     }
@@ -2012,16 +2012,6 @@
   ],
   "news_alerts": [
     {
-      "time": "22/06 08:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: CRH Near Biggest-Ever Deal for Arcosa, Financial Times Says",
-      "title": "CRH Near Biggest-Ever Deal for Arcosa, Financial Times Says"
-    },
-    {
-      "time": "22/06 09:30",
-      "source": "**NYT World**: As Vance Offers Iran \u2018Outstretched Hand\u2019 in Talks, Trump Threatens Bombing",
-      "title": "As Vance Offers Iran \u2018Outstretched Hand\u2019 in Talks, Trump Threatens Bombing"
-    },
-    {
       "time": "22/06 10:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Lays Out Blueprint to Boost Consumption of Clean Energy",
       "title": "China Lays Out Blueprint to Boost Consumption of Clean Energy"
@@ -2110,6 +2100,16 @@
       "time": "22/06 17:30",
       "source": "**NYT World**: How Will Colombia\u2019s New President Fuel Trump\u2019s Drug War?",
       "title": "How Will Colombia\u2019s New President Fuel Trump\u2019s Drug War?"
+    },
+    {
+      "time": "22/06 18:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Morgan Stanley's Gower: Fed Holding Rates Through '26",
+      "title": "Morgan Stanley's Gower: Fed Holding Rates Through '26"
+    },
+    {
+      "time": "22/06 18:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Lagarde Says China Should Be Part of Any Talks on FX Imbalances",
+      "title": "Lagarde Says China Should Be Part of Any Talks on FX Imbalances"
     }
   ]
 }
