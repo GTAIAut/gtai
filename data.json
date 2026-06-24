@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T06:15:37.284898+00:00",
+  "generated_at": "2026-06-24T06:30:37.274886+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2009,11 +2009,6 @@
   ],
   "news_alerts": [
     {
-      "time": "23/06 10:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: ECB\u2019s Lane Sees Danger Inflation Will Top 2% for Some Time",
-      "title": "ECB\u2019s Lane Sees Danger Inflation Will Top 2% for Some Time"
-    },
-    {
       "time": "23/06 10:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Bristow Is Said to Near Berry Aviation Deal in Government Push",
       "title": "Bristow Is Said to Near Berry Aviation Deal in Government Push"
@@ -2107,6 +2102,11 @@
       "time": "24/06 07:15",
       "source": "**Cointelegraph**: US nears ban on CBDCs until 2030 as housing bill goes to Trump",
       "title": "US nears ban on CBDCs until 2030 as housing bill goes to Trump"
+    },
+    {
+      "time": "24/06 07:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Beijing Unfazed by China Shock 2.0 as Premier Touts Openness",
+      "title": "Beijing Unfazed by China Shock 2.0 as Premier Touts Openness"
     }
   ]
 }
