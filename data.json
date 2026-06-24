@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T09:09:43.945208+00:00",
+  "generated_at": "2026-06-24T09:15:37.383024+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "8/20",
+    "recent_session_rate": "11/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1238,21 +1238,21 @@
     {
       "id": "6077d6b4",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-24T09:09:41.599Z",
       "completed": ""
     },
     {
       "id": "cfa2d166",
       "agent": "Desconhecido",
-      "status": "queued",
+      "status": "succeeded",
       "created": "2026-06-24T09:07:35.133Z",
       "completed": ""
     },
     {
       "id": "e7783710",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-24T09:07:20.441Z",
       "completed": ""
     },
@@ -2008,16 +2008,6 @@
   ],
   "news_alerts": [
     {
-      "time": "23/06 16:15",
-      "source": "\ud83d\udcf0 **BBC News**: Dozens of ships head through Strait of Hormuz after US-Iran deal",
-      "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal"
-    },
-    {
-      "time": "23/06 18:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Call for Crop Sales to Iran Adds Cautious Hope for Farmers",
-      "title": "Trump Call for Crop Sales to Iran Adds Cautious Hope for Farmers"
-    },
-    {
       "time": "23/06 18:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Treasuries Gain Before Auctions as Traders Trim Rate Hike Bets",
       "title": "Treasuries Gain Before Auctions as Traders Trim Rate Hike Bets"
@@ -2106,6 +2096,16 @@
       "time": "24/06 09:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Says Iran Crisis Shows Nations Must Speed Up Energy Shift",
       "title": "China Says Iran Crisis Shows Nations Must Speed Up Energy Shift"
+    },
+    {
+      "time": "24/06 10:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Paramount\u2019s $110 Billion Warner Deal Faces EU Moviemaker Test",
+      "title": "Paramount\u2019s $110 Billion Warner Deal Faces EU Moviemaker Test"
+    },
+    {
+      "time": "24/06 10:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Copper Holds Losses as Dollar and Hawkish Fed Pressure Metals",
+      "title": "Copper Holds Losses as Dollar and Hawkish Fed Pressure Metals"
     }
   ]
 }
