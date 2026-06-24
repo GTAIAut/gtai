@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T13:10:42.139181+00:00",
+  "generated_at": "2026-06-24T13:15:37.359075+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "14/20",
+    "recent_session_rate": "15/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1289,7 +1289,7 @@
     {
       "id": "5f8850ce",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-24T13:10:39.257Z",
       "completed": ""
     },
