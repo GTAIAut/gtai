@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T16:45:37.421816+00:00",
+  "generated_at": "2026-06-24T04:00:37.253914+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -445,7 +445,7 @@
       "trade": "BTC SHORT"
     },
     {
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "value": 49775.91
     }
   ],
@@ -648,29 +648,29 @@
       "forecast": false
     },
     {
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "value": 49775.91,
       "forecast": false
     },
     {
-      "date": "2026-07-23",
-      "value": 49663.03,
-      "lower": 49360.55,
-      "upper": 49965.51,
+      "date": "2026-07-24",
+      "value": 49658.94,
+      "lower": 49356.46,
+      "upper": 49961.41,
       "forecast": true
     },
     {
-      "date": "2026-08-22",
-      "value": 49524.31,
-      "lower": 49221.82,
-      "upper": 49826.79,
+      "date": "2026-08-23",
+      "value": 49520.42,
+      "lower": 49217.95,
+      "upper": 49822.89,
       "forecast": true
     },
     {
-      "date": "2026-09-21",
-      "value": 49385.58,
-      "lower": 49083.1,
-      "upper": 49688.06,
+      "date": "2026-09-22",
+      "value": 49381.91,
+      "lower": 49079.44,
+      "upper": 49684.38,
       "forecast": true
     }
   ],
@@ -1051,7 +1051,7 @@
       "value": 48394.23
     },
     {
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "drawdown_pct": 0.52,
       "value": 49775.91
     }
@@ -2009,21 +2009,6 @@
   ],
   "news_alerts": [
     {
-      "time": "23/06 07:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Stocks in Hong Kong Set For Bear Market on Spending Woes",
-      "title": "China Stocks in Hong Kong Set For Bear Market on Spending Woes"
-    },
-    {
-      "time": "23/06 07:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Stocks in Hong Kong Set for Bear Market on Spending Woes",
-      "title": "China Stocks in Hong Kong Set for Bear Market on Spending Woes"
-    },
-    {
-      "time": "23/06 08:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Iran President to Visit Pakistan Following Historic Deal With US",
-      "title": "Iran President to Visit Pakistan Following Historic Deal With US"
-    },
-    {
       "time": "23/06 08:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Asia Stocks Fall From Record as Tech Rally Cools | The China Show 6/23/2026",
       "title": "Asia Stocks Fall From Record as Tech Rally Cools | The China Show 6/23/2026"
@@ -2107,6 +2092,21 @@
       "time": "23/06 16:15",
       "source": "\ud83d\udcf0 **BBC News**: Dozens of ships head through Strait of Hormuz after US-Iran deal",
       "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal"
+    },
+    {
+      "time": "23/06 18:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Call for Crop Sales to Iran Adds Cautious Hope for Farmers",
+      "title": "Trump Call for Crop Sales to Iran Adds Cautious Hope for Farmers"
+    },
+    {
+      "time": "23/06 18:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Treasuries Gain Before Auctions as Traders Trim Rate Hike Bets",
+      "title": "Treasuries Gain Before Auctions as Traders Trim Rate Hike Bets"
+    },
+    {
+      "time": "23/06 18:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Dollar Jumps to Highest Since November on Fed Rate Hike Bets",
+      "title": "Dollar Jumps to Highest Since November on Fed Rate Hike Bets"
     }
   ]
 }
