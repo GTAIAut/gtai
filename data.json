@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T07:15:37.364396+00:00",
+  "generated_at": "2026-06-24T07:30:37.263037+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2009,11 +2009,6 @@
   ],
   "news_alerts": [
     {
-      "time": "23/06 14:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: US Lets Iran Sell Oil Again as Part of Deal to End War",
-      "title": "US Lets Iran Sell Oil Again as Part of Deal to End War"
-    },
-    {
       "time": "23/06 15:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Says US to Control Iran\u2019s Use of Unfrozen Funds",
       "title": "Trump Says US to Control Iran\u2019s Use of Unfrozen Funds"
@@ -2107,6 +2102,11 @@
       "time": "24/06 08:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: BOJ\u2019s Ueda Reiterates Risk of Inflation Exceeding 2% Target",
       "title": "BOJ\u2019s Ueda Reiterates Risk of Inflation Exceeding 2% Target"
+    },
+    {
+      "time": "24/06 08:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Chinese Premier Says Tech Industry Not a Global Threat | The China Show 6/24/2026",
+      "title": "Chinese Premier Says Tech Industry Not a Global Threat | The China Show 6/24/2026"
     }
   ]
 }
