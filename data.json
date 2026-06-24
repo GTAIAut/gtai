@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-24T13:00:38.312002+00:00",
+  "generated_at": "2026-06-24T13:10:42.139181+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": 117.5,
-    "total_pnl_pct": 0.24,
-    "cash_eur": 42654.12,
-    "invested_eur": 7121.79,
-    "portfolio_value": 49775.91,
-    "open_positions": 2,
+    "total_pnl_eur": 130.22,
+    "total_pnl_pct": 0.26,
+    "cash_eur": 27615.05,
+    "invested_eur": 22160.85,
+    "portfolio_value": 49775.9,
+    "open_positions": 5,
     "total_trades": 74,
     "win_rate": 45.9,
     "total_wins": 34,
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "10/20",
+    "recent_session_rate": "14/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -446,7 +446,7 @@
     },
     {
       "date": "2026-06-24",
-      "value": 49775.91
+      "value": 49775.9
     }
   ],
   "monthly_pnl": [
@@ -649,12 +649,12 @@
     },
     {
       "date": "2026-06-24",
-      "value": 49775.91,
+      "value": 49775.9,
       "forecast": false
     },
     {
       "date": "2026-07-24",
-      "value": 49658.94,
+      "value": 49658.93,
       "lower": 49356.46,
       "upper": 49961.41,
       "forecast": true
@@ -1053,7 +1053,7 @@
     {
       "date": "2026-06-24",
       "drawdown_pct": 0.52,
-      "value": 49775.91
+      "value": 49775.9
     }
   ],
   "positions": [
@@ -1090,6 +1090,57 @@
       "at_tp1": false,
       "reason": "Iran deal oil bearish",
       "opened_at": "2026-06-16T16:05:09.083168"
+    },
+    {
+      "ticker": "GLD",
+      "direction": "SHORT",
+      "entry": 333.06,
+      "size": 30.1031,
+      "invested": 5013.02,
+      "leverage": 2,
+      "sl": 343.05,
+      "tp1": 313.07,
+      "tp2": null,
+      "budget_pct": 10.0,
+      "confidence": 7,
+      "is_crypto": false,
+      "at_tp1": false,
+      "reason": "/ 2x: gold breaking $4K, dollar strength",
+      "opened_at": "2026-06-24T14:10:34.574304"
+    },
+    {
+      "ticker": "BTC",
+      "direction": "LONG",
+      "entry": 54868,
+      "size": 0.1827,
+      "invested": 5013.02,
+      "leverage": 2,
+      "sl": 53221.96,
+      "tp1": 58160.08,
+      "tp2": null,
+      "budget_pct": 10.0,
+      "confidence": 7,
+      "is_crypto": true,
+      "at_tp1": false,
+      "reason": "/ 5x: F&G 17 contr\u00e1rio, volume 2.9x",
+      "opened_at": "2026-06-24T14:10:35.989097"
+    },
+    {
+      "ticker": "TLT",
+      "direction": "LONG",
+      "entry": 76.09,
+      "size": 131.7692,
+      "invested": 5013.02,
+      "leverage": 2,
+      "sl": 73.81,
+      "tp1": 80.65,
+      "tp2": null,
+      "budget_pct": 10.0,
+      "confidence": 7,
+      "is_crypto": false,
+      "at_tp1": false,
+      "reason": "/ 2x: yields dropping, bonds bid",
+      "opened_at": "2026-06-24T14:10:38.009014"
     }
   ],
   "recent_trades": [
@@ -1236,23 +1287,44 @@
   ],
   "recent_sessions": [
     {
-      "id": "7bc83336",
+      "id": "5f8850ce",
       "agent": "Desconhecido",
       "status": "running",
+      "created": "2026-06-24T13:10:39.257Z",
+      "completed": ""
+    },
+    {
+      "id": "feab001f",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-24T13:07:35.462Z",
+      "completed": ""
+    },
+    {
+      "id": "989e9604",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-24T13:07:24.049Z",
+      "completed": ""
+    },
+    {
+      "id": "7bc83336",
+      "agent": "Desconhecido",
+      "status": "succeeded",
       "created": "2026-06-24T13:00:22.772Z",
       "completed": ""
     },
     {
       "id": "a86b5411",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-24T13:00:22.378Z",
       "completed": ""
     },
     {
       "id": "92438cd9",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "failed",
       "created": "2026-06-24T13:00:21.922Z",
       "completed": ""
     },
@@ -1266,7 +1338,7 @@
     {
       "id": "3d1ce485",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-24T13:00:20.908Z",
       "completed": ""
     },
@@ -1352,27 +1424,6 @@
       "agent": "Desconhecido",
       "status": "succeeded",
       "created": "2026-06-24T05:08:04.754Z",
-      "completed": ""
-    },
-    {
-      "id": "916c49fc",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-24T05:07:50.882Z",
-      "completed": ""
-    },
-    {
-      "id": "05c44d46",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-24T05:00:50.507Z",
-      "completed": ""
-    },
-    {
-      "id": "40552a90",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-24T05:00:50.466Z",
       "completed": ""
     }
   ],
