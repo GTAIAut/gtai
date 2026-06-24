@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T15:00:37.441256+00:00",
+  "generated_at": "2026-06-24T15:15:37.585354+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2058,11 +2058,6 @@
   ],
   "news_alerts": [
     {
-      "time": "24/06 08:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: BOJ\u2019s Ueda Reiterates Risk of Inflation Exceeding 2% Target",
-      "title": "BOJ\u2019s Ueda Reiterates Risk of Inflation Exceeding 2% Target"
-    },
-    {
       "time": "24/06 08:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Chinese Premier Says Tech Industry Not a Global Threat | The China Show 6/24/2026",
       "title": "Chinese Premier Says Tech Industry Not a Global Threat | The China Show 6/24/2026"
@@ -2156,6 +2151,11 @@
       "time": "24/06 16:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Fed Has Time to Keep Rates on Pause, BlackRock's Chaudhuri Says",
       "title": "Fed Has Time to Keep Rates on Pause, BlackRock's Chaudhuri Says"
+    },
+    {
+      "time": "24/06 16:15",
+      "source": "**NYT World**: The Ukraine War Amputees Embracing Wake Boarding and Jujitsu",
+      "title": "The Ukraine War Amputees Embracing Wake Boarding and Jujitsu"
     }
   ]
 }
