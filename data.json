@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T11:15:37.345478+00:00",
+  "generated_at": "2026-06-24T11:30:37.445139+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2008,11 +2008,6 @@
   ],
   "news_alerts": [
     {
-      "time": "24/06 06:15",
-      "source": "\ud83d\udcf0 **BBC News**: Congress passes war powers measure for first time, rebuking Trump's war with Iran",
-      "title": "Congress passes war powers measure for first time, rebuking Trump's war with Iran"
-    },
-    {
       "time": "24/06 07:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Currency Fix Weakens as Dollar Puts Yuan Strength to Test",
       "title": "China Currency Fix Weakens as Dollar Puts Yuan Strength to Test"
@@ -2106,6 +2101,11 @@
       "time": "24/06 12:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: The Debasement Trade Is Unraveling and Kevin Warsh Is One Big Reason",
       "title": "The Debasement Trade Is Unraveling and Kevin Warsh Is One Big Reason"
+    },
+    {
+      "time": "24/06 12:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: UK Banks Set to Extend Rally Against EU Peers, Berenberg Says",
+      "title": "UK Banks Set to Extend Rally Against EU Peers, Berenberg Says"
     }
   ]
 }
