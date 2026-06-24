@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T09:00:37.977766+00:00",
+  "generated_at": "2026-06-24T09:09:43.945208+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "5/20",
+    "recent_session_rate": "8/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1236,6 +1236,27 @@
   ],
   "recent_sessions": [
     {
+      "id": "6077d6b4",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-24T09:09:41.599Z",
+      "completed": ""
+    },
+    {
+      "id": "cfa2d166",
+      "agent": "Desconhecido",
+      "status": "queued",
+      "created": "2026-06-24T09:07:35.133Z",
+      "completed": ""
+    },
+    {
+      "id": "e7783710",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-24T09:07:20.441Z",
+      "completed": ""
+    },
+    {
       "id": "37b0d54a",
       "agent": "Desconhecido",
       "status": "failed",
@@ -1252,28 +1273,28 @@
     {
       "id": "6fc839f0",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-24T09:00:19.024Z",
       "completed": ""
     },
     {
       "id": "a7eb7f97",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-24T09:00:18.481Z",
       "completed": ""
     },
     {
       "id": "002413f8",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-24T09:00:18.084Z",
       "completed": ""
     },
     {
       "id": "62205405",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-24T09:00:17.740Z",
       "completed": ""
     },
@@ -1352,27 +1373,6 @@
       "agent": "Desconhecido",
       "status": "succeeded",
       "created": "2026-06-23T13:07:33.331Z",
-      "completed": ""
-    },
-    {
-      "id": "3e548a9a",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-23T13:07:27.745Z",
-      "completed": ""
-    },
-    {
-      "id": "6deedb2e",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-23T13:00:27.051Z",
-      "completed": ""
-    },
-    {
-      "id": "ccfd34e9",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-23T13:00:26.971Z",
       "completed": ""
     }
   ],
