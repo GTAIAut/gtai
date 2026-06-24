@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T14:45:37.243297+00:00",
+  "generated_at": "2026-06-24T15:00:37.441256+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2058,11 +2058,6 @@
   ],
   "news_alerts": [
     {
-      "time": "24/06 07:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Temasek Unit, Oman Fund Join Vinpearl\u2019s Private Credit Deal",
-      "title": "Temasek Unit, Oman Fund Join Vinpearl\u2019s Private Credit Deal"
-    },
-    {
       "time": "24/06 08:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: BOJ\u2019s Ueda Reiterates Risk of Inflation Exceeding 2% Target",
       "title": "BOJ\u2019s Ueda Reiterates Risk of Inflation Exceeding 2% Target"
@@ -2156,6 +2151,11 @@
       "time": "24/06 15:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Zero Fed Rate Hikes Baked Into S&P Forecast, Says Wells Fargo's Cronk",
       "title": "Zero Fed Rate Hikes Baked Into S&P Forecast, Says Wells Fargo's Cronk"
+    },
+    {
+      "time": "24/06 16:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Fed Has Time to Keep Rates on Pause, BlackRock's Chaudhuri Says",
+      "title": "Fed Has Time to Keep Rates on Pause, BlackRock's Chaudhuri Says"
     }
   ]
 }
