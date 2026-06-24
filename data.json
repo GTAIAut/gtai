@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T06:30:37.274886+00:00",
+  "generated_at": "2026-06-24T06:45:37.912549+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2009,26 +2009,6 @@
   ],
   "news_alerts": [
     {
-      "time": "23/06 10:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Bristow Is Said to Near Berry Aviation Deal in Government Push",
-      "title": "Bristow Is Said to Near Berry Aviation Deal in Government Push"
-    },
-    {
-      "time": "23/06 11:30",
-      "source": "**Cointelegraph**: Bitcoin gets new $54K warning as BTC price hits 11-day low on Asia tech sell-off",
-      "title": "Bitcoin gets new $54K warning as BTC price hits 11-day low on Asia tech sell-off"
-    },
-    {
-      "time": "23/06 12:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Iran President Visits Pakistan After Historic Deal With US",
-      "title": "Iran President Visits Pakistan After Historic Deal With US"
-    },
-    {
-      "time": "23/06 14:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Oil Steadies While Tankers Openly Enter Hormuz After Peace Deal",
-      "title": "Oil Steadies While Tankers Openly Enter Hormuz After Peace Deal"
-    },
-    {
       "time": "23/06 14:30",
       "source": "**Investing.com**: Constellation Energy to supply nuclear power to Walmart facility under 15-year deal",
       "title": "Constellation Energy to supply nuclear power to Walmart facility under 15-year deal"
@@ -2107,6 +2087,26 @@
       "time": "24/06 07:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Beijing Unfazed by China Shock 2.0 as Premier Touts Openness",
       "title": "Beijing Unfazed by China Shock 2.0 as Premier Touts Openness"
+    },
+    {
+      "time": "24/06 07:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Tuya Sees Growth Despite China Demand Slowdown",
+      "title": "Tuya Sees Growth Despite China Demand Slowdown"
+    },
+    {
+      "time": "24/06 07:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: McKinsey\u2019s Ngai on China's 'Opportunity 2.0'",
+      "title": "McKinsey\u2019s Ngai on China's 'Opportunity 2.0'"
+    },
+    {
+      "time": "24/06 07:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Traders Deal With 'Chip-Wreck' on AI Fears | The Asia Trade 6/24/2026",
+      "title": "Traders Deal With 'Chip-Wreck' on AI Fears | The Asia Trade 6/24/2026"
+    },
+    {
+      "time": "24/06 07:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Temasek Unit, Oman Fund Join Vinpearl\u2019s Private Credit Deal",
+      "title": "Temasek Unit, Oman Fund Join Vinpearl\u2019s Private Credit Deal"
     }
   ]
 }
