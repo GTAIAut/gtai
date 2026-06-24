@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T10:45:37.449370+00:00",
+  "generated_at": "2026-06-24T11:00:37.344274+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2009,11 +2009,6 @@
   "news_alerts": [
     {
       "time": "24/06 06:15",
-      "source": "**Cointelegraph**: Senate Dems urge probe into $500M crypto deal between Trumps, UAE",
-      "title": "Senate Dems urge probe into $500M crypto deal between Trumps, UAE"
-    },
-    {
-      "time": "24/06 06:15",
       "source": "\ud83d\udcf0 **BBC News**: Congress passes war powers measure for first time, rebuking Trump's war with Iran",
       "title": "Congress passes war powers measure for first time, rebuking Trump's war with Iran"
     },
@@ -2106,6 +2101,11 @@
       "time": "24/06 11:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Options Trades Highlight Doubts Over Prospect of US Rate Hikes",
       "title": "Options Trades Highlight Doubts Over Prospect of US Rate Hikes"
+    },
+    {
+      "time": "24/06 12:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: The Debasement Trade Is Unraveling and Kevin Warsh Is One Big Reason",
+      "title": "The Debasement Trade Is Unraveling and Kevin Warsh Is One Big Reason"
     }
   ]
 }
