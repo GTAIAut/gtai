@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T05:00:37.239957+00:00",
+  "generated_at": "2026-06-24T05:10:46.145891+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "10/20",
+    "recent_session_rate": "7/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1236,6 +1236,69 @@
   ],
   "recent_sessions": [
     {
+      "id": "a29ac4d5",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-24T05:10:43.499Z",
+      "completed": ""
+    },
+    {
+      "id": "2442f583",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-24T05:08:04.754Z",
+      "completed": ""
+    },
+    {
+      "id": "916c49fc",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-24T05:07:50.882Z",
+      "completed": ""
+    },
+    {
+      "id": "05c44d46",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-24T05:00:50.507Z",
+      "completed": ""
+    },
+    {
+      "id": "40552a90",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-24T05:00:50.466Z",
+      "completed": ""
+    },
+    {
+      "id": "60a7ae61",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-24T05:00:50.211Z",
+      "completed": ""
+    },
+    {
+      "id": "7f00bf93",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-24T05:00:49.745Z",
+      "completed": ""
+    },
+    {
+      "id": "3b42e878",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-24T05:00:49.471Z",
+      "completed": ""
+    },
+    {
+      "id": "85de8371",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-24T05:00:49.025Z",
+      "completed": ""
+    },
+    {
       "id": "3a494715",
       "agent": "Desconhecido",
       "status": "failed",
@@ -1310,69 +1373,6 @@
       "agent": "Desconhecido",
       "status": "succeeded",
       "created": "2026-06-23T09:07:33.053Z",
-      "completed": ""
-    },
-    {
-      "id": "88c7d77a",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-23T09:07:19.882Z",
-      "completed": ""
-    },
-    {
-      "id": "0ddafb77",
-      "agent": "Desconhecido",
-      "status": "timed_out",
-      "created": "2026-06-23T09:00:19.566Z",
-      "completed": ""
-    },
-    {
-      "id": "88b1e4d0",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-23T09:00:19.464Z",
-      "completed": ""
-    },
-    {
-      "id": "3f4daee3",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-23T09:00:19.120Z",
-      "completed": ""
-    },
-    {
-      "id": "abb34d3b",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-23T09:00:18.765Z",
-      "completed": ""
-    },
-    {
-      "id": "2505b47a",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-23T09:00:18.514Z",
-      "completed": ""
-    },
-    {
-      "id": "c99df516",
-      "agent": "Desconhecido",
-      "status": "timed_out",
-      "created": "2026-06-23T09:00:18.173Z",
-      "completed": ""
-    },
-    {
-      "id": "a1132eb8",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-23T05:11:16.461Z",
-      "completed": ""
-    },
-    {
-      "id": "569f69f2",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-23T05:07:32.662Z",
       "completed": ""
     }
   ],
