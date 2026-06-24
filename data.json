@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T07:45:37.288027+00:00",
+  "generated_at": "2026-06-24T08:00:37.304385+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2009,11 +2009,6 @@
   ],
   "news_alerts": [
     {
-      "time": "23/06 16:00",
-      "source": "**Investing.com**: Greece stocks lower at close of trade; Athens General Composite down 1.13%",
-      "title": "Greece stocks lower at close of trade; Athens General Composite down 1.13%"
-    },
-    {
       "time": "23/06 16:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Warsh Fed Will Rely on Supply Side Indicators, Says Morgan Stanley's Jim Caron",
       "title": "Warsh Fed Will Rely on Supply Side Indicators, Says Morgan Stanley's Jim Caron"
@@ -2107,6 +2102,11 @@
       "time": "24/06 08:45",
       "source": "\ud83d\udcf0 **BBC News**: Congress passes war powers measure for first time, breaking with Trump over Iran",
       "title": "Congress passes war powers measure for first time, breaking with Trump over Iran"
+    },
+    {
+      "time": "24/06 09:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: US Diesel Prices Fall Under $5, Easing Inflationary Pressure",
+      "title": "US Diesel Prices Fall Under $5, Easing Inflationary Pressure"
     }
   ]
 }
