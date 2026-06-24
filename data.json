@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T10:00:37.317279+00:00",
+  "generated_at": "2026-06-24T10:15:37.219616+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2008,11 +2008,6 @@
   ],
   "news_alerts": [
     {
-      "time": "23/06 18:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Dollar Jumps to Highest Since November on Fed Rate Hike Bets",
-      "title": "Dollar Jumps to Highest Since November on Fed Rate Hike Bets"
-    },
-    {
       "time": "24/06 06:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Says Justice Department Looking Into Gasoline Prices",
       "title": "Trump Says Justice Department Looking Into Gasoline Prices"
@@ -2106,6 +2101,11 @@
       "time": "24/06 11:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: EU Competition Chief Warns Governments Not to Stymie Bank Deals",
       "title": "EU Competition Chief Warns Governments Not to Stymie Bank Deals"
+    },
+    {
+      "time": "24/06 11:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Drops to Near $4,000 on Stronger Dollar, Fed Rate Outlook",
+      "title": "Gold Drops to Near $4,000 on Stronger Dollar, Fed Rate Outlook"
     }
   ]
 }
