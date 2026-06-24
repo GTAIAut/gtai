@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T12:45:37.292769+00:00",
+  "generated_at": "2026-06-24T13:00:38.312002+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "11/20",
+    "recent_session_rate": "10/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1236,6 +1236,48 @@
   ],
   "recent_sessions": [
     {
+      "id": "7bc83336",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-24T13:00:22.772Z",
+      "completed": ""
+    },
+    {
+      "id": "a86b5411",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-24T13:00:22.378Z",
+      "completed": ""
+    },
+    {
+      "id": "92438cd9",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-24T13:00:21.922Z",
+      "completed": ""
+    },
+    {
+      "id": "ef8e3c00",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-24T13:00:21.380Z",
+      "completed": ""
+    },
+    {
+      "id": "3d1ce485",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-24T13:00:20.908Z",
+      "completed": ""
+    },
+    {
+      "id": "ebae0f01",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-24T13:00:20.642Z",
+      "completed": ""
+    },
+    {
       "id": "6077d6b4",
       "agent": "Desconhecido",
       "status": "succeeded",
@@ -1332,51 +1374,17 @@
       "status": "failed",
       "created": "2026-06-24T05:00:50.466Z",
       "completed": ""
-    },
-    {
-      "id": "60a7ae61",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-24T05:00:50.211Z",
-      "completed": ""
-    },
-    {
-      "id": "7f00bf93",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-24T05:00:49.745Z",
-      "completed": ""
-    },
-    {
-      "id": "3b42e878",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-24T05:00:49.471Z",
-      "completed": ""
-    },
-    {
-      "id": "85de8371",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-24T05:00:49.025Z",
-      "completed": ""
-    },
-    {
-      "id": "3a494715",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-23T13:10:44.131Z",
-      "completed": ""
-    },
-    {
-      "id": "3b4ef967",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-23T13:07:33.331Z",
-      "completed": ""
     }
   ],
   "activity_feed": [
+    {
+      "type": "session",
+      "session_type": "MEIODIA",
+      "session_num": 52,
+      "date": "24/06/2026 10:09",
+      "title": "Postmortem concluido. Score: 7/10. Leitura macro correta, 3a sessao sem VIX hedge, 3x leverage em regime NEUTRO, risco pre-Micron nao mitigado.",
+      "score": "7"
+    },
     {
       "type": "session",
       "session_type": "MANHA",
@@ -1902,18 +1910,17 @@
       "reason": "Lock +9.5% profit \u2014 AVAX +4.24% hoje contra SHORT, regime RISK-ON com cripto a pump, acima limite 15% cripto \u2014 tomar lucro antes de eros\u00e3o",
       "date": "2026-05-11T09:04",
       "id": 13
-    },
-    {
-      "type": "close",
-      "ticker": "DOGE",
-      "direction": "SHORT",
-      "pnl": 6.1,
-      "reason": "Lock +8.8% profit \u2014 acima limite 15% cripto, regime RISK-ON desfavor\u00e1vel para SHORT, consolidar ganhos",
-      "date": "2026-05-11T09:04",
-      "id": 14
     }
   ],
   "session_analysis": [
+    {
+      "session_type": "MEIODIA",
+      "session_num": 52,
+      "date": "24/06/2026 10:09",
+      "summary": "Postmortem concluido. Score: 7/10. Leitura macro correta, 3a sessao sem VIX hedge, 3x leverage em regime NEUTRO, risco pre-Micron nao mitigado.",
+      "trades": [],
+      "findings": []
+    },
     {
       "session_type": "MANHA",
       "session_num": 51,
@@ -1992,17 +1999,6 @@
       "trades": [],
       "findings": [
         "Postmortem conclu\u00eddo. Score: 7/10. An\u00e1lise detalhada publicada no coment\u00e1rio anterior com 5 categorias avaliadas, R/R calculado, problema de concentra\u00e7\u00e3o cripto identificado, e 4 li\u00e7\u00f5es concretas para"
-      ]
-    },
-    {
-      "session_type": "TARDE",
-      "session_num": 36,
-      "date": "17/06/2026 14:11",
-      "summary": "## POSTMORTEM \u2014 Sess\u00e3o TARDE #36 \u2014 Score: **6.0/10**\n\n### 1. Contexto Macro\n- USO SHORT CLOSE \u2705 Lucro garantido +\u20ac0.92 antes de Trump speak.\n- IWM LONG MANTER \u2705 Consolida\u00e7\u00e3o sem breakdown, VIX 16.\n- BTC LONG MANTER \u26a0\ufe0f Tese v\u00e1lida (F&G 22), mas SL ~1.8% \u00e9 noise trap em downtrend.\n- META SHORT 20% \u2705 RSI 82.3 OB \u2014 melhor SHORT do board.\n- TLT SHORT 20% \u2705 Yields 4.44%, CPI 3.0% ancora \u2014 mas TLT +0.11% hoje, timing prematuro.\n- GLD LONG 25% \u26a0\ufe0f Contradit\u00f3rio: fechado por R/R <2:1 na #35, reaberto maior posi\u00e7\u00e3o em #36.\n\n### 2. Limites de Risco\n- R/R \u2265 2:1 \u2705 Todos no limite (nada acima)\n- Max posi\u00e7\u00f5es \u2705 5 (limite)\n- Postmortem #35 \u26a0\ufe0f Violado (3 aberturas com P&L negativo). Exce\u00e7\u00e3o documentada mas cria precedente.\n- **Timing cr\u00edtico**: 3 posi\u00e7\u00f5es abertas 30 min antes do FOMC. Analista Macro recomen",
-      "trades": [],
-      "findings": [
-        "- GLD LONG 25% \u26a0\ufe0f Contradit\u00f3rio: fechado por R/R <2:1 na #35, reaberto maior posi\u00e7\u00e3o em #36.",
-        "- R/R \u2265 2:1 \u2705 Todos no limite (nada acima)"
       ]
     }
   ],
