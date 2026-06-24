@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T05:10:46.145891+00:00",
+  "generated_at": "2026-06-24T05:15:37.312477+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "7/20",
+    "recent_session_rate": "8/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1238,7 +1238,7 @@
     {
       "id": "a29ac4d5",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-24T05:10:43.499Z",
       "completed": ""
     },
@@ -2009,21 +2009,6 @@
   ],
   "news_alerts": [
     {
-      "time": "23/06 08:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Asia Stocks Fall From Record as Tech Rally Cools | The China Show 6/23/2026",
-      "title": "Asia Stocks Fall From Record as Tech Rally Cools | The China Show 6/23/2026"
-    },
-    {
-      "time": "23/06 08:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: IFM Investors Passes 50% Stake in Deal Target Atlas Arteria",
-      "title": "IFM Investors Passes 50% Stake in Deal Target Atlas Arteria"
-    },
-    {
-      "time": "23/06 09:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: ECB\u2019s Lane Sees Danger Inflation Will Top 2% for Quite Some Time",
-      "title": "ECB\u2019s Lane Sees Danger Inflation Will Top 2% for Quite Some Time"
-    },
-    {
       "time": "23/06 10:15",
       "source": "**NYT World**: How Mark Rutte of NATO Manages an Unpredictable Trump",
       "title": "How Mark Rutte of NATO Manages an Unpredictable Trump"
@@ -2107,6 +2092,21 @@
       "time": "23/06 18:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Dollar Jumps to Highest Since November on Fed Rate Hike Bets",
       "title": "Dollar Jumps to Highest Since November on Fed Rate Hike Bets"
+    },
+    {
+      "time": "24/06 06:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Says Justice Department Looking Into Gasoline Prices",
+      "title": "Trump Says Justice Department Looking Into Gasoline Prices"
+    },
+    {
+      "time": "24/06 06:15",
+      "source": "**Cointelegraph**: Senate Dems urge probe into $500M crypto deal between Trumps, UAE",
+      "title": "Senate Dems urge probe into $500M crypto deal between Trumps, UAE"
+    },
+    {
+      "time": "24/06 06:15",
+      "source": "\ud83d\udcf0 **BBC News**: Congress passes war powers measure for first time, rebuking Trump's war with Iran",
+      "title": "Congress passes war powers measure for first time, rebuking Trump's war with Iran"
     }
   ]
 }
