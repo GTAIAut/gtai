@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T16:00:37.352945+00:00",
+  "generated_at": "2026-06-25T16:15:37.246253+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2029,11 +2029,6 @@
   "news_alerts": [
     {
       "time": "25/06 11:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Micron Surges on AI Boom as Brent Oil Erases Iran War Gains | The Pulse 6/25/2026",
-      "title": "Micron Surges on AI Boom as Brent Oil Erases Iran War Gains | The Pulse 6/25/2026"
-    },
-    {
-      "time": "25/06 11:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Engines and Elevators Lift German Deals Past $140 Billion",
       "title": "Engines and Elevators Lift German Deals Past $140 Billion"
     },
@@ -2126,6 +2121,11 @@
       "time": "25/06 16:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Requests $11.1 Billion in New Aid for Struggling Farmers",
       "title": "Trump Requests $11.1 Billion in New Aid for Struggling Farmers"
+    },
+    {
+      "time": "25/06 17:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: US Consumer Spending Picks Up as Inflation Hits Three-Year High",
+      "title": "US Consumer Spending Picks Up as Inflation Hits Three-Year High"
     }
   ]
 }
