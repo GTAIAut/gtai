@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T15:30:37.274598+00:00",
+  "generated_at": "2026-06-25T15:45:37.336945+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2028,21 +2028,6 @@
   ],
   "news_alerts": [
     {
-      "time": "25/06 10:15",
-      "source": "\ud83d\udcf0 **BBC News**: Trump asks Congress for billions for Iran war, after tension with Republicans",
-      "title": "Trump asks Congress for billions for Iran war, after tension with Republicans"
-    },
-    {
-      "time": "25/06 10:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Iraq Warns It Might Quit OPEC If It Doesn\u2019t Get Quota Hike",
-      "title": "Iraq Warns It Might Quit OPEC If It Doesn\u2019t Get Quota Hike"
-    },
-    {
-      "time": "25/06 11:30",
-      "source": "\ud83d\udcf0 **BBC News**: Trump describes Andy Burnham as 'extremely liberal'",
-      "title": "Trump describes Andy Burnham as 'extremely liberal'"
-    },
-    {
       "time": "25/06 11:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Micron Surges on AI Boom as Brent Oil Erases Iran War Gains | The Pulse 6/25/2026",
       "title": "Micron Surges on AI Boom as Brent Oil Erases Iran War Gains | The Pulse 6/25/2026"
@@ -2126,6 +2111,21 @@
       "time": "25/06 16:30",
       "source": "\ud83d\udcf0 **BBC News**: Supreme Court allows Trump to restrict asylum seekers at border",
       "title": "Supreme Court allows Trump to restrict asylum seekers at border"
+    },
+    {
+      "time": "25/06 16:45",
+      "source": "\ud83d\udcf0 **BBC News**: Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
+      "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants"
+    },
+    {
+      "time": "25/06 16:45",
+      "source": "**Cointelegraph**: Bitcoin drops to $58K on high US PCE inflation as trader sees 'manipulation'",
+      "title": "Bitcoin drops to $58K on high US PCE inflation as trader sees 'manipulation'"
+    },
+    {
+      "time": "25/06 16:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Requests $11.1 Billion in New Aid for Struggling Farmers",
+      "title": "Trump Requests $11.1 Billion in New Aid for Struggling Farmers"
     }
   ]
 }
