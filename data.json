@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T13:13:01.485468+00:00",
+  "generated_at": "2026-06-25T13:15:37.293858+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -59,7 +59,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "14/20",
+    "recent_session_rate": "15/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1300,14 +1300,14 @@
     {
       "id": "57acfd3f",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-25T13:12:59.432Z",
       "completed": ""
     },
     {
       "id": "e50e741a",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "failed",
       "created": "2026-06-25T13:07:37.649Z",
       "completed": ""
     },
@@ -2065,21 +2065,6 @@
   ],
   "news_alerts": [
     {
-      "time": "25/06 07:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Stocks Rally as Micron Revives AI Bets, Oil Slumps: Markets Wrap",
-      "title": "Stocks Rally as Micron Revives AI Bets, Oil Slumps: Markets Wrap"
-    },
-    {
-      "time": "25/06 08:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Mideast Oil Boost Gathers Pace as Qatar Sells Crude to Asia",
-      "title": "Mideast Oil Boost Gathers Pace as Qatar Sells Crude to Asia"
-    },
-    {
-      "time": "25/06 08:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Swiss President Will Meet US\u2019s Jamieson Greer Amid Tariff Spat",
-      "title": "Swiss President Will Meet US\u2019s Jamieson Greer Amid Tariff Spat"
-    },
-    {
       "time": "25/06 08:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Engines and Elevators Lift German Deals Past $120 Billion",
       "title": "Engines and Elevators Lift German Deals Past $120 Billion"
@@ -2163,6 +2148,21 @@
       "time": "25/06 12:45",
       "source": "**NYT World**: A Right-Wing Election Victory in Colombia, With a Little Help from Trump",
       "title": "A Right-Wing Election Victory in Colombia, With a Little Help from Trump"
+    },
+    {
+      "time": "25/06 14:15",
+      "source": "**Cointelegraph**: SBI to acquire Bitbank in $289M deal creating Japan's biggest crypto exchange",
+      "title": "SBI to acquire Bitbank in $289M deal creating Japan's biggest crypto exchange"
+    },
+    {
+      "time": "25/06 14:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Why Fed Chairman Warsh\u2019s Pivot Risks Confusing Markets",
+      "title": "Why Fed Chairman Warsh\u2019s Pivot Risks Confusing Markets"
+    },
+    {
+      "time": "25/06 14:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Treasuries Climb as Benign US Inflation Eases Bets on a Fed Hike",
+      "title": "Treasuries Climb as Benign US Inflation Eases Bets on a Fed Hike"
     }
   ]
 }
