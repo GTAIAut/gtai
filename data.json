@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T13:00:37.860675+00:00",
+  "generated_at": "2026-06-25T13:13:01.485468+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -59,7 +59,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "12/20",
+    "recent_session_rate": "14/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1298,9 +1298,30 @@
   ],
   "recent_sessions": [
     {
-      "id": "f0bcfe64",
+      "id": "57acfd3f",
       "agent": "Desconhecido",
       "status": "running",
+      "created": "2026-06-25T13:12:59.432Z",
+      "completed": ""
+    },
+    {
+      "id": "e50e741a",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-25T13:07:37.649Z",
+      "completed": ""
+    },
+    {
+      "id": "ed0041fa",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-25T13:07:24.669Z",
+      "completed": ""
+    },
+    {
+      "id": "f0bcfe64",
+      "agent": "Desconhecido",
+      "status": "succeeded",
       "created": "2026-06-25T13:00:24.746Z",
       "completed": ""
     },
@@ -1314,7 +1335,7 @@
     {
       "id": "449600a8",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-25T13:00:24.171Z",
       "completed": ""
     },
@@ -1328,14 +1349,14 @@
     {
       "id": "25dfe6e8",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-25T13:00:23.218Z",
       "completed": ""
     },
     {
       "id": "9a389317",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-25T13:00:22.849Z",
       "completed": ""
     },
@@ -1414,27 +1435,6 @@
       "agent": "Desconhecido",
       "status": "succeeded",
       "created": "2026-06-25T05:07:36.844Z",
-      "completed": ""
-    },
-    {
-      "id": "cc7e5024",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-25T05:07:21.126Z",
-      "completed": ""
-    },
-    {
-      "id": "bede6b2f",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-25T05:00:21.536Z",
-      "completed": ""
-    },
-    {
-      "id": "245558af",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-25T05:00:21.216Z",
       "completed": ""
     }
   ],
