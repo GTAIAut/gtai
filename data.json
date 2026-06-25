@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T11:30:37.343219+00:00",
+  "generated_at": "2026-06-25T11:45:37.278522+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2064,26 +2064,6 @@
   ],
   "news_alerts": [
     {
-      "time": "25/06 06:15",
-      "source": "**NYT World**: ICC Judges Sue Trump Administration Over Sanctions",
-      "title": "ICC Judges Sue Trump Administration Over Sanctions"
-    },
-    {
-      "time": "25/06 06:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Oil Erases Wartime Gains as Hormuz Stockpiles Hit Market",
-      "title": "Oil Erases Wartime Gains as Hormuz Stockpiles Hit Market"
-    },
-    {
-      "time": "25/06 06:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Brent Oil Erases Wartime Gains as Hormuz Reopening Boosts Supply",
-      "title": "Brent Oil Erases Wartime Gains as Hormuz Reopening Boosts Supply"
-    },
-    {
-      "time": "25/06 07:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: H.B. Fuller Nears \u00a3628 Million Deal for UK Medtech AMS",
-      "title": "H.B. Fuller Nears \u00a3628 Million Deal for UK Medtech AMS"
-    },
-    {
       "time": "25/06 07:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Stocks Rally as Micron Revives AI Bets, Oil Slumps: Markets Wrap",
       "title": "Stocks Rally as Micron Revives AI Bets, Oil Slumps: Markets Wrap"
@@ -2162,6 +2142,26 @@
       "time": "25/06 12:16",
       "source": "**Politico**: Alan Wilson, boosted by Trump\u2019s late co-endorsement, wins South Carolina governor runoff",
       "title": "Alan Wilson, boosted by Trump\u2019s late co-endorsement, wins South Carolina governor runoff"
+    },
+    {
+      "time": "25/06 12:31",
+      "source": "**NYT World**: Live Updates: Spain Warns of High Death Toll in Heat Wave",
+      "title": "Live Updates: Spain Warns of High Death Toll in Heat Wave"
+    },
+    {
+      "time": "25/06 12:31",
+      "source": "**NYT World**: Venezuela Live Updates: Death Toll Rises as Rescuers Mount Frantic Search for Survivors of Twin Earthquakes",
+      "title": "Venezuela Live Updates: Death Toll Rises as Rescuers Mount Frantic Search for Survivors of Twin Earthquakes"
+    },
+    {
+      "time": "25/06 12:31",
+      "source": "**NYT World**: Myanmar\u2019s Civil War Has Become an Apocalypse",
+      "title": "Myanmar\u2019s Civil War Has Become an Apocalypse"
+    },
+    {
+      "time": "25/06 12:45",
+      "source": "**NYT World**: A Right-Wing Election Victory in Colombia, With a Little Help from Trump",
+      "title": "A Right-Wing Election Victory in Colombia, With a Little Help from Trump"
     }
   ]
 }
