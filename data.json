@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T10:30:37.318700+00:00",
+  "generated_at": "2026-06-25T10:45:37.336764+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2064,21 +2064,6 @@
   ],
   "news_alerts": [
     {
-      "time": "24/06 17:45",
-      "source": "**Cointelegraph**: Bitcoin crash to $60K opens new $530M demand zone: Will bulls buy in?",
-      "title": "Bitcoin crash to $60K opens new $530M demand zone: Will bulls buy in?"
-    },
-    {
-      "time": "24/06 18:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Gasoline Price Spike Adds to War\u2019s Economic Toll for Russians",
-      "title": "Gasoline Price Spike Adds to War\u2019s Economic Toll for Russians"
-    },
-    {
-      "time": "24/06 18:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Bank of Canada Rejects Recession Label for Economy\u2019s Weakness",
-      "title": "Bank of Canada Rejects Recession Label for Economy\u2019s Weakness"
-    },
-    {
       "time": "25/06 06:15",
       "source": "\ud83d\udcf0 **BBC News**: Trump describes Burnham as 'the mayor of a town' and 'extremely liberal'",
       "title": "Trump describes Burnham as 'the mayor of a town' and 'extremely liberal'"
@@ -2162,6 +2147,21 @@
       "time": "25/06 11:30",
       "source": "\ud83d\udcf0 **BBC News**: Trump describes Andy Burnham as 'extremely liberal'",
       "title": "Trump describes Andy Burnham as 'extremely liberal'"
+    },
+    {
+      "time": "25/06 11:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Micron Surges on AI Boom as Brent Oil Erases Iran War Gains | The Pulse 6/25/2026",
+      "title": "Micron Surges on AI Boom as Brent Oil Erases Iran War Gains | The Pulse 6/25/2026"
+    },
+    {
+      "time": "25/06 11:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Engines and Elevators Lift German Deals Past $140 Billion",
+      "title": "Engines and Elevators Lift German Deals Past $140 Billion"
+    },
+    {
+      "time": "25/06 11:45",
+      "source": "**NYT World**: A Puppy-Abuse Case in China, Caught on Video, Prompts Rare Public Protest",
+      "title": "A Puppy-Abuse Case in China, Caught on Video, Prompts Rare Public Protest"
     }
   ]
 }
