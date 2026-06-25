@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T09:12:03.887704+00:00",
+  "generated_at": "2026-06-25T09:15:37.232115+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -59,7 +59,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "14/20",
+    "recent_session_rate": "17/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1300,21 +1300,21 @@
     {
       "id": "1ab6d0c5",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-25T09:12:01.782Z",
       "completed": ""
     },
     {
       "id": "de22cbc3",
       "agent": "Desconhecido",
-      "status": "queued",
+      "status": "succeeded",
       "created": "2026-06-25T09:07:37.207Z",
       "completed": ""
     },
     {
       "id": "11ad7119",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-25T09:07:25.860Z",
       "completed": ""
     },
@@ -2064,16 +2064,6 @@
   ],
   "news_alerts": [
     {
-      "time": "24/06 16:30",
-      "source": "**Cointelegraph**: Trump cancels signing of housing bill with CBDC ban",
-      "title": "Trump cancels signing of housing bill with CBDC ban"
-    },
-    {
-      "time": "24/06 16:30",
-      "source": "**NYT World**: Bahrain Restricts Shiite Holy Day Amid Iran War Crackdown",
-      "title": "Bahrain Restricts Shiite Holy Day Amid Iran War Crackdown"
-    },
-    {
       "time": "24/06 17:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Sunrun Surges Over 30% on Tesla Deal to Supply Power for AI",
       "title": "Sunrun Surges Over 30% on Tesla Deal to Supply Power for AI"
@@ -2162,6 +2152,16 @@
       "time": "25/06 09:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Stocks Rally as Micron Buoys AI Trade Ahead of PCE: Markets Wrap",
       "title": "Stocks Rally as Micron Buoys AI Trade Ahead of PCE: Markets Wrap"
+    },
+    {
+      "time": "25/06 10:15",
+      "source": "\ud83d\udcf0 **BBC News**: Trump asks Congress for billions for Iran war, after tension with Republicans",
+      "title": "Trump asks Congress for billions for Iran war, after tension with Republicans"
+    },
+    {
+      "time": "25/06 10:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Iraq Warns It Might Quit OPEC If It Doesn\u2019t Get Quota Hike",
+      "title": "Iraq Warns It Might Quit OPEC If It Doesn\u2019t Get Quota Hike"
     }
   ]
 }
