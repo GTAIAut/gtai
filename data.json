@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T16:45:37.381933+00:00",
+  "generated_at": "2026-06-25T04:00:37.231256+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -448,7 +448,7 @@
       "trade": "BTC LONG"
     },
     {
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "value": 49667.27
     }
   ],
@@ -656,24 +656,29 @@
       "forecast": false
     },
     {
-      "date": "2026-07-24",
-      "value": 49333.32,
-      "lower": 48906.64,
-      "upper": 49759.99,
+      "date": "2026-06-25",
+      "value": 49667.27,
+      "forecast": false
+    },
+    {
+      "date": "2026-07-25",
+      "value": 49325.49,
+      "lower": 48898.78,
+      "upper": 49752.21,
       "forecast": true
     },
     {
-      "date": "2026-08-23",
-      "value": 49060.6,
-      "lower": 48633.92,
-      "upper": 49487.27,
+      "date": "2026-08-24",
+      "value": 49053.3,
+      "lower": 48626.58,
+      "upper": 49480.01,
       "forecast": true
     },
     {
-      "date": "2026-09-22",
-      "value": 48787.88,
-      "lower": 48361.2,
-      "upper": 49214.55,
+      "date": "2026-09-23",
+      "value": 48781.1,
+      "lower": 48354.39,
+      "upper": 49207.82,
       "forecast": true
     }
   ],
@@ -1064,7 +1069,7 @@
       "value": 48285.6
     },
     {
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "drawdown_pct": 0.74,
       "value": 49667.27
     }
@@ -2051,16 +2056,6 @@
   ],
   "news_alerts": [
     {
-      "time": "24/06 09:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Says Iran Crisis Shows Nations Must Speed Up Energy Shift",
-      "title": "China Says Iran Crisis Shows Nations Must Speed Up Energy Shift"
-    },
-    {
-      "time": "24/06 10:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Paramount\u2019s $110 Billion Warner Deal Faces EU Moviemaker Test",
-      "title": "Paramount\u2019s $110 Billion Warner Deal Faces EU Moviemaker Test"
-    },
-    {
       "time": "24/06 10:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Copper Holds Losses as Dollar and Hawkish Fed Pressure Metals",
       "title": "Copper Holds Losses as Dollar and Hawkish Fed Pressure Metals"
@@ -2149,6 +2144,16 @@
       "time": "24/06 17:45",
       "source": "**Cointelegraph**: Bitcoin crash to $60K opens new $530M demand zone: Will bulls buy in?",
       "title": "Bitcoin crash to $60K opens new $530M demand zone: Will bulls buy in?"
+    },
+    {
+      "time": "24/06 18:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Gasoline Price Spike Adds to War\u2019s Economic Toll for Russians",
+      "title": "Gasoline Price Spike Adds to War\u2019s Economic Toll for Russians"
+    },
+    {
+      "time": "24/06 18:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Bank of Canada Rejects Recession Label for Economy\u2019s Weakness",
+      "title": "Bank of Canada Rejects Recession Label for Economy\u2019s Weakness"
     }
   ]
 }
