@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T05:30:37.293086+00:00",
+  "generated_at": "2026-06-25T05:45:37.308961+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2055,11 +2055,6 @@
   ],
   "news_alerts": [
     {
-      "time": "24/06 12:45",
-      "source": "**Cointelegraph**: CryptoQuant warns on Strategy's dividend coverage as cash reserve falls 38%",
-      "title": "CryptoQuant warns on Strategy's dividend coverage as cash reserve falls 38%"
-    },
-    {
       "time": "24/06 13:45",
       "source": "\ud83d\udcf0 **BBC News**: UN nuclear chief says inspectors will visit Iran sites as part of war deal",
       "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal"
@@ -2153,6 +2148,11 @@
       "time": "25/06 06:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Oil Erases Wartime Gains as Hormuz Stockpiles Hit Market",
       "title": "Oil Erases Wartime Gains as Hormuz Stockpiles Hit Market"
+    },
+    {
+      "time": "25/06 06:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Brent Oil Erases Wartime Gains as Hormuz Reopening Boosts Supply",
+      "title": "Brent Oil Erases Wartime Gains as Hormuz Reopening Boosts Supply"
     }
   ]
 }
