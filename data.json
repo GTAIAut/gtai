@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T14:45:37.487509+00:00",
+  "generated_at": "2026-06-25T15:00:37.384459+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2028,11 +2028,6 @@
   ],
   "news_alerts": [
     {
-      "time": "25/06 08:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Copper Climbs as Lower Dollar, AI Rally Counter Rate Concerns",
-      "title": "Copper Climbs as Lower Dollar, AI Rally Counter Rate Concerns"
-    },
-    {
       "time": "25/06 09:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Stocks Rally as Micron Buoys AI Trade Ahead of PCE: Markets Wrap",
       "title": "Stocks Rally as Micron Buoys AI Trade Ahead of PCE: Markets Wrap"
@@ -2126,6 +2121,11 @@
       "time": "25/06 14:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: US Inflation Climbs as Consumers Spent More in May",
       "title": "US Inflation Climbs as Consumers Spent More in May"
+    },
+    {
+      "time": "25/06 16:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Treasuries Gain as Inflation Gauge Cools Fed Rate-Hike Bets",
+      "title": "Treasuries Gain as Inflation Gauge Cools Fed Rate-Hike Bets"
     }
   ]
 }
