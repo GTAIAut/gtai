@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T04:45:37.328786+00:00",
+  "generated_at": "2026-06-25T05:00:37.519324+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -59,7 +59,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "15/20",
+    "recent_session_rate": "9/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1288,6 +1288,48 @@
   ],
   "recent_sessions": [
     {
+      "id": "bede6b2f",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-25T05:00:21.536Z",
+      "completed": ""
+    },
+    {
+      "id": "245558af",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-25T05:00:21.216Z",
+      "completed": ""
+    },
+    {
+      "id": "4e5b866d",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-25T05:00:21.105Z",
+      "completed": ""
+    },
+    {
+      "id": "8dc33b92",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-25T05:00:20.828Z",
+      "completed": ""
+    },
+    {
+      "id": "ad31462a",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-25T05:00:20.682Z",
+      "completed": ""
+    },
+    {
+      "id": "63b123c6",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-25T05:00:20.363Z",
+      "completed": ""
+    },
+    {
       "id": "5f8850ce",
       "agent": "Desconhecido",
       "status": "succeeded",
@@ -1384,51 +1426,17 @@
       "status": "failed",
       "created": "2026-06-24T09:00:19.593Z",
       "completed": ""
-    },
-    {
-      "id": "6fc839f0",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-24T09:00:19.024Z",
-      "completed": ""
-    },
-    {
-      "id": "a7eb7f97",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-24T09:00:18.481Z",
-      "completed": ""
-    },
-    {
-      "id": "002413f8",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-24T09:00:18.084Z",
-      "completed": ""
-    },
-    {
-      "id": "62205405",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-24T09:00:17.740Z",
-      "completed": ""
-    },
-    {
-      "id": "a29ac4d5",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-24T05:10:43.499Z",
-      "completed": ""
-    },
-    {
-      "id": "2442f583",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-24T05:08:04.754Z",
-      "completed": ""
     }
   ],
   "activity_feed": [
+    {
+      "type": "session",
+      "session_type": "TARDE",
+      "session_num": 53,
+      "date": "24/06/2026 14:10",
+      "title": "Postmortem da [Sess\u00e3o TARDE 53](/GTAA/issues/GTAA-630) conclu\u00eddo e registado. Score atribu\u00eddo: 5/10. Principais issues identificados: flip de regime s",
+      "score": ""
+    },
     {
       "type": "session",
       "session_type": "MEIODIA",
@@ -1953,18 +1961,19 @@
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-11T11:29",
       "id": 16
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "SOL",
-      "direction": "SHORT",
-      "pnl": -0.03,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-11T10:08",
-      "id": 15
     }
   ],
   "session_analysis": [
+    {
+      "session_type": "TARDE",
+      "session_num": 53,
+      "date": "24/06/2026 14:10",
+      "summary": "Postmortem da [Sess\u00e3o TARDE #53](/GTAA/issues/GTAA-630) conclu\u00eddo e registado. Score atribu\u00eddo: 5/10. Principais issues identificados: flip de regime sem catalisador, R/R n\u00e3o documentado em 5 trades, 3x leverage em regime NEUTRO, 3\u00aa sess\u00e3o sem VIX hedge. 5 li\u00e7\u00f5es documentadas no coment\u00e1rio acima.",
+      "trades": [],
+      "findings": [
+        "Postmortem da [Sess\u00e3o TARDE #53](/GTAA/issues/GTAA-630) conclu\u00eddo e registado. Score atribu\u00eddo: 5/10. Principais issues identificados: flip de regime sem catalisador, R/R n\u00e3o documentado em 5 trades, "
+      ]
+    },
     {
       "session_type": "MEIODIA",
       "session_num": 52,
@@ -2042,16 +2051,6 @@
       "summary": "Postmortem conclu\u00eddo. Score 6/10 \u2014 ver an\u00e1lise no coment\u00e1rio acima.",
       "trades": [],
       "findings": []
-    },
-    {
-      "session_type": "TARDE",
-      "session_num": 37,
-      "date": "17/06/2026 16:13",
-      "summary": "Postmortem conclu\u00eddo. Score: 7/10. An\u00e1lise detalhada publicada no coment\u00e1rio anterior com 5 categorias avaliadas, R/R calculado, problema de concentra\u00e7\u00e3o cripto identificado, e 4 li\u00e7\u00f5es concretas para sess\u00f5es futuras.",
-      "trades": [],
-      "findings": [
-        "Postmortem conclu\u00eddo. Score: 7/10. An\u00e1lise detalhada publicada no coment\u00e1rio anterior com 5 categorias avaliadas, R/R calculado, problema de concentra\u00e7\u00e3o cripto identificado, e 4 li\u00e7\u00f5es concretas para"
-      ]
     }
   ],
   "news_alerts": [
