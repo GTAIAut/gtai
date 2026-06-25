@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T12:45:37.386011+00:00",
+  "generated_at": "2026-06-25T13:00:37.860675+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -59,7 +59,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "17/20",
+    "recent_session_rate": "12/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1298,6 +1298,48 @@
   ],
   "recent_sessions": [
     {
+      "id": "f0bcfe64",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-25T13:00:24.746Z",
+      "completed": ""
+    },
+    {
+      "id": "91564701",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-25T13:00:24.496Z",
+      "completed": ""
+    },
+    {
+      "id": "449600a8",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-25T13:00:24.171Z",
+      "completed": ""
+    },
+    {
+      "id": "43a2b69b",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-25T13:00:23.685Z",
+      "completed": ""
+    },
+    {
+      "id": "25dfe6e8",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-25T13:00:23.218Z",
+      "completed": ""
+    },
+    {
+      "id": "9a389317",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-25T13:00:22.849Z",
+      "completed": ""
+    },
+    {
       "id": "1ab6d0c5",
       "agent": "Desconhecido",
       "status": "succeeded",
@@ -1394,51 +1436,17 @@
       "status": "succeeded",
       "created": "2026-06-25T05:00:21.216Z",
       "completed": ""
-    },
-    {
-      "id": "4e5b866d",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-25T05:00:21.105Z",
-      "completed": ""
-    },
-    {
-      "id": "8dc33b92",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-25T05:00:20.828Z",
-      "completed": ""
-    },
-    {
-      "id": "ad31462a",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-25T05:00:20.682Z",
-      "completed": ""
-    },
-    {
-      "id": "63b123c6",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-25T05:00:20.363Z",
-      "completed": ""
-    },
-    {
-      "id": "5f8850ce",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-24T13:10:39.257Z",
-      "completed": ""
-    },
-    {
-      "id": "feab001f",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-24T13:07:35.462Z",
-      "completed": ""
     }
   ],
   "activity_feed": [
+    {
+      "type": "session",
+      "session_type": "MEIODIA",
+      "session_num": 55,
+      "date": "25/06/2026 10:12",
+      "title": "Postmortem conclu\u00eddo. Score: 5/10. An\u00e1lise detalhada publicada no coment\u00e1rio acima. Seis li\u00e7\u00f5es identificadas: (1) leverage excessivo em regime NEUTRO",
+      "score": "5"
+    },
     {
       "type": "session",
       "session_type": "MANHA",
@@ -1961,18 +1969,19 @@
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-11T12:30",
       "id": 17
-    },
-    {
-      "type": "sl_hit",
-      "ticker": "AVAX",
-      "direction": "SHORT",
-      "pnl": 0.82,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-05-11T12:00",
-      "id": 16
     }
   ],
   "session_analysis": [
+    {
+      "session_type": "MEIODIA",
+      "session_num": 55,
+      "date": "25/06/2026 10:12",
+      "summary": "Postmortem conclu\u00eddo. Score: 5/10. An\u00e1lise detalhada publicada no coment\u00e1rio acima. Seis li\u00e7\u00f5es identificadas: (1) leverage excessivo em regime NEUTRO, (2) BTC 5x em downtrend, (3) 4\u00aa sess\u00e3o sem VIX hedge, (4) discrep\u00e2ncia cash target vs real, (5) R/R n\u00e3o documentado, (6) overrides ao RM sem governance.",
+      "trades": [],
+      "findings": [
+        "Postmortem conclu\u00eddo. Score: 5/10. An\u00e1lise detalhada publicada no coment\u00e1rio acima. Seis li\u00e7\u00f5es identificadas: (1) leverage excessivo em regime NEUTRO, (2) BTC 5x em downtrend, (3) 4\u00aa sess\u00e3o sem VIX h"
+      ]
+    },
     {
       "session_type": "MANHA",
       "session_num": 54,
@@ -2050,14 +2059,6 @@
       "session_num": 44,
       "date": "19/06/2026 14:10",
       "summary": "Postmortem TARDE #44 conclu\u00eddo. Score 8/10. Sess\u00e3o defensiva disciplinada com trims corretivos de concentra\u00e7\u00e3o cripto. Li\u00e7\u00e3o principal: implementar limite preventivo de concentra\u00e7\u00e3o por ativo (40% max).",
-      "trades": [],
-      "findings": []
-    },
-    {
-      "session_type": "MEIODIA",
-      "session_num": 40,
-      "date": "18/06/2026 10:15",
-      "summary": "Postmortem conclu\u00eddo. Score: 4/10. Ver an\u00e1lise completa no [coment\u00e1rio acima](/GTAA/issues/GTAA-489#comment-b9807a4d).",
       "trades": [],
       "findings": []
     }
