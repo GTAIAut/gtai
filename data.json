@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T06:00:37.380501+00:00",
+  "generated_at": "2026-06-25T06:15:37.279478+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2055,16 +2055,6 @@
   ],
   "news_alerts": [
     {
-      "time": "24/06 13:45",
-      "source": "\ud83d\udcf0 **BBC News**: UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-      "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal"
-    },
-    {
-      "time": "24/06 15:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Orders DOJ to Look Into Gasoline Prices",
-      "title": "Trump Orders DOJ to Look Into Gasoline Prices"
-    },
-    {
       "time": "24/06 15:00",
       "source": "**NYT World**: Rubio Seeks to Reassure Persian Gulf Allies on Iran Deal",
       "title": "Rubio Seeks to Reassure Persian Gulf Allies on Iran Deal"
@@ -2153,6 +2143,16 @@
       "time": "25/06 06:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Brent Oil Erases Wartime Gains as Hormuz Reopening Boosts Supply",
       "title": "Brent Oil Erases Wartime Gains as Hormuz Reopening Boosts Supply"
+    },
+    {
+      "time": "25/06 07:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: H.B. Fuller Nears \u00a3628 Million Deal for UK Medtech AMS",
+      "title": "H.B. Fuller Nears \u00a3628 Million Deal for UK Medtech AMS"
+    },
+    {
+      "time": "25/06 07:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Stocks Rally as Micron Revives AI Bets, Oil Slumps: Markets Wrap",
+      "title": "Stocks Rally as Micron Revives AI Bets, Oil Slumps: Markets Wrap"
     }
   ]
 }
