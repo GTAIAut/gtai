@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T16:30:37.368996+00:00",
+  "generated_at": "2026-06-25T16:45:37.220773+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2029,11 +2029,6 @@
   "news_alerts": [
     {
       "time": "25/06 11:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Engines and Elevators Lift German Deals Past $140 Billion",
-      "title": "Engines and Elevators Lift German Deals Past $140 Billion"
-    },
-    {
-      "time": "25/06 11:45",
       "source": "**NYT World**: A Puppy-Abuse Case in China, Caught on Video, Prompts Rare Public Protest",
       "title": "A Puppy-Abuse Case in China, Caught on Video, Prompts Rare Public Protest"
     },
@@ -2126,6 +2121,11 @@
       "time": "25/06 17:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: US Consumer Spending Picks Up as Inflation Hits Three-Year High",
       "title": "US Consumer Spending Picks Up as Inflation Hits Three-Year High"
+    },
+    {
+      "time": "25/06 17:45",
+      "source": "**Cointelegraph**: Kraken, Maple launch onchain warehouse facility for crypto-backed institutional loans",
+      "title": "Kraken, Maple launch onchain warehouse facility for crypto-backed institutional loans"
     }
   ]
 }
