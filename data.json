@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-06-25T09:00:37.510494+00:00",
+  "generated_at": "2026-06-25T09:12:03.887704+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": 588.99,
-    "total_pnl_pct": 1.18,
-    "cash_eur": 34041.19,
-    "invested_eur": 15626.08,
-    "portfolio_value": 49667.27,
+    "total_pnl_eur": 563.1,
+    "total_pnl_pct": 1.13,
+    "cash_eur": 31712.06,
+    "invested_eur": 18149.38,
+    "portfolio_value": 49861.44,
     "open_positions": 4,
-    "total_trades": 76,
-    "win_rate": 46.1,
-    "total_wins": 35,
+    "total_trades": 77,
+    "win_rate": 46.8,
+    "total_wins": 36,
     "total_losses": 41,
-    "avg_win": 8.35,
+    "avg_win": 13.51,
     "avg_loss": -48.94,
     "best_trade": {
       "id": 36,
@@ -59,7 +59,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "13/20",
+    "recent_session_rate": "14/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -449,7 +449,12 @@
     },
     {
       "date": "2026-06-25",
-      "value": 49667.27
+      "value": 48479.76,
+      "trade": "USO SHORT"
+    },
+    {
+      "date": "2026-06-25",
+      "value": 49861.44
     }
   ],
   "monthly_pnl": [
@@ -459,7 +464,7 @@
     },
     {
       "month": "2026-06",
-      "pnl": -1692.92
+      "pnl": -1498.76
     }
   ],
   "ticker_pnl": [
@@ -472,12 +477,12 @@
       "pnl": -619.54
     },
     {
-      "ticker": "ETH",
-      "pnl": -340.68
+      "ticker": "USO",
+      "pnl": 389.35
     },
     {
-      "ticker": "USO",
-      "pnl": 195.19
+      "ticker": "ETH",
+      "pnl": -340.68
     },
     {
       "ticker": "SOL",
@@ -657,28 +662,28 @@
     },
     {
       "date": "2026-06-25",
-      "value": 49667.27,
+      "value": 49861.44,
       "forecast": false
     },
     {
       "date": "2026-07-25",
-      "value": 49325.49,
-      "lower": 48898.78,
-      "upper": 49752.21,
+      "value": 49222.57,
+      "lower": 48758.23,
+      "upper": 49686.92,
       "forecast": true
     },
     {
       "date": "2026-08-24",
-      "value": 49053.3,
-      "lower": 48626.58,
-      "upper": 49480.01,
+      "value": 48908.41,
+      "lower": 48444.07,
+      "upper": 49372.76,
       "forecast": true
     },
     {
       "date": "2026-09-23",
-      "value": 48781.1,
-      "lower": 48354.39,
-      "upper": 49207.82,
+      "value": 48594.25,
+      "lower": 48129.91,
+      "upper": 49058.6,
       "forecast": true
     }
   ],
@@ -1070,8 +1075,13 @@
     },
     {
       "date": "2026-06-25",
-      "drawdown_pct": 0.74,
-      "value": 49667.27
+      "drawdown_pct": 3.11,
+      "value": 48479.76
+    },
+    {
+      "date": "2026-06-25",
+      "drawdown_pct": 0.35,
+      "value": 49861.44
     }
   ],
   "positions": [
@@ -1091,23 +1101,6 @@
       "at_tp1": false,
       "reason": "small caps rotation",
       "opened_at": "2026-06-16T16:05:07.109217"
-    },
-    {
-      "ticker": "USO",
-      "direction": "SHORT",
-      "entry": 99.87,
-      "size": 30.4736,
-      "invested": 1521.75,
-      "leverage": 2,
-      "sl": 99.87,
-      "tp1": 93.88,
-      "tp2": null,
-      "budget_pct": 5.8,
-      "confidence": 7,
-      "is_crypto": false,
-      "at_tp1": true,
-      "reason": "Iran deal oil bearish",
-      "opened_at": "2026-06-16T16:05:09.083168"
     },
     {
       "ticker": "GLD",
@@ -1142,9 +1135,33 @@
       "at_tp1": false,
       "reason": "/ 2x: yields dropping, bonds bid",
       "opened_at": "2026-06-24T14:10:38.009014"
+    },
+    {
+      "ticker": "BTC",
+      "direction": "LONG",
+      "entry": 54272,
+      "size": 0.1491,
+      "invested": 4045.05,
+      "leverage": 2,
+      "sl": 52643.84,
+      "tp1": 57528.32,
+      "tp2": null,
+      "budget_pct": 8.0,
+      "confidence": 7,
+      "is_crypto": true,
+      "at_tp1": false,
+      "reason": "/5x (Fear 12 contrariano, SL tight)",
+      "opened_at": "2026-06-25T10:12:00.604863"
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "USO",
+      "direction": "SHORT",
+      "pnl": 194.16,
+      "reason": "#36: RSI 12.5 oversold extremo, lucro +12.8% garantido",
+      "closed_at": "2026-06-25T10:11:59.268110"
+    },
     {
       "ticker": "BTC",
       "direction": "LONG",
@@ -1277,16 +1294,30 @@
       "pnl": 24.97,
       "reason": "\u2705 TP1 (50%)",
       "closed_at": "2026-06-12T01:20:52.874928"
-    },
-    {
-      "ticker": "QQQ",
-      "direction": "SHORT",
-      "pnl": -4.6,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "closed_at": "2026-05-13T17:59:57.746578"
     }
   ],
   "recent_sessions": [
+    {
+      "id": "1ab6d0c5",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-25T09:12:01.782Z",
+      "completed": ""
+    },
+    {
+      "id": "de22cbc3",
+      "agent": "Desconhecido",
+      "status": "queued",
+      "created": "2026-06-25T09:07:37.207Z",
+      "completed": ""
+    },
+    {
+      "id": "11ad7119",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-25T09:07:25.860Z",
+      "completed": ""
+    },
     {
       "id": "e6ce5319",
       "agent": "Desconhecido",
@@ -1297,28 +1328,28 @@
     {
       "id": "7df2b86b",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-25T09:00:25.240Z",
       "completed": ""
     },
     {
       "id": "41f1b082",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-25T09:00:24.891Z",
       "completed": ""
     },
     {
       "id": "685c8e04",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-25T09:00:24.674Z",
       "completed": ""
     },
     {
       "id": "dcbbd84b",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-25T09:00:24.036Z",
       "completed": ""
     },
@@ -1405,27 +1436,6 @@
       "status": "succeeded",
       "created": "2026-06-24T13:07:35.462Z",
       "completed": ""
-    },
-    {
-      "id": "989e9604",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-24T13:07:24.049Z",
-      "completed": ""
-    },
-    {
-      "id": "7bc83336",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-24T13:00:22.772Z",
-      "completed": ""
-    },
-    {
-      "id": "a86b5411",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-24T13:00:22.378Z",
-      "completed": ""
     }
   ],
   "activity_feed": [
@@ -1492,6 +1502,15 @@
       "date": "22/06/2026 06:10",
       "title": "Postmortem conclu\u00eddo. Score 6.5/10. Alertas principais: (1) 3\u00ba postmortem consecutivo a identificar concentra\u00e7\u00e3o cripto excessiva sem a\u00e7\u00e3o preventiva ",
       "score": "6.5"
+    },
+    {
+      "type": "close",
+      "ticker": "USO",
+      "direction": "SHORT",
+      "pnl": 194.16,
+      "reason": "#36: RSI 12.5 oversold extremo, lucro +12.8% garantido",
+      "date": "2026-06-25T10:11",
+      "id": 36
     },
     {
       "type": "sl_hit",
@@ -1950,15 +1969,6 @@
       "pnl": 0.82,
       "reason": "\ud83d\udd34 STOP LOSS",
       "date": "2026-05-11T12:00",
-      "id": 16
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "AVAX",
-      "direction": "SHORT",
-      "pnl": 0.09,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-11T11:40",
       "id": 16
     }
   ],
