@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T05:11:01.234661+00:00",
+  "generated_at": "2026-06-25T05:15:37.680548+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -59,7 +59,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "13/20",
+    "recent_session_rate": "16/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1290,21 +1290,21 @@
     {
       "id": "12a7b147",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-25T05:10:59.155Z",
       "completed": ""
     },
     {
       "id": "64bd2636",
       "agent": "Desconhecido",
-      "status": "queued",
+      "status": "succeeded",
       "created": "2026-06-25T05:07:36.844Z",
       "completed": ""
     },
     {
       "id": "cc7e5024",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-25T05:07:21.126Z",
       "completed": ""
     },
@@ -2055,31 +2055,6 @@
   ],
   "news_alerts": [
     {
-      "time": "24/06 10:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Copper Holds Losses as Dollar and Hawkish Fed Pressure Metals",
-      "title": "Copper Holds Losses as Dollar and Hawkish Fed Pressure Metals"
-    },
-    {
-      "time": "24/06 11:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: EU Competition Chief Warns Governments Not to Stymie Bank Deals",
-      "title": "EU Competition Chief Warns Governments Not to Stymie Bank Deals"
-    },
-    {
-      "time": "24/06 11:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Drops to Near $4,000 on Stronger Dollar, Fed Rate Outlook",
-      "title": "Gold Drops to Near $4,000 on Stronger Dollar, Fed Rate Outlook"
-    },
-    {
-      "time": "24/06 11:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Options Trades Highlight Doubts Over Prospect of US Rate Hikes",
-      "title": "Options Trades Highlight Doubts Over Prospect of US Rate Hikes"
-    },
-    {
-      "time": "24/06 12:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: The Debasement Trade Is Unraveling and Kevin Warsh Is One Big Reason",
-      "title": "The Debasement Trade Is Unraveling and Kevin Warsh Is One Big Reason"
-    },
-    {
       "time": "24/06 12:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: UK Banks Set to Extend Rally Against EU Peers, Berenberg Says",
       "title": "UK Banks Set to Extend Rally Against EU Peers, Berenberg Says"
@@ -2153,6 +2128,31 @@
       "time": "24/06 18:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Bank of Canada Rejects Recession Label for Economy\u2019s Weakness",
       "title": "Bank of Canada Rejects Recession Label for Economy\u2019s Weakness"
+    },
+    {
+      "time": "25/06 06:15",
+      "source": "\ud83d\udcf0 **BBC News**: Trump describes Burnham as 'the mayor of a town' and 'extremely liberal'",
+      "title": "Trump describes Burnham as 'the mayor of a town' and 'extremely liberal'"
+    },
+    {
+      "time": "25/06 06:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Palm Oil Posts Biggest Drop in a Month as Crude Erases War Gains",
+      "title": "Palm Oil Posts Biggest Drop in a Month as Crude Erases War Gains"
+    },
+    {
+      "time": "25/06 06:15",
+      "source": "\ud83d\udcf0 **BBC News**: Trump asks Congress for $87bn, mostly for 'urgent' Iran war costs",
+      "title": "Trump asks Congress for $87bn, mostly for 'urgent' Iran war costs"
+    },
+    {
+      "time": "25/06 06:15",
+      "source": "**Cointelegraph**: Bitcoin nearly loses $59K as DXY surges: Are traders bracing for more pain?",
+      "title": "Bitcoin nearly loses $59K as DXY surges: Are traders bracing for more pain?"
+    },
+    {
+      "time": "25/06 06:15",
+      "source": "**NYT World**: ICC Judges Sue Trump Administration Over Sanctions",
+      "title": "ICC Judges Sue Trump Administration Over Sanctions"
     }
   ]
 }
