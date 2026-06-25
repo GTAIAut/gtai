@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T08:30:37.338634+00:00",
+  "generated_at": "2026-06-25T08:45:37.516997+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2055,11 +2055,6 @@
   ],
   "news_alerts": [
     {
-      "time": "24/06 16:15",
-      "source": "**NYT World**: The Ukraine War Amputees Embracing Wake Boarding and Jujitsu",
-      "title": "The Ukraine War Amputees Embracing Wake Boarding and Jujitsu"
-    },
-    {
       "time": "24/06 16:30",
       "source": "**Cointelegraph**: Trump cancels signing of housing bill with CBDC ban",
       "title": "Trump cancels signing of housing bill with CBDC ban"
@@ -2153,6 +2148,11 @@
       "time": "25/06 08:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Copper Climbs as Lower Dollar, AI Rally Counter Rate Concerns",
       "title": "Copper Climbs as Lower Dollar, AI Rally Counter Rate Concerns"
+    },
+    {
+      "time": "25/06 09:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Stocks Rally as Micron Buoys AI Trade Ahead of PCE: Markets Wrap",
+      "title": "Stocks Rally as Micron Buoys AI Trade Ahead of PCE: Markets Wrap"
     }
   ]
 }
