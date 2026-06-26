@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T05:10:45.950217+00:00",
+  "generated_at": "2026-06-26T05:15:37.605427+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -59,7 +59,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "13/20",
+    "recent_session_rate": "14/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1263,7 +1263,7 @@
     {
       "id": "5fbe17e8",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-26T05:10:43.833Z",
       "completed": ""
     },
@@ -2027,16 +2027,6 @@
   ],
   "news_alerts": [
     {
-      "time": "25/06 11:45",
-      "source": "**NYT World**: A Puppy-Abuse Case in China, Caught on Video, Prompts Rare Public Protest",
-      "title": "A Puppy-Abuse Case in China, Caught on Video, Prompts Rare Public Protest"
-    },
-    {
-      "time": "25/06 12:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: ECB Rate-Hike Forecasts Pared Back as Oil Regains Pre-War Level",
-      "title": "ECB Rate-Hike Forecasts Pared Back as Oil Regains Pre-War Level"
-    },
-    {
       "time": "25/06 12:00",
       "source": "\ud83d\udcf0 **BBC News**: Trump describes Burnham as the 'mayor of a town' and 'extremely liberal'",
       "title": "Trump describes Burnham as the 'mayor of a town' and 'extremely liberal'"
@@ -2125,6 +2115,16 @@
       "time": "25/06 17:45",
       "source": "**Cointelegraph**: Kraken, Maple launch onchain warehouse facility for crypto-backed institutional loans",
       "title": "Kraken, Maple launch onchain warehouse facility for crypto-backed institutional loans"
+    },
+    {
+      "time": "26/06 06:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Asian Stocks Slump to a Two-Week Low on Tech Rout | The China Show 6/26/2026",
+      "title": "Asian Stocks Slump to a Two-Week Low on Tech Rout | The China Show 6/26/2026"
+    },
+    {
+      "time": "26/06 06:15",
+      "source": "**Politico**: Who's who from the Trump administration",
+      "title": "Who's who from the Trump administration"
     }
   ]
 }
