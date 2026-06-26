@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T08:30:37.300395+00:00",
+  "generated_at": "2026-06-26T08:45:37.635082+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2028,11 +2028,6 @@
   "news_alerts": [
     {
       "time": "25/06 14:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Why Fed Chairman Warsh\u2019s Pivot Risks Confusing Markets",
-      "title": "Why Fed Chairman Warsh\u2019s Pivot Risks Confusing Markets"
-    },
-    {
-      "time": "25/06 14:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Treasuries Climb as Benign US Inflation Eases Bets on a Fed Hike",
       "title": "Treasuries Climb as Benign US Inflation Eases Bets on a Fed Hike"
     },
@@ -2125,6 +2120,11 @@
       "time": "26/06 08:45",
       "source": "**Politico**: Finland's President Stubb on Trump, Putin and the future of NATO",
       "title": "Finland's President Stubb on Trump, Putin and the future of NATO"
+    },
+    {
+      "time": "26/06 09:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Brutal Week of Swings Leaves Korea\u2019s AI Stock Rally in Turmoil",
+      "title": "Brutal Week of Swings Leaves Korea\u2019s AI Stock Rally in Turmoil"
     }
   ]
 }
