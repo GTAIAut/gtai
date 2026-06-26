@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T09:10:29.171654+00:00",
+  "generated_at": "2026-06-26T09:15:37.253024+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -59,7 +59,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "13/20",
+    "recent_session_rate": "14/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1263,7 +1263,7 @@
     {
       "id": "ed26df17",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-26T09:10:27.005Z",
       "completed": ""
     },
