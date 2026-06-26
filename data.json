@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T16:00:37.313626+00:00",
+  "generated_at": "2026-06-26T16:15:37.370012+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2026,11 +2026,6 @@
   "news_alerts": [
     {
       "time": "26/06 07:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Lundin Oil Execs Accused of Complicity in War Crimes (Video)",
-      "title": "Lundin Oil Execs Accused of Complicity in War Crimes (Video)"
-    },
-    {
-      "time": "26/06 07:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Hovers Near $4,000 After Soft Inflation Print Slows Decline",
       "title": "Gold Hovers Near $4,000 After Soft Inflation Print Slows Decline"
     },
@@ -2123,6 +2118,11 @@
       "time": "26/06 17:00",
       "source": "**Cointelegraph**: Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter \u2018deep bear market\u2019",
       "title": "Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter \u2018deep bear market\u2019"
+    },
+    {
+      "time": "26/06 17:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Boeing Wins Jet Deal From China Southern Valued at $3.62B",
+      "title": "Boeing Wins Jet Deal From China Southern Valued at $3.62B"
     }
   ]
 }
