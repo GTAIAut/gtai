@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T07:15:37.520807+00:00",
+  "generated_at": "2026-06-26T07:30:37.347619+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2027,11 +2027,6 @@
   ],
   "news_alerts": [
     {
-      "time": "25/06 12:31",
-      "source": "**NYT World**: Myanmar\u2019s Civil War Has Become an Apocalypse",
-      "title": "Myanmar\u2019s Civil War Has Become an Apocalypse"
-    },
-    {
       "time": "25/06 12:45",
       "source": "**NYT World**: A Right-Wing Election Victory in Colombia, With a Little Help from Trump",
       "title": "A Right-Wing Election Victory in Colombia, With a Little Help from Trump"
@@ -2125,6 +2120,11 @@
       "time": "26/06 08:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Gives Coal Room to Grow in New Five-Year Energy Plan",
       "title": "China Gives Coal Room to Grow in New Five-Year Energy Plan"
+    },
+    {
+      "time": "26/06 08:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China\u2019s Hardware Tech Stocks Look to Earnings to Sustain Rally",
+      "title": "China\u2019s Hardware Tech Stocks Look to Earnings to Sustain Rally"
     }
   ]
 }
