@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T15:30:37.594152+00:00",
+  "generated_at": "2026-06-26T15:45:37.328080+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2025,16 +2025,6 @@
   ],
   "news_alerts": [
     {
-      "time": "26/06 06:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Asian Stocks Slump to a Two-Week Low on Tech Rout | The China Show 6/26/2026",
-      "title": "Asian Stocks Slump to a Two-Week Low on Tech Rout | The China Show 6/26/2026"
-    },
-    {
-      "time": "26/06 06:15",
-      "source": "**Politico**: Who's who from the Trump administration",
-      "title": "Who's who from the Trump administration"
-    },
-    {
       "time": "26/06 06:45",
       "source": "\ud83d\udcf0 **BBC News**: Warning over power bank fire risk on flights as summer holidays begin",
       "title": "Warning over power bank fire risk on flights as summer holidays begin"
@@ -2123,6 +2113,16 @@
       "time": "26/06 16:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Three Gorges Is Said In Talks to Buy German Wind Assets",
       "title": "China Three Gorges Is Said In Talks to Buy German Wind Assets"
+    },
+    {
+      "time": "26/06 16:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Euro Zone Probably Saw First Inflation Slowdown Since Iran War Began",
+      "title": "Euro Zone Probably Saw First Inflation Slowdown Since Iran War Began"
+    },
+    {
+      "time": "26/06 16:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: US Oil Plunges Below $70 as Ships Keep Crossing Strait of Hormuz",
+      "title": "US Oil Plunges Below $70 as Ships Keep Crossing Strait of Hormuz"
     }
   ]
 }
