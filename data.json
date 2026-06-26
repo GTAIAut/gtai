@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T15:45:37.328080+00:00",
+  "generated_at": "2026-06-26T16:00:37.313626+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2025,11 +2025,6 @@
   ],
   "news_alerts": [
     {
-      "time": "26/06 06:45",
-      "source": "\ud83d\udcf0 **BBC News**: Warning over power bank fire risk on flights as summer holidays begin",
-      "title": "Warning over power bank fire risk on flights as summer holidays begin"
-    },
-    {
       "time": "26/06 07:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Lundin Oil Execs Accused of Complicity in War Crimes (Video)",
       "title": "Lundin Oil Execs Accused of Complicity in War Crimes (Video)"
@@ -2123,6 +2118,11 @@
       "time": "26/06 16:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: US Oil Plunges Below $70 as Ships Keep Crossing Strait of Hormuz",
       "title": "US Oil Plunges Below $70 as Ships Keep Crossing Strait of Hormuz"
+    },
+    {
+      "time": "26/06 17:00",
+      "source": "**Cointelegraph**: Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter \u2018deep bear market\u2019",
+      "title": "Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter \u2018deep bear market\u2019"
     }
   ]
 }
