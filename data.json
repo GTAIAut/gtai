@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T13:00:37.902046+00:00",
+  "generated_at": "2026-06-26T13:09:30.478104+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -59,7 +59,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "11/20",
+    "recent_session_rate": "10/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1261,9 +1261,30 @@
   ],
   "recent_sessions": [
     {
-      "id": "16dc00eb",
+      "id": "082f631b",
       "agent": "Desconhecido",
       "status": "running",
+      "created": "2026-06-26T13:09:28.107Z",
+      "completed": ""
+    },
+    {
+      "id": "4b023e43",
+      "agent": "Desconhecido",
+      "status": "queued",
+      "created": "2026-06-26T13:07:39.756Z",
+      "completed": ""
+    },
+    {
+      "id": "cfb15833",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-26T13:07:23.956Z",
+      "completed": ""
+    },
+    {
+      "id": "16dc00eb",
+      "agent": "Desconhecido",
+      "status": "succeeded",
       "created": "2026-06-26T13:00:23.670Z",
       "completed": ""
     },
@@ -1277,7 +1298,7 @@
     {
       "id": "b50da221",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "failed",
       "created": "2026-06-26T13:00:22.682Z",
       "completed": ""
     },
@@ -1377,27 +1398,6 @@
       "agent": "Desconhecido",
       "status": "succeeded",
       "created": "2026-06-26T05:07:39.038Z",
-      "completed": ""
-    },
-    {
-      "id": "7f741751",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-26T05:07:21.158Z",
-      "completed": ""
-    },
-    {
-      "id": "28a492a8",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-26T05:00:20.834Z",
-      "completed": ""
-    },
-    {
-      "id": "840bf01a",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-26T05:00:20.773Z",
       "completed": ""
     }
   ],
