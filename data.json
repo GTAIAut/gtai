@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T13:09:30.478104+00:00",
+  "generated_at": "2026-06-26T13:15:37.392845+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -59,7 +59,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "10/20",
+    "recent_session_rate": "13/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1263,21 +1263,21 @@
     {
       "id": "082f631b",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-26T13:09:28.107Z",
       "completed": ""
     },
     {
       "id": "4b023e43",
       "agent": "Desconhecido",
-      "status": "queued",
+      "status": "succeeded",
       "created": "2026-06-26T13:07:39.756Z",
       "completed": ""
     },
     {
       "id": "cfb15833",
       "agent": "Desconhecido",
-      "status": "running",
+      "status": "succeeded",
       "created": "2026-06-26T13:07:23.956Z",
       "completed": ""
     },
