@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T08:45:37.635082+00:00",
+  "generated_at": "2026-06-26T09:00:37.635221+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -59,7 +59,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "14/20",
+    "recent_session_rate": "9/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1261,6 +1261,48 @@
   ],
   "recent_sessions": [
     {
+      "id": "e2854790",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-26T09:00:16.820Z",
+      "completed": ""
+    },
+    {
+      "id": "ef78f1d9",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-26T09:00:16.740Z",
+      "completed": ""
+    },
+    {
+      "id": "2cef7ce9",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-26T09:00:16.406Z",
+      "completed": ""
+    },
+    {
+      "id": "b603e33a",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-26T09:00:16.190Z",
+      "completed": ""
+    },
+    {
+      "id": "f4b21aef",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-26T09:00:15.894Z",
+      "completed": ""
+    },
+    {
+      "id": "f121563a",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-26T09:00:15.566Z",
+      "completed": ""
+    },
+    {
       "id": "5fbe17e8",
       "agent": "Desconhecido",
       "status": "succeeded",
@@ -1357,51 +1399,17 @@
       "status": "failed",
       "created": "2026-06-25T13:00:24.496Z",
       "completed": ""
-    },
-    {
-      "id": "449600a8",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-25T13:00:24.171Z",
-      "completed": ""
-    },
-    {
-      "id": "43a2b69b",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-25T13:00:23.685Z",
-      "completed": ""
-    },
-    {
-      "id": "25dfe6e8",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-25T13:00:23.218Z",
-      "completed": ""
-    },
-    {
-      "id": "9a389317",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-25T13:00:22.849Z",
-      "completed": ""
-    },
-    {
-      "id": "1ab6d0c5",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-25T09:12:01.782Z",
-      "completed": ""
-    },
-    {
-      "id": "de22cbc3",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-25T09:07:37.207Z",
-      "completed": ""
     }
   ],
   "activity_feed": [
+    {
+      "type": "session",
+      "session_type": "MANHA",
+      "session_num": 57,
+      "date": "26/06/2026 06:10",
+      "title": "Postmortem concluido. Score 6/10. Analise publicada no comentario. 4 novas posicoes registadas (QQQ SHORT 46, SPY SHORT 47, USO LONG 48, EZU LONG 49).",
+      "score": "6"
+    },
     {
       "type": "session",
       "session_type": "TARDE",
@@ -1473,14 +1481,6 @@
       "date": "22/06/2026 14:10",
       "title": "\u2705 POSTMORTEM conclu\u00eddo. 7 trades registados no REGISTO.md. An\u00e1lise cr\u00edtica: score 7.0/10 \u2014 transi\u00e7\u00e3o p\u00f3s-CPI correta, mas R/R marginal em 2 trades, cr",
       "score": "7.0"
-    },
-    {
-      "type": "session",
-      "session_type": "MANHA",
-      "session_num": 45,
-      "date": "22/06/2026 06:10",
-      "title": "Postmortem conclu\u00eddo. Score 6.5/10. Alertas principais: (1) 3\u00ba postmortem consecutivo a identificar concentra\u00e7\u00e3o cripto excessiva sem a\u00e7\u00e3o preventiva ",
-      "score": "6.5"
     },
     {
       "type": "sl_hit",
@@ -1935,6 +1935,14 @@
   ],
   "session_analysis": [
     {
+      "session_type": "MANHA",
+      "session_num": 57,
+      "date": "26/06/2026 06:10",
+      "summary": "Postmortem concluido. Score 6/10. Analise publicada no comentario. 4 novas posicoes registadas (QQQ SHORT #46, SPY SHORT #47, USO LONG #48, EZU LONG #49). 3 SLs atualizados (IWM, GLD, TLT). Alerta de inconsistencia leverage (JSON diz 2x, Director diz 0x) \u2014 recomendo revisao antes da proxima sessao.",
+      "trades": [],
+      "findings": []
+    },
+    {
       "session_type": "TARDE",
       "session_num": 56,
       "date": "25/06/2026 14:12",
@@ -2015,14 +2023,6 @@
       "findings": [
         "\u2705 POSTMORTEM conclu\u00eddo. 7 trades registados no REGISTO.md. An\u00e1lise cr\u00edtica: score 7.0/10 \u2014 transi\u00e7\u00e3o p\u00f3s-CPI correta, mas R/R marginal em 2 trades, cripto correlacionado a 12%, falta TP2 em 4/6 posi\u00e7\u00f5"
       ]
-    },
-    {
-      "session_type": "MANHA",
-      "session_num": 45,
-      "date": "22/06/2026 06:10",
-      "summary": "Postmortem conclu\u00eddo. Score 6.5/10. Alertas principais: (1) 3\u00ba postmortem consecutivo a identificar concentra\u00e7\u00e3o cripto excessiva sem a\u00e7\u00e3o preventiva \u2014 implementar limite 40% urgente, (2) 3x leverage antes de CPI \u00e9 risco temporal elevado. Registo de novas posi\u00e7\u00f5es SPY (#1) e QQQ (#2) criado em .paperclip/records/trade-register.md.",
-      "trades": [],
-      "findings": []
     }
   ],
   "news_alerts": [
