@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T16:30:37.414467+00:00",
+  "generated_at": "2026-06-26T16:45:37.341782+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2025,11 +2025,6 @@
   ],
   "news_alerts": [
     {
-      "time": "26/06 07:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Hovers Near $4,000 After Soft Inflation Print Slows Decline",
-      "title": "Gold Hovers Near $4,000 After Soft Inflation Print Slows Decline"
-    },
-    {
       "time": "26/06 07:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Lundin Oil Executives Accused of Complicity in War Crimes",
       "title": "Lundin Oil Executives Accused of Complicity in War Crimes"
@@ -2123,6 +2118,11 @@
       "time": "26/06 17:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Boeing Wins Jet Deal From China Southern Valued at $3.62B",
       "title": "Boeing Wins Jet Deal From China Southern Valued at $3.62B"
+    },
+    {
+      "time": "26/06 17:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Oil Tanker Earnings Plunge by $200,000 as More Return to Hormuz",
+      "title": "Oil Tanker Earnings Plunge by $200,000 as More Return to Hormuz"
     }
   ]
 }
