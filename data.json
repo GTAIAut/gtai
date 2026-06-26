@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T05:30:37.325276+00:00",
+  "generated_at": "2026-06-26T05:45:37.186314+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2027,11 +2027,6 @@
   ],
   "news_alerts": [
     {
-      "time": "25/06 12:00",
-      "source": "\ud83d\udcf0 **BBC News**: Trump describes Burnham as the 'mayor of a town' and 'extremely liberal'",
-      "title": "Trump describes Burnham as the 'mayor of a town' and 'extremely liberal'"
-    },
-    {
       "time": "25/06 12:16",
       "source": "**NYT World**: Rubio Seeks to Reassure Gulf Arab Partners on Iran Deal",
       "title": "Rubio Seeks to Reassure Gulf Arab Partners on Iran Deal"
@@ -2125,6 +2120,11 @@
       "time": "26/06 06:15",
       "source": "**Politico**: Who's who from the Trump administration",
       "title": "Who's who from the Trump administration"
+    },
+    {
+      "time": "26/06 06:45",
+      "source": "\ud83d\udcf0 **BBC News**: Warning over power bank fire risk on flights as summer holidays begin",
+      "title": "Warning over power bank fire risk on flights as summer holidays begin"
     }
   ]
 }
