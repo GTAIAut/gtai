@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T07:30:37.347619+00:00",
+  "generated_at": "2026-06-26T07:45:37.352438+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2027,16 +2027,6 @@
   ],
   "news_alerts": [
     {
-      "time": "25/06 12:45",
-      "source": "**NYT World**: A Right-Wing Election Victory in Colombia, With a Little Help from Trump",
-      "title": "A Right-Wing Election Victory in Colombia, With a Little Help from Trump"
-    },
-    {
-      "time": "25/06 14:15",
-      "source": "**Cointelegraph**: SBI to acquire Bitbank in $289M deal creating Japan's biggest crypto exchange",
-      "title": "SBI to acquire Bitbank in $289M deal creating Japan's biggest crypto exchange"
-    },
-    {
       "time": "25/06 14:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Why Fed Chairman Warsh\u2019s Pivot Risks Confusing Markets",
       "title": "Why Fed Chairman Warsh\u2019s Pivot Risks Confusing Markets"
@@ -2125,6 +2115,16 @@
       "time": "26/06 08:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China\u2019s Hardware Tech Stocks Look to Earnings to Sustain Rally",
       "title": "China\u2019s Hardware Tech Stocks Look to Earnings to Sustain Rally"
+    },
+    {
+      "time": "26/06 08:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Ebola Puts Spotlight on Trump's America First Health Strategy",
+      "title": "Ebola Puts Spotlight on Trump's America First Health Strategy"
+    },
+    {
+      "time": "26/06 08:45",
+      "source": "**Politico**: Finland's President Stubb on Trump, Putin and the future of NATO",
+      "title": "Finland's President Stubb on Trump, Putin and the future of NATO"
     }
   ]
 }
