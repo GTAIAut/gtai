@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T06:30:37.363284+00:00",
+  "generated_at": "2026-06-26T06:45:37.376129+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -2028,11 +2028,6 @@
   "news_alerts": [
     {
       "time": "25/06 12:31",
-      "source": "**NYT World**: Live Updates: Spain Warns of High Death Toll in Heat Wave",
-      "title": "Live Updates: Spain Warns of High Death Toll in Heat Wave"
-    },
-    {
-      "time": "25/06 12:31",
       "source": "**NYT World**: Venezuela Live Updates: Death Toll Rises as Rescuers Mount Frantic Search for Survivors of Twin Earthquakes",
       "title": "Venezuela Live Updates: Death Toll Rises as Rescuers Mount Frantic Search for Survivors of Twin Earthquakes"
     },
@@ -2125,6 +2120,11 @@
       "time": "26/06 07:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Hovers Near $4,000 After Soft Inflation Print Slows Decline",
       "title": "Gold Hovers Near $4,000 After Soft Inflation Print Slows Decline"
+    },
+    {
+      "time": "26/06 07:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Lundin Oil Executives Accused of Complicity in War Crimes",
+      "title": "Lundin Oil Executives Accused of Complicity in War Crimes"
     }
   ]
 }
