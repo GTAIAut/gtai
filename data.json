@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-06-28T19:48:54.417399+00:00",
+  "generated_at": "2026-06-28T20:10:31.929720+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -13357.38,
-    "total_pnl_pct": -26.71,
+    "total_pnl_eur": -26268.88,
+    "total_pnl_pct": -52.54,
     "cash_eur": 12866.75,
     "invested_eur": 38779.25,
     "portfolio_value": 51646.0,
     "open_positions": 7,
-    "total_trades": 77,
-    "win_rate": 44.2,
+    "total_trades": 79,
+    "win_rate": 43.0,
     "total_wins": 34,
-    "total_losses": 43,
+    "total_losses": 45,
     "avg_win": 2.86,
-    "avg_loss": -312.9,
+    "avg_loss": -585.92,
     "best_trade": {
       "id": 29,
       "ticker": "SOL",
@@ -34,19 +34,19 @@
       "closed_at": "2026-06-12T01:30:55.698590"
     },
     "worst_trade": {
-      "id": 43,
-      "ticker": "XRP",
+      "id": 44,
+      "ticker": "IWM",
       "direction": "SHORT",
-      "entry_price_eur": 0.916,
-      "exit_price_eur": 0.916,
-      "size_units": 33829.2576,
-      "invested_eur": 6197.52,
-      "leverage": 5,
-      "pnl_eur": -6197.52,
+      "entry_price_eur": 263.24,
+      "exit_price_eur": 263.24,
+      "size_units": 58.8581,
+      "invested_eur": 7746.9,
+      "leverage": 2,
+      "pnl_eur": -7746.9,
       "pnl_pct": -100.0,
-      "close_reason": "Reduzir exposicao altcoins, modo defensivo (-8.23% P&L)",
-      "opened_at": "2026-06-28T19:54:05.323814+01:00",
-      "closed_at": "2026-06-28T20:20:45.250568+01:00"
+      "close_reason": "IWM em uptrend forte (RSI 73.6, price 299.83 USD). SHORT contra-trend \u00e9 perigoso. Redirecionar capital.",
+      "opened_at": "2026-06-28T20:30:31.813229+01:00",
+      "closed_at": "2026-06-28T21:10:18.567931+01:00"
     },
     "agent_stats": {
       "Diretor de Investimentos": {
@@ -461,6 +461,16 @@
     },
     {
       "date": "2026-06-28",
+      "value": 28895.72,
+      "trade": "IWM SHORT"
+    },
+    {
+      "date": "2026-06-28",
+      "value": 23731.12,
+      "trade": "TLT SHORT"
+    },
+    {
+      "date": "2026-06-28",
       "value": 51646.0
     }
   ],
@@ -471,21 +481,25 @@
     },
     {
       "month": "2026-06",
-      "pnl": -13335.9
+      "pnl": -26247.4
     }
   ],
   "ticker_pnl": [
+    {
+      "ticker": "IWM",
+      "pnl": -10790.27
+    },
     {
       "ticker": "XRP",
       "pnl": -6197.52
     },
     {
-      "ticker": "AVAX",
-      "pnl": -4139.52
+      "ticker": "TLT",
+      "pnl": -5164.6
     },
     {
-      "ticker": "IWM",
-      "pnl": -3043.37
+      "ticker": "AVAX",
+      "pnl": -4139.52
     },
     {
       "ticker": "SOL",
@@ -547,18 +561,13 @@
       "forecast": false
     },
     {
-      "date": "2026-05-06",
-      "value": 50003.48,
+      "date": "2026-05-07",
+      "value": 50003.26,
       "forecast": false
     },
     {
       "date": "2026-05-08",
-      "value": 50000.18,
-      "forecast": false
-    },
-    {
-      "date": "2026-05-09",
-      "value": 49990.3,
+      "value": 49995.15,
       "forecast": false
     },
     {
@@ -573,12 +582,7 @@
     },
     {
       "date": "2026-05-11",
-      "value": 49989.71,
-      "forecast": false
-    },
-    {
-      "date": "2026-05-11",
-      "value": 50002.05,
+      "value": 50001.32,
       "forecast": false
     },
     {
@@ -593,12 +597,7 @@
     },
     {
       "date": "2026-05-11",
-      "value": 49996.88,
-      "forecast": false
-    },
-    {
-      "date": "2026-05-11",
-      "value": 49992.14,
+      "value": 49992.11,
       "forecast": false
     },
     {
@@ -608,17 +607,12 @@
     },
     {
       "date": "2026-05-12",
-      "value": 49992.02,
+      "value": 49992.3,
       "forecast": false
     },
     {
       "date": "2026-05-12",
-      "value": 49995.94,
-      "forecast": false
-    },
-    {
-      "date": "2026-05-12",
-      "value": 49999.7,
+      "value": 49997.19,
       "forecast": false
     },
     {
@@ -628,17 +622,12 @@
     },
     {
       "date": "2026-05-13",
-      "value": 49994.75,
+      "value": 49991.0,
       "forecast": false
     },
     {
       "date": "2026-05-13",
-      "value": 49991.46,
-      "forecast": false
-    },
-    {
-      "date": "2026-05-13",
-      "value": 49978.52,
+      "value": 49983.12,
       "forecast": false
     },
     {
@@ -648,17 +637,12 @@
     },
     {
       "date": "2026-06-16",
-      "value": 50035.39,
-      "forecast": false
-    },
-    {
-      "date": "2026-06-16",
-      "value": 50036.1,
+      "value": 50036.71,
       "forecast": false
     },
     {
       "date": "2026-06-17",
-      "value": 50036.2,
+      "value": 50036.32,
       "forecast": false
     },
     {
@@ -678,23 +662,23 @@
     },
     {
       "date": "2026-07-28",
-      "value": 43951.95,
-      "lower": 40466.03,
-      "upper": 47437.88,
+      "value": 39971.93,
+      "lower": 34333.81,
+      "upper": 45610.05,
       "forecast": true
     },
     {
       "date": "2026-08-27",
-      "value": 41576.68,
-      "lower": 38090.75,
-      "upper": 45062.6,
+      "value": 36032.94,
+      "lower": 30394.82,
+      "upper": 41671.06,
       "forecast": true
     },
     {
       "date": "2026-09-26",
-      "value": 39201.4,
-      "lower": 35715.48,
-      "upper": 42687.33,
+      "value": 32093.95,
+      "lower": 26455.84,
+      "upper": 37732.07,
       "forecast": true
     }
   ],
@@ -1091,6 +1075,16 @@
     },
     {
       "date": "2026-06-28",
+      "drawdown_pct": 42.25,
+      "value": 28895.72
+    },
+    {
+      "date": "2026-06-28",
+      "drawdown_pct": 52.57,
+      "value": 23731.12
+    },
+    {
+      "date": "2026-06-28",
       "drawdown_pct": 0.0,
       "value": 51646.0
     }
@@ -1103,7 +1097,7 @@
       "size": 30.4736,
       "invested": 1521.75,
       "leverage": 2,
-      "sl": 95.0,
+      "sl": 93.0,
       "tp1": 93.88,
       "tp2": null,
       "budget_pct": 11.7,
@@ -1120,7 +1114,7 @@
       "size": 0.5678,
       "invested": 6221.5,
       "leverage": 5,
-      "sl": 55000,
+      "sl": 54000,
       "tp1": 49500.0,
       "tp2": 46000.0,
       "budget_pct": 13.2,
@@ -1137,7 +1131,7 @@
       "size": 7.0542,
       "invested": 5213.0,
       "leverage": 2,
-      "sl": 1480,
+      "sl": 1420,
       "tp1": 1389.24,
       "tp2": null,
       "budget_pct": 10.0,
@@ -1165,40 +1159,6 @@
       "opened_at": "2026-06-28T19:54:05.323791+01:00"
     },
     {
-      "ticker": "IWM",
-      "direction": "SHORT",
-      "entry": 263.24,
-      "size": 58.8581,
-      "invested": 7746.9,
-      "leverage": 2,
-      "sl": 272.0,
-      "tp1": 255.0,
-      "tp2": 248.0,
-      "budget_pct": 15,
-      "confidence": 8,
-      "is_crypto": false,
-      "at_tp1": false,
-      "reason": "RSI 73.6 overbought, BB 89.1%, uptrend exhausted mean reversion",
-      "opened_at": "2026-06-28T20:30:31.813229+01:00"
-    },
-    {
-      "ticker": "TLT",
-      "direction": "SHORT",
-      "entry": 76.7,
-      "size": 134.6701,
-      "invested": 5164.6,
-      "leverage": 2,
-      "sl": 78.5,
-      "tp1": 75.0,
-      "tp2": 73.5,
-      "budget_pct": 10,
-      "confidence": 7,
-      "is_crypto": false,
-      "at_tp1": false,
-      "reason": "RSI 70.7 overbought, BB 94.6%, overextended",
-      "opened_at": "2026-06-28T20:30:31.813253+01:00"
-    },
-    {
       "ticker": "EURUSD",
       "direction": "LONG",
       "entry": 1.14,
@@ -1214,9 +1174,57 @@
       "at_tp1": false,
       "reason": "USD weakening, EUR CPI data ahead, ECB Lagarde speaks",
       "opened_at": "2026-06-28T20:30:31.813264+01:00"
+    },
+    {
+      "ticker": "SPY",
+      "direction": "SHORT",
+      "entry": 640,
+      "size": 24.2091,
+      "invested": 7746.9,
+      "leverage": 2,
+      "sl": 652,
+      "tp1": 626,
+      "tp2": 614,
+      "budget_pct": 15,
+      "confidence": 7,
+      "is_crypto": false,
+      "at_tp1": false,
+      "reason": "SPY em downtrend. RSI 46.1 bearish. MACD hist negativo. BB oversold mas momentum baixista. SHORT no suporte quebrado (S1 729).",
+      "opened_at": "2026-06-28T21:10:18.567972+01:00"
+    },
+    {
+      "ticker": "GLD",
+      "direction": "LONG",
+      "entry": 328,
+      "size": 31.4915,
+      "invested": 5164.6,
+      "leverage": 2,
+      "sl": 320,
+      "tp1": 338,
+      "tp2": 345,
+      "budget_pct": 10,
+      "confidence": 7,
+      "is_crypto": false,
+      "at_tp1": false,
+      "reason": "ADD GLD. Ouro +1.41% com tens\u00f5es geopol\u00edticas (Ir\u00e3o, Venezuela, Ar\u00e1bia). Safe haven flow. Tend\u00eancia de alta confirmada.",
+      "opened_at": "2026-06-28T21:10:18.567983+01:00"
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "TLT",
+      "direction": "SHORT",
+      "pnl": -5164.6,
+      "reason": "TLT em uptrend (RSI 70.7, BB 94.6%). Yields (TNX) em downtrend. SHORT contra-trend. Redirecionar capital.",
+      "closed_at": "2026-06-28T21:10:18.567953+01:00"
+    },
+    {
+      "ticker": "IWM",
+      "direction": "SHORT",
+      "pnl": -7746.9,
+      "reason": "IWM em uptrend forte (RSI 73.6, price 299.83 USD). SHORT contra-trend \u00e9 perigoso. Redirecionar capital.",
+      "closed_at": "2026-06-28T21:10:18.567931+01:00"
+    },
     {
       "ticker": "USO",
       "direction": "SHORT",
@@ -1342,27 +1350,62 @@
       "pnl": 25.01,
       "reason": "\ud83c\udfc6 TP2",
       "closed_at": "2026-06-12T01:30:55.698590"
-    },
-    {
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": 9.5,
-      "reason": "\u2705 TP1 (50%)",
-      "closed_at": "2026-06-12T01:20:52.874941"
-    },
-    {
-      "ticker": "SOL",
-      "direction": "SHORT",
-      "pnl": 24.97,
-      "reason": "\u2705 TP1 (50%)",
-      "closed_at": "2026-06-12T01:20:52.874928"
     }
   ],
   "recent_sessions": [
     {
-      "id": "aca45b59",
+      "id": "e94d076d",
       "agent": "Desconhecido",
       "status": "running",
+      "created": "2026-06-28T20:08:16.088Z",
+      "completed": ""
+    },
+    {
+      "id": "2b148d74",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T20:05:46.072Z",
+      "completed": ""
+    },
+    {
+      "id": "f7e9f3af",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T20:03:16.052Z",
+      "completed": ""
+    },
+    {
+      "id": "1fb2da25",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T20:00:16.023Z",
+      "completed": ""
+    },
+    {
+      "id": "75139ecf",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T19:57:46.010Z",
+      "completed": ""
+    },
+    {
+      "id": "c2eed856",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T19:54:15.974Z",
+      "completed": ""
+    },
+    {
+      "id": "9bab9b85",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T19:51:45.962Z",
+      "completed": ""
+    },
+    {
+      "id": "aca45b59",
+      "agent": "Desconhecido",
+      "status": "succeeded",
       "created": "2026-06-28T19:47:45.936Z",
       "completed": ""
     },
@@ -1449,58 +1492,27 @@
       "status": "cancelled",
       "created": "2026-06-28T19:13:36.416Z",
       "completed": ""
-    },
-    {
-      "id": "6718e139",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-28T19:12:45.756Z",
-      "completed": ""
-    },
-    {
-      "id": "9d059d29",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-28T19:10:15.740Z",
-      "completed": ""
-    },
-    {
-      "id": "689bb27b",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-28T19:06:15.712Z",
-      "completed": ""
-    },
-    {
-      "id": "657a4806",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-28T19:02:15.682Z",
-      "completed": ""
-    },
-    {
-      "id": "5142d2e2",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-28T18:59:45.666Z",
-      "completed": ""
-    },
-    {
-      "id": "7165ca8c",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-28T18:56:45.651Z",
-      "completed": ""
-    },
-    {
-      "id": "acec5f69",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-28T18:51:45.622Z",
-      "completed": ""
     }
   ],
   "activity_feed": [
+    {
+      "type": "close",
+      "ticker": "IWM",
+      "direction": "SHORT",
+      "pnl": -7746.9,
+      "reason": "IWM em uptrend forte (RSI 73.6, price 299.83 USD). SHORT contra-trend \u00e9 perigoso. Redirecionar capital.",
+      "date": "2026-06-28T21:10",
+      "id": 44
+    },
+    {
+      "type": "close",
+      "ticker": "TLT",
+      "direction": "SHORT",
+      "pnl": -5164.6,
+      "reason": "TLT em uptrend (RSI 70.7, BB 94.6%). Yields (TNX) em downtrend. SHORT contra-trend. Redirecionar capital.",
+      "date": "2026-06-28T21:10",
+      "id": 45
+    },
     {
       "type": "close",
       "ticker": "USO",
@@ -2021,24 +2033,6 @@
       "pnl": 6.1,
       "reason": "Lock +8.8% profit \u2014 acima limite 15% cripto, regime RISK-ON desfavor\u00e1vel para SHORT, consolidar ganhos",
       "date": "2026-05-11T09:04",
-      "id": 14
-    },
-    {
-      "type": "close",
-      "ticker": "SOL",
-      "direction": "SHORT",
-      "pnl": 0.73,
-      "reason": "SOL +3.46% hoje, RSI 78.2 mas tend\u00eancia UP forte, breakeven eminente \u2014 sair antes de loss",
-      "date": "2026-05-11T09:04",
-      "id": 12
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "DOGE",
-      "direction": "SHORT",
-      "pnl": 0.75,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-11T01:16",
       "id": 14
     }
   ],
