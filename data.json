@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T19:03:50.512694+00:00",
+  "generated_at": "2026-06-28T19:07:50.686143+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1029,7 +1029,7 @@
       "size": 48.1487,
       "invested": 6087.0,
       "leverage": 2,
-      "sl": 255,
+      "sl": 253.0,
       "tp1": 268.0,
       "tp2": null,
       "budget_pct": 11.7,
@@ -1046,7 +1046,7 @@
       "size": 121.8944,
       "invested": 6087.0,
       "leverage": 2,
-      "sl": 102.87,
+      "sl": 97.0,
       "tp1": 93.88,
       "tp2": null,
       "budget_pct": 11.7,
@@ -1063,7 +1063,7 @@
       "size": 0.5678,
       "invested": 6221.5,
       "leverage": 5,
-      "sl": 53500,
+      "sl": 53800.0,
       "tp1": 49500.0,
       "tp2": 46000.0,
       "budget_pct": 13.2,
@@ -1080,7 +1080,7 @@
       "size": 3905.6139,
       "invested": 4148.0,
       "leverage": 5,
-      "sl": 5.6,
+      "sl": 5.75,
       "tp1": 4.55,
       "tp2": 4.1,
       "budget_pct": 8.0,
@@ -1097,7 +1097,7 @@
       "size": 7.0542,
       "invested": 5213.0,
       "leverage": 2,
-      "sl": 1420,
+      "sl": 1410.0,
       "tp1": 1389.24,
       "tp2": null,
       "budget_pct": 10.0,
@@ -1286,9 +1286,16 @@
   ],
   "recent_sessions": [
     {
-      "id": "657a4806",
+      "id": "689bb27b",
       "agent": "Desconhecido",
       "status": "running",
+      "created": "2026-06-28T19:06:15.712Z",
+      "completed": ""
+    },
+    {
+      "id": "657a4806",
+      "agent": "Desconhecido",
+      "status": "succeeded",
       "created": "2026-06-28T19:02:15.682Z",
       "completed": ""
     },
@@ -1416,13 +1423,6 @@
       "agent": "Desconhecido",
       "status": "succeeded",
       "created": "2026-06-28T18:11:15.371Z",
-      "completed": ""
-    },
-    {
-      "id": "740e644e",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-28T18:08:45.359Z",
       "completed": ""
     }
   ],
