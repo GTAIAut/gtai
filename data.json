@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T19:30:42.747080+00:00",
+  "generated_at": "2026-06-28T19:37:57.988772+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -8,16 +8,16 @@
   "stats": {
     "total_pnl_eur": -13357.38,
     "total_pnl_pct": -26.71,
-    "cash_eur": 11345.0,
-    "invested_eur": 40301.0,
+    "cash_eur": 12866.75,
+    "invested_eur": 38779.25,
     "portfolio_value": 51646.0,
     "open_positions": 7,
-    "total_trades": 76,
-    "win_rate": 44.7,
+    "total_trades": 77,
+    "win_rate": 44.2,
     "total_wins": 34,
-    "total_losses": 42,
+    "total_losses": 43,
     "avg_win": 2.86,
-    "avg_loss": -320.35,
+    "avg_loss": -312.9,
     "best_trade": {
       "id": 29,
       "ticker": "SOL",
@@ -456,6 +456,11 @@
     },
     {
       "date": "2026-06-28",
+      "value": 36642.62,
+      "trade": "USO SHORT"
+    },
+    {
+      "date": "2026-06-28",
       "value": 51646.0
     }
   ],
@@ -667,24 +672,29 @@
       "forecast": false
     },
     {
+      "date": "2026-06-28",
+      "value": 51646.0,
+      "forecast": false
+    },
+    {
       "date": "2026-07-28",
-      "value": 45127.87,
-      "lower": 42061.52,
-      "upper": 48194.22,
+      "value": 43951.95,
+      "lower": 40466.03,
+      "upper": 47437.88,
       "forecast": true
     },
     {
       "date": "2026-08-27",
-      "value": 43214.6,
-      "lower": 40148.25,
-      "upper": 46280.95,
+      "value": 41576.68,
+      "lower": 38090.75,
+      "upper": 45062.6,
       "forecast": true
     },
     {
       "date": "2026-09-26",
-      "value": 41301.33,
-      "lower": 38234.98,
-      "upper": 44367.68,
+      "value": 39201.4,
+      "lower": 35715.48,
+      "upper": 42687.33,
       "forecast": true
     }
   ],
@@ -1076,6 +1086,11 @@
     },
     {
       "date": "2026-06-28",
+      "drawdown_pct": 26.77,
+      "value": 36642.62
+    },
+    {
+      "date": "2026-06-28",
       "drawdown_pct": 0.0,
       "value": 51646.0
     }
@@ -1085,8 +1100,8 @@
       "ticker": "USO",
       "direction": "SHORT",
       "entry": 99.87,
-      "size": 60.9472,
-      "invested": 3043.5,
+      "size": 30.4736,
+      "invested": 1521.75,
       "leverage": 2,
       "sl": 95.0,
       "tp1": 93.88,
@@ -1105,7 +1120,7 @@
       "size": 0.5678,
       "invested": 6221.5,
       "leverage": 5,
-      "sl": 53000,
+      "sl": 55000,
       "tp1": 49500.0,
       "tp2": 46000.0,
       "budget_pct": 13.2,
@@ -1122,7 +1137,7 @@
       "size": 7.0542,
       "invested": 5213.0,
       "leverage": 2,
-      "sl": 1400,
+      "sl": 1480,
       "tp1": 1389.24,
       "tp2": null,
       "budget_pct": 10.0,
@@ -1202,6 +1217,13 @@
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "USO",
+      "direction": "SHORT",
+      "pnl": 0.0,
+      "reason": "\u2702\ufe0f Lock 50% profit - USO crashed 2.86%, SHORT +7.8% ITM (50%)",
+      "closed_at": "2026-06-28T20:37:46.292596+01:00"
+    },
     {
       "ticker": "USO",
       "direction": "SHORT",
@@ -1334,20 +1356,27 @@
       "pnl": 24.97,
       "reason": "\u2705 TP1 (50%)",
       "closed_at": "2026-06-12T01:20:52.874928"
-    },
-    {
-      "ticker": "QQQ",
-      "direction": "SHORT",
-      "pnl": -4.6,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "closed_at": "2026-05-13T17:59:57.746578"
     }
   ],
   "recent_sessions": [
     {
-      "id": "e077ae6a",
+      "id": "7b36f567",
       "agent": "Desconhecido",
       "status": "running",
+      "created": "2026-06-28T19:35:45.884Z",
+      "completed": ""
+    },
+    {
+      "id": "cac43d15",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T19:33:15.873Z",
+      "completed": ""
+    },
+    {
+      "id": "e077ae6a",
+      "agent": "Desconhecido",
+      "status": "succeeded",
       "created": "2026-06-28T19:29:15.844Z",
       "completed": ""
     },
@@ -1469,23 +1498,18 @@
       "status": "succeeded",
       "created": "2026-06-28T18:36:45.539Z",
       "completed": ""
-    },
-    {
-      "id": "22331574",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-28T18:34:15.517Z",
-      "completed": ""
-    },
-    {
-      "id": "129dfba9",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-28T18:31:45.503Z",
-      "completed": ""
     }
   ],
   "activity_feed": [
+    {
+      "type": "close",
+      "ticker": "USO",
+      "direction": "SHORT",
+      "pnl": 0.0,
+      "reason": "\u2702\ufe0f Lock 50% profit - USO crashed 2.86%, SHORT +7.8% ITM (50%)",
+      "date": "2026-06-28T20:37",
+      "id": 36
+    },
     {
       "type": "close",
       "ticker": "IWM",
@@ -2016,15 +2040,6 @@
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-11T01:16",
       "id": 14
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "AVAX",
-      "direction": "SHORT",
-      "pnl": 0.08,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-10T21:04",
-      "id": 13
     }
   ],
   "session_analysis": [
