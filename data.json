@@ -1,45 +1,52 @@
 {
-  "generated_at": "2026-06-28T11:58:26.085163+00:00",
+  "generated_at": "2026-06-28T17:09:01.605959+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": 202.66,
-    "total_pnl_pct": 0.41,
-    "cash_eur": 35440.19,
-    "invested_eur": 14104.33,
-    "portfolio_value": 50166.41,
-    "open_positions": 3,
-    "total_trades": 78,
-    "win_rate": 46.2,
-    "total_wins": 36,
-    "total_losses": 42,
-    "avg_win": 13.51,
-    "avg_loss": -55.32,
+    "total_pnl_eur": 42.56,
+    "total_pnl_pct": 0.09,
+    "cash_eur": 23889.5,
+    "invested_eur": 27756.5,
+    "portfolio_value": 51646.0,
+    "open_positions": 5,
+    "total_trades": 71,
+    "win_rate": 47.9,
+    "total_wins": 34,
+    "total_losses": 37,
+    "avg_win": 2.86,
+    "avg_loss": -1.78,
     "best_trade": {
-      "id": 36,
-      "ticker": "USO",
+      "id": 29,
+      "ticker": "SOL",
       "direction": "SHORT",
-      "close_reason": "\u2705 TP1 (50%)",
-      "pnl_eur": 194.88,
-      "closed_at": "2026-06-24T14:33:34.197352"
+      "entry_price_eur": 80.53,
+      "exit_price_eur": 57.74,
+      "size_units": 1.0972946322400166,
+      "invested_eur": 29.45,
+      "leverage": 3,
+      "pnl_eur": 25.01,
+      "pnl_pct": 84.91,
+      "close_reason": "\ud83c\udfc6 TP2",
+      "opened_at": "2026-05-12T19:24:14.079860",
+      "closed_at": "2026-06-12T01:30:55.698590"
     },
     "worst_trade": {
-      "id": 39,
-      "ticker": "BTC",
-      "direction": "SHORT",
-      "entry_price_eur": 54789,
-      "exit_price_eur": 56551,
-      "size_units": 0.38041527999999997,
-      "invested_eur": 4168.4,
-      "leverage": 5,
-      "pnl_eur": -670.29,
-      "pnl_pct": -16.08,
+      "id": 27,
+      "ticker": "META",
+      "direction": "LONG",
+      "entry_price_eur": 511.574508,
+      "exit_price_eur": 485.4168,
+      "size_units": 0.39411292227688877,
+      "invested_eur": 100.81,
+      "leverage": 2,
+      "pnl_eur": -10.31,
+      "pnl_pct": -10.23,
       "close_reason": "\ud83d\udd34 STOP LOSS",
-      "opened_at": "2026-06-19T06:11:00.036768",
-      "closed_at": "2026-06-22T13:32:06.186722"
+      "opened_at": "2026-05-12T15:55:02.687276",
+      "closed_at": "2026-06-12T14:54:20.206862"
     },
     "agent_stats": {
       "Diretor de Investimentos": {
@@ -59,241 +66,372 @@
         "total": 0
       }
     },
-    "recent_session_rate": "13/20",
+    "recent_session_rate": "0/0",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
     {
-      "date": "2026-05-06",
-      "value": 1000.72
+      "date": "2026-05-04T23:21:00",
+      "value": 50000.0
     },
     {
       "date": "2026-05-06",
-      "value": 1001.1
+      "value": 50002.1,
+      "trade": "QQQ LONG"
     },
     {
       "date": "2026-05-06",
-      "value": 1002.22
+      "value": 50003.89,
+      "trade": "QQQ LONG"
+    },
+    {
+      "date": "2026-05-06",
+      "value": 50003.48,
+      "trade": "ETH LONG"
     },
     {
       "date": "2026-05-07",
-      "value": 1002.59
+      "value": 50003.26,
+      "trade": "ETH LONG"
     },
     {
       "date": "2026-05-07",
-      "value": 1000.8
-    },
-    {
-      "date": "2026-05-07",
-      "value": 998.12
-    },
-    {
-      "date": "2026-05-07",
-      "value": 997.34
-    },
-    {
-      "date": "2026-05-07",
-      "value": 997.56
+      "value": 50002.31,
+      "trade": "ETH LONG"
     },
     {
       "date": "2026-05-08",
-      "value": 996.76
+      "value": 50000.18,
+      "trade": "BTC LONG"
     },
     {
       "date": "2026-05-08",
-      "value": 996.26
+      "value": 49997.87,
+      "trade": "META LONG"
     },
     {
       "date": "2026-05-08",
-      "value": 990.85
+      "value": 49995.15,
+      "trade": "AMD SHORT"
     },
     {
       "date": "2026-05-09",
-      "value": 985.5
+      "value": 49990.3,
+      "trade": "AMD SHORT"
     },
     {
       "date": "2026-05-09",
-      "value": 988.92
+      "value": 49988.8,
+      "trade": "QQQ SHORT"
     },
     {
       "date": "2026-05-09",
-      "value": 988.31
+      "value": 49988.85,
+      "trade": "DOGE SHORT"
+    },
+    {
+      "date": "2026-05-09",
+      "value": 49988.97,
+      "trade": "DOGE SHORT"
+    },
+    {
+      "date": "2026-05-09",
+      "value": 49988.98,
+      "trade": "META LONG"
     },
     {
       "date": "2026-05-10",
-      "value": 988.81
+      "value": 49988.88,
+      "trade": "DOGE SHORT"
     },
     {
       "date": "2026-05-10",
-      "value": 986.86
+      "value": 49988.88,
+      "trade": "SOL SHORT"
     },
     {
       "date": "2026-05-10",
-      "value": 986.6
+      "value": 49988.88,
+      "trade": "AVAX SHORT"
+    },
+    {
+      "date": "2026-05-10",
+      "value": 49988.96,
+      "trade": "AVAX SHORT"
     },
     {
       "date": "2026-05-11",
-      "value": 1000.55
+      "value": 49989.71,
+      "trade": "DOGE SHORT"
     },
     {
       "date": "2026-05-11",
-      "value": 1003.61
+      "value": 49995.22,
+      "trade": "AVAX SHORT"
     },
     {
       "date": "2026-05-11",
-      "value": 990.53
+      "value": 50001.32,
+      "trade": "DOGE SHORT"
+    },
+    {
+      "date": "2026-05-11",
+      "value": 50002.05,
+      "trade": "SOL SHORT"
+    },
+    {
+      "date": "2026-05-11",
+      "value": 50002.06,
+      "trade": "SOL SHORT"
+    },
+    {
+      "date": "2026-05-11",
+      "value": 50002.03,
+      "trade": "SOL SHORT"
+    },
+    {
+      "date": "2026-05-11",
+      "value": 50002.03,
+      "trade": "AVAX SHORT"
+    },
+    {
+      "date": "2026-05-11",
+      "value": 50002.12,
+      "trade": "AVAX SHORT"
+    },
+    {
+      "date": "2026-05-11",
+      "value": 50002.94,
+      "trade": "AVAX SHORT"
+    },
+    {
+      "date": "2026-05-11",
+      "value": 50003.1,
+      "trade": "AVAX SHORT"
+    },
+    {
+      "date": "2026-05-11",
+      "value": 50003.1,
+      "trade": "AVAX SHORT"
+    },
+    {
+      "date": "2026-05-11",
+      "value": 50001.83,
+      "trade": "QQQ SHORT"
+    },
+    {
+      "date": "2026-05-11",
+      "value": 49996.88,
+      "trade": "SOL SHORT"
+    },
+    {
+      "date": "2026-05-11",
+      "value": 49992.8,
+      "trade": "TSLA SHORT"
+    },
+    {
+      "date": "2026-05-11",
+      "value": 49992.11,
+      "trade": "AVAX SHORT"
+    },
+    {
+      "date": "2026-05-11",
+      "value": 49992.14,
+      "trade": "SOL SHORT"
+    },
+    {
+      "date": "2026-05-11",
+      "value": 49992.16,
+      "trade": "SOL SHORT"
+    },
+    {
+      "date": "2026-05-11",
+      "value": 49992.42,
+      "trade": "SPY SHORT"
     },
     {
       "date": "2026-05-12",
-      "value": 1001.1
+      "value": 49992.39,
+      "trade": "BNB SHORT"
     },
     {
       "date": "2026-05-12",
-      "value": 1001.98
+      "value": 49992.56,
+      "trade": "BNB SHORT"
+    },
+    {
+      "date": "2026-05-12",
+      "value": 49992.3,
+      "trade": "AAPL SHORT"
+    },
+    {
+      "date": "2026-05-12",
+      "value": 49992.02,
+      "trade": "GLD LONG"
+    },
+    {
+      "date": "2026-05-12",
+      "value": 49992.3,
+      "trade": "META LONG"
+    },
+    {
+      "date": "2026-05-12",
+      "value": 49992.03,
+      "trade": "AAPL SHORT"
+    },
+    {
+      "date": "2026-05-12",
+      "value": 49995.94,
+      "trade": "SOL SHORT"
+    },
+    {
+      "date": "2026-05-12",
+      "value": 49995.34,
+      "trade": "AAPL SHORT"
+    },
+    {
+      "date": "2026-05-12",
+      "value": 49997.19,
+      "trade": "BNB SHORT"
+    },
+    {
+      "date": "2026-05-12",
+      "value": 49999.7,
+      "trade": "AVAX SHORT"
+    },
+    {
+      "date": "2026-05-12",
+      "value": 49999.82,
+      "trade": "SOL SHORT"
+    },
+    {
+      "date": "2026-05-12",
+      "value": 49999.8,
+      "trade": "SOL SHORT"
+    },
+    {
+      "date": "2026-05-12",
+      "value": 49999.71,
+      "trade": "BNB SHORT"
+    },
+    {
+      "date": "2026-05-12",
+      "value": 49999.68,
+      "trade": "BNB SHORT"
     },
     {
       "date": "2026-05-13",
-      "value": 993.29
+      "value": 49998.53,
+      "trade": "BNB SHORT"
     },
     {
-      "date": "2026-06-14",
-      "value": 1039.51
+      "date": "2026-05-13",
+      "value": 49994.75,
+      "trade": "BNB SHORT"
+    },
+    {
+      "date": "2026-05-13",
+      "value": 49991.0,
+      "trade": "AAPL SHORT"
+    },
+    {
+      "date": "2026-05-13",
+      "value": 49991.0,
+      "trade": "TSLA SHORT"
+    },
+    {
+      "date": "2026-05-13",
+      "value": 49991.46,
+      "trade": "BNB SHORT"
+    },
+    {
+      "date": "2026-05-13",
+      "value": 49991.51,
+      "trade": "BNB SHORT"
+    },
+    {
+      "date": "2026-05-13",
+      "value": 49983.12,
+      "trade": "TSLA SHORT"
+    },
+    {
+      "date": "2026-05-13",
+      "value": 49978.52,
+      "trade": "QQQ SHORT"
+    },
+    {
+      "date": "2026-06-12",
+      "value": 50003.49,
+      "trade": "SOL SHORT"
+    },
+    {
+      "date": "2026-06-12",
+      "value": 50012.99,
+      "trade": "BNB SHORT"
+    },
+    {
+      "date": "2026-06-12",
+      "value": 50038.0,
+      "trade": "SOL SHORT"
+    },
+    {
+      "date": "2026-06-12",
+      "value": 50027.69,
+      "trade": "META LONG"
     },
     {
       "date": "2026-06-15",
-      "value": 1037.8
-    },
-    {
-      "date": "2026-06-15",
-      "value": 1036.31
+      "value": 50027.89,
+      "trade": "QQQ LONG"
     },
     {
       "date": "2026-06-16",
-      "value": 1039.98
+      "value": 50035.39,
+      "trade": "BNB SHORT"
     },
     {
       "date": "2026-06-16",
-      "value": 1039.54
+      "value": 50036.71,
+      "trade": "QQQ LONG"
     },
     {
       "date": "2026-06-16",
-      "value": 1040.37
+      "value": 50035.97,
+      "trade": "QQQ LONG"
     },
     {
       "date": "2026-06-16",
-      "value": 1039.49
+      "value": 50036.1,
+      "trade": "IWM LONG"
+    },
+    {
+      "date": "2026-06-16",
+      "value": 50036.41,
+      "trade": "USO SHORT"
     },
     {
       "date": "2026-06-17",
-      "value": 1038.68
+      "value": 50036.32,
+      "trade": "BTC LONG"
     },
     {
       "date": "2026-06-17",
-      "value": 1035.85
+      "value": 50036.2,
+      "trade": "BTC LONG"
     },
     {
       "date": "2026-06-17",
-      "value": 1035.89
-    },
-    {
-      "date": "2026-06-17",
-      "value": 1034.96
+      "value": 50036.65,
+      "trade": "GLD LONG"
     },
     {
       "date": "2026-06-18",
-      "value": 1036.59
+      "value": 50031.64,
+      "trade": "BTC LONG"
     },
     {
-      "date": "2026-06-18",
-      "value": 1036.98
-    },
-    {
-      "date": "2026-06-18",
-      "value": 1036.8
-    },
-    {
-      "date": "2026-06-18",
-      "value": 1036.8
-    },
-    {
-      "date": "2026-06-18",
-      "value": 1041.8
-    },
-    {
-      "date": "2026-06-19",
-      "value": 1036.95
-    },
-    {
-      "date": "2026-06-19",
-      "value": 1042.56
-    },
-    {
-      "date": "2026-06-19",
-      "value": 1036.27
-    },
-    {
-      "date": "2026-06-21",
-      "value": 50454.52
-    },
-    {
-      "date": "2026-06-22",
-      "value": 50163.75
-    },
-    {
-      "date": "2026-06-22",
-      "value": 50194.82
-    },
-    {
-      "date": "2026-06-22",
-      "value": 49766.25
-    },
-    {
-      "date": "2026-06-23",
-      "value": 50108.31
-    },
-    {
-      "date": "2026-06-23",
-      "value": 50117.5
-    },
-    {
-      "date": "2026-06-23",
-      "value": 50121.1
-    },
-    {
-      "date": "2026-06-24",
-      "value": 50121.49
-    },
-    {
-      "date": "2026-06-24",
-      "value": 50125.53
-    },
-    {
-      "date": "2026-06-24",
-      "value": 50130.22
-    },
-    {
-      "date": "2026-06-25",
-      "value": 50562.04
-    },
-    {
-      "date": "2026-06-25",
-      "value": 50563.1
-    },
-    {
-      "date": "2026-06-25",
-      "value": 50519.69
-    },
-    {
-      "date": "2026-06-26",
-      "value": 50202.66
-    },
-    {
-      "date": "2026-06-26",
-      "value": 50184.89
-    },
-    {
-      "date": "2026-06-26",
-      "value": 50166.41
+      "date": "2026-06-28",
+      "value": 51646.0
     }
   ],
   "monthly_pnl": [
@@ -303,26 +441,10 @@
     },
     {
       "month": "2026-06",
-      "pnl": -1815.67
+      "pnl": 53.12
     }
   ],
   "ticker_pnl": [
-    {
-      "ticker": "BTC",
-      "pnl": -1298.06
-    },
-    {
-      "ticker": "AVAX",
-      "pnl": -619.54
-    },
-    {
-      "ticker": "USO",
-      "pnl": 389.35
-    },
-    {
-      "ticker": "ETH",
-      "pnl": -340.68
-    },
     {
       "ticker": "SOL",
       "pnl": 49.8
@@ -340,8 +462,16 @@
       "pnl": -12.33
     },
     {
+      "ticker": "AVAX",
+      "pnl": 8.48
+    },
+    {
       "ticker": "AMD",
       "pnl": -7.57
+    },
+    {
+      "ticker": "BTC",
+      "pnl": -7.35
     },
     {
       "ticker": "DOGE",
@@ -354,6 +484,14 @@
     {
       "ticker": "QQQ",
       "pnl": -2.7
+    },
+    {
+      "ticker": "ETH",
+      "pnl": -1.58
+    },
+    {
+      "ticker": "USO",
+      "pnl": 0.31
     },
     {
       "ticker": "SPY",
@@ -370,462 +508,517 @@
   ],
   "forecast": [
     {
-      "date": "2026-05-06",
-      "value": 1000.72,
+      "date": "2026-05-04",
+      "value": 50000.0,
       "forecast": false
     },
     {
       "date": "2026-05-06",
-      "value": 1002.22,
-      "forecast": false
-    },
-    {
-      "date": "2026-05-07",
-      "value": 1000.8,
-      "forecast": false
-    },
-    {
-      "date": "2026-05-07",
-      "value": 997.34,
+      "value": 50003.48,
       "forecast": false
     },
     {
       "date": "2026-05-08",
-      "value": 996.76,
-      "forecast": false
-    },
-    {
-      "date": "2026-05-08",
-      "value": 990.85,
+      "value": 50000.18,
       "forecast": false
     },
     {
       "date": "2026-05-09",
-      "value": 988.92,
+      "value": 49990.3,
+      "forecast": false
+    },
+    {
+      "date": "2026-05-09",
+      "value": 49988.97,
       "forecast": false
     },
     {
       "date": "2026-05-10",
-      "value": 988.81,
-      "forecast": false
-    },
-    {
-      "date": "2026-05-10",
-      "value": 986.6,
+      "value": 49988.88,
       "forecast": false
     },
     {
       "date": "2026-05-11",
-      "value": 1003.61,
+      "value": 49989.71,
+      "forecast": false
+    },
+    {
+      "date": "2026-05-11",
+      "value": 50002.05,
+      "forecast": false
+    },
+    {
+      "date": "2026-05-11",
+      "value": 50002.03,
+      "forecast": false
+    },
+    {
+      "date": "2026-05-11",
+      "value": 50003.1,
+      "forecast": false
+    },
+    {
+      "date": "2026-05-11",
+      "value": 49996.88,
+      "forecast": false
+    },
+    {
+      "date": "2026-05-11",
+      "value": 49992.14,
       "forecast": false
     },
     {
       "date": "2026-05-12",
-      "value": 1001.1,
+      "value": 49992.39,
+      "forecast": false
+    },
+    {
+      "date": "2026-05-12",
+      "value": 49992.02,
+      "forecast": false
+    },
+    {
+      "date": "2026-05-12",
+      "value": 49995.94,
+      "forecast": false
+    },
+    {
+      "date": "2026-05-12",
+      "value": 49999.7,
+      "forecast": false
+    },
+    {
+      "date": "2026-05-12",
+      "value": 49999.71,
       "forecast": false
     },
     {
       "date": "2026-05-13",
-      "value": 993.29,
+      "value": 49994.75,
       "forecast": false
     },
     {
-      "date": "2026-06-15",
-      "value": 1037.8,
+      "date": "2026-05-13",
+      "value": 49991.46,
+      "forecast": false
+    },
+    {
+      "date": "2026-05-13",
+      "value": 49978.52,
+      "forecast": false
+    },
+    {
+      "date": "2026-06-12",
+      "value": 50038.0,
       "forecast": false
     },
     {
       "date": "2026-06-16",
-      "value": 1039.98,
+      "value": 50035.39,
       "forecast": false
     },
     {
       "date": "2026-06-16",
-      "value": 1040.37,
+      "value": 50036.1,
       "forecast": false
     },
     {
       "date": "2026-06-17",
-      "value": 1038.68,
+      "value": 50036.2,
       "forecast": false
     },
     {
-      "date": "2026-06-17",
-      "value": 1035.89,
-      "forecast": false
-    },
-    {
-      "date": "2026-06-18",
-      "value": 1036.59,
-      "forecast": false
-    },
-    {
-      "date": "2026-06-18",
-      "value": 1036.8,
-      "forecast": false
-    },
-    {
-      "date": "2026-06-18",
-      "value": 1041.8,
-      "forecast": false
-    },
-    {
-      "date": "2026-06-19",
-      "value": 1042.56,
-      "forecast": false
-    },
-    {
-      "date": "2026-06-21",
-      "value": 50454.52,
-      "forecast": false
-    },
-    {
-      "date": "2026-06-22",
-      "value": 50194.82,
-      "forecast": false
-    },
-    {
-      "date": "2026-06-23",
-      "value": 50108.31,
-      "forecast": false
-    },
-    {
-      "date": "2026-06-23",
-      "value": 50121.1,
-      "forecast": false
-    },
-    {
-      "date": "2026-06-24",
-      "value": 50125.53,
-      "forecast": false
-    },
-    {
-      "date": "2026-06-25",
-      "value": 50562.04,
-      "forecast": false
-    },
-    {
-      "date": "2026-06-25",
-      "value": 50519.69,
-      "forecast": false
-    },
-    {
-      "date": "2026-06-26",
-      "value": 50184.89,
+      "date": "2026-06-28",
+      "value": 51646.0,
       "forecast": false
     },
     {
       "date": "2026-07-28",
-      "value": 48061.1,
-      "lower": 21782.33,
-      "upper": 74339.88,
+      "value": 50380.12,
+      "lower": 50115.36,
+      "upper": 50644.88,
       "forecast": true
     },
     {
       "date": "2026-08-27",
-      "value": 67138.26,
-      "lower": 40859.48,
-      "upper": 93417.03,
+      "value": 50530.41,
+      "lower": 50265.65,
+      "upper": 50795.17,
       "forecast": true
     },
     {
       "date": "2026-09-26",
-      "value": 86215.41,
-      "lower": 59936.64,
-      "upper": 112494.18,
+      "value": 50680.7,
+      "lower": 50415.94,
+      "upper": 50945.46,
       "forecast": true
     }
   ],
   "drawdown": [
     {
-      "date": "2026-05-06",
+      "date": "2026-05-04T23:21:00",
       "drawdown_pct": 0.0,
-      "value": 1000.72
-    },
-    {
-      "date": "2026-05-06",
-      "drawdown_pct": 0.0,
-      "value": 1001.1
+      "value": 50000.0
     },
     {
       "date": "2026-05-06",
       "drawdown_pct": 0.0,
-      "value": 1002.22
+      "value": 50002.1
+    },
+    {
+      "date": "2026-05-06",
+      "drawdown_pct": 0.0,
+      "value": 50003.89
+    },
+    {
+      "date": "2026-05-06",
+      "drawdown_pct": 0.0,
+      "value": 50003.48
     },
     {
       "date": "2026-05-07",
       "drawdown_pct": 0.0,
-      "value": 1002.59
+      "value": 50003.26
     },
     {
       "date": "2026-05-07",
-      "drawdown_pct": 0.18,
-      "value": 1000.8
-    },
-    {
-      "date": "2026-05-07",
-      "drawdown_pct": 0.45,
-      "value": 998.12
-    },
-    {
-      "date": "2026-05-07",
-      "drawdown_pct": 0.52,
-      "value": 997.34
-    },
-    {
-      "date": "2026-05-07",
-      "drawdown_pct": 0.5,
-      "value": 997.56
+      "drawdown_pct": 0.0,
+      "value": 50002.31
     },
     {
       "date": "2026-05-08",
-      "drawdown_pct": 0.58,
-      "value": 996.76
+      "drawdown_pct": 0.01,
+      "value": 50000.18
     },
     {
       "date": "2026-05-08",
-      "drawdown_pct": 0.63,
-      "value": 996.26
+      "drawdown_pct": 0.01,
+      "value": 49997.87
     },
     {
       "date": "2026-05-08",
-      "drawdown_pct": 1.17,
-      "value": 990.85
+      "drawdown_pct": 0.02,
+      "value": 49995.15
     },
     {
       "date": "2026-05-09",
-      "drawdown_pct": 1.7,
-      "value": 985.5
+      "drawdown_pct": 0.03,
+      "value": 49990.3
     },
     {
       "date": "2026-05-09",
-      "drawdown_pct": 1.36,
-      "value": 988.92
+      "drawdown_pct": 0.03,
+      "value": 49988.8
     },
     {
       "date": "2026-05-09",
-      "drawdown_pct": 1.42,
-      "value": 988.31
+      "drawdown_pct": 0.03,
+      "value": 49988.85
+    },
+    {
+      "date": "2026-05-09",
+      "drawdown_pct": 0.03,
+      "value": 49988.97
+    },
+    {
+      "date": "2026-05-09",
+      "drawdown_pct": 0.03,
+      "value": 49988.98
     },
     {
       "date": "2026-05-10",
-      "drawdown_pct": 1.37,
-      "value": 988.81
+      "drawdown_pct": 0.03,
+      "value": 49988.88
     },
     {
       "date": "2026-05-10",
-      "drawdown_pct": 1.57,
-      "value": 986.86
+      "drawdown_pct": 0.03,
+      "value": 49988.88
     },
     {
       "date": "2026-05-10",
-      "drawdown_pct": 1.59,
-      "value": 986.6
+      "drawdown_pct": 0.03,
+      "value": 49988.88
+    },
+    {
+      "date": "2026-05-10",
+      "drawdown_pct": 0.03,
+      "value": 49988.96
     },
     {
       "date": "2026-05-11",
-      "drawdown_pct": 0.2,
-      "value": 1000.55
+      "drawdown_pct": 0.03,
+      "value": 49989.71
+    },
+    {
+      "date": "2026-05-11",
+      "drawdown_pct": 0.02,
+      "value": 49995.22
+    },
+    {
+      "date": "2026-05-11",
+      "drawdown_pct": 0.01,
+      "value": 50001.32
     },
     {
       "date": "2026-05-11",
       "drawdown_pct": 0.0,
-      "value": 1003.61
+      "value": 50002.05
     },
     {
       "date": "2026-05-11",
-      "drawdown_pct": 1.3,
-      "value": 990.53
+      "drawdown_pct": 0.0,
+      "value": 50002.06
+    },
+    {
+      "date": "2026-05-11",
+      "drawdown_pct": 0.0,
+      "value": 50002.03
+    },
+    {
+      "date": "2026-05-11",
+      "drawdown_pct": 0.0,
+      "value": 50002.03
+    },
+    {
+      "date": "2026-05-11",
+      "drawdown_pct": 0.0,
+      "value": 50002.12
+    },
+    {
+      "date": "2026-05-11",
+      "drawdown_pct": 0.0,
+      "value": 50002.94
+    },
+    {
+      "date": "2026-05-11",
+      "drawdown_pct": 0.0,
+      "value": 50003.1
+    },
+    {
+      "date": "2026-05-11",
+      "drawdown_pct": 0.0,
+      "value": 50003.1
+    },
+    {
+      "date": "2026-05-11",
+      "drawdown_pct": 0.0,
+      "value": 50001.83
+    },
+    {
+      "date": "2026-05-11",
+      "drawdown_pct": 0.01,
+      "value": 49996.88
+    },
+    {
+      "date": "2026-05-11",
+      "drawdown_pct": 0.02,
+      "value": 49992.8
+    },
+    {
+      "date": "2026-05-11",
+      "drawdown_pct": 0.02,
+      "value": 49992.11
+    },
+    {
+      "date": "2026-05-11",
+      "drawdown_pct": 0.02,
+      "value": 49992.14
+    },
+    {
+      "date": "2026-05-11",
+      "drawdown_pct": 0.02,
+      "value": 49992.16
+    },
+    {
+      "date": "2026-05-11",
+      "drawdown_pct": 0.02,
+      "value": 49992.42
     },
     {
       "date": "2026-05-12",
-      "drawdown_pct": 0.25,
-      "value": 1001.1
+      "drawdown_pct": 0.02,
+      "value": 49992.39
     },
     {
       "date": "2026-05-12",
-      "drawdown_pct": 0.16,
-      "value": 1001.98
+      "drawdown_pct": 0.02,
+      "value": 49992.56
+    },
+    {
+      "date": "2026-05-12",
+      "drawdown_pct": 0.02,
+      "value": 49992.3
+    },
+    {
+      "date": "2026-05-12",
+      "drawdown_pct": 0.02,
+      "value": 49992.02
+    },
+    {
+      "date": "2026-05-12",
+      "drawdown_pct": 0.02,
+      "value": 49992.3
+    },
+    {
+      "date": "2026-05-12",
+      "drawdown_pct": 0.02,
+      "value": 49992.03
+    },
+    {
+      "date": "2026-05-12",
+      "drawdown_pct": 0.02,
+      "value": 49995.94
+    },
+    {
+      "date": "2026-05-12",
+      "drawdown_pct": 0.02,
+      "value": 49995.34
+    },
+    {
+      "date": "2026-05-12",
+      "drawdown_pct": 0.01,
+      "value": 49997.19
+    },
+    {
+      "date": "2026-05-12",
+      "drawdown_pct": 0.01,
+      "value": 49999.7
+    },
+    {
+      "date": "2026-05-12",
+      "drawdown_pct": 0.01,
+      "value": 49999.82
+    },
+    {
+      "date": "2026-05-12",
+      "drawdown_pct": 0.01,
+      "value": 49999.8
+    },
+    {
+      "date": "2026-05-12",
+      "drawdown_pct": 0.01,
+      "value": 49999.71
+    },
+    {
+      "date": "2026-05-12",
+      "drawdown_pct": 0.01,
+      "value": 49999.68
     },
     {
       "date": "2026-05-13",
-      "drawdown_pct": 1.03,
-      "value": 993.29
+      "drawdown_pct": 0.01,
+      "value": 49998.53
     },
     {
-      "date": "2026-06-14",
-      "drawdown_pct": 0.0,
-      "value": 1039.51
+      "date": "2026-05-13",
+      "drawdown_pct": 0.02,
+      "value": 49994.75
     },
     {
-      "date": "2026-06-15",
-      "drawdown_pct": 0.16,
-      "value": 1037.8
+      "date": "2026-05-13",
+      "drawdown_pct": 0.03,
+      "value": 49991.0
     },
     {
-      "date": "2026-06-15",
-      "drawdown_pct": 0.31,
-      "value": 1036.31
+      "date": "2026-05-13",
+      "drawdown_pct": 0.03,
+      "value": 49991.0
     },
     {
-      "date": "2026-06-16",
-      "drawdown_pct": 0.0,
-      "value": 1039.98
+      "date": "2026-05-13",
+      "drawdown_pct": 0.02,
+      "value": 49991.46
     },
     {
-      "date": "2026-06-16",
+      "date": "2026-05-13",
+      "drawdown_pct": 0.02,
+      "value": 49991.51
+    },
+    {
+      "date": "2026-05-13",
       "drawdown_pct": 0.04,
-      "value": 1039.54
+      "value": 49983.12
+    },
+    {
+      "date": "2026-05-13",
+      "drawdown_pct": 0.05,
+      "value": 49978.52
+    },
+    {
+      "date": "2026-06-12",
+      "drawdown_pct": 0.0,
+      "value": 50003.49
+    },
+    {
+      "date": "2026-06-12",
+      "drawdown_pct": 0.0,
+      "value": 50012.99
+    },
+    {
+      "date": "2026-06-12",
+      "drawdown_pct": 0.0,
+      "value": 50038.0
+    },
+    {
+      "date": "2026-06-12",
+      "drawdown_pct": 0.02,
+      "value": 50027.69
+    },
+    {
+      "date": "2026-06-15",
+      "drawdown_pct": 0.02,
+      "value": 50027.89
+    },
+    {
+      "date": "2026-06-16",
+      "drawdown_pct": 0.01,
+      "value": 50035.39
     },
     {
       "date": "2026-06-16",
       "drawdown_pct": 0.0,
-      "value": 1040.37
+      "value": 50036.71
     },
     {
       "date": "2026-06-16",
-      "drawdown_pct": 0.08,
-      "value": 1039.49
+      "drawdown_pct": 0.0,
+      "value": 50035.97
+    },
+    {
+      "date": "2026-06-16",
+      "drawdown_pct": 0.0,
+      "value": 50036.1
+    },
+    {
+      "date": "2026-06-16",
+      "drawdown_pct": 0.0,
+      "value": 50036.41
     },
     {
       "date": "2026-06-17",
-      "drawdown_pct": 0.16,
-      "value": 1038.68
+      "drawdown_pct": 0.0,
+      "value": 50036.32
     },
     {
       "date": "2026-06-17",
-      "drawdown_pct": 0.43,
-      "value": 1035.85
+      "drawdown_pct": 0.0,
+      "value": 50036.2
     },
     {
       "date": "2026-06-17",
-      "drawdown_pct": 0.43,
-      "value": 1035.89
-    },
-    {
-      "date": "2026-06-17",
-      "drawdown_pct": 0.52,
-      "value": 1034.96
+      "drawdown_pct": 0.0,
+      "value": 50036.65
     },
     {
       "date": "2026-06-18",
-      "drawdown_pct": 0.36,
-      "value": 1036.59
+      "drawdown_pct": 0.01,
+      "value": 50031.64
     },
     {
-      "date": "2026-06-18",
-      "drawdown_pct": 0.33,
-      "value": 1036.98
-    },
-    {
-      "date": "2026-06-18",
-      "drawdown_pct": 0.34,
-      "value": 1036.8
-    },
-    {
-      "date": "2026-06-18",
-      "drawdown_pct": 0.34,
-      "value": 1036.8
-    },
-    {
-      "date": "2026-06-18",
+      "date": "2026-06-28",
       "drawdown_pct": 0.0,
-      "value": 1041.8
-    },
-    {
-      "date": "2026-06-19",
-      "drawdown_pct": 0.47,
-      "value": 1036.95
-    },
-    {
-      "date": "2026-06-19",
-      "drawdown_pct": 0.0,
-      "value": 1042.56
-    },
-    {
-      "date": "2026-06-19",
-      "drawdown_pct": 0.6,
-      "value": 1036.27
-    },
-    {
-      "date": "2026-06-21",
-      "drawdown_pct": 0.0,
-      "value": 50454.52
-    },
-    {
-      "date": "2026-06-22",
-      "drawdown_pct": 0.58,
-      "value": 50163.75
-    },
-    {
-      "date": "2026-06-22",
-      "drawdown_pct": 0.51,
-      "value": 50194.82
-    },
-    {
-      "date": "2026-06-22",
-      "drawdown_pct": 1.36,
-      "value": 49766.25
-    },
-    {
-      "date": "2026-06-23",
-      "drawdown_pct": 0.69,
-      "value": 50108.31
-    },
-    {
-      "date": "2026-06-23",
-      "drawdown_pct": 0.67,
-      "value": 50117.5
-    },
-    {
-      "date": "2026-06-23",
-      "drawdown_pct": 0.66,
-      "value": 50121.1
-    },
-    {
-      "date": "2026-06-24",
-      "drawdown_pct": 0.66,
-      "value": 50121.49
-    },
-    {
-      "date": "2026-06-24",
-      "drawdown_pct": 0.65,
-      "value": 50125.53
-    },
-    {
-      "date": "2026-06-24",
-      "drawdown_pct": 0.64,
-      "value": 50130.22
-    },
-    {
-      "date": "2026-06-25",
-      "drawdown_pct": 0.0,
-      "value": 50562.04
-    },
-    {
-      "date": "2026-06-25",
-      "drawdown_pct": 0.0,
-      "value": 50563.1
-    },
-    {
-      "date": "2026-06-25",
-      "drawdown_pct": 0.09,
-      "value": 50519.69
-    },
-    {
-      "date": "2026-06-26",
-      "drawdown_pct": 0.71,
-      "value": 50202.66
-    },
-    {
-      "date": "2026-06-26",
-      "drawdown_pct": 0.75,
-      "value": 50184.89
-    },
-    {
-      "date": "2026-06-26",
-      "drawdown_pct": 0.78,
-      "value": 50166.41
+      "value": 51646.0
     }
   ],
   "positions": [
@@ -833,13 +1026,13 @@
       "ticker": "IWM",
       "direction": "LONG",
       "entry": 252.83,
-      "size": 32.2596,
-      "invested": 4078.29,
+      "size": 48.1487,
+      "invested": 6087.0,
       "leverage": 2,
       "sl": 250.0,
       "tp1": 268.0,
       "tp2": null,
-      "budget_pct": 7.8,
+      "budget_pct": 11.7,
       "confidence": 7,
       "is_crypto": false,
       "at_tp1": false,
@@ -847,90 +1040,75 @@
       "opened_at": "2026-06-16T16:05:07.109217"
     },
     {
-      "ticker": "GLD",
+      "ticker": "USO",
       "direction": "SHORT",
-      "entry": 333.06,
-      "size": 30.1031,
-      "invested": 5013.02,
+      "entry": 99.87,
+      "size": 121.8944,
+      "invested": 6087.0,
       "leverage": 2,
-      "sl": 343.05,
-      "tp1": 313.07,
+      "sl": 102.87,
+      "tp1": 93.88,
       "tp2": null,
-      "budget_pct": 10.0,
+      "budget_pct": 11.7,
       "confidence": 7,
       "is_crypto": false,
       "at_tp1": false,
-      "reason": "/ 2x: gold breaking $4K, dollar strength",
-      "opened_at": "2026-06-24T14:10:34.574304"
+      "reason": "Iran deal oil bearish",
+      "opened_at": "2026-06-16T16:05:09.083168"
     },
     {
-      "ticker": "TLT",
-      "direction": "LONG",
-      "entry": 76.09,
-      "size": 131.7692,
-      "invested": 5013.02,
-      "leverage": 2,
-      "sl": 73.81,
-      "tp1": 80.65,
-      "tp2": null,
-      "budget_pct": 10.0,
-      "confidence": 7,
-      "is_crypto": false,
+      "ticker": "BTC",
+      "direction": "SHORT",
+      "entry": 54789,
+      "size": 0.5678,
+      "invested": 6221.5,
+      "leverage": 5,
+      "sl": 56500.0,
+      "tp1": 49500.0,
+      "tp2": 46000.0,
+      "budget_pct": 13.2,
+      "confidence": 8,
+      "is_crypto": true,
       "at_tp1": false,
-      "reason": "/ 2x: yields dropping, bonds bid",
-      "opened_at": "2026-06-24T14:10:38.009014"
-    }
-  ],
-  "recent_trades": [
-    {
-      "ticker": "BTC",
-      "direction": "LONG",
-      "pnl": -316.91,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "closed_at": "2026-06-25T14:53:07.108939"
-    },
-    {
-      "ticker": "USO",
-      "direction": "SHORT",
-      "pnl": 194.16,
-      "reason": "#36: RSI 12.5 oversold extremo, lucro +12.8% garantido",
-      "closed_at": "2026-06-25T10:11:59.268110"
-    },
-    {
-      "ticker": "BTC",
-      "direction": "LONG",
-      "pnl": -303.51,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "closed_at": "2026-06-24T16:54:34.697523"
-    },
-    {
-      "ticker": "USO",
-      "direction": "SHORT",
-      "pnl": 194.88,
-      "reason": "\u2705 TP1 (50%)",
-      "closed_at": "2026-06-24T14:33:34.197352"
-    },
-    {
-      "ticker": "BTC",
-      "direction": "SHORT",
-      "pnl": -670.29,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "closed_at": "2026-06-22T13:32:06.186722"
+      "reason": "Fear&Greed 14 extreme fear + BTC -14.4% abaixo MA50 + downtrend + decoupling tech Cointelegraph + sem catalisador positivo + R/R 2.65:1",
+      "opened_at": "2026-06-19T06:11:00.036768"
     },
     {
       "ticker": "AVAX",
       "direction": "SHORT",
-      "pnl": -628.02,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "closed_at": "2026-06-22T12:41:47.955687"
+      "entry": 5.31,
+      "size": 3905.6139,
+      "invested": 4148.0,
+      "leverage": 5,
+      "sl": 5.6,
+      "tp1": 4.55,
+      "tp2": 4.1,
+      "budget_pct": 8.0,
+      "confidence": 7,
+      "is_crypto": true,
+      "at_tp1": false,
+      "reason": "-9.06% 24h lideran\u00e7a bearish + momentum extremo sem sinal de bounce + Fear&Greed 14 + R/R 2.28:1",
+      "opened_at": "2026-06-19T06:11:09.392704"
     },
     {
       "ticker": "ETH",
       "direction": "SHORT",
-      "pnl": -339.1,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "closed_at": "2026-06-22T02:29:03.949332"
-    },
+      "entry": 1477.92,
+      "size": 7.0542,
+      "invested": 5213.0,
+      "leverage": 2,
+      "sl": 1522.26,
+      "tp1": 1389.24,
+      "tp2": null,
+      "budget_pct": 10.0,
+      "confidence": 7,
+      "is_crypto": true,
+      "at_tp1": false,
+      "reason": "(downtrend + Fear&Greed 14)",
+      "opened_at": "2026-06-19T10:10:19.254151"
+    }
+  ],
+  "recent_trades": [
     {
       "ticker": "BTC",
       "direction": "LONG",
@@ -1021,294 +1199,59 @@
       "pnl": 9.5,
       "reason": "\u2705 TP1 (50%)",
       "closed_at": "2026-06-12T01:20:52.874941"
-    }
-  ],
-  "recent_sessions": [
-    {
-      "id": "082f631b",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-26T13:09:28.107Z",
-      "completed": ""
     },
     {
-      "id": "4b023e43",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-26T13:07:39.756Z",
-      "completed": ""
-    },
-    {
-      "id": "cfb15833",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-26T13:07:23.956Z",
-      "completed": ""
-    },
-    {
-      "id": "16dc00eb",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-26T13:00:23.670Z",
-      "completed": ""
-    },
-    {
-      "id": "79d634e2",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-26T13:00:23.214Z",
-      "completed": ""
-    },
-    {
-      "id": "b50da221",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-26T13:00:22.682Z",
-      "completed": ""
-    },
-    {
-      "id": "7a972e05",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-26T13:00:22.430Z",
-      "completed": ""
-    },
-    {
-      "id": "588a583d",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-26T13:00:22.129Z",
-      "completed": ""
-    },
-    {
-      "id": "e193dfaf",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-26T13:00:21.526Z",
-      "completed": ""
-    },
-    {
-      "id": "ed26df17",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-26T09:10:27.005Z",
-      "completed": ""
-    },
-    {
-      "id": "c8098177",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-26T09:07:39.349Z",
-      "completed": ""
-    },
-    {
-      "id": "b1616e94",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-26T09:07:17.174Z",
-      "completed": ""
-    },
-    {
-      "id": "e2854790",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-26T09:00:16.820Z",
-      "completed": ""
-    },
-    {
-      "id": "ef78f1d9",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-26T09:00:16.740Z",
-      "completed": ""
-    },
-    {
-      "id": "2cef7ce9",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-26T09:00:16.406Z",
-      "completed": ""
-    },
-    {
-      "id": "b603e33a",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-26T09:00:16.190Z",
-      "completed": ""
-    },
-    {
-      "id": "f4b21aef",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-26T09:00:15.894Z",
-      "completed": ""
-    },
-    {
-      "id": "f121563a",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-26T09:00:15.566Z",
-      "completed": ""
-    },
-    {
-      "id": "5fbe17e8",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-26T05:10:43.833Z",
-      "completed": ""
-    },
-    {
-      "id": "33307a9a",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-26T05:07:39.038Z",
-      "completed": ""
-    }
-  ],
-  "activity_feed": [
-    {
-      "type": "session",
-      "session_type": "MEIODIA",
-      "session_num": 58,
-      "date": "26/06/2026 10:10",
-      "title": "Postmortem MEIODIA 58 conclu\u00eddo. An\u00e1lise publicada com score 6.5/10. Registos 43-46 adicionados (QQQ SHORT, SPY SHORT, USO LONG, ETH SHORT). Principai",
-      "score": "6.5"
-    },
-    {
-      "type": "session",
-      "session_type": "MANHA",
-      "session_num": 57,
-      "date": "26/06/2026 06:10",
-      "title": "Postmortem concluido. Score 6/10. Analise publicada no comentario. 4 novas posicoes registadas (QQQ SHORT 46, SPY SHORT 47, USO LONG 48, EZU LONG 49).",
-      "score": "6"
-    },
-    {
-      "type": "session",
-      "session_type": "TARDE",
-      "session_num": 56,
-      "date": "25/06/2026 14:12",
-      "title": "Postmortem conclu\u00eddo e registado no REGISTO.md. An\u00e1lise completa em coment\u00e1rio: score 6/10, cash management foi a maior falha (62.8% inicial \u2014 alarme ",
-      "score": "6"
-    },
-    {
-      "type": "session",
-      "session_type": "MEIODIA",
-      "session_num": 55,
-      "date": "25/06/2026 10:12",
-      "title": "Postmortem conclu\u00eddo. Score: 5/10. An\u00e1lise detalhada publicada no coment\u00e1rio acima. Seis li\u00e7\u00f5es identificadas: (1) leverage excessivo em regime NEUTRO",
-      "score": "5"
-    },
-    {
-      "type": "session",
-      "session_type": "MANHA",
-      "session_num": 54,
-      "date": "25/06/2026 06:10",
-      "title": "Postmortem completo. Score 6/10. An\u00e1lise detalhada publicada no coment\u00e1rio acima. 3 issues principais: (1) 5x leverage crypto em Fear Extreme, (2) 3\u00aa ",
-      "score": "6"
-    },
-    {
-      "type": "session",
-      "session_type": "TARDE",
-      "session_num": 53,
-      "date": "24/06/2026 14:10",
-      "title": "Postmortem da [Sess\u00e3o TARDE 53](/GTAA/issues/GTAA-630) conclu\u00eddo e registado. Score atribu\u00eddo: 5/10. Principais issues identificados: flip de regime s",
-      "score": ""
-    },
-    {
-      "type": "session",
-      "session_type": "MEIODIA",
-      "session_num": 52,
-      "date": "24/06/2026 10:09",
-      "title": "Postmortem concluido. Score: 7/10. Leitura macro correta, 3a sessao sem VIX hedge, 3x leverage em regime NEUTRO, risco pre-Micron nao mitigado.",
-      "score": "7"
-    },
-    {
-      "type": "session",
-      "session_type": "MANHA",
-      "session_num": 51,
-      "date": "24/06/2026 06:10",
-      "title": "Postmortem \u2014 Sess\u00e3o MANHA 51 (24/06/2026 06:10)",
-      "score": ""
-    },
-    {
-      "type": "session",
-      "session_type": "MEIODIA",
-      "session_num": 49,
-      "date": "23/06/2026 10:10",
-      "title": "Postmortem conclu\u00eddo e registado no coment\u00e1rio acima. Score: 7/10 \u2014 decis\u00f5es alinhadas com macro, mas exposi\u00e7\u00e3o curta agregada elevada (~90%) com cash",
-      "score": "7"
-    },
-    {
-      "type": "session",
-      "session_type": "MANHA",
-      "session_num": 48,
-      "date": "23/06/2026 06:11",
-      "title": "Postmortem conclu\u00eddo \u2014 Score: 6.5/10",
-      "score": "6.5"
-    },
-    {
-      "type": "sl_hit",
-      "ticker": "BTC",
-      "direction": "LONG",
-      "pnl": -316.91,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-06-25T14:53",
-      "id": 45
-    },
-    {
-      "type": "close",
-      "ticker": "USO",
+      "ticker": "SOL",
       "direction": "SHORT",
-      "pnl": 194.16,
-      "reason": "#36: RSI 12.5 oversold extremo, lucro +12.8% garantido",
-      "date": "2026-06-25T10:11",
-      "id": 36
-    },
-    {
-      "type": "sl_hit",
-      "ticker": "BTC",
-      "direction": "LONG",
-      "pnl": -303.51,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-06-24T16:54",
-      "id": 43
-    },
-    {
-      "type": "tp_hit",
-      "ticker": "USO",
-      "direction": "SHORT",
-      "pnl": 194.88,
+      "pnl": 24.97,
       "reason": "\u2705 TP1 (50%)",
-      "date": "2026-06-24T14:33",
-      "id": 36
+      "closed_at": "2026-06-12T01:20:52.874928"
     },
     {
-      "type": "sl_hit",
-      "ticker": "BTC",
+      "ticker": "QQQ",
       "direction": "SHORT",
-      "pnl": -670.29,
+      "pnl": -4.6,
       "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-06-22T13:32",
-      "id": 39
+      "closed_at": "2026-05-13T17:59:57.746578"
     },
     {
-      "type": "sl_hit",
-      "ticker": "AVAX",
+      "ticker": "TSLA",
       "direction": "SHORT",
-      "pnl": -628.02,
+      "pnl": -8.39,
       "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-06-22T12:41",
-      "id": 40
+      "closed_at": "2026-05-13T15:39:10.236056"
     },
     {
-      "type": "sl_hit",
-      "ticker": "ETH",
+      "ticker": "BNB",
       "direction": "SHORT",
-      "pnl": -339.1,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-06-22T02:29",
-      "id": 41
+      "pnl": 0.05,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "closed_at": "2026-05-13T15:08:58.605839"
     },
+    {
+      "ticker": "BNB",
+      "direction": "SHORT",
+      "pnl": 0.46,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "closed_at": "2026-05-13T14:58:54.377474"
+    },
+    {
+      "ticker": "TSLA",
+      "direction": "SHORT",
+      "pnl": -0.0,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "closed_at": "2026-05-13T14:58:54.377348"
+    },
+    {
+      "ticker": "AAPL",
+      "direction": "SHORT",
+      "pnl": -3.75,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "closed_at": "2026-05-13T14:38:46.027750"
+    }
+  ],
+  "recent_sessions": [],
+  "activity_feed": [
     {
       "type": "sl_hit",
       "ticker": "BTC",
@@ -1695,198 +1638,257 @@
       "reason": "SHORT contr\u00e1rio ao regime RISK-ON, reduzido a 67%, slot necess\u00e1rio para sinal mais forte TSLA",
       "date": "2026-05-11T16:54",
       "id": 18
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "pnl": 0.0,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-11T12:40",
+      "id": 17
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "pnl": 0.16,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-11T12:30",
+      "id": 17
+    },
+    {
+      "type": "sl_hit",
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "pnl": 0.82,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-05-11T12:00",
+      "id": 16
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "pnl": 0.09,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-11T11:40",
+      "id": 16
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "pnl": 0.0,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-11T11:29",
+      "id": 16
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "pnl": -0.03,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-11T10:08",
+      "id": 15
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "pnl": 0.01,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-11T09:58",
+      "id": 15
+    },
+    {
+      "type": "close",
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "pnl": 5.51,
+      "reason": "Lock +9.5% profit \u2014 AVAX +4.24% hoje contra SHORT, regime RISK-ON com cripto a pump, acima limite 15% cripto \u2014 tomar lucro antes de eros\u00e3o",
+      "date": "2026-05-11T09:04",
+      "id": 13
+    },
+    {
+      "type": "close",
+      "ticker": "DOGE",
+      "direction": "SHORT",
+      "pnl": 6.1,
+      "reason": "Lock +8.8% profit \u2014 acima limite 15% cripto, regime RISK-ON desfavor\u00e1vel para SHORT, consolidar ganhos",
+      "date": "2026-05-11T09:04",
+      "id": 14
+    },
+    {
+      "type": "close",
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "pnl": 0.73,
+      "reason": "SOL +3.46% hoje, RSI 78.2 mas tend\u00eancia UP forte, breakeven eminente \u2014 sair antes de loss",
+      "date": "2026-05-11T09:04",
+      "id": 12
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "DOGE",
+      "direction": "SHORT",
+      "pnl": 0.75,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-11T01:16",
+      "id": 14
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "pnl": 0.08,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-10T21:04",
+      "id": 13
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "pnl": 0.0,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-10T20:54",
+      "id": 13
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "pnl": 0.0,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-10T18:54",
+      "id": 12
+    },
+    {
+      "type": "sl_hit",
+      "ticker": "DOGE",
+      "direction": "SHORT",
+      "pnl": -0.1,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-05-10T18:34",
+      "id": 11
+    },
+    {
+      "type": "close",
+      "ticker": "META",
+      "direction": "LONG",
+      "pnl": 0.01,
+      "reason": "DOWNTREND ativo + MACD negativo (-1.6236) + RSI 45.6 \u2014 posi\u00e7\u00e3o LONG contra tend\u00eancia. Sair no breakeven antes de deteriora\u00e7\u00e3o.",
+      "date": "2026-05-09T15:32",
+      "id": 10
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "DOGE",
+      "direction": "SHORT",
+      "pnl": 0.12,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-09T09:35",
+      "id": 11
     }
   ],
   "session_analysis": [
     {
       "session_type": "MEIODIA",
-      "session_num": 58,
-      "date": "26/06/2026 10:10",
-      "summary": "Postmortem MEIODIA #58 conclu\u00eddo. An\u00e1lise publicada com score 6.5/10. Registos #43-46 adicionados (QQQ SHORT, SPY SHORT, USO LONG, ETH SHORT). Principais alertas: (1) ETH 5x leverage em Extreme Fear 13 \u00e9 excessivo, (2) correla\u00e7\u00e3o QQQ+SPY n\u00e3o agregada, (3) cash deploy inconsistente nos n\u00fameros.",
+      "session_num": 40,
+      "date": "18/06/2026 10:15",
+      "summary": "Postmortem conclu\u00eddo. Score: 4/10. Ver an\u00e1lise completa no [coment\u00e1rio acima](/GTAA/issues/GTAA-489#comment-b9807a4d).",
       "trades": [],
       "findings": []
     },
     {
       "session_type": "MANHA",
-      "session_num": 57,
-      "date": "26/06/2026 06:10",
-      "summary": "Postmortem concluido. Score 6/10. Analise publicada no comentario. 4 novas posicoes registadas (QQQ SHORT #46, SPY SHORT #47, USO LONG #48, EZU LONG #49). 3 SLs atualizados (IWM, GLD, TLT). Alerta de inconsistencia leverage (JSON diz 2x, Director diz 0x) \u2014 recomendo revisao antes da proxima sessao.",
+      "session_num": 39,
+      "date": "18/06/2026 09:31",
+      "summary": "Postmortem conclu\u00eddo. Score 6/10 \u2014 ver an\u00e1lise no coment\u00e1rio acima.",
       "trades": [],
       "findings": []
     },
     {
       "session_type": "TARDE",
-      "session_num": 56,
-      "date": "25/06/2026 14:12",
-      "summary": "Postmortem conclu\u00eddo e registado no REGISTO.md. An\u00e1lise completa em coment\u00e1rio: score 6/10, cash management foi a maior falha (62.8% inicial \u2014 alarme cr\u00edtico), GLD flip necessita de justifica\u00e7\u00e3o, recupera\u00e7\u00e3o merit\u00f3ria com 3 novas posi\u00e7\u00f5es. Recomenda\u00e7\u00f5es: trigger autom\u00e1tico de cash > 35%, documentar flips direcionais, rever sizing cripto SHORT.",
-      "trades": [],
-      "findings": []
-    },
-    {
-      "session_type": "MEIODIA",
-      "session_num": 55,
-      "date": "25/06/2026 10:12",
-      "summary": "Postmortem conclu\u00eddo. Score: 5/10. An\u00e1lise detalhada publicada no coment\u00e1rio acima. Seis li\u00e7\u00f5es identificadas: (1) leverage excessivo em regime NEUTRO, (2) BTC 5x em downtrend, (3) 4\u00aa sess\u00e3o sem VIX hedge, (4) discrep\u00e2ncia cash target vs real, (5) R/R n\u00e3o documentado, (6) overrides ao RM sem governance.",
+      "session_num": 37,
+      "date": "17/06/2026 16:13",
+      "summary": "Postmortem conclu\u00eddo. Score: 7/10. An\u00e1lise detalhada publicada no coment\u00e1rio anterior com 5 categorias avaliadas, R/R calculado, problema de concentra\u00e7\u00e3o cripto identificado, e 4 li\u00e7\u00f5es concretas para sess\u00f5es futuras.",
       "trades": [],
       "findings": [
-        "Postmortem conclu\u00eddo. Score: 5/10. An\u00e1lise detalhada publicada no coment\u00e1rio acima. Seis li\u00e7\u00f5es identificadas: (1) leverage excessivo em regime NEUTRO, (2) BTC 5x em downtrend, (3) 4\u00aa sess\u00e3o sem VIX h"
+        "Postmortem conclu\u00eddo. Score: 7/10. An\u00e1lise detalhada publicada no coment\u00e1rio anterior com 5 categorias avaliadas, R/R calculado, problema de concentra\u00e7\u00e3o cripto identificado, e 4 li\u00e7\u00f5es concretas para"
       ]
-    },
-    {
-      "session_type": "MANHA",
-      "session_num": 54,
-      "date": "25/06/2026 06:10",
-      "summary": "Postmortem completo. Score 6/10. An\u00e1lise detalhada publicada no coment\u00e1rio acima. 3 issues principais: (1) 5x leverage crypto em Fear Extreme, (2) 3\u00aa sess\u00e3o sem VIX hedge, (3) overrides repetidos ao RM sem governance documentada.",
-      "trades": [],
-      "findings": []
     },
     {
       "session_type": "TARDE",
-      "session_num": 53,
-      "date": "24/06/2026 14:10",
-      "summary": "Postmortem da [Sess\u00e3o TARDE #53](/GTAA/issues/GTAA-630) conclu\u00eddo e registado. Score atribu\u00eddo: 5/10. Principais issues identificados: flip de regime sem catalisador, R/R n\u00e3o documentado em 5 trades, 3x leverage em regime NEUTRO, 3\u00aa sess\u00e3o sem VIX hedge. 5 li\u00e7\u00f5es documentadas no coment\u00e1rio acima.",
+      "session_num": 36,
+      "date": "17/06/2026 14:11",
+      "summary": "## POSTMORTEM \u2014 Sess\u00e3o TARDE #36 \u2014 Score: **6.0/10**\n\n### 1. Contexto Macro\n- USO SHORT CLOSE \u2705 Lucro garantido +\u20ac0.92 antes de Trump speak.\n- IWM LONG MANTER \u2705 Consolida\u00e7\u00e3o sem breakdown, VIX 16.\n- BTC LONG MANTER \u26a0\ufe0f Tese v\u00e1lida (F&G 22), mas SL ~1.8% \u00e9 noise trap em downtrend.\n- META SHORT 20% \u2705 RSI 82.3 OB \u2014 melhor SHORT do board.\n- TLT SHORT 20% \u2705 Yields 4.44%, CPI 3.0% ancora \u2014 mas TLT +0.11% hoje, timing prematuro.\n- GLD LONG 25% \u26a0\ufe0f Contradit\u00f3rio: fechado por R/R <2:1 na #35, reaberto maior posi\u00e7\u00e3o em #36.\n\n### 2. Limites de Risco\n- R/R \u2265 2:1 \u2705 Todos no limite (nada acima)\n- Max posi\u00e7\u00f5es \u2705 5 (limite)\n- Postmortem #35 \u26a0\ufe0f Violado (3 aberturas com P&L negativo). Exce\u00e7\u00e3o documentada mas cria precedente.\n- **Timing cr\u00edtico**: 3 posi\u00e7\u00f5es abertas 30 min antes do FOMC. Analista Macro recomen",
       "trades": [],
       "findings": [
-        "Postmortem da [Sess\u00e3o TARDE #53](/GTAA/issues/GTAA-630) conclu\u00eddo e registado. Score atribu\u00eddo: 5/10. Principais issues identificados: flip de regime sem catalisador, R/R n\u00e3o documentado em 5 trades, "
+        "- GLD LONG 25% \u26a0\ufe0f Contradit\u00f3rio: fechado por R/R <2:1 na #35, reaberto maior posi\u00e7\u00e3o em #36.",
+        "- R/R \u2265 2:1 \u2705 Todos no limite (nada acima)"
       ]
     },
     {
       "session_type": "MEIODIA",
-      "session_num": 52,
-      "date": "24/06/2026 10:09",
-      "summary": "Postmortem concluido. Score: 7/10. Leitura macro correta, 3a sessao sem VIX hedge, 3x leverage em regime NEUTRO, risco pre-Micron nao mitigado.",
+      "session_num": 35,
+      "date": "17/06/2026 10:13",
+      "summary": "Postmortem conclu\u00eddo. Score 6.5/10 \u2014 sess\u00e3o tecnicamente correta mas com urgency bias detetado (2 aberturas ap\u00f3s P&L -0.2%, re-entrada IWM contradit\u00f3ria ao trim em #34). 3 recomenda\u00e7\u00f5es: limitar 1 abertura/sess\u00e3o quando P&L negativo, R/R m\u00ednimo 2.2:1, proibir re-entrada 24h ap\u00f3s trim for\u00e7ado. Ver coment\u00e1rio para an\u00e1lise detalhada.",
+      "trades": [],
+      "findings": [
+        "Postmortem conclu\u00eddo. Score 6.5/10 \u2014 sess\u00e3o tecnicamente correta mas com urgency bias detetado (2 aberturas ap\u00f3s P&L -0.2%, re-entrada IWM contradit\u00f3ria ao trim em #34). 3 recomenda\u00e7\u00f5es: limitar 1 abe"
+      ]
+    },
+    {
+      "session_type": "TARDE",
+      "session_num": 33,
+      "date": "16/06/2026 15:26",
+      "summary": "Postmortem conclu\u00eddo. Score: 6/10. Principais achados: aloca\u00e7\u00e3o excessiva (75% cash numa sess\u00e3o), falta de stops documentados nos novos trades, e discrep\u00e2ncia nos dados do portfolio. Breakeven no QQQ foi o ponto alto da sess\u00e3o.",
+      "trades": [],
+      "findings": []
+    },
+    {
+      "session_type": "MEIODIA",
+      "session_num": 31,
+      "date": "16/06/2026 10:07",
+      "summary": "Postmortem conclu\u00eddo e registado como coment\u00e1rio. Score 5/10 \u2014 sess\u00e3o com m\u00e9ritos (BNB close, cash deploy, compliance QQQ) mas viola\u00e7\u00e3o grave de R/R m\u00ednimo em 3 trades cripto e contradi\u00e7\u00e3o regime-a\u00e7\u00e3o. 5 li\u00e7\u00f5es documentadas.",
+      "trades": [],
+      "findings": [
+        "Postmortem conclu\u00eddo e registado como coment\u00e1rio. Score 5/10 \u2014 sess\u00e3o com m\u00e9ritos (BNB close, cash deploy, compliance QQQ) mas viola\u00e7\u00e3o grave de R/R m\u00ednimo em 3 trades cripto e contradi\u00e7\u00e3o regime-a\u00e7\u00e3o"
+      ]
+    },
+    {
+      "session_type": "MANHA",
+      "session_num": 30,
+      "date": "16/06/2026 09:33",
+      "summary": "Postmortem conclu\u00eddo. Score 5/10 \u2014 sess\u00e3o com fundamento macro v\u00e1lido (Extreme Fear bounce) mas execu\u00e7\u00e3o agressiva: 3 LONGs crypto correlacionados a 3x, cash 80%\u219217% sem hedge, R/R lim\u00edtrofes em regime divergente. 5 li\u00e7\u00f5es concretas documentadas para pr\u00f3ximas sess\u00f5es.",
+      "trades": [],
+      "findings": [
+        "Postmortem conclu\u00eddo. Score 5/10 \u2014 sess\u00e3o com fundamento macro v\u00e1lido (Extreme Fear bounce) mas execu\u00e7\u00e3o agressiva: 3 LONGs crypto correlacionados a 3x, cash 80%\u219217% sem hedge, R/R lim\u00edtrofes em regim"
+      ]
+    },
+    {
+      "session_type": "MANHA",
+      "session_num": 29,
+      "date": "15/06/2026 15:25",
+      "summary": "Postmortem conclu\u00eddo e registado como coment\u00e1rio. Score 7/10 \u2014 sess\u00e3o competente com ressalvas na gest\u00e3o de risco crypto. An\u00e1lise completa com recomenda\u00e7\u00f5es para pr\u00f3ximas sess\u00f5es.",
       "trades": [],
       "findings": []
     },
     {
       "session_type": "MANHA",
-      "session_num": 51,
-      "date": "24/06/2026 06:10",
-      "summary": "## Postmortem \u2014 Sess\u00e3o MANHA #51 (24/06/2026 06:10)\n\n### 1. Contexto Macro\nLeitura correta. CPI 0.7% quente + VIX +12.8% + DXY m\u00e1ximos = bearish para risk assets. A domin\u00e2ncia SHORT (6 de 7 novas posi\u00e7\u00f5es) \u00e9 justificada. O contrapeso TLT LONG (growth fear > inflation fear) \u00e9 uma leitura sofisticada e correta.\n\n### 2. Limites de Risco\n- \u2705 **R/R m\u00ednimo 1.56:1** \u2014 acima do threshold 1.5:1. Conforme.\n- \u2705 **Diversifica\u00e7\u00e3o:** 3 equity indices, 3 crypto, 1 bonds + IWM + USO = 9 posi\u00e7\u00f5es em 4 classes de ativo. Bom.\n- \u2705 **Tamanho por posi\u00e7\u00e3o:** QQQ 18%, SPY 12%, EZU 10%, crypto ~8%, TLT 8% \u2014 sem concentra\u00e7\u00e3o excessiva. Melhor que sess\u00e3o #50 (QQQ 25% 4x).\n- \u26a0\ufe0f **Exposi\u00e7\u00e3o notional ~240%** \u2014 muito elevado para regime NEUTRO. Em correla\u00e7\u00e3o 0.7+ entre QQQ/SPY/EZU, o drawdown pode ser violento.\n- \u26a0\ufe0f **7",
+      "session_num": 27,
+      "date": "13/05/2026 09:02",
+      "summary": "## \ud83d\udccb POSTMORTEM \u2014 Sess\u00e3o MANHA #27 \u2014 13/05/2026\n**Registador de Decis\u00f5es | An\u00e1lise Cr\u00edtica**\n\n---\n\n### 1. OS TRADES FAZIAM SENTIDO DADO O CONTEXTO MACRO?\n\n**\u2705 SIM \u2014 decis\u00f5es maioritariamente alinhadas com o regime.**\n\n- **CLOSE QQQ SHORT** \u2014 correto e urgente. Manter um SHORT em \u00edndice com regime RISK-ON + UPTREND confirmado \u00e9 uma das maiores viola\u00e7\u00f5es de disciplina poss\u00edveis. Fechar era obrigat\u00f3rio. Avalia\u00e7\u00e3o: **excelente**.\n- **CLOSE_PARTIAL AAPL/SOL/BNB** \u2014 correto por imposi\u00e7\u00e3o de regras de gest\u00e3o de risco (limites de concentra\u00e7\u00e3o). N\u00e3o foi uma decis\u00e3o discricion\u00e1ria; foi cumprimento de regras pr\u00e9-definidas. Avalia\u00e7\u00e3o: **correto (tardio \u2014 porque se chegou a 30.4%?)**.\n- **OPEN NVDA LONG** \u2014 logicamente consistente: RSI 64.2, UPTREND, setor AI em momentum, regime RISK-ON. R/R 2.24:1 est",
       "trades": [],
       "findings": [
-        "- \u2705 **R/R m\u00ednimo 1.56:1** \u2014 acima do threshold 1.5:1. Conforme."
-      ]
-    },
-    {
-      "session_type": "MEIODIA",
-      "session_num": 49,
-      "date": "23/06/2026 10:10",
-      "summary": "Postmortem conclu\u00eddo e registado no coment\u00e1rio acima. Score: 7/10 \u2014 decis\u00f5es alinhadas com macro, mas exposi\u00e7\u00e3o curta agregada elevada (~90%) com cash reduzido (~33%) \u00e9 o principal ponto de aten\u00e7\u00e3o para futuras sess\u00f5es.",
-      "trades": [],
-      "findings": []
-    },
-    {
-      "session_type": "MANHA",
-      "session_num": 48,
-      "date": "23/06/2026 06:11",
-      "summary": "## Postmortem conclu\u00eddo \u2014 Score: 6.5/10\n\nAn\u00e1lise cr\u00edtica publicada na \u00edntegra em coment\u00e1rio acima.\n\n**Resumo:**\n- \u2705 Sess\u00e3o correta na inten\u00e7\u00e3o (reduzir cash excessivo de 75% para ~27%)\n- \u2705 Boa diversifica\u00e7\u00e3o 3L/3S, US + Europa\n- \u26a0\ufe0f Aus\u00eancia de SL/TP no registo dos 4 novos trades \u2014 impede verifica\u00e7\u00e3o R/R\n- \u26a0\ufe0f Exposi\u00e7\u00e3o alavancada total ~108% \u2014 elevada para carteira de \u20ac50k\n- \u26a0\ufe0f Dados de portfolio inconsistentes no registo (cash \u20ac40,510 \u2260 27%)\n\n**Novas posi\u00e7\u00f5es registadas:**\n- #42 TLT SHORT | #43 SPY LONG | #44 EZU LONG | #45 NVDA SHORT\n\n**Atualiza\u00e7\u00f5es:**\n- #35 IWM: SL \u2192 \u20ac256 | P&L: +6.5%\n- #36 USO: CLOSE_PARTIAL 50% | RSI 24.7 oversold\n\n**5 li\u00e7\u00f5es para pr\u00f3ximas sess\u00f5es:** (1) SL/TP obrigat\u00f3rios (2) Staggering de entradas (3) Rasto de P&L entre sess\u00f5es (4) Limite exposi\u00e7\u00e3o alavancada (5) Sin",
-      "trades": [],
-      "findings": [
-        "- \u26a0\ufe0f Aus\u00eancia de SL/TP no registo dos 4 novos trades \u2014 impede verifica\u00e7\u00e3o R/R"
+        "- **CLOSE QQQ SHORT** \u2014 correto e urgente. Manter um SHORT em \u00edndice com regime RISK-ON + UPTREND confirmado \u00e9 uma das maiores viola\u00e7\u00f5es de disciplina poss\u00edveis. Fechar era obrigat\u00f3rio. Avalia\u00e7\u00e3o: **e",
+        "- **CLOSE_PARTIAL AAPL/SOL/BNB** \u2014 correto por imposi\u00e7\u00e3o de regras de gest\u00e3o de risco (limites de concentra\u00e7\u00e3o). N\u00e3o foi uma decis\u00e3o discricion\u00e1ria; foi cumprimento de regras pr\u00e9-definidas. Avalia\u00e7\u00e3o:",
+        "- **OPEN NVDA LONG** \u2014 logicamente consistente: RSI 64.2, UPTREND, setor AI em momentum, regime RISK-ON. R/R 2.24:1 est"
       ]
     }
   ],
-  "news_alerts": [
-    {
-      "time": "26/06 08:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Ebola Puts Spotlight on Trump's America First Health Strategy",
-      "title": "Ebola Puts Spotlight on Trump's America First Health Strategy"
-    },
-    {
-      "time": "26/06 08:45",
-      "source": "**Politico**: Finland's President Stubb on Trump, Putin and the future of NATO",
-      "title": "Finland's President Stubb on Trump, Putin and the future of NATO"
-    },
-    {
-      "time": "26/06 09:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Brutal Week of Swings Leaves Korea\u2019s AI Stock Rally in Turmoil",
-      "title": "Brutal Week of Swings Leaves Korea\u2019s AI Stock Rally in Turmoil"
-    },
-    {
-      "time": "26/06 10:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Wall Street Embraces Dollar as Warsh\u2019s Fed Activates Bulls",
-      "title": "Wall Street Embraces Dollar as Warsh\u2019s Fed Activates Bulls"
-    },
-    {
-      "time": "26/06 11:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Climbs Above $4,000 After Inflation Print Slows Decline",
-      "title": "Gold Climbs Above $4,000 After Inflation Print Slows Decline"
-    },
-    {
-      "time": "26/06 12:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Leverage Surge Amplifying Downside Market Moves, NewEdge CIO Dawson Says",
-      "title": "Leverage Surge Amplifying Downside Market Moves, NewEdge CIO Dawson Says"
-    },
-    {
-      "time": "26/06 12:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Should Capitalize On This Trend",
-      "title": "China Should Capitalize On This Trend"
-    },
-    {
-      "time": "26/06 13:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Boeing Wins Jet Deal From China Southern Valued at $3.62 Billion",
-      "title": "Boeing Wins Jet Deal From China Southern Valued at $3.62 Billion"
-    },
-    {
-      "time": "26/06 13:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Lebanon\u2019s 400% Bond Rally Fades as War Wrecks Debt Recovery Math",
-      "title": "Lebanon\u2019s 400% Bond Rally Fades as War Wrecks Debt Recovery Math"
-    },
-    {
-      "time": "26/06 13:15",
-      "source": "**Politico**: What Wes Moore said about Trump, America 250 and how Democrats can harness insurgent energy",
-      "title": "What Wes Moore said about Trump, America 250 and how Democrats can harness insurgent energy"
-    },
-    {
-      "time": "26/06 15:45",
-      "source": "\ud83d\udcf0 **BBC News**: Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
-      "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents"
-    },
-    {
-      "time": "26/06 16:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Three Gorges Is Said In Talks to Buy German Wind Assets",
-      "title": "China Three Gorges Is Said In Talks to Buy German Wind Assets"
-    },
-    {
-      "time": "26/06 16:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Euro Zone Probably Saw First Inflation Slowdown Since Iran War Began",
-      "title": "Euro Zone Probably Saw First Inflation Slowdown Since Iran War Began"
-    },
-    {
-      "time": "26/06 16:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: US Oil Plunges Below $70 as Ships Keep Crossing Strait of Hormuz",
-      "title": "US Oil Plunges Below $70 as Ships Keep Crossing Strait of Hormuz"
-    },
-    {
-      "time": "26/06 17:00",
-      "source": "**Cointelegraph**: Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter \u2018deep bear market\u2019",
-      "title": "Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter \u2018deep bear market\u2019"
-    },
-    {
-      "time": "26/06 17:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Boeing Wins Jet Deal From China Southern Valued at $3.62B",
-      "title": "Boeing Wins Jet Deal From China Southern Valued at $3.62B"
-    },
-    {
-      "time": "26/06 17:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Oil Tanker Earnings Plunge by $200,000 as More Return to Hormuz",
-      "title": "Oil Tanker Earnings Plunge by $200,000 as More Return to Hormuz"
-    },
-    {
-      "time": "26/06 18:15",
-      "source": "**Cointelegraph**: Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position",
-      "title": "Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position"
-    },
-    {
-      "time": "26/06 18:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Claims Iran Violated Ceasefire With Hormuz Drone Attack",
-      "title": "Trump Claims Iran Violated Ceasefire With Hormuz Drone Attack"
-    },
-    {
-      "time": "26/06 18:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Ousts Six Military Lawmakers as Xi\u2019s Purge Continues",
-      "title": "China Ousts Six Military Lawmakers as Xi\u2019s Purge Continues"
-    }
-  ]
+  "news_alerts": []
 }
