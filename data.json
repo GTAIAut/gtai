@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-28T17:09:01.605959+00:00",
+  "generated_at": "2026-06-28T18:54:17.509271+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": 42.56,
-    "total_pnl_pct": 0.09,
-    "cash_eur": 23889.5,
-    "invested_eur": 27756.5,
+    "total_pnl_eur": 31.64,
+    "total_pnl_pct": 0.06,
+    "cash_eur": 9945.08,
+    "invested_eur": 41700.92,
     "portfolio_value": 51646.0,
-    "open_positions": 5,
+    "open_positions": 7,
     "total_trades": 71,
     "win_rate": 47.9,
     "total_wins": 34,
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "0/0",
+    "recent_session_rate": "19/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -1029,7 +1029,7 @@
       "size": 48.1487,
       "invested": 6087.0,
       "leverage": 2,
-      "sl": 250.0,
+      "sl": 255,
       "tp1": 268.0,
       "tp2": null,
       "budget_pct": 11.7,
@@ -1063,7 +1063,7 @@
       "size": 0.5678,
       "invested": 6221.5,
       "leverage": 5,
-      "sl": 56500.0,
+      "sl": 54789,
       "tp1": 49500.0,
       "tp2": 46000.0,
       "budget_pct": 13.2,
@@ -1097,7 +1097,7 @@
       "size": 7.0542,
       "invested": 5213.0,
       "leverage": 2,
-      "sl": 1522.26,
+      "sl": 1477.92,
       "tp1": 1389.24,
       "tp2": null,
       "budget_pct": 10.0,
@@ -1106,6 +1106,40 @@
       "at_tp1": false,
       "reason": "(downtrend + Fear&Greed 14)",
       "opened_at": "2026-06-19T10:10:19.254151"
+    },
+    {
+      "ticker": "GLD",
+      "direction": "LONG",
+      "entry": 328.03,
+      "size": 47.2329,
+      "invested": 7746.9,
+      "leverage": 2,
+      "sl": 320,
+      "tp1": 340,
+      "tp2": 348,
+      "budget_pct": 15,
+      "confidence": 8,
+      "is_crypto": false,
+      "at_tp1": false,
+      "reason": "Geopolitical tailwind Ir\u00e3o/USA + helicopter crash Saudi refinery, gold +1.41% hoje",
+      "opened_at": "2026-06-28T19:54:05.323791+01:00"
+    },
+    {
+      "ticker": "XRP",
+      "direction": "SHORT",
+      "entry": 0.92,
+      "size": 33829.2576,
+      "invested": 6197.52,
+      "leverage": 5,
+      "sl": 0.95,
+      "tp1": 0.85,
+      "tp2": null,
+      "budget_pct": 12,
+      "confidence": 7,
+      "is_crypto": true,
+      "at_tp1": false,
+      "reason": "BTC dominance 55.7% a sugar alts, XRP -1.32% hoje, momentum bearish",
+      "opened_at": "2026-06-28T19:54:05.323814+01:00"
     }
   ],
   "recent_trades": [
@@ -1250,7 +1284,148 @@
       "closed_at": "2026-05-13T14:38:46.027750"
     }
   ],
-  "recent_sessions": [],
+  "recent_sessions": [
+    {
+      "id": "acec5f69",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-28T18:51:45.622Z",
+      "completed": ""
+    },
+    {
+      "id": "4b6942a9",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T18:49:15.610Z",
+      "completed": ""
+    },
+    {
+      "id": "67896891",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T18:46:45.598Z",
+      "completed": ""
+    },
+    {
+      "id": "a21f9a05",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T18:41:45.565Z",
+      "completed": ""
+    },
+    {
+      "id": "5a1d9646",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T18:39:15.550Z",
+      "completed": ""
+    },
+    {
+      "id": "8be863c6",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T18:36:45.539Z",
+      "completed": ""
+    },
+    {
+      "id": "22331574",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T18:34:15.517Z",
+      "completed": ""
+    },
+    {
+      "id": "129dfba9",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T18:31:45.503Z",
+      "completed": ""
+    },
+    {
+      "id": "27c6b6e6",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T18:29:15.490Z",
+      "completed": ""
+    },
+    {
+      "id": "e2febe04",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T18:26:45.468Z",
+      "completed": ""
+    },
+    {
+      "id": "d52298ef",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T18:23:45.455Z",
+      "completed": ""
+    },
+    {
+      "id": "398e48b1",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T18:21:15.447Z",
+      "completed": ""
+    },
+    {
+      "id": "2c9b20e9",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T18:18:45.428Z",
+      "completed": ""
+    },
+    {
+      "id": "7285d31d",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T18:16:15.408Z",
+      "completed": ""
+    },
+    {
+      "id": "5e94e538",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T18:13:45.389Z",
+      "completed": ""
+    },
+    {
+      "id": "316e539d",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T18:11:15.371Z",
+      "completed": ""
+    },
+    {
+      "id": "740e644e",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T18:08:45.359Z",
+      "completed": ""
+    },
+    {
+      "id": "9af49d49",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T18:06:15.335Z",
+      "completed": ""
+    },
+    {
+      "id": "023418b1",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T18:03:45.325Z",
+      "completed": ""
+    },
+    {
+      "id": "5af4583d",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T17:58:45.286Z",
+      "completed": ""
+    }
+  ],
   "activity_feed": [
     {
       "type": "sl_hit",
