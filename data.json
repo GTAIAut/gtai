@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T18:54:17.509271+00:00",
+  "generated_at": "2026-06-28T19:03:50.512694+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1063,7 +1063,7 @@
       "size": 0.5678,
       "invested": 6221.5,
       "leverage": 5,
-      "sl": 54789,
+      "sl": 53500,
       "tp1": 49500.0,
       "tp2": 46000.0,
       "budget_pct": 13.2,
@@ -1097,7 +1097,7 @@
       "size": 7.0542,
       "invested": 5213.0,
       "leverage": 2,
-      "sl": 1477.92,
+      "sl": 1420,
       "tp1": 1389.24,
       "tp2": null,
       "budget_pct": 10.0,
@@ -1286,9 +1286,30 @@
   ],
   "recent_sessions": [
     {
-      "id": "acec5f69",
+      "id": "657a4806",
       "agent": "Desconhecido",
       "status": "running",
+      "created": "2026-06-28T19:02:15.682Z",
+      "completed": ""
+    },
+    {
+      "id": "5142d2e2",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T18:59:45.666Z",
+      "completed": ""
+    },
+    {
+      "id": "7165ca8c",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T18:56:45.651Z",
+      "completed": ""
+    },
+    {
+      "id": "acec5f69",
+      "agent": "Desconhecido",
+      "status": "succeeded",
       "created": "2026-06-28T18:51:45.622Z",
       "completed": ""
     },
@@ -1402,27 +1423,6 @@
       "agent": "Desconhecido",
       "status": "succeeded",
       "created": "2026-06-28T18:08:45.359Z",
-      "completed": ""
-    },
-    {
-      "id": "9af49d49",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-28T18:06:15.335Z",
-      "completed": ""
-    },
-    {
-      "id": "023418b1",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-28T18:03:45.325Z",
-      "completed": ""
-    },
-    {
-      "id": "5af4583d",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-28T17:58:45.286Z",
       "completed": ""
     }
   ],
