@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-06-28T19:07:50.686143+00:00",
+  "generated_at": "2026-06-28T19:16:49.466526+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": 31.64,
-    "total_pnl_pct": 0.06,
-    "cash_eur": 9945.08,
-    "invested_eur": 41700.92,
+    "total_pnl_eur": -4116.36,
+    "total_pnl_pct": -8.23,
+    "cash_eur": 17136.58,
+    "invested_eur": 34509.42,
     "portfolio_value": 51646.0,
-    "open_positions": 7,
-    "total_trades": 71,
-    "win_rate": 47.9,
+    "open_positions": 6,
+    "total_trades": 73,
+    "win_rate": 46.6,
     "total_wins": 34,
-    "total_losses": 37,
+    "total_losses": 39,
     "avg_win": 2.86,
-    "avg_loss": -1.78,
+    "avg_loss": -108.04,
     "best_trade": {
       "id": 29,
       "ticker": "SOL",
@@ -34,19 +34,19 @@
       "closed_at": "2026-06-12T01:30:55.698590"
     },
     "worst_trade": {
-      "id": 27,
-      "ticker": "META",
-      "direction": "LONG",
-      "entry_price_eur": 511.574508,
-      "exit_price_eur": 485.4168,
-      "size_units": 0.39411292227688877,
-      "invested_eur": 100.81,
-      "leverage": 2,
-      "pnl_eur": -10.31,
-      "pnl_pct": -10.23,
-      "close_reason": "\ud83d\udd34 STOP LOSS",
-      "opened_at": "2026-05-12T15:55:02.687276",
-      "closed_at": "2026-06-12T14:54:20.206862"
+      "id": 40,
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "entry_price_eur": 5.31,
+      "exit_price_eur": 5.31,
+      "size_units": 3905.6139385,
+      "invested_eur": 4148.0,
+      "leverage": 5,
+      "pnl_eur": -4148.0,
+      "pnl_pct": -100.0,
+      "close_reason": "Underwater, momentum contra. Manter short bias crypto via BTC+ETH+XRP.",
+      "opened_at": "2026-06-19T06:11:09.392704",
+      "closed_at": "2026-06-28T20:16:39.257523+01:00"
     },
     "agent_stats": {
       "Diretor de Investimentos": {
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "19/20",
+    "recent_session_rate": "18/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -431,6 +431,16 @@
     },
     {
       "date": "2026-06-28",
+      "value": 45883.64,
+      "trade": "AVAX SHORT"
+    },
+    {
+      "date": "2026-06-28",
+      "value": 45883.64,
+      "trade": "IWM LONG"
+    },
+    {
+      "date": "2026-06-28",
       "value": 51646.0
     }
   ],
@@ -441,10 +451,14 @@
     },
     {
       "month": "2026-06",
-      "pnl": 53.12
+      "pnl": -4094.88
     }
   ],
   "ticker_pnl": [
+    {
+      "ticker": "AVAX",
+      "pnl": -4139.52
+    },
     {
       "ticker": "SOL",
       "pnl": 49.8
@@ -460,10 +474,6 @@
     {
       "ticker": "META",
       "pnl": -12.33
-    },
-    {
-      "ticker": "AVAX",
-      "pnl": 8.48
     },
     {
       "ticker": "AMD",
@@ -629,28 +639,28 @@
     },
     {
       "date": "2026-06-28",
-      "value": 51646.0,
+      "value": 45883.64,
       "forecast": false
     },
     {
       "date": "2026-07-28",
-      "value": 50380.12,
-      "lower": 50115.36,
-      "upper": 50644.88,
+      "value": 49025.0,
+      "lower": 48031.49,
+      "upper": 50018.5,
       "forecast": true
     },
     {
       "date": "2026-08-27",
-      "value": 50530.41,
-      "lower": 50265.65,
-      "upper": 50795.17,
+      "value": 48642.87,
+      "lower": 47649.37,
+      "upper": 49636.38,
       "forecast": true
     },
     {
       "date": "2026-09-26",
-      "value": 50680.7,
-      "lower": 50415.94,
-      "upper": 50945.46,
+      "value": 48260.75,
+      "lower": 47267.24,
+      "upper": 49254.25,
       "forecast": true
     }
   ],
@@ -1017,6 +1027,16 @@
     },
     {
       "date": "2026-06-28",
+      "drawdown_pct": 8.3,
+      "value": 45883.64
+    },
+    {
+      "date": "2026-06-28",
+      "drawdown_pct": 8.3,
+      "value": 45883.64
+    },
+    {
+      "date": "2026-06-28",
       "drawdown_pct": 0.0,
       "value": 51646.0
     }
@@ -1026,10 +1046,10 @@
       "ticker": "IWM",
       "direction": "LONG",
       "entry": 252.83,
-      "size": 48.1487,
-      "invested": 6087.0,
+      "size": 24.0744,
+      "invested": 3043.5,
       "leverage": 2,
-      "sl": 253.0,
+      "sl": 257.0,
       "tp1": 268.0,
       "tp2": null,
       "budget_pct": 11.7,
@@ -1046,7 +1066,7 @@
       "size": 121.8944,
       "invested": 6087.0,
       "leverage": 2,
-      "sl": 97.0,
+      "sl": 96.5,
       "tp1": 93.88,
       "tp2": null,
       "budget_pct": 11.7,
@@ -1063,7 +1083,7 @@
       "size": 0.5678,
       "invested": 6221.5,
       "leverage": 5,
-      "sl": 53800.0,
+      "sl": 53200,
       "tp1": 49500.0,
       "tp2": 46000.0,
       "budget_pct": 13.2,
@@ -1072,23 +1092,6 @@
       "at_tp1": false,
       "reason": "Fear&Greed 14 extreme fear + BTC -14.4% abaixo MA50 + downtrend + decoupling tech Cointelegraph + sem catalisador positivo + R/R 2.65:1",
       "opened_at": "2026-06-19T06:11:00.036768"
-    },
-    {
-      "ticker": "AVAX",
-      "direction": "SHORT",
-      "entry": 5.31,
-      "size": 3905.6139,
-      "invested": 4148.0,
-      "leverage": 5,
-      "sl": 5.75,
-      "tp1": 4.55,
-      "tp2": 4.1,
-      "budget_pct": 8.0,
-      "confidence": 7,
-      "is_crypto": true,
-      "at_tp1": false,
-      "reason": "-9.06% 24h lideran\u00e7a bearish + momentum extremo sem sinal de bounce + Fear&Greed 14 + R/R 2.28:1",
-      "opened_at": "2026-06-19T06:11:09.392704"
     },
     {
       "ticker": "ETH",
@@ -1143,6 +1146,20 @@
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "IWM",
+      "direction": "LONG",
+      "pnl": 0.0,
+      "reason": "\u2702\ufe0f RSI 73.6 overbought, BB 89% \u2014 reduzir exposicao num LONG contraditorio com SPY downtrend. (50%)",
+      "closed_at": "2026-06-28T20:16:39.257545+01:00"
+    },
+    {
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "pnl": -4148.0,
+      "reason": "Underwater, momentum contra. Manter short bias crypto via BTC+ETH+XRP.",
+      "closed_at": "2026-06-28T20:16:39.257523+01:00"
+    },
     {
       "ticker": "BTC",
       "direction": "LONG",
@@ -1268,27 +1285,41 @@
       "pnl": 0.46,
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "closed_at": "2026-05-13T14:58:54.377474"
-    },
-    {
-      "ticker": "TSLA",
-      "direction": "SHORT",
-      "pnl": -0.0,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "closed_at": "2026-05-13T14:58:54.377348"
-    },
-    {
-      "ticker": "AAPL",
-      "direction": "SHORT",
-      "pnl": -3.75,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "closed_at": "2026-05-13T14:38:46.027750"
     }
   ],
   "recent_sessions": [
     {
-      "id": "689bb27b",
+      "id": "d6004bf5",
       "agent": "Desconhecido",
       "status": "running",
+      "created": "2026-06-28T19:15:45.772Z",
+      "completed": ""
+    },
+    {
+      "id": "f718c997",
+      "agent": "Desconhecido",
+      "status": "cancelled",
+      "created": "2026-06-28T19:13:36.416Z",
+      "completed": ""
+    },
+    {
+      "id": "6718e139",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T19:12:45.756Z",
+      "completed": ""
+    },
+    {
+      "id": "9d059d29",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T19:10:15.740Z",
+      "completed": ""
+    },
+    {
+      "id": "689bb27b",
+      "agent": "Desconhecido",
+      "status": "succeeded",
       "created": "2026-06-28T19:06:15.712Z",
       "completed": ""
     },
@@ -1396,37 +1427,27 @@
       "status": "succeeded",
       "created": "2026-06-28T18:21:15.447Z",
       "completed": ""
-    },
-    {
-      "id": "2c9b20e9",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-28T18:18:45.428Z",
-      "completed": ""
-    },
-    {
-      "id": "7285d31d",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-28T18:16:15.408Z",
-      "completed": ""
-    },
-    {
-      "id": "5e94e538",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-28T18:13:45.389Z",
-      "completed": ""
-    },
-    {
-      "id": "316e539d",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-28T18:11:15.371Z",
-      "completed": ""
     }
   ],
   "activity_feed": [
+    {
+      "type": "close",
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "pnl": -4148.0,
+      "reason": "Underwater, momentum contra. Manter short bias crypto via BTC+ETH+XRP.",
+      "date": "2026-06-28T20:16",
+      "id": 40
+    },
+    {
+      "type": "close_partial",
+      "ticker": "IWM",
+      "direction": "LONG",
+      "pnl": 0.0,
+      "reason": "\u2702\ufe0f RSI 73.6 overbought, BB 89% \u2014 reduzir exposicao num LONG contraditorio com SPY downtrend. (50%)",
+      "date": "2026-06-28T20:16",
+      "id": 35
+    },
     {
       "type": "sl_hit",
       "ticker": "BTC",
@@ -1947,24 +1968,6 @@
       "pnl": -0.1,
       "reason": "\ud83d\udd34 STOP LOSS",
       "date": "2026-05-10T18:34",
-      "id": 11
-    },
-    {
-      "type": "close",
-      "ticker": "META",
-      "direction": "LONG",
-      "pnl": 0.01,
-      "reason": "DOWNTREND ativo + MACD negativo (-1.6236) + RSI 45.6 \u2014 posi\u00e7\u00e3o LONG contra tend\u00eancia. Sair no breakeven antes de deteriora\u00e7\u00e3o.",
-      "date": "2026-05-09T15:32",
-      "id": 10
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "DOGE",
-      "direction": "SHORT",
-      "pnl": 0.12,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-09T09:35",
       "id": 11
     }
   ],
