@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-06-28T19:16:49.466526+00:00",
+  "generated_at": "2026-06-28T19:20:59.638125+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -4116.36,
-    "total_pnl_pct": -8.23,
-    "cash_eur": 17136.58,
-    "invested_eur": 34509.42,
+    "total_pnl_eur": -13357.38,
+    "total_pnl_pct": -26.71,
+    "cash_eur": 29421.1,
+    "invested_eur": 22224.9,
     "portfolio_value": 51646.0,
-    "open_positions": 6,
-    "total_trades": 73,
-    "win_rate": 46.6,
+    "open_positions": 4,
+    "total_trades": 76,
+    "win_rate": 44.7,
     "total_wins": 34,
-    "total_losses": 39,
+    "total_losses": 42,
     "avg_win": 2.86,
-    "avg_loss": -108.04,
+    "avg_loss": -320.35,
     "best_trade": {
       "id": 29,
       "ticker": "SOL",
@@ -34,19 +34,19 @@
       "closed_at": "2026-06-12T01:30:55.698590"
     },
     "worst_trade": {
-      "id": 40,
-      "ticker": "AVAX",
+      "id": 43,
+      "ticker": "XRP",
       "direction": "SHORT",
-      "entry_price_eur": 5.31,
-      "exit_price_eur": 5.31,
-      "size_units": 3905.6139385,
-      "invested_eur": 4148.0,
+      "entry_price_eur": 0.916,
+      "exit_price_eur": 0.916,
+      "size_units": 33829.2576,
+      "invested_eur": 6197.52,
       "leverage": 5,
-      "pnl_eur": -4148.0,
+      "pnl_eur": -6197.52,
       "pnl_pct": -100.0,
-      "close_reason": "Underwater, momentum contra. Manter short bias crypto via BTC+ETH+XRP.",
-      "opened_at": "2026-06-19T06:11:09.392704",
-      "closed_at": "2026-06-28T20:16:39.257523+01:00"
+      "close_reason": "Reduzir exposicao altcoins, modo defensivo (-8.23% P&L)",
+      "opened_at": "2026-06-28T19:54:05.323814+01:00",
+      "closed_at": "2026-06-28T20:20:45.250568+01:00"
     },
     "agent_stats": {
       "Diretor de Investimentos": {
@@ -441,6 +441,21 @@
     },
     {
       "date": "2026-06-28",
+      "value": 42840.14,
+      "trade": "IWM LONG"
+    },
+    {
+      "date": "2026-06-28",
+      "value": 36642.62,
+      "trade": "XRP SHORT"
+    },
+    {
+      "date": "2026-06-28",
+      "value": 36642.62,
+      "trade": "USO SHORT"
+    },
+    {
+      "date": "2026-06-28",
       "value": 51646.0
     }
   ],
@@ -451,13 +466,21 @@
     },
     {
       "month": "2026-06",
-      "pnl": -4094.88
+      "pnl": -13335.9
     }
   ],
   "ticker_pnl": [
     {
+      "ticker": "XRP",
+      "pnl": -6197.52
+    },
+    {
       "ticker": "AVAX",
       "pnl": -4139.52
+    },
+    {
+      "ticker": "IWM",
+      "pnl": -3043.37
     },
     {
       "ticker": "SOL",
@@ -510,10 +533,6 @@
     {
       "ticker": "GLD",
       "pnl": 0.17
-    },
-    {
-      "ticker": "IWM",
-      "pnl": 0.13
     }
   ],
   "forecast": [
@@ -643,24 +662,29 @@
       "forecast": false
     },
     {
+      "date": "2026-06-28",
+      "value": 36642.62,
+      "forecast": false
+    },
+    {
       "date": "2026-07-28",
-      "value": 49025.0,
-      "lower": 48031.49,
-      "upper": 50018.5,
+      "value": 45127.87,
+      "lower": 42061.52,
+      "upper": 48194.22,
       "forecast": true
     },
     {
       "date": "2026-08-27",
-      "value": 48642.87,
-      "lower": 47649.37,
-      "upper": 49636.38,
+      "value": 43214.6,
+      "lower": 40148.25,
+      "upper": 46280.95,
       "forecast": true
     },
     {
       "date": "2026-09-26",
-      "value": 48260.75,
-      "lower": 47267.24,
-      "upper": 49254.25,
+      "value": 41301.33,
+      "lower": 38234.98,
+      "upper": 44367.68,
       "forecast": true
     }
   ],
@@ -1037,34 +1061,32 @@
     },
     {
       "date": "2026-06-28",
+      "drawdown_pct": 14.38,
+      "value": 42840.14
+    },
+    {
+      "date": "2026-06-28",
+      "drawdown_pct": 26.77,
+      "value": 36642.62
+    },
+    {
+      "date": "2026-06-28",
+      "drawdown_pct": 26.77,
+      "value": 36642.62
+    },
+    {
+      "date": "2026-06-28",
       "drawdown_pct": 0.0,
       "value": 51646.0
     }
   ],
   "positions": [
     {
-      "ticker": "IWM",
-      "direction": "LONG",
-      "entry": 252.83,
-      "size": 24.0744,
-      "invested": 3043.5,
-      "leverage": 2,
-      "sl": 257.0,
-      "tp1": 268.0,
-      "tp2": null,
-      "budget_pct": 11.7,
-      "confidence": 7,
-      "is_crypto": false,
-      "at_tp1": false,
-      "reason": "small caps rotation",
-      "opened_at": "2026-06-16T16:05:07.109217"
-    },
-    {
       "ticker": "USO",
       "direction": "SHORT",
       "entry": 99.87,
-      "size": 121.8944,
-      "invested": 6087.0,
+      "size": 60.9472,
+      "invested": 3043.5,
       "leverage": 2,
       "sl": 96.5,
       "tp1": 93.88,
@@ -1126,26 +1148,30 @@
       "at_tp1": false,
       "reason": "Geopolitical tailwind Ir\u00e3o/USA + helicopter crash Saudi refinery, gold +1.41% hoje",
       "opened_at": "2026-06-28T19:54:05.323791+01:00"
+    }
+  ],
+  "recent_trades": [
+    {
+      "ticker": "USO",
+      "direction": "SHORT",
+      "pnl": 0.0,
+      "reason": "\u2702\ufe0f Reduzir posicao petroleo 50%, modo defensivo (50%)",
+      "closed_at": "2026-06-28T20:20:45.250578+01:00"
     },
     {
       "ticker": "XRP",
       "direction": "SHORT",
-      "entry": 0.92,
-      "size": 33829.2576,
-      "invested": 6197.52,
-      "leverage": 5,
-      "sl": 0.95,
-      "tp1": 0.85,
-      "tp2": null,
-      "budget_pct": 12,
-      "confidence": 7,
-      "is_crypto": true,
-      "at_tp1": false,
-      "reason": "BTC dominance 55.7% a sugar alts, XRP -1.32% hoje, momentum bearish",
-      "opened_at": "2026-06-28T19:54:05.323814+01:00"
-    }
-  ],
-  "recent_trades": [
+      "pnl": -6197.52,
+      "reason": "Reduzir exposicao altcoins, modo defensivo (-8.23% P&L)",
+      "closed_at": "2026-06-28T20:20:45.250568+01:00"
+    },
+    {
+      "ticker": "IWM",
+      "direction": "LONG",
+      "pnl": -3043.5,
+      "reason": "RSI 73.6 sobrecomprado, BB 89.1%, take lucros modo defensivo",
+      "closed_at": "2026-06-28T20:20:45.250547+01:00"
+    },
     {
       "ticker": "IWM",
       "direction": "LONG",
@@ -1264,34 +1290,20 @@
       "pnl": -4.6,
       "reason": "\ud83d\udd34 STOP LOSS",
       "closed_at": "2026-05-13T17:59:57.746578"
-    },
-    {
-      "ticker": "TSLA",
-      "direction": "SHORT",
-      "pnl": -8.39,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "closed_at": "2026-05-13T15:39:10.236056"
-    },
-    {
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": 0.05,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "closed_at": "2026-05-13T15:08:58.605839"
-    },
-    {
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": 0.46,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "closed_at": "2026-05-13T14:58:54.377474"
     }
   ],
   "recent_sessions": [
     {
-      "id": "d6004bf5",
+      "id": "934d3fe4",
       "agent": "Desconhecido",
       "status": "running",
+      "created": "2026-06-28T19:19:15.789Z",
+      "completed": ""
+    },
+    {
+      "id": "d6004bf5",
+      "agent": "Desconhecido",
+      "status": "succeeded",
       "created": "2026-06-28T19:15:45.772Z",
       "completed": ""
     },
@@ -1420,16 +1432,36 @@
       "status": "succeeded",
       "created": "2026-06-28T18:23:45.455Z",
       "completed": ""
-    },
-    {
-      "id": "398e48b1",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-28T18:21:15.447Z",
-      "completed": ""
     }
   ],
   "activity_feed": [
+    {
+      "type": "close",
+      "ticker": "IWM",
+      "direction": "LONG",
+      "pnl": -3043.5,
+      "reason": "RSI 73.6 sobrecomprado, BB 89.1%, take lucros modo defensivo",
+      "date": "2026-06-28T20:20",
+      "id": 35
+    },
+    {
+      "type": "close_partial",
+      "ticker": "XRP",
+      "direction": "SHORT",
+      "pnl": -6197.52,
+      "reason": "Reduzir exposicao altcoins, modo defensivo (-8.23% P&L)",
+      "date": "2026-06-28T20:20",
+      "id": 43
+    },
+    {
+      "type": "close_partial",
+      "ticker": "USO",
+      "direction": "SHORT",
+      "pnl": 0.0,
+      "reason": "\u2702\ufe0f Reduzir posicao petroleo 50%, modo defensivo (50%)",
+      "date": "2026-06-28T20:20",
+      "id": 36
+    },
     {
       "type": "close",
       "ticker": "AVAX",
@@ -1942,33 +1974,6 @@
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-10T21:04",
       "id": 13
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "AVAX",
-      "direction": "SHORT",
-      "pnl": 0.0,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-10T20:54",
-      "id": 13
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "SOL",
-      "direction": "SHORT",
-      "pnl": 0.0,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-10T18:54",
-      "id": 12
-    },
-    {
-      "type": "sl_hit",
-      "ticker": "DOGE",
-      "direction": "SHORT",
-      "pnl": -0.1,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-05-10T18:34",
-      "id": 11
     }
   ],
   "session_analysis": [
