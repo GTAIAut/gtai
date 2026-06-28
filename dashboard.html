@@ -144,6 +144,8 @@
         }
         .chart-card canvas { width: 100% !important; height: auto !important; max-height: 350px; }
 
+        .table-card { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+
         .chart-header {
             display: flex; align-items: center; justify-content: space-between;
             margin-bottom: 16px; flex-wrap: wrap; gap: 8px;
@@ -230,17 +232,82 @@
         }
         .agent-card .runs.ok { color: var(--green); }
 
-        /* Responsive */
+        /* Responsive — mobile-first improvements */
+        @media (max-width: 900px) {
+            .dash-header h1 { font-size: 1.3rem; }
+            .dash-header .status-bar { font-size: 0.8rem; gap: 10px; }
+        }
         @media (max-width: 768px) {
-            .charts-row { grid-template-columns: 1fr; }
             #dashboard { padding: 12px; }
+            .charts-row { grid-template-columns: 1fr; gap: 12px; }
             .dash-header h1 { font-size: 1.2rem; }
-            .card .value { font-size: 1.2rem; }
-            th, td { padding: 8px 12px; }
+            .dash-header { gap: 8px; }
+            .dash-header .status-bar { font-size: 0.75rem; gap: 8px; flex-wrap: wrap; }
+            .summary { gap: 10px; }
+            .card { padding: 14px; }
+            .card .value { font-size: 1.25rem; }
+            .chart-card { padding: 14px; }
+            .chart-card canvas { max-height: 260px; }
+            .chart-info-bar { gap: 14px; font-size: 0.75rem; }
+            .chart-info-bar .title { font-size: 0.65rem; }
+            .table-card h3 { padding: 12px 14px; font-size: 0.9rem; }
+            th, td { padding: 8px 10px; font-size: 0.82rem; }
+            .table-card { border-radius: 8px; }
+            .sessions-grid { gap: 8px; }
+            .agent-card { padding: 10px; }
+            .range-btn { padding: 3px 10px; font-size: 0.7rem; }
+            .feed-item { padding: 8px 14px; }
+            .feed-toolbar { padding: 8px 14px; }
+            .gate-box { padding: 28px; }
+        }
+        @media (max-width: 600px) {
+            .summary { grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 8px; }
+            .card { padding: 12px; border-radius: 8px; }
+            .card .value { font-size: 1.1rem; }
+            .card .label { font-size: 0.7rem; }
+            .card .sub { font-size: 0.72rem; }
+            .chart-card canvas { max-height: 220px; }
+            .chart-info-bar { gap: 10px; font-size: 0.7rem; }
+            .chart-info-bar span { flex: 1 1 35%; }
         }
         @media (max-width: 480px) {
-            .summary { grid-template-columns: 1fr 1fr; }
+            #dashboard { padding: 8px; }
+            .summary { grid-template-columns: 1fr 1fr; gap: 6px; }
             .dash-header { flex-direction: column; align-items: flex-start; }
+            .dash-header h1 { font-size: 1rem; }
+            .dash-header h1 img { width: 28px; }
+            .card { padding: 10px; }
+            .card .value { font-size: 1rem; }
+            .chart-card { padding: 10px; }
+            .chart-card canvas { max-height: 190px; }
+            .chart-header { flex-direction: column; align-items: flex-start; }
+            .chart-info-bar { gap: 6px; }
+            .chart-info-bar span { flex: 1 1 45%; }
+            .sessions-grid { grid-template-columns: repeat(3, 1fr); gap: 6px; }
+            .agent-card { padding: 8px; }
+            .agent-card .name { font-size: 0.72rem; }
+            .agent-card .runs { font-size: 1rem; }
+            th, td { padding: 6px 8px; font-size: 0.72rem; }
+            .tag { font-size: 0.65rem; padding: 1px 6px; }
+            .feed-item { padding: 6px 10px; font-size: 0.8rem; gap: 8px; }
+            .feed-toolbar { padding: 6px 10px; gap: 4px; }
+            .feed-toolbar .filter-btn { padding: 3px 8px; font-size: 0.7rem; }
+            .bw-row { flex-direction: column; gap: 8px; }
+            .bw-box { padding: 12px; }
+            .bw-box .bw-pnl { font-size: 1.2rem; }
+            .gate-box { padding: 24px; }
+            .gate-box h1 { font-size: 1.2rem; }
+            .gate-box .lock-icon { font-size: 2rem; }
+        }
+        @media (max-width: 360px) {
+            #dashboard { padding: 6px; }
+            .summary { grid-template-columns: 1fr; gap: 6px; }
+            .card .value { font-size: 0.95rem; }
+            .chart-card canvas { max-height: 170px; }
+            .chart-info-bar { flex-direction: column; gap: 4px; }
+            .chart-info-bar span { flex: none; }
+            .sessions-grid { grid-template-columns: repeat(2, 1fr); }
+            .gate-box { padding: 16px; width: 95%; }
         }
 
         /* Activity Feed */
