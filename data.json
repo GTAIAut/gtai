@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T19:20:59.638125+00:00",
+  "generated_at": "2026-06-28T19:30:42.747080+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -8,10 +8,10 @@
   "stats": {
     "total_pnl_eur": -13357.38,
     "total_pnl_pct": -26.71,
-    "cash_eur": 29421.1,
-    "invested_eur": 22224.9,
+    "cash_eur": 11345.0,
+    "invested_eur": 40301.0,
     "portfolio_value": 51646.0,
-    "open_positions": 4,
+    "open_positions": 7,
     "total_trades": 76,
     "win_rate": 44.7,
     "total_wins": 34,
@@ -1088,7 +1088,7 @@
       "size": 60.9472,
       "invested": 3043.5,
       "leverage": 2,
-      "sl": 96.5,
+      "sl": 95.0,
       "tp1": 93.88,
       "tp2": null,
       "budget_pct": 11.7,
@@ -1105,7 +1105,7 @@
       "size": 0.5678,
       "invested": 6221.5,
       "leverage": 5,
-      "sl": 53200,
+      "sl": 53000,
       "tp1": 49500.0,
       "tp2": 46000.0,
       "budget_pct": 13.2,
@@ -1122,7 +1122,7 @@
       "size": 7.0542,
       "invested": 5213.0,
       "leverage": 2,
-      "sl": 1410.0,
+      "sl": 1400,
       "tp1": 1389.24,
       "tp2": null,
       "budget_pct": 10.0,
@@ -1148,6 +1148,57 @@
       "at_tp1": false,
       "reason": "Geopolitical tailwind Ir\u00e3o/USA + helicopter crash Saudi refinery, gold +1.41% hoje",
       "opened_at": "2026-06-28T19:54:05.323791+01:00"
+    },
+    {
+      "ticker": "IWM",
+      "direction": "SHORT",
+      "entry": 263.24,
+      "size": 58.8581,
+      "invested": 7746.9,
+      "leverage": 2,
+      "sl": 272.0,
+      "tp1": 255.0,
+      "tp2": 248.0,
+      "budget_pct": 15,
+      "confidence": 8,
+      "is_crypto": false,
+      "at_tp1": false,
+      "reason": "RSI 73.6 overbought, BB 89.1%, uptrend exhausted mean reversion",
+      "opened_at": "2026-06-28T20:30:31.813229+01:00"
+    },
+    {
+      "ticker": "TLT",
+      "direction": "SHORT",
+      "entry": 76.7,
+      "size": 134.6701,
+      "invested": 5164.6,
+      "leverage": 2,
+      "sl": 78.5,
+      "tp1": 75.0,
+      "tp2": 73.5,
+      "budget_pct": 10,
+      "confidence": 7,
+      "is_crypto": false,
+      "at_tp1": false,
+      "reason": "RSI 70.7 overbought, BB 94.6%, overextended",
+      "opened_at": "2026-06-28T20:30:31.813253+01:00"
+    },
+    {
+      "ticker": "EURUSD",
+      "direction": "LONG",
+      "entry": 1.14,
+      "size": 9068.6567,
+      "invested": 5164.6,
+      "leverage": 2,
+      "sl": 1.12,
+      "tp1": 1.15,
+      "tp2": 1.16,
+      "budget_pct": 10,
+      "confidence": 7,
+      "is_crypto": false,
+      "at_tp1": false,
+      "reason": "USD weakening, EUR CPI data ahead, ECB Lagarde speaks",
+      "opened_at": "2026-06-28T20:30:31.813264+01:00"
     }
   ],
   "recent_trades": [
@@ -1294,9 +1345,30 @@
   ],
   "recent_sessions": [
     {
-      "id": "934d3fe4",
+      "id": "e077ae6a",
       "agent": "Desconhecido",
       "status": "running",
+      "created": "2026-06-28T19:29:15.844Z",
+      "completed": ""
+    },
+    {
+      "id": "6c1786e8",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T19:26:15.830Z",
+      "completed": ""
+    },
+    {
+      "id": "ad2808d6",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-28T19:23:15.817Z",
+      "completed": ""
+    },
+    {
+      "id": "934d3fe4",
+      "agent": "Desconhecido",
+      "status": "succeeded",
       "created": "2026-06-28T19:19:15.789Z",
       "completed": ""
     },
@@ -1410,27 +1482,6 @@
       "agent": "Desconhecido",
       "status": "succeeded",
       "created": "2026-06-28T18:31:45.503Z",
-      "completed": ""
-    },
-    {
-      "id": "27c6b6e6",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-28T18:29:15.490Z",
-      "completed": ""
-    },
-    {
-      "id": "e2febe04",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-28T18:26:45.468Z",
-      "completed": ""
-    },
-    {
-      "id": "d52298ef",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-28T18:23:45.455Z",
       "completed": ""
     }
   ],
