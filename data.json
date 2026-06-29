@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T09:11:45.062970+00:00",
+  "generated_at": "2026-06-29T09:15:36.826805+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -47,8 +47,8 @@
         "total": 296
       },
       "Registador de Decis\u00f5es": {
-        "ok": 42,
-        "total": 45
+        "ok": 43,
+        "total": 46
       },
       "Analista T\u00e9cnico": {
         "ok": 31,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "381/399"
+    "all_sessions_rate": "382/400"
   },
   "equity_curve": [
     {
@@ -1033,8 +1033,8 @@
     {
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
-      "status": "running",
-      "created": "2026-06-29T09:10:15.483Z",
+      "status": "idle",
+      "created": "2026-06-29T09:11:49.825Z",
       "completed": ""
     },
     {
@@ -1047,8 +1047,8 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "running",
-      "created": "2026-06-29T05:17:12.579Z",
+      "status": "idle",
+      "created": "2026-06-29T09:14:09.582Z",
       "completed": ""
     },
     {
@@ -1691,11 +1691,6 @@
   ],
   "news_alerts": [
     {
-      "time": "26/06 13:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Lebanon\u2019s 400% Bond Rally Fades as War Wrecks Debt Recovery Math",
-      "title": "Lebanon\u2019s 400% Bond Rally Fades as War Wrecks Debt Recovery Math"
-    },
-    {
       "time": "26/06 13:15",
       "source": "**Politico**: What Wes Moore said about Trump, America 250 and how Democrats can harness insurgent energy",
       "title": "What Wes Moore said about Trump, America 250 and how Democrats can harness insurgent energy"
@@ -1789,6 +1784,11 @@
       "time": "29/06 08:15",
       "source": "**NYT World**: Helicopter Crash Near Major Saudi Oil Refinery Kills 14 People",
       "title": "Helicopter Crash Near Major Saudi Oil Refinery Kills 14 People"
+    },
+    {
+      "time": "29/06 10:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Goldman Backs India 30-Year Bonds as Iran War Impact Contained",
+      "title": "Goldman Backs India 30-Year Bonds as Iran War Impact Contained"
     }
   ]
 }
