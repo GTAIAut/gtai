@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-06-29T01:53:28.745956+00:00",
+  "generated_at": "2026-06-29T03:53:42.664371+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -69269.37,
-    "total_pnl_pct": -138.54,
-    "cash_eur": 11356.13,
-    "invested_eur": 40289.88,
+    "total_pnl_eur": -106976.95,
+    "total_pnl_pct": -213.95,
+    "cash_eur": 7746.91,
+    "invested_eur": 43899.1,
     "portfolio_value": 51646.01,
-    "open_positions": 9,
-    "total_trades": 100,
-    "win_rate": 34.0,
+    "open_positions": 7,
+    "total_trades": 109,
+    "win_rate": 31.2,
     "total_wins": 34,
-    "total_losses": 66,
+    "total_losses": 75,
     "avg_win": 2.86,
-    "avg_loss": -1051.01,
+    "avg_loss": -1427.66,
     "best_trade": {
       "id": 29,
       "ticker": "SOL",
@@ -576,6 +576,51 @@
     },
     {
       "date": "2026-06-29",
+      "value": -23142.82,
+      "trade": "GLD LONG"
+    },
+    {
+      "date": "2026-06-29",
+      "value": -25725.12,
+      "trade": "GLD LONG"
+    },
+    {
+      "date": "2026-06-29",
+      "value": -30889.72,
+      "trade": "USO SHORT"
+    },
+    {
+      "date": "2026-06-29",
+      "value": -36054.32,
+      "trade": "EZU SHORT"
+    },
+    {
+      "date": "2026-06-29",
+      "value": -38636.62,
+      "trade": "BNB SHORT"
+    },
+    {
+      "date": "2026-06-29",
+      "value": -42510.07,
+      "trade": "IWM SHORT"
+    },
+    {
+      "date": "2026-06-29",
+      "value": -44065.45,
+      "trade": "BTC SHORT"
+    },
+    {
+      "date": "2026-06-29",
+      "value": -51812.35,
+      "trade": "TLT SHORT"
+    },
+    {
+      "date": "2026-06-29",
+      "value": -56976.95,
+      "trade": "DIA SHORT"
+    },
+    {
+      "date": "2026-06-29",
       "value": 51646.01
     }
   ],
@@ -586,29 +631,29 @@
     },
     {
       "month": "2026-06",
-      "pnl": -69247.89
+      "pnl": -106955.47
     }
   ],
   "ticker_pnl": [
     {
-      "ticker": "IWM",
-      "pnl": -18537.17
+      "ticker": "TLT",
+      "pnl": -23240.7
     },
     {
-      "ticker": "TLT",
-      "pnl": -15493.8
+      "ticker": "IWM",
+      "pnl": -22410.62
     },
     {
       "ticker": "GLD",
-      "pnl": -7746.73
+      "pnl": -14202.48
+    },
+    {
+      "ticker": "USO",
+      "pnl": -10709.33
     },
     {
       "ticker": "XRP",
       "pnl": -6197.52
-    },
-    {
-      "ticker": "USO",
-      "pnl": -5544.73
     },
     {
       "ticker": "QQQ",
@@ -619,8 +664,24 @@
       "pnl": -5164.6
     },
     {
+      "ticker": "EZU",
+      "pnl": -5164.6
+    },
+    {
+      "ticker": "DIA",
+      "pnl": -5164.6
+    },
+    {
       "ticker": "AVAX",
       "pnl": -4139.52
+    },
+    {
+      "ticker": "BNB",
+      "pnl": -2567.85
+    },
+    {
+      "ticker": "BTC",
+      "pnl": -1562.73
     },
     {
       "ticker": "ETH",
@@ -629,10 +690,6 @@
     {
       "ticker": "SOL",
       "pnl": 49.8
-    },
-    {
-      "ticker": "BNB",
-      "pnl": 14.45
     },
     {
       "ticker": "TSLA",
@@ -645,10 +702,6 @@
     {
       "ticker": "AMD",
       "pnl": -7.57
-    },
-    {
-      "ticker": "BTC",
-      "pnl": -7.35
     },
     {
       "ticker": "DOGE",
@@ -770,24 +823,34 @@
       "forecast": false
     },
     {
+      "date": "2026-06-29",
+      "value": -38636.62,
+      "forecast": false
+    },
+    {
+      "date": "2026-06-29",
+      "value": 51646.01,
+      "forecast": false
+    },
+    {
       "date": "2026-07-29",
-      "value": 682.64,
-      "lower": -20945.65,
-      "upper": 22310.94,
+      "value": -18175.53,
+      "lower": -49099.83,
+      "upper": 12748.76,
       "forecast": true
     },
     {
       "date": "2026-08-28",
-      "value": -18487.35,
-      "lower": -40115.65,
-      "upper": 3140.95,
+      "value": -44682.68,
+      "lower": -75606.98,
+      "upper": -13758.39,
       "forecast": true
     },
     {
       "date": "2026-09-27",
-      "value": -37657.35,
-      "lower": -59285.64,
-      "upper": -16029.05,
+      "value": -71189.84,
+      "lower": -102114.13,
+      "upper": -40265.54,
       "forecast": true
     }
   ],
@@ -1299,28 +1362,56 @@
     },
     {
       "date": "2026-06-29",
+      "drawdown_pct": 146.25,
+      "value": -23142.82
+    },
+    {
+      "date": "2026-06-29",
+      "drawdown_pct": 151.41,
+      "value": -25725.12
+    },
+    {
+      "date": "2026-06-29",
+      "drawdown_pct": 161.73,
+      "value": -30889.72
+    },
+    {
+      "date": "2026-06-29",
+      "drawdown_pct": 172.05,
+      "value": -36054.32
+    },
+    {
+      "date": "2026-06-29",
+      "drawdown_pct": 177.21,
+      "value": -38636.62
+    },
+    {
+      "date": "2026-06-29",
+      "drawdown_pct": 184.96,
+      "value": -42510.07
+    },
+    {
+      "date": "2026-06-29",
+      "drawdown_pct": 188.06,
+      "value": -44065.45
+    },
+    {
+      "date": "2026-06-29",
+      "drawdown_pct": 203.55,
+      "value": -51812.35
+    },
+    {
+      "date": "2026-06-29",
+      "drawdown_pct": 213.87,
+      "value": -56976.95
+    },
+    {
+      "date": "2026-06-29",
       "drawdown_pct": 0.0,
       "value": 51646.01
     }
   ],
   "positions": [
-    {
-      "ticker": "BTC",
-      "direction": "SHORT",
-      "entry": 54789,
-      "size": 0.1419,
-      "invested": 1555.38,
-      "leverage": 5,
-      "sl": 53100,
-      "tp1": 49500.0,
-      "tp2": 46000.0,
-      "budget_pct": 13.2,
-      "confidence": 8,
-      "is_crypto": true,
-      "at_tp1": false,
-      "reason": "Fear&Greed 14 extreme fear + BTC -14.4% abaixo MA50 + downtrend + decoupling tech Cointelegraph + sem catalisador positivo + R/R 2.65:1",
-      "opened_at": "2026-06-19T06:11:00.036768"
-    },
     {
       "ticker": "SPY",
       "direction": "SHORT",
@@ -1328,7 +1419,7 @@
       "size": 24.2091,
       "invested": 7746.9,
       "leverage": 2,
-      "sl": 642,
+      "sl": 643,
       "tp1": 626,
       "tp2": 614,
       "budget_pct": 15,
@@ -1339,30 +1430,13 @@
       "opened_at": "2026-06-28T21:10:18.567972+01:00"
     },
     {
-      "ticker": "GLD",
-      "direction": "LONG",
-      "entry": 328.03,
-      "size": 23.6165,
-      "invested": 3873.45,
-      "leverage": 2,
-      "sl": 322.0,
-      "tp1": 340.0,
-      "tp2": null,
-      "budget_pct": 15,
-      "confidence": 8,
-      "is_crypto": false,
-      "at_tp1": false,
-      "reason": "Gold +1.41% hoje, safe haven com tens\u00f5es US-Ir\u00e3o. Ouro a beneficiar de yields decrescentes e incerteza geopol\u00edtica.",
-      "opened_at": "2026-06-29T01:26:41.685684+01:00"
-    },
-    {
       "ticker": "QQQ",
       "direction": "SHORT",
       "entry": 620.3,
       "size": 24.9779,
       "invested": 7746.9,
       "leverage": 2,
-      "sl": 623,
+      "sl": 626.0,
       "tp1": 600.0,
       "tp2": null,
       "budget_pct": 15,
@@ -1375,90 +1449,153 @@
     {
       "ticker": "GLD",
       "direction": "LONG",
-      "entry": 328.03,
-      "size": 15.7443,
-      "invested": 2582.3,
+      "entry": 327.98,
+      "size": 47.2401,
+      "invested": 7746.9,
       "leverage": 2,
-      "sl": 322.0,
-      "tp1": 340.0,
-      "tp2": null,
-      "budget_pct": 10,
-      "confidence": 7,
-      "is_crypto": false,
-      "at_tp1": false,
-      "reason": "Adicionar exposi\u00e7\u00e3o ouro - safe haven ativo com tens\u00f5es EUA-Ir\u00e3o. GLD +1.41% hoje.",
-      "opened_at": "2026-06-29T01:39:54.359259+01:00"
-    },
-    {
-      "ticker": "IWM",
-      "direction": "SHORT",
-      "entry": 263.22,
-      "size": 29.4313,
-      "invested": 3873.45,
-      "leverage": 2,
-      "sl": 269.0,
-      "tp1": 254.0,
-      "tp2": 244.0,
+      "sl": 322,
+      "tp1": 340,
+      "tp2": 350,
       "budget_pct": 15,
-      "confidence": 8,
-      "is_crypto": false,
-      "at_tp1": false,
-      "reason": "RSI 73.6 OB, BB 89.1%, extensao maxima uptrend",
-      "opened_at": "2026-06-29T02:18:38.426819+01:00"
-    },
-    {
-      "ticker": "EZU",
-      "direction": "SHORT",
-      "entry": 59.47,
-      "size": 173.6876,
-      "invested": 5164.6,
-      "leverage": 2,
-      "sl": 61.2,
-      "tp1": 57.0,
-      "tp2": 55.0,
-      "budget_pct": 10,
       "confidence": 7,
       "is_crypto": false,
       "at_tp1": false,
-      "reason": "Euro Stoxx -0.96%, Lagarde today, MACD bear",
-      "opened_at": "2026-06-29T02:18:38.426830+01:00"
+      "reason": "Gold momentum forte +1.41%, geopolitica aquece, uptrend confirmado",
+      "opened_at": "2026-06-29T03:49:06.316308+01:00"
     },
     {
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "entry": 483.68,
-      "size": 26.6943,
+      "ticker": "SOL",
+      "direction": "LONG",
+      "entry": 63.18,
+      "size": 408.7212,
+      "invested": 5164.6,
+      "leverage": 5,
+      "sl": 63,
+      "tp1": 68,
+      "tp2": 75,
+      "budget_pct": 10,
+      "confidence": 7,
+      "is_crypto": true,
+      "at_tp1": false,
+      "reason": "SOL +1.87% a liderar altcoins, divergencia bullish RSI no mercado cripto",
+      "opened_at": "2026-06-29T03:49:06.316336+01:00"
+    },
+    {
+      "ticker": "SOL",
+      "direction": "LONG",
+      "entry": 63.16,
+      "size": 204.4253,
       "invested": 2582.3,
       "leverage": 5,
-      "sl": 510.0,
-      "tp1": 450.0,
-      "tp2": 430.0,
+      "sl": 63,
+      "tp1": 68.0,
+      "tp2": 72.0,
       "budget_pct": 5,
       "confidence": 7,
       "is_crypto": true,
       "at_tp1": false,
-      "reason": "Binance EU ban, altcoins weak",
-      "opened_at": "2026-06-29T02:18:38.426839+01:00"
+      "reason": "Adicionar a posicao LONG existente. SOL +1.79% hoje, momentum positivo, DXY fraco suporta cripto.",
+      "opened_at": "2026-06-29T03:59:59.525413+01:00"
     },
     {
-      "ticker": "USO",
+      "ticker": "BTC",
+      "direction": "LONG",
+      "entry": 52593,
+      "size": 0.7365,
+      "invested": 7746.9,
+      "leverage": 5,
+      "sl": 50500,
+      "tp1": 56500,
+      "tp2": 59500,
+      "budget_pct": 15,
+      "confidence": 8,
+      "is_crypto": true,
+      "at_tp1": false,
+      "reason": "Bullish RSI divergence + analyst calls for bottom. Crypto default leverage.",
+      "opened_at": "2026-06-29T04:53:25.615151+01:00"
+    },
+    {
+      "ticker": "IWM",
       "direction": "SHORT",
-      "entry": 92.59,
-      "size": 111.5585,
+      "entry": 263.29,
+      "size": 39.2313,
       "invested": 5164.6,
       "leverage": 2,
-      "sl": 94.5,
-      "tp1": 89.5,
-      "tp2": null,
+      "sl": 269,
+      "tp1": 252,
+      "tp2": 245,
       "budget_pct": 10,
       "confidence": 7,
       "is_crypto": false,
       "at_tp1": false,
-      "reason": "Oil -2.86% today, US-Iran de-escalation, bearish trend",
-      "opened_at": "2026-06-29T02:27:26.558119+01:00"
+      "reason": "RSI 73.6 OVERBOUGHT + BB overbought 89.1%. Mean reversion play.",
+      "opened_at": "2026-06-29T04:53:25.615164+01:00"
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "DIA",
+      "direction": "SHORT",
+      "pnl": -5164.6,
+      "reason": "Fighting uptrend (RSI 60.9, trend UP). Breakeven exit.",
+      "closed_at": "2026-06-29T04:53:25.615139+01:00"
+    },
+    {
+      "ticker": "TLT",
+      "direction": "SHORT",
+      "pnl": -7746.9,
+      "reason": "Fighting strong uptrend (RSI 70.7, trend UP). Breakeven exit.",
+      "closed_at": "2026-06-29T04:53:25.615117+01:00"
+    },
+    {
+      "ticker": "BTC",
+      "direction": "SHORT",
+      "pnl": -1555.38,
+      "reason": "Take profit \u2014 BTC dropped 3.96% from entry. Bullish RSI divergence forming. Reduce short bias in RISK-ON regime (VIX 18.41). Profit ~\u20ac1,329 (+19.8% on allocated capital).",
+      "closed_at": "2026-06-29T04:17:17.095548+01:00"
+    },
+    {
+      "ticker": "IWM",
+      "direction": "SHORT",
+      "pnl": -3873.45,
+      "reason": "Apenas 1/4 condicoes SHORT preenchidas (RSI overbought mas MACD bullish, uptrend intacta). Redeploy capital para setups mais fortes.",
+      "closed_at": "2026-06-29T03:59:59.525309+01:00"
+    },
+    {
+      "ticker": "BNB",
+      "direction": "SHORT",
+      "pnl": -2582.3,
+      "reason": "Redu\u00e7\u00e3o defensiva \u2014 crypto em decl\u00ednio, reduzir exposi\u00e7\u00e3o",
+      "closed_at": "2026-06-29T03:03:07.824082+01:00"
+    },
+    {
+      "ticker": "EZU",
+      "direction": "SHORT",
+      "pnl": -5164.6,
+      "reason": "Redu\u00e7\u00e3o defensiva \u2014 Euro Stoxx sideways sem momentum direcional",
+      "closed_at": "2026-06-29T03:03:07.824076+01:00"
+    },
+    {
+      "ticker": "USO",
+      "direction": "SHORT",
+      "pnl": -5164.6,
+      "reason": "Redu\u00e7\u00e3o defensiva \u2014 P&L semanal < -5%, convic\u00e7\u00e3o baixa no SHORT USO",
+      "closed_at": "2026-06-29T03:03:07.824068+01:00"
+    },
+    {
+      "ticker": "GLD",
+      "direction": "LONG",
+      "pnl": -2582.3,
+      "reason": "Posi\u00e7\u00e3o duplicada #53 \u2014 consolidar exposi\u00e7\u00e3o LONG GLD",
+      "closed_at": "2026-06-29T03:03:07.824056+01:00"
+    },
+    {
+      "ticker": "GLD",
+      "direction": "LONG",
+      "pnl": -3873.45,
+      "reason": "Posi\u00e7\u00e3o duplicada #53 \u2014 consolidar exposi\u00e7\u00e3o LONG GLD",
+      "closed_at": "2026-06-29T03:03:07.824041+01:00"
+    },
     {
       "ticker": "IWM",
       "direction": "SHORT",
@@ -1535,214 +1672,232 @@
       "pnl": 0.0,
       "reason": "\u2702\ufe0f Consolidar exposi\u00e7\u00e3o duplicada em ouro. Manter posi\u00e7\u00e3o #42 (15% budget). Fechar #48 (10% budget). (40%)",
       "closed_at": "2026-06-29T01:25:57.699874+01:00"
-    },
-    {
-      "ticker": "GLD",
-      "direction": "LONG",
-      "pnl": 0.0,
-      "reason": "\u2702\ufe0f Consolidar exposi\u00e7\u00e3o duplicada em ouro. Manter posi\u00e7\u00e3o #42 (15% budget). Fechar #48 (10% budget). (40%)",
-      "closed_at": "2026-06-29T01:25:57.699869+01:00"
-    },
-    {
-      "ticker": "QQQ",
-      "direction": "LONG",
-      "pnl": -5164.6,
-      "reason": "Baixa convic\u00e7\u00e3o, mercado tech a cair -1.2%. Redu\u00e7\u00e3o defensiva.",
-      "closed_at": "2026-06-29T01:25:57.699861+01:00"
-    },
-    {
-      "ticker": "IWM",
-      "direction": "SHORT",
-      "pnl": -7746.9,
-      "reason": "SHORT contra uptrend, RSI 73.6 overbought mas momentum ascendente. Modo defensivo.",
-      "closed_at": "2026-06-29T01:25:57.699852+01:00"
-    },
-    {
-      "ticker": "ETH",
-      "direction": "SHORT",
-      "pnl": -1303.25,
-      "reason": "Take profit \u2014 price abaixo de TP1, reduzindo exposi\u00e7\u00e3o defensiva",
-      "closed_at": "2026-06-29T01:25:57.699829+01:00"
-    },
-    {
-      "ticker": "ETH",
-      "direction": "SHORT",
-      "pnl": 0.0,
-      "reason": "\u2702\ufe0f TP1 1389.24 ja atingido, atual 1373. Reduzir exposure crypto em drawdown. (50%)",
-      "closed_at": "2026-06-29T01:21:59.126965+01:00"
-    },
-    {
-      "ticker": "USO",
-      "direction": "SHORT",
-      "pnl": -380.44,
-      "reason": "TP1 ja atingido (93.88), atual 92.62. Oil pode reverter com tensoes geopoliticas. Lock profits.",
-      "closed_at": "2026-06-29T01:21:59.126944+01:00"
-    },
-    {
-      "ticker": "USO",
-      "direction": "SHORT",
-      "pnl": 0.0,
-      "reason": "\u2702\ufe0f TP1 ultrapassado + risco geopol\u00edtico Iran/US pode reverter petr\u00f3leo (50%)",
-      "closed_at": "2026-06-29T01:13:01.633137+01:00"
-    },
-    {
-      "ticker": "ETH",
-      "direction": "SHORT",
-      "pnl": 0.0,
-      "reason": "\u2702\ufe0f TP1 atingido (\u20ac1,389), realizar lucro parcial (50%)",
-      "closed_at": "2026-06-29T01:13:01.633114+01:00"
-    },
-    {
-      "ticker": "USO",
-      "direction": "SHORT",
-      "pnl": 0.0,
-      "reason": "\u2702\ufe0f USO -2.86%, taking 50% profit. Oil bounce risk after US-Iran halt attacks news. (50%)",
-      "closed_at": "2026-06-29T01:03:25.273646+01:00"
     }
   ],
   "recent_sessions": [
     {
-      "id": "bd4a5381",
+      "id": "ae870834",
       "agent": "Desconhecido",
       "status": "running",
-      "created": "2026-06-29T01:52:21.743Z",
+      "created": "2026-06-29T03:51:24.328Z",
       "completed": ""
     },
     {
-      "id": "50fb8ede",
+      "id": "1ff140b5",
       "agent": "Desconhecido",
       "status": "succeeded",
-      "created": "2026-06-29T01:49:21.704Z",
+      "created": "2026-06-29T03:48:54.258Z",
       "completed": ""
     },
     {
-      "id": "43852061",
+      "id": "8758934b",
       "agent": "Desconhecido",
       "status": "succeeded",
-      "created": "2026-06-29T01:46:51.656Z",
+      "created": "2026-06-29T03:46:24.196Z",
       "completed": ""
     },
     {
-      "id": "ca44bfac",
+      "id": "a807f11a",
       "agent": "Desconhecido",
       "status": "succeeded",
-      "created": "2026-06-29T01:44:21.609Z",
+      "created": "2026-06-29T03:43:54.143Z",
       "completed": ""
     },
     {
-      "id": "d975b5d3",
+      "id": "3966ce81",
       "agent": "Desconhecido",
       "status": "succeeded",
-      "created": "2026-06-29T01:40:51.533Z",
+      "created": "2026-06-29T03:41:24.055Z",
       "completed": ""
     },
     {
-      "id": "d2f7befb",
+      "id": "b7a457e0",
       "agent": "Desconhecido",
       "status": "succeeded",
-      "created": "2026-06-29T01:37:51.474Z",
+      "created": "2026-06-29T03:38:54.009Z",
       "completed": ""
     },
     {
-      "id": "f5996ba8",
+      "id": "e7b43754",
       "agent": "Desconhecido",
       "status": "succeeded",
-      "created": "2026-06-29T01:35:21.392Z",
+      "created": "2026-06-29T03:36:23.914Z",
       "completed": ""
     },
     {
-      "id": "e3decc22",
+      "id": "6000d99b",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-29T03:33:53.837Z",
+      "completed": ""
+    },
+    {
+      "id": "18a3db16",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-29T03:30:53.826Z",
+      "completed": ""
+    },
+    {
+      "id": "73dc56e6",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-29T03:28:23.804Z",
+      "completed": ""
+    },
+    {
+      "id": "755468ed",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-29T03:24:53.761Z",
+      "completed": ""
+    },
+    {
+      "id": "8636ecd0",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-29T03:22:23.721Z",
+      "completed": ""
+    },
+    {
+      "id": "f736b90c",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-29T03:19:53.667Z",
+      "completed": ""
+    },
+    {
+      "id": "3076407c",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-29T03:15:23.551Z",
+      "completed": ""
+    },
+    {
+      "id": "f099d89a",
       "agent": "Desconhecido",
       "status": "cancelled",
-      "created": "2026-06-29T01:32:47.020Z",
+      "created": "2026-06-29T03:13:15.034Z",
       "completed": ""
     },
     {
-      "id": "7ccca41d",
+      "id": "68d974e1",
       "agent": "Desconhecido",
       "status": "succeeded",
-      "created": "2026-06-29T01:32:21.342Z",
+      "created": "2026-06-29T03:12:53.462Z",
       "completed": ""
     },
     {
-      "id": "ce9ec4fa",
+      "id": "484160cc",
       "agent": "Desconhecido",
       "status": "succeeded",
-      "created": "2026-06-29T01:29:51.290Z",
+      "created": "2026-06-29T03:10:23.394Z",
       "completed": ""
     },
     {
-      "id": "505de276",
+      "id": "c6b4d11f",
       "agent": "Desconhecido",
       "status": "succeeded",
-      "created": "2026-06-29T01:26:21.266Z",
+      "created": "2026-06-29T03:07:53.309Z",
       "completed": ""
     },
     {
-      "id": "1a3f6a8b",
+      "id": "6f6667e7",
       "agent": "Desconhecido",
       "status": "succeeded",
-      "created": "2026-06-29T01:23:51.240Z",
+      "created": "2026-06-29T03:04:53.211Z",
       "completed": ""
     },
     {
-      "id": "0c19c2c3",
+      "id": "984acab7",
       "agent": "Desconhecido",
       "status": "succeeded",
-      "created": "2026-06-29T01:21:21.200Z",
-      "completed": ""
-    },
-    {
-      "id": "6e7fdb60",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-29T01:16:51.108Z",
-      "completed": ""
-    },
-    {
-      "id": "885f4f3a",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-29T01:14:21.050Z",
-      "completed": ""
-    },
-    {
-      "id": "6f134aa1",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-29T01:11:20.979Z",
-      "completed": ""
-    },
-    {
-      "id": "8e00116f",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-29T01:08:50.921Z",
-      "completed": ""
-    },
-    {
-      "id": "ff1bc18a",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-29T01:06:20.845Z",
-      "completed": ""
-    },
-    {
-      "id": "1d347b04",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-29T01:03:50.777Z",
-      "completed": ""
-    },
-    {
-      "id": "a081e6b5",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-29T01:01:20.714Z",
+      "created": "2026-06-29T03:02:23.136Z",
       "completed": ""
     }
   ],
   "activity_feed": [
+    {
+      "type": "close",
+      "ticker": "TLT",
+      "direction": "SHORT",
+      "pnl": -7746.9,
+      "reason": "Fighting strong uptrend (RSI 70.7, trend UP). Breakeven exit.",
+      "date": "2026-06-29T04:53",
+      "id": 63
+    },
+    {
+      "type": "close",
+      "ticker": "DIA",
+      "direction": "SHORT",
+      "pnl": -5164.6,
+      "reason": "Fighting uptrend (RSI 60.9, trend UP). Breakeven exit.",
+      "date": "2026-06-29T04:53",
+      "id": 64
+    },
+    {
+      "type": "close",
+      "ticker": "BTC",
+      "direction": "SHORT",
+      "pnl": -1555.38,
+      "reason": "Take profit \u2014 BTC dropped 3.96% from entry. Bullish RSI divergence forming. Reduce short bias in RISK-ON regime (VIX 18.41). Profit ~\u20ac1,329 (+19.8% on allocated capital).",
+      "date": "2026-06-29T04:17",
+      "id": 39
+    },
+    {
+      "type": "close",
+      "ticker": "IWM",
+      "direction": "SHORT",
+      "pnl": -3873.45,
+      "reason": "Apenas 1/4 condicoes SHORT preenchidas (RSI overbought mas MACD bullish, uptrend intacta). Redeploy capital para setups mais fortes.",
+      "date": "2026-06-29T03:59",
+      "id": 56
+    },
+    {
+      "type": "close",
+      "ticker": "GLD",
+      "direction": "LONG",
+      "pnl": -3873.45,
+      "reason": "Posi\u00e7\u00e3o duplicada #53 \u2014 consolidar exposi\u00e7\u00e3o LONG GLD",
+      "date": "2026-06-29T03:03",
+      "id": 51
+    },
+    {
+      "type": "close",
+      "ticker": "GLD",
+      "direction": "LONG",
+      "pnl": -2582.3,
+      "reason": "Posi\u00e7\u00e3o duplicada #53 \u2014 consolidar exposi\u00e7\u00e3o LONG GLD",
+      "date": "2026-06-29T03:03",
+      "id": 53
+    },
+    {
+      "type": "close",
+      "ticker": "USO",
+      "direction": "SHORT",
+      "pnl": -5164.6,
+      "reason": "Redu\u00e7\u00e3o defensiva \u2014 P&L semanal < -5%, convic\u00e7\u00e3o baixa no SHORT USO",
+      "date": "2026-06-29T03:03",
+      "id": 60
+    },
+    {
+      "type": "close",
+      "ticker": "EZU",
+      "direction": "SHORT",
+      "pnl": -5164.6,
+      "reason": "Redu\u00e7\u00e3o defensiva \u2014 Euro Stoxx sideways sem momentum direcional",
+      "date": "2026-06-29T03:03",
+      "id": 57
+    },
+    {
+      "type": "close_partial",
+      "ticker": "BNB",
+      "direction": "SHORT",
+      "pnl": -2582.3,
+      "reason": "Redu\u00e7\u00e3o defensiva \u2014 crypto em decl\u00ednio, reduzir exposi\u00e7\u00e3o",
+      "date": "2026-06-29T03:03",
+      "id": 58
+    },
     {
       "type": "close",
       "ticker": "TLT",
@@ -2201,87 +2356,6 @@
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-13T02:24",
       "id": 31
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": -0.03,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-12T22:42",
-      "id": 31
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": -0.09,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-12T22:32",
-      "id": 31
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "SOL",
-      "direction": "SHORT",
-      "pnl": -0.02,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-12T19:41",
-      "id": 29
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "SOL",
-      "direction": "SHORT",
-      "pnl": 0.12,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-12T19:31",
-      "id": 29
-    },
-    {
-      "type": "sl_hit",
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": 1.85,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-05-12T19:11",
-      "id": 24
-    },
-    {
-      "type": "sl_hit",
-      "ticker": "AVAX",
-      "direction": "SHORT",
-      "pnl": 2.51,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-05-12T19:11",
-      "id": 25
-    },
-    {
-      "type": "close",
-      "ticker": "AAPL",
-      "direction": "SHORT",
-      "pnl": -0.6,
-      "reason": "SHORT contra UPTREND confirmado (RSI 59.2, +0.62% hoje) \u2014 PTJ: nunca contra a tend\u00eancia. Posi\u00e7\u00e3o em perda leve (-0.82\u20ac) sem catalisador de revers\u00e3o. Acima limite 25% (28.1%).",
-      "date": "2026-05-12T19:03",
-      "id": 26
-    },
-    {
-      "type": "close",
-      "ticker": "SOL",
-      "direction": "SHORT",
-      "pnl": 3.91,
-      "reason": "SHORT a lutar contra UPTREND RSI 77.4 \u2014 PTJ: nunca contra a tend\u00eancia. Liberta slot para AMD SHORT com melhor setup.",
-      "date": "2026-05-12T18:54",
-      "id": 23
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "AAPL",
-      "direction": "SHORT",
-      "pnl": -0.27,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-12T15:00",
-      "id": 26
     }
   ],
   "session_analysis": [
