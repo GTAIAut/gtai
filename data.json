@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T07:00:37.260478+00:00",
+  "generated_at": "2026-06-29T07:15:37.404980+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1749,21 +1749,6 @@
   ],
   "news_alerts": [
     {
-      "time": "26/06 12:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Leverage Surge Amplifying Downside Market Moves, NewEdge CIO Dawson Says",
-      "title": "Leverage Surge Amplifying Downside Market Moves, NewEdge CIO Dawson Says"
-    },
-    {
-      "time": "26/06 12:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Should Capitalize On This Trend",
-      "title": "China Should Capitalize On This Trend"
-    },
-    {
-      "time": "26/06 13:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Boeing Wins Jet Deal From China Southern Valued at $3.62 Billion",
-      "title": "Boeing Wins Jet Deal From China Southern Valued at $3.62 Billion"
-    },
-    {
       "time": "26/06 13:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Lebanon\u2019s 400% Bond Rally Fades as War Wrecks Debt Recovery Math",
       "title": "Lebanon\u2019s 400% Bond Rally Fades as War Wrecks Debt Recovery Math"
@@ -1847,6 +1832,21 @@
       "time": "29/06 07:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Tech ETF Sees Record Inflow Despite Global Chip Selloff",
       "title": "China Tech ETF Sees Record Inflow Despite Global Chip Selloff"
+    },
+    {
+      "time": "29/06 08:15",
+      "source": "**NYT World**: U.S. Indicates a Deal to Suspend Attacks in Strait but Iran Hasn\u2019t Confirmed",
+      "title": "U.S. Indicates a Deal to Suspend Attacks in Strait but Iran Hasn\u2019t Confirmed"
+    },
+    {
+      "time": "29/06 08:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Spanish Inflation Unexpectedly Holds Well Above ECB Target",
+      "title": "Spanish Inflation Unexpectedly Holds Well Above ECB Target"
+    },
+    {
+      "time": "29/06 08:15",
+      "source": "**NYT World**: Helicopter Crash Near Major Saudi Oil Refinery Kills 14 People",
+      "title": "Helicopter Crash Near Major Saudi Oil Refinery Kills 14 People"
     }
   ]
 }
