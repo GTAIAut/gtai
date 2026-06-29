@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T09:30:36.624820+00:00",
+  "generated_at": "2026-06-29T09:45:36.825710+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1691,11 +1691,6 @@
   ],
   "news_alerts": [
     {
-      "time": "26/06 15:45",
-      "source": "\ud83d\udcf0 **BBC News**: Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
-      "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents"
-    },
-    {
       "time": "26/06 16:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Three Gorges Is Said In Talks to Buy German Wind Assets",
       "title": "China Three Gorges Is Said In Talks to Buy German Wind Assets"
@@ -1789,6 +1784,11 @@
       "time": "29/06 10:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Israel, Lebanon Reach Framework Deal",
       "title": "Israel, Lebanon Reach Framework Deal"
+    },
+    {
+      "time": "29/06 10:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Births Two Robot Unicorns as Sector Funding Stays Strong",
+      "title": "China Births Two Robot Unicorns as Sector Funding Stays Strong"
     }
   ]
 }
