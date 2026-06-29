@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T11:45:36.715640+00:00",
+  "generated_at": "2026-06-29T12:00:36.730237+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1691,11 +1691,6 @@
   ],
   "news_alerts": [
     {
-      "time": "26/06 17:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Oil Tanker Earnings Plunge by $200,000 as More Return to Hormuz",
-      "title": "Oil Tanker Earnings Plunge by $200,000 as More Return to Hormuz"
-    },
-    {
       "time": "26/06 18:15",
       "source": "**Cointelegraph**: Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position",
       "title": "Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position"
@@ -1789,6 +1784,11 @@
       "time": "29/06 12:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Mercuria Signs First Uranium Financing Deal With Malawi Miner",
       "title": "Mercuria Signs First Uranium Financing Deal With Malawi Miner"
+    },
+    {
+      "time": "29/06 13:00",
+      "source": "**NYT World**: Mideast Live Updates: U.S. and Iran Set for New Talks in Qatar, Trump Says",
+      "title": "Mideast Live Updates: U.S. and Iran Set for New Talks in Qatar, Trump Says"
     }
   ]
 }
