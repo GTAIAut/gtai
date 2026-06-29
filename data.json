@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T05:45:37.326737+00:00",
+  "generated_at": "2026-06-29T06:00:37.296891+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1749,16 +1749,6 @@
   ],
   "news_alerts": [
     {
-      "time": "26/06 10:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Wall Street Embraces Dollar as Warsh\u2019s Fed Activates Bulls",
-      "title": "Wall Street Embraces Dollar as Warsh\u2019s Fed Activates Bulls"
-    },
-    {
-      "time": "26/06 11:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Climbs Above $4,000 After Inflation Print Slows Decline",
-      "title": "Gold Climbs Above $4,000 After Inflation Print Slows Decline"
-    },
-    {
       "time": "26/06 12:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Leverage Surge Amplifying Downside Market Moves, NewEdge CIO Dawson Says",
       "title": "Leverage Surge Amplifying Downside Market Moves, NewEdge CIO Dawson Says"
@@ -1847,6 +1837,16 @@
       "time": "29/06 06:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Declines as Fresh US-Iran Tension Fans Inflation Concerns",
       "title": "Gold Declines as Fresh US-Iran Tension Fans Inflation Concerns"
+    },
+    {
+      "time": "29/06 07:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Verizon, BT Are Said to Near JV Deal for International Business",
+      "title": "Verizon, BT Are Said to Near JV Deal for International Business"
+    },
+    {
+      "time": "29/06 07:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Tech ETF Sees Record Inflow Despite Global Chip Selloff",
+      "title": "China Tech ETF Sees Record Inflow Despite Global Chip Selloff"
     }
   ]
 }
