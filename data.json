@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T09:45:36.825710+00:00",
+  "generated_at": "2026-06-29T10:00:36.673995+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1691,16 +1691,6 @@
   ],
   "news_alerts": [
     {
-      "time": "26/06 16:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Three Gorges Is Said In Talks to Buy German Wind Assets",
-      "title": "China Three Gorges Is Said In Talks to Buy German Wind Assets"
-    },
-    {
-      "time": "26/06 16:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Euro Zone Probably Saw First Inflation Slowdown Since Iran War Began",
-      "title": "Euro Zone Probably Saw First Inflation Slowdown Since Iran War Began"
-    },
-    {
       "time": "26/06 16:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: US Oil Plunges Below $70 as Ships Keep Crossing Strait of Hormuz",
       "title": "US Oil Plunges Below $70 as Ships Keep Crossing Strait of Hormuz"
@@ -1789,6 +1779,16 @@
       "time": "29/06 10:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Births Two Robot Unicorns as Sector Funding Stays Strong",
       "title": "China Births Two Robot Unicorns as Sector Funding Stays Strong"
+    },
+    {
+      "time": "29/06 11:00",
+      "source": "**NYT World**: Whatever You Do in Russia, Don\u2019t Talk About the War",
+      "title": "Whatever You Do in Russia, Don\u2019t Talk About the War"
+    },
+    {
+      "time": "29/06 11:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Drops as Traders Watch Iran Tensions for Inflation Outlook",
+      "title": "Gold Drops as Traders Watch Iran Tensions for Inflation Outlook"
     }
   ]
 }
