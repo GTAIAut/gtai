@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T10:00:36.673995+00:00",
+  "generated_at": "2026-06-29T10:15:36.714045+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1691,11 +1691,6 @@
   ],
   "news_alerts": [
     {
-      "time": "26/06 16:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: US Oil Plunges Below $70 as Ships Keep Crossing Strait of Hormuz",
-      "title": "US Oil Plunges Below $70 as Ships Keep Crossing Strait of Hormuz"
-    },
-    {
       "time": "26/06 17:00",
       "source": "**Cointelegraph**: Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter \u2018deep bear market\u2019",
       "title": "Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter \u2018deep bear market\u2019"
@@ -1789,6 +1784,11 @@
       "time": "29/06 11:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Drops as Traders Watch Iran Tensions for Inflation Outlook",
       "title": "Gold Drops as Traders Watch Iran Tensions for Inflation Outlook"
+    },
+    {
+      "time": "29/06 11:15",
+      "source": "**NYT World**: Mideast Live Updates: U.S. Reaches Deal With Iran to Halt Attacks, Official Says",
+      "title": "Mideast Live Updates: U.S. Reaches Deal With Iran to Halt Attacks, Official Says"
     }
   ]
 }
