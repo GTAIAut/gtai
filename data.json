@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-06-29T00:22:15.712875+00:00",
+  "generated_at": "2026-06-29T00:26:55.899004+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -31813.92,
-    "total_pnl_pct": -63.63,
-    "cash_eur": 10551.36,
-    "invested_eur": 41094.65,
+    "total_pnl_eur": -53775.57,
+    "total_pnl_pct": -107.55,
+    "cash_eur": 22183.81,
+    "invested_eur": 29462.2,
     "portfolio_value": 51646.01,
-    "open_positions": 7,
-    "total_trades": 85,
-    "win_rate": 40.0,
+    "open_positions": 4,
+    "total_trades": 92,
+    "win_rate": 37.0,
     "total_wins": 34,
-    "total_losses": 51,
+    "total_losses": 58,
     "avg_win": 2.86,
-    "avg_loss": -625.71,
+    "avg_loss": -928.84,
     "best_trade": {
       "id": 29,
       "ticker": "SOL",
@@ -501,6 +501,41 @@
     },
     {
       "date": "2026-06-29",
+      "value": 16882.83,
+      "trade": "ETH SHORT"
+    },
+    {
+      "date": "2026-06-29",
+      "value": 9135.93,
+      "trade": "IWM SHORT"
+    },
+    {
+      "date": "2026-06-29",
+      "value": 3971.33,
+      "trade": "QQQ LONG"
+    },
+    {
+      "date": "2026-06-29",
+      "value": 3971.33,
+      "trade": "GLD LONG"
+    },
+    {
+      "date": "2026-06-29",
+      "value": 3971.33,
+      "trade": "GLD LONG"
+    },
+    {
+      "date": "2026-06-29",
+      "value": -676.81,
+      "trade": "GLD LONG"
+    },
+    {
+      "date": "2026-06-29",
+      "value": -3775.57,
+      "trade": "GLD LONG"
+    },
+    {
+      "date": "2026-06-29",
       "value": 51646.01
     }
   ],
@@ -511,17 +546,25 @@
     },
     {
       "month": "2026-06",
-      "pnl": -31792.44
+      "pnl": -53754.09
     }
   ],
   "ticker_pnl": [
     {
       "ticker": "IWM",
-      "pnl": -10790.27
+      "pnl": -18537.17
+    },
+    {
+      "ticker": "GLD",
+      "pnl": -7746.73
     },
     {
       "ticker": "XRP",
       "pnl": -6197.52
+    },
+    {
+      "ticker": "QQQ",
+      "pnl": -5167.3
     },
     {
       "ticker": "TLT",
@@ -534,6 +577,10 @@
     {
       "ticker": "AVAX",
       "pnl": -4139.52
+    },
+    {
+      "ticker": "ETH",
+      "pnl": -1304.83
     },
     {
       "ticker": "USO",
@@ -572,20 +619,8 @@
       "pnl": -4.88
     },
     {
-      "ticker": "QQQ",
-      "pnl": -2.7
-    },
-    {
-      "ticker": "ETH",
-      "pnl": -1.58
-    },
-    {
       "ticker": "SPY",
       "pnl": 0.26
-    },
-    {
-      "ticker": "GLD",
-      "pnl": 0.17
     }
   ],
   "forecast": [
@@ -700,24 +735,34 @@
       "forecast": false
     },
     {
+      "date": "2026-06-29",
+      "value": 3971.33,
+      "forecast": false
+    },
+    {
+      "date": "2026-06-29",
+      "value": -3775.57,
+      "forecast": false
+    },
+    {
       "date": "2026-07-29",
-      "value": 28521.54,
-      "lower": 18403.15,
-      "upper": 38639.93,
+      "value": 15791.35,
+      "lower": 565.24,
+      "upper": 31017.46,
       "forecast": true
     },
     {
       "date": "2026-08-28",
-      "value": 20182.83,
-      "lower": 10064.44,
-      "upper": 30301.21,
+      "value": 2499.69,
+      "lower": -12726.41,
+      "upper": 17725.8,
       "forecast": true
     },
     {
       "date": "2026-09-27",
-      "value": 11844.11,
-      "lower": 1725.73,
-      "upper": 21962.5,
+      "value": -10791.96,
+      "lower": -26018.07,
+      "upper": 4434.15,
       "forecast": true
     }
   ],
@@ -1154,6 +1199,41 @@
     },
     {
       "date": "2026-06-29",
+      "drawdown_pct": 66.26,
+      "value": 16882.83
+    },
+    {
+      "date": "2026-06-29",
+      "drawdown_pct": 81.74,
+      "value": 9135.93
+    },
+    {
+      "date": "2026-06-29",
+      "drawdown_pct": 92.06,
+      "value": 3971.33
+    },
+    {
+      "date": "2026-06-29",
+      "drawdown_pct": 92.06,
+      "value": 3971.33
+    },
+    {
+      "date": "2026-06-29",
+      "drawdown_pct": 92.06,
+      "value": 3971.33
+    },
+    {
+      "date": "2026-06-29",
+      "drawdown_pct": 101.35,
+      "value": -676.81
+    },
+    {
+      "date": "2026-06-29",
+      "drawdown_pct": 107.55,
+      "value": -3775.57
+    },
+    {
+      "date": "2026-06-29",
       "drawdown_pct": 0.0,
       "value": 51646.01
     }
@@ -1166,7 +1246,7 @@
       "size": 0.5678,
       "invested": 6221.5,
       "leverage": 5,
-      "sl": 52800,
+      "sl": 53000,
       "tp1": 49500.0,
       "tp2": 46000.0,
       "budget_pct": 13.2,
@@ -1175,40 +1255,6 @@
       "at_tp1": false,
       "reason": "Fear&Greed 14 extreme fear + BTC -14.4% abaixo MA50 + downtrend + decoupling tech Cointelegraph + sem catalisador positivo + R/R 2.65:1",
       "opened_at": "2026-06-19T06:11:00.036768"
-    },
-    {
-      "ticker": "ETH",
-      "direction": "SHORT",
-      "entry": 1477.92,
-      "size": 1.7635,
-      "invested": 1303.25,
-      "leverage": 2,
-      "sl": 1430,
-      "tp1": 1389.24,
-      "tp2": null,
-      "budget_pct": 10.0,
-      "confidence": 7,
-      "is_crypto": true,
-      "at_tp1": false,
-      "reason": "(downtrend + Fear&Greed 14)",
-      "opened_at": "2026-06-19T10:10:19.254151"
-    },
-    {
-      "ticker": "GLD",
-      "direction": "LONG",
-      "entry": 328.03,
-      "size": 47.2329,
-      "invested": 7746.9,
-      "leverage": 2,
-      "sl": 324,
-      "tp1": 340,
-      "tp2": 348,
-      "budget_pct": 15,
-      "confidence": 8,
-      "is_crypto": false,
-      "at_tp1": false,
-      "reason": "Geopolitical tailwind Ir\u00e3o/USA + helicopter crash Saudi refinery, gold +1.41% hoje",
-      "opened_at": "2026-06-28T19:54:05.323791+01:00"
     },
     {
       "ticker": "SPY",
@@ -1230,56 +1276,88 @@
     {
       "ticker": "GLD",
       "direction": "LONG",
-      "entry": 328,
-      "size": 31.4915,
-      "invested": 5164.6,
-      "leverage": 2,
-      "sl": 324,
-      "tp1": 338,
-      "tp2": 345,
-      "budget_pct": 10,
-      "confidence": 7,
-      "is_crypto": false,
-      "at_tp1": false,
-      "reason": "ADD GLD. Ouro +1.41% com tens\u00f5es geopol\u00edticas (Ir\u00e3o, Venezuela, Ar\u00e1bia). Safe haven flow. Tend\u00eancia de alta confirmada.",
-      "opened_at": "2026-06-28T21:10:18.567983+01:00"
-    },
-    {
-      "ticker": "IWM",
-      "direction": "SHORT",
-      "entry": 263.24,
-      "size": 58.8581,
+      "entry": 328.03,
+      "size": 47.2329,
       "invested": 7746.9,
       "leverage": 2,
-      "sl": 270,
-      "tp1": 252,
-      "tp2": 243,
+      "sl": 322.0,
+      "tp1": 340.0,
+      "tp2": null,
       "budget_pct": 15,
       "confidence": 8,
       "is_crypto": false,
       "at_tp1": false,
-      "reason": "RSI 73.6 OVERBOUGHT + MACD bearish divergence + SPY em downtrend. IWM \u00e9 a small cap mais estendida e vulner\u00e1vel a corre\u00e7\u00e3o.",
-      "opened_at": "2026-06-28T21:44:55.080072+01:00"
+      "reason": "Gold +1.41% hoje, safe haven com tens\u00f5es US-Ir\u00e3o. Ouro a beneficiar de yields decrescentes e incerteza geopol\u00edtica.",
+      "opened_at": "2026-06-29T01:26:41.685684+01:00"
+    },
+    {
+      "ticker": "QQQ",
+      "direction": "SHORT",
+      "entry": 620.3,
+      "size": 24.9779,
+      "invested": 7746.9,
+      "leverage": 2,
+      "sl": 635.0,
+      "tp1": 600.0,
+      "tp2": null,
+      "budget_pct": 15,
+      "confidence": 7,
+      "is_crypto": false,
+      "at_tp1": false,
+      "reason": "Tech sell-off -1.2% hoje, MACD histograma a cair, SPY em downtrend arrasta QQQ. RSI neutro 50.7 mas momento descendente.",
+      "opened_at": "2026-06-29T01:26:41.685709+01:00"
+    }
+  ],
+  "recent_trades": [
+    {
+      "ticker": "GLD",
+      "direction": "LONG",
+      "pnl": -3098.76,
+      "reason": "Fechar posi\u00e7\u00e3o #48 restante. Consolidar para posi\u00e7\u00e3o \u00fanica de ouro.",
+      "closed_at": "2026-06-29T01:26:15.215398+01:00"
+    },
+    {
+      "ticker": "GLD",
+      "direction": "LONG",
+      "pnl": -4648.14,
+      "reason": "Fechar posi\u00e7\u00e3o #48 restante. Consolidar para posi\u00e7\u00e3o \u00fanica de ouro.",
+      "closed_at": "2026-06-29T01:26:15.215382+01:00"
+    },
+    {
+      "ticker": "GLD",
+      "direction": "LONG",
+      "pnl": 0.0,
+      "reason": "\u2702\ufe0f Consolidar exposi\u00e7\u00e3o duplicada em ouro. Manter posi\u00e7\u00e3o #42 (15% budget). Fechar #48 (10% budget). (40%)",
+      "closed_at": "2026-06-29T01:25:57.699874+01:00"
+    },
+    {
+      "ticker": "GLD",
+      "direction": "LONG",
+      "pnl": 0.0,
+      "reason": "\u2702\ufe0f Consolidar exposi\u00e7\u00e3o duplicada em ouro. Manter posi\u00e7\u00e3o #42 (15% budget). Fechar #48 (10% budget). (40%)",
+      "closed_at": "2026-06-29T01:25:57.699869+01:00"
     },
     {
       "ticker": "QQQ",
       "direction": "LONG",
-      "entry": 620.3,
-      "size": 16.6519,
-      "invested": 5164.6,
-      "leverage": 2,
-      "sl": 610,
-      "tp1": 640,
-      "tp2": 655,
-      "budget_pct": 10,
-      "confidence": 7,
-      "is_crypto": false,
-      "at_tp1": false,
-      "reason": "QQQ at lower BB (22.4%), RSI 50.7 neutral, S1 support at 619.5. Potential bounce. Hedge against heavy short bias.",
-      "opened_at": "2026-06-29T01:03:25.273676+01:00"
-    }
-  ],
-  "recent_trades": [
+      "pnl": -5164.6,
+      "reason": "Baixa convic\u00e7\u00e3o, mercado tech a cair -1.2%. Redu\u00e7\u00e3o defensiva.",
+      "closed_at": "2026-06-29T01:25:57.699861+01:00"
+    },
+    {
+      "ticker": "IWM",
+      "direction": "SHORT",
+      "pnl": -7746.9,
+      "reason": "SHORT contra uptrend, RSI 73.6 overbought mas momentum ascendente. Modo defensivo.",
+      "closed_at": "2026-06-29T01:25:57.699852+01:00"
+    },
+    {
+      "ticker": "ETH",
+      "direction": "SHORT",
+      "pnl": -1303.25,
+      "reason": "Take profit \u2014 price abaixo de TP1, reduzindo exposi\u00e7\u00e3o defensiva",
+      "closed_at": "2026-06-29T01:25:57.699829+01:00"
+    },
     {
       "ticker": "ETH",
       "direction": "SHORT",
@@ -1370,62 +1448,20 @@
       "pnl": 0.0,
       "reason": "\u2702\ufe0f RSI 73.6 overbought, BB 89% \u2014 reduzir exposicao num LONG contraditorio com SPY downtrend. (50%)",
       "closed_at": "2026-06-28T20:16:39.257545+01:00"
-    },
-    {
-      "ticker": "AVAX",
-      "direction": "SHORT",
-      "pnl": -4148.0,
-      "reason": "Underwater, momentum contra. Manter short bias crypto via BTC+ETH+XRP.",
-      "closed_at": "2026-06-28T20:16:39.257523+01:00"
-    },
-    {
-      "ticker": "BTC",
-      "direction": "LONG",
-      "pnl": -5.01,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "closed_at": "2026-06-18T16:41:04.320524"
-    },
-    {
-      "ticker": "GLD",
-      "direction": "LONG",
-      "pnl": 0.45,
-      "reason": "Contra-tend\u00eancia + R/R 1.78:1 < 2:1 + Risk Manager rejeitou",
-      "closed_at": "2026-06-17T10:13:41.818281"
-    },
-    {
-      "ticker": "BTC",
-      "direction": "LONG",
-      "pnl": -0.12,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "closed_at": "2026-06-17T06:24:35.690307"
-    },
-    {
-      "ticker": "BTC",
-      "direction": "LONG",
-      "pnl": -0.09,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "closed_at": "2026-06-17T06:14:31.660738"
-    },
-    {
-      "ticker": "USO",
-      "direction": "SHORT",
-      "pnl": 0.31,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "closed_at": "2026-06-16T16:10:03.078599"
-    },
-    {
-      "ticker": "IWM",
-      "direction": "LONG",
-      "pnl": 0.13,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "closed_at": "2026-06-16T16:10:03.078437"
     }
   ],
   "recent_sessions": [
     {
-      "id": "14a16c47",
+      "id": "a4fb436d",
       "agent": "Desconhecido",
       "status": "running",
+      "created": "2026-06-29T00:24:50.092Z",
+      "completed": ""
+    },
+    {
+      "id": "14a16c47",
+      "agent": "Desconhecido",
+      "status": "succeeded",
       "created": "2026-06-29T00:20:20.029Z",
       "completed": ""
     },
@@ -1554,16 +1590,72 @@
       "status": "cancelled",
       "created": "2026-06-28T20:41:40.043Z",
       "completed": ""
-    },
-    {
-      "id": "1d4e3954",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-28T20:41:16.324Z",
-      "completed": ""
     }
   ],
   "activity_feed": [
+    {
+      "type": "close",
+      "ticker": "GLD",
+      "direction": "LONG",
+      "pnl": -4648.14,
+      "reason": "Fechar posi\u00e7\u00e3o #48 restante. Consolidar para posi\u00e7\u00e3o \u00fanica de ouro.",
+      "date": "2026-06-29T01:26",
+      "id": 42
+    },
+    {
+      "type": "close",
+      "ticker": "GLD",
+      "direction": "LONG",
+      "pnl": -3098.76,
+      "reason": "Fechar posi\u00e7\u00e3o #48 restante. Consolidar para posi\u00e7\u00e3o \u00fanica de ouro.",
+      "date": "2026-06-29T01:26",
+      "id": 48
+    },
+    {
+      "type": "tp_hit",
+      "ticker": "ETH",
+      "direction": "SHORT",
+      "pnl": -1303.25,
+      "reason": "Take profit \u2014 price abaixo de TP1, reduzindo exposi\u00e7\u00e3o defensiva",
+      "date": "2026-06-29T01:25",
+      "id": 41
+    },
+    {
+      "type": "close",
+      "ticker": "IWM",
+      "direction": "SHORT",
+      "pnl": -7746.9,
+      "reason": "SHORT contra uptrend, RSI 73.6 overbought mas momentum ascendente. Modo defensivo.",
+      "date": "2026-06-29T01:25",
+      "id": 49
+    },
+    {
+      "type": "close",
+      "ticker": "QQQ",
+      "direction": "LONG",
+      "pnl": -5164.6,
+      "reason": "Baixa convic\u00e7\u00e3o, mercado tech a cair -1.2%. Redu\u00e7\u00e3o defensiva.",
+      "date": "2026-06-29T01:25",
+      "id": 50
+    },
+    {
+      "type": "close",
+      "ticker": "GLD",
+      "direction": "LONG",
+      "pnl": 0.0,
+      "reason": "\u2702\ufe0f Consolidar exposi\u00e7\u00e3o duplicada em ouro. Manter posi\u00e7\u00e3o #42 (15% budget). Fechar #48 (10% budget). (40%)",
+      "date": "2026-06-29T01:25",
+      "id": 42
+    },
+    {
+      "type": "close",
+      "ticker": "GLD",
+      "direction": "LONG",
+      "pnl": 0.0,
+      "reason": "\u2702\ufe0f Consolidar exposi\u00e7\u00e3o duplicada em ouro. Manter posi\u00e7\u00e3o #42 (15% budget). Fechar #48 (10% budget). (40%)",
+      "date": "2026-06-29T01:25",
+      "id": 48
+    },
     {
       "type": "tp_hit",
       "ticker": "USO",
@@ -2040,69 +2132,6 @@
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-11T22:54",
       "id": 23
-    },
-    {
-      "type": "close_partial",
-      "ticker": "AVAX",
-      "direction": "SHORT",
-      "pnl": -0.69,
-      "reason": "Setor cripto extremamente overbought (SOL RSI 84.3 proxy). Compliance j\u00e1 reduziu 33% na sess\u00e3o anterior. Fechar para libertar slot e reduzir exposi\u00e7\u00e3o cripto no pico.",
-      "date": "2026-05-11T22:24",
-      "id": 17
-    },
-    {
-      "type": "close",
-      "ticker": "SOL",
-      "direction": "SHORT",
-      "pnl": -4.95,
-      "reason": "Posi\u00e7\u00e3o em -8.4% \u2014 regra obrigat\u00f3ria de fecho em -8% sem catalisador de revers\u00e3o. SOL em UPTREND com RSI 66 e BB 84%, SHORT contra regime RISK-ON. SL a apenas 1.4% de dist\u00e2ncia.",
-      "date": "2026-05-11T22:02",
-      "id": 15
-    },
-    {
-      "type": "close",
-      "ticker": "TSLA",
-      "direction": "SHORT",
-      "pnl": -4.08,
-      "reason": "TSLA +3.98% hoje, RSI 74.5 overbought mas momentum bullish forte. SL a \u20ac382.75 vs atual \u20ac377.57 (1.4% margem). Fechar antes de SL.",
-      "date": "2026-05-11T22:02",
-      "id": 20
-    },
-    {
-      "type": "close",
-      "ticker": "QQQ",
-      "direction": "SHORT",
-      "pnl": -1.27,
-      "reason": "SHORT contr\u00e1rio ao regime RISK-ON, reduzido a 67%, slot necess\u00e1rio para sinal mais forte TSLA",
-      "date": "2026-05-11T16:54",
-      "id": 18
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "AVAX",
-      "direction": "SHORT",
-      "pnl": 0.0,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-11T12:40",
-      "id": 17
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "AVAX",
-      "direction": "SHORT",
-      "pnl": 0.16,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-11T12:30",
-      "id": 17
-    },
-    {
-      "type": "sl_hit",
-      "ticker": "AVAX",
-      "direction": "SHORT",
-      "pnl": 0.82,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-05-11T12:00",
-      "id": 16
     }
   ],
   "session_analysis": [
