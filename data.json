@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T14:45:36.785914+00:00",
+  "generated_at": "2026-06-29T15:00:36.711538+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1705,26 +1705,6 @@
   ],
   "news_alerts": [
     {
-      "time": "29/06 06:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Declines as Fresh US-Iran Tension Fans Inflation Concerns",
-      "title": "Gold Declines as Fresh US-Iran Tension Fans Inflation Concerns"
-    },
-    {
-      "time": "29/06 07:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Verizon, BT Are Said to Near JV Deal for International Business",
-      "title": "Verizon, BT Are Said to Near JV Deal for International Business"
-    },
-    {
-      "time": "29/06 07:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Tech ETF Sees Record Inflow Despite Global Chip Selloff",
-      "title": "China Tech ETF Sees Record Inflow Despite Global Chip Selloff"
-    },
-    {
-      "time": "29/06 08:15",
-      "source": "**NYT World**: U.S. Indicates a Deal to Suspend Attacks in Strait but Iran Hasn\u2019t Confirmed",
-      "title": "U.S. Indicates a Deal to Suspend Attacks in Strait but Iran Hasn\u2019t Confirmed"
-    },
-    {
       "time": "29/06 08:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Spanish Inflation Unexpectedly Holds Well Above ECB Target",
       "title": "Spanish Inflation Unexpectedly Holds Well Above ECB Target"
@@ -1803,6 +1783,26 @@
       "time": "29/06 15:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Kenya, Congo Eurobonds Among Top Winners From Iran War Trade Unwind",
       "title": "Kenya, Congo Eurobonds Among Top Winners From Iran War Trade Unwind"
+    },
+    {
+      "time": "29/06 16:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Comcast Rises on Split; Iridium Up on Rocket Lab Deal | Stock Movers",
+      "title": "Comcast Rises on Split; Iridium Up on Rocket Lab Deal | Stock Movers"
+    },
+    {
+      "time": "29/06 16:00",
+      "source": "\ud83d\udcf0 **BBC News**: Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case",
+      "title": "Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case"
+    },
+    {
+      "time": "29/06 16:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Supreme Court Rules Lisa Cook Can Remain at Fed for Now",
+      "title": "Supreme Court Rules Lisa Cook Can Remain at Fed for Now"
+    },
+    {
+      "time": "29/06 16:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Supreme Court Thwarts Trump Bid to Oust Fed\u2019s Cook for Now",
+      "title": "Supreme Court Thwarts Trump Bid to Oust Fed\u2019s Cook for Now"
     }
   ]
 }
