@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T04:45:37.354375+00:00",
+  "generated_at": "2026-06-29T05:00:38.835533+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -59,7 +59,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "13/20",
+    "recent_session_rate": "8/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -961,6 +961,48 @@
   ],
   "recent_sessions": [
     {
+      "id": "9e622f2e",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-29T05:00:22.169Z",
+      "completed": ""
+    },
+    {
+      "id": "d770291d",
+      "agent": "Desconhecido",
+      "status": "failed",
+      "created": "2026-06-29T05:00:21.865Z",
+      "completed": ""
+    },
+    {
+      "id": "aa7d69b3",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-29T05:00:21.533Z",
+      "completed": ""
+    },
+    {
+      "id": "20ee4abe",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-29T05:00:21.270Z",
+      "completed": ""
+    },
+    {
+      "id": "44c56add",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-29T05:00:20.955Z",
+      "completed": ""
+    },
+    {
+      "id": "257a84e5",
+      "agent": "Desconhecido",
+      "status": "running",
+      "created": "2026-06-29T05:00:20.788Z",
+      "completed": ""
+    },
+    {
       "id": "082f631b",
       "agent": "Desconhecido",
       "status": "succeeded",
@@ -1057,51 +1099,17 @@
       "status": "succeeded",
       "created": "2026-06-26T09:00:16.740Z",
       "completed": ""
-    },
-    {
-      "id": "2cef7ce9",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-26T09:00:16.406Z",
-      "completed": ""
-    },
-    {
-      "id": "b603e33a",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-26T09:00:16.190Z",
-      "completed": ""
-    },
-    {
-      "id": "f4b21aef",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-26T09:00:15.894Z",
-      "completed": ""
-    },
-    {
-      "id": "f121563a",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-26T09:00:15.566Z",
-      "completed": ""
-    },
-    {
-      "id": "5fbe17e8",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-26T05:10:43.833Z",
-      "completed": ""
-    },
-    {
-      "id": "33307a9a",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-26T05:07:39.038Z",
-      "completed": ""
     }
   ],
   "activity_feed": [
+    {
+      "type": "session",
+      "session_type": "TARDE",
+      "session_num": 59,
+      "date": "26/06/2026 14:09",
+      "title": "Postmortem TARDE 59 concluido. Score 5.5/10. Alertas: (1) SOL LONG em RISK-OFF incoerente, (2) ETH 12%/5x duplica exposicao, (3) concentracao 4 crypto",
+      "score": "5.5"
+    },
     {
       "type": "session",
       "session_type": "MEIODIA",
@@ -1173,14 +1181,6 @@
       "date": "23/06/2026 10:10",
       "title": "Postmortem conclu\u00eddo e registado no coment\u00e1rio acima. Score: 7/10 \u2014 decis\u00f5es alinhadas com macro, mas exposi\u00e7\u00e3o curta agregada elevada (~90%) com cash",
       "score": "7"
-    },
-    {
-      "type": "session",
-      "session_type": "MANHA",
-      "session_num": 48,
-      "date": "23/06/2026 06:11",
-      "title": "Postmortem conclu\u00eddo \u2014 Score: 6.5/10",
-      "score": "6.5"
     },
     {
       "type": "sl_hit",
@@ -1635,6 +1635,14 @@
   ],
   "session_analysis": [
     {
+      "session_type": "TARDE",
+      "session_num": 59,
+      "date": "26/06/2026 14:09",
+      "summary": "Postmortem TARDE #59 concluido. Score 5.5/10. Alertas: (1) SOL LONG em RISK-OFF incoerente, (2) ETH 12%/5x duplica exposicao, (3) concentracao 4 crypto, (4) discrepancia cash recorrente.",
+      "trades": [],
+      "findings": []
+    },
+    {
       "session_type": "MEIODIA",
       "session_num": 58,
       "date": "26/06/2026 10:10",
@@ -1711,16 +1719,6 @@
       "summary": "Postmortem conclu\u00eddo e registado no coment\u00e1rio acima. Score: 7/10 \u2014 decis\u00f5es alinhadas com macro, mas exposi\u00e7\u00e3o curta agregada elevada (~90%) com cash reduzido (~33%) \u00e9 o principal ponto de aten\u00e7\u00e3o para futuras sess\u00f5es.",
       "trades": [],
       "findings": []
-    },
-    {
-      "session_type": "MANHA",
-      "session_num": 48,
-      "date": "23/06/2026 06:11",
-      "summary": "## Postmortem conclu\u00eddo \u2014 Score: 6.5/10\n\nAn\u00e1lise cr\u00edtica publicada na \u00edntegra em coment\u00e1rio acima.\n\n**Resumo:**\n- \u2705 Sess\u00e3o correta na inten\u00e7\u00e3o (reduzir cash excessivo de 75% para ~27%)\n- \u2705 Boa diversifica\u00e7\u00e3o 3L/3S, US + Europa\n- \u26a0\ufe0f Aus\u00eancia de SL/TP no registo dos 4 novos trades \u2014 impede verifica\u00e7\u00e3o R/R\n- \u26a0\ufe0f Exposi\u00e7\u00e3o alavancada total ~108% \u2014 elevada para carteira de \u20ac50k\n- \u26a0\ufe0f Dados de portfolio inconsistentes no registo (cash \u20ac40,510 \u2260 27%)\n\n**Novas posi\u00e7\u00f5es registadas:**\n- #42 TLT SHORT | #43 SPY LONG | #44 EZU LONG | #45 NVDA SHORT\n\n**Atualiza\u00e7\u00f5es:**\n- #35 IWM: SL \u2192 \u20ac256 | P&L: +6.5%\n- #36 USO: CLOSE_PARTIAL 50% | RSI 24.7 oversold\n\n**5 li\u00e7\u00f5es para pr\u00f3ximas sess\u00f5es:** (1) SL/TP obrigat\u00f3rios (2) Staggering de entradas (3) Rasto de P&L entre sess\u00f5es (4) Limite exposi\u00e7\u00e3o alavancada (5) Sin",
-      "trades": [],
-      "findings": [
-        "- \u26a0\ufe0f Aus\u00eancia de SL/TP no registo dos 4 novos trades \u2014 impede verifica\u00e7\u00e3o R/R"
-      ]
     }
   ],
   "news_alerts": [
