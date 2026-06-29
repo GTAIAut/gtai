@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T15:30:37.003818+00:00",
+  "generated_at": "2026-06-29T15:45:36.807340+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1706,11 +1706,6 @@
   "news_alerts": [
     {
       "time": "29/06 08:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Spanish Inflation Unexpectedly Holds Well Above ECB Target",
-      "title": "Spanish Inflation Unexpectedly Holds Well Above ECB Target"
-    },
-    {
-      "time": "29/06 08:15",
       "source": "**NYT World**: Helicopter Crash Near Major Saudi Oil Refinery Kills 14 People",
       "title": "Helicopter Crash Near Major Saudi Oil Refinery Kills 14 People"
     },
@@ -1803,6 +1798,11 @@
       "time": "29/06 16:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Supreme Court Thwarts Trump Bid to Oust Fed\u2019s Cook for Now",
       "title": "Supreme Court Thwarts Trump Bid to Oust Fed\u2019s Cook for Now"
+    },
+    {
+      "time": "29/06 16:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Cook Stays at Fed But Trump Wins More Power Over Other Agencies",
+      "title": "Cook Stays at Fed But Trump Wins More Power Over Other Agencies"
     }
   ]
 }
