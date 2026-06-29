@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T08:30:37.364956+00:00",
+  "generated_at": "2026-06-29T08:35:13.220014+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -43,24 +43,24 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 0,
-        "total": 0
+        "ok": 284,
+        "total": 295
       },
       "Registador de Decis\u00f5es": {
-        "ok": 0,
-        "total": 0
+        "ok": 42,
+        "total": 45
       },
       "Analista T\u00e9cnico": {
-        "ok": 0,
-        "total": 0
+        "ok": 31,
+        "total": 33
       },
       "Gestor de Risco": {
-        "ok": 0,
-        "total": 0
+        "ok": 23,
+        "total": 25
       }
     },
-    "recent_session_rate": "12/20",
-    "all_sessions_rate": "0/0"
+    "recent_session_rate": "0/10",
+    "all_sessions_rate": "380/398"
   },
   "equity_curve": [
     {
@@ -987,143 +987,73 @@
   ],
   "recent_sessions": [
     {
-      "id": "1f23902d",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-29T05:15:30.409Z",
+      "id": "77254f69",
+      "agent": "Analista de A\u00e7\u00f5es",
+      "status": "error",
+      "created": "2026-06-29T05:00:28.657Z",
       "completed": ""
     },
     {
-      "id": "89363d3a",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-29T05:14:48.121Z",
+      "id": "55882e4a",
+      "agent": "Analista de Cripto",
+      "status": "idle",
+      "created": "2026-06-29T05:03:52.615Z",
       "completed": ""
     },
     {
-      "id": "f3a3bdb6",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-29T05:07:48.113Z",
+      "id": "a88b77ac",
+      "agent": "Analista de Forex e \u00cdndices",
+      "status": "idle",
+      "created": "2026-06-29T05:03:07.476Z",
       "completed": ""
     },
     {
-      "id": "b6bf381f",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-29T05:07:22.330Z",
+      "id": "60347f24",
+      "agent": "Analista Macro e Not\u00edcias",
+      "status": "idle",
+      "created": "2026-06-29T05:03:06.173Z",
       "completed": ""
     },
     {
-      "id": "9e622f2e",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-29T05:00:22.169Z",
+      "id": "95d86c9f",
+      "agent": "Analista T\u00e9cnico",
+      "status": "error",
+      "created": "2026-06-29T05:05:14.204Z",
       "completed": ""
     },
     {
-      "id": "d770291d",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-29T05:00:21.865Z",
+      "id": "14f33a21",
+      "agent": "Diretor de Investimentos",
+      "status": "idle",
+      "created": "2026-06-29T05:15:33.288Z",
       "completed": ""
     },
     {
-      "id": "aa7d69b3",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-29T05:00:21.533Z",
+      "id": "2489a9f7",
+      "agent": "Gestor de Risco",
+      "status": "idle",
+      "created": "2026-06-29T05:02:42.855Z",
       "completed": ""
     },
     {
-      "id": "20ee4abe",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-29T05:00:21.270Z",
+      "id": "fb9e75c9",
+      "agent": "Registador de Decis\u00f5es",
+      "status": "idle",
+      "created": "2026-06-29T05:17:12.579Z",
       "completed": ""
     },
     {
-      "id": "44c56add",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-29T05:00:20.955Z",
+      "id": "ce934c4c",
+      "agent": "CEO - Guilherme Trindade",
+      "status": "idle",
+      "created": "2026-03-30T20:41:31.232Z",
       "completed": ""
     },
     {
-      "id": "257a84e5",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-29T05:00:20.788Z",
-      "completed": ""
-    },
-    {
-      "id": "082f631b",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-26T13:09:28.107Z",
-      "completed": ""
-    },
-    {
-      "id": "4b023e43",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-26T13:07:39.756Z",
-      "completed": ""
-    },
-    {
-      "id": "cfb15833",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-26T13:07:23.956Z",
-      "completed": ""
-    },
-    {
-      "id": "16dc00eb",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-26T13:00:23.670Z",
-      "completed": ""
-    },
-    {
-      "id": "79d634e2",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-26T13:00:23.214Z",
-      "completed": ""
-    },
-    {
-      "id": "b50da221",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-26T13:00:22.682Z",
-      "completed": ""
-    },
-    {
-      "id": "7a972e05",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-26T13:00:22.430Z",
-      "completed": ""
-    },
-    {
-      "id": "588a583d",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-26T13:00:22.129Z",
-      "completed": ""
-    },
-    {
-      "id": "e193dfaf",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-26T13:00:21.526Z",
-      "completed": ""
-    },
-    {
-      "id": "ed26df17",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-26T09:10:27.005Z",
+      "id": "364fb07a",
+      "agent": "CEO - Guilherme Trindade",
+      "status": "idle",
+      "created": "2026-04-07T20:11:26.723Z",
       "completed": ""
     }
   ],
