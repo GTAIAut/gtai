@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T14:00:36.776679+00:00",
+  "generated_at": "2026-06-29T14:15:36.803249+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1034,7 +1034,7 @@
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
       "status": "idle",
-      "created": "2026-06-29T14:00:22.384Z",
+      "created": "2026-06-29T14:13:09.511Z",
       "completed": ""
     },
     {
@@ -1705,16 +1705,6 @@
   ],
   "news_alerts": [
     {
-      "time": "29/06 06:15",
-      "source": "**NYT World**: Mideast Live Updates: U.S. Indicates a Deal to Suspend Attacks in Strait but Iran Hasn\u2019t Confirmed",
-      "title": "Mideast Live Updates: U.S. Indicates a Deal to Suspend Attacks in Strait but Iran Hasn\u2019t Confirmed"
-    },
-    {
-      "time": "29/06 06:15",
-      "source": "**Cointelegraph**: Bullish Bitcoin RSI divergence has analysts calling for 2022-style bear market bottom",
-      "title": "Bullish Bitcoin RSI divergence has analysts calling for 2022-style bear market bottom"
-    },
-    {
       "time": "29/06 06:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Declines as Fresh US-Iran Tension Fans Inflation Concerns",
       "title": "Gold Declines as Fresh US-Iran Tension Fans Inflation Concerns"
@@ -1803,6 +1793,16 @@
       "time": "29/06 15:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: The Fed Will Stay Patient, Says Michael Darda",
       "title": "The Fed Will Stay Patient, Says Michael Darda"
+    },
+    {
+      "time": "29/06 15:15",
+      "source": "\ud83d\udcf0 **BBC News**: US Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case",
+      "title": "US Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case"
+    },
+    {
+      "time": "29/06 15:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Kenya, Congo Eurobonds Among Top Winners From Iran War Trade Unwind",
+      "title": "Kenya, Congo Eurobonds Among Top Winners From Iran War Trade Unwind"
     }
   ]
 }
