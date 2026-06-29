@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T13:45:36.924922+00:00",
+  "generated_at": "2026-06-29T14:00:36.776679+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -56,11 +56,11 @@
       },
       "Gestor de Risco": {
         "ok": 23,
-        "total": 25
+        "total": 26
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "385/403"
+    "all_sessions_rate": "385/404"
   },
   "equity_curve": [
     {
@@ -1033,8 +1033,8 @@
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "error",
-      "created": "2026-06-29T13:00:30.379Z",
+      "status": "idle",
+      "created": "2026-06-29T14:00:22.384Z",
       "completed": ""
     },
     {
@@ -1054,8 +1054,8 @@
     {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
-      "status": "running",
-      "created": "2026-06-29T13:00:30.410Z",
+      "status": "idle",
+      "created": "2026-06-29T13:50:26.711Z",
       "completed": ""
     },
     {
@@ -1705,11 +1705,6 @@
   ],
   "news_alerts": [
     {
-      "time": "26/06 18:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Ousts Six Military Lawmakers as Xi\u2019s Purge Continues",
-      "title": "China Ousts Six Military Lawmakers as Xi\u2019s Purge Continues"
-    },
-    {
       "time": "29/06 06:15",
       "source": "**NYT World**: Mideast Live Updates: U.S. Indicates a Deal to Suspend Attacks in Strait but Iran Hasn\u2019t Confirmed",
       "title": "Mideast Live Updates: U.S. Indicates a Deal to Suspend Attacks in Strait but Iran Hasn\u2019t Confirmed"
@@ -1803,6 +1798,11 @@
       "time": "29/06 14:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Hormuz Oil Transits Continue Though Attacks Make Owners Wary",
       "title": "Hormuz Oil Transits Continue Though Attacks Make Owners Wary"
+    },
+    {
+      "time": "29/06 15:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: The Fed Will Stay Patient, Says Michael Darda",
+      "title": "The Fed Will Stay Patient, Says Michael Darda"
     }
   ]
 }
