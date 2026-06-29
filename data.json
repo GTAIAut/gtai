@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T12:15:36.718303+00:00",
+  "generated_at": "2026-06-29T12:30:36.706799+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1691,11 +1691,6 @@
   ],
   "news_alerts": [
     {
-      "time": "26/06 18:15",
-      "source": "**Cointelegraph**: Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position",
-      "title": "Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position"
-    },
-    {
       "time": "26/06 18:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Claims Iran Violated Ceasefire With Hormuz Drone Attack",
       "title": "Trump Claims Iran Violated Ceasefire With Hormuz Drone Attack"
@@ -1789,6 +1784,11 @@
       "time": "29/06 13:00",
       "source": "**NYT World**: Mideast Live Updates: U.S. and Iran Set for New Talks in Qatar, Trump Says",
       "title": "Mideast Live Updates: U.S. and Iran Set for New Talks in Qatar, Trump Says"
+    },
+    {
+      "time": "29/06 13:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Suez Wins Its Largest Mideast Deal With \u20ac2 Billion Oman Contract",
+      "title": "Suez Wins Its Largest Mideast Deal With \u20ac2 Billion Oman Contract"
     }
   ]
 }
