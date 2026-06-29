@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T15:45:36.807340+00:00",
+  "generated_at": "2026-06-29T16:00:37.040371+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1705,11 +1705,6 @@
   ],
   "news_alerts": [
     {
-      "time": "29/06 08:15",
-      "source": "**NYT World**: Helicopter Crash Near Major Saudi Oil Refinery Kills 14 People",
-      "title": "Helicopter Crash Near Major Saudi Oil Refinery Kills 14 People"
-    },
-    {
       "time": "29/06 10:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Goldman Backs India 30-Year Bonds as Iran War Impact Contained",
       "title": "Goldman Backs India 30-Year Bonds as Iran War Impact Contained"
@@ -1803,6 +1798,11 @@
       "time": "29/06 16:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Cook Stays at Fed But Trump Wins More Power Over Other Agencies",
       "title": "Cook Stays at Fed But Trump Wins More Power Over Other Agencies"
+    },
+    {
+      "time": "29/06 17:00",
+      "source": "\ud83d\udcf0 **BBC News**: DR Congo bans mass gatherings in the  capital to prevent spread of Ebola",
+      "title": "DR Congo bans mass gatherings in the  capital to prevent spread of Ebola"
     }
   ]
 }
