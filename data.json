@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-06-29T01:27:35.344814+00:00",
+  "generated_at": "2026-06-29T01:53:28.745956+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -64104.77,
-    "total_pnl_pct": -128.21,
-    "cash_eur": 2318.08,
-    "invested_eur": 49327.93,
+    "total_pnl_eur": -69269.37,
+    "total_pnl_pct": -138.54,
+    "cash_eur": 11356.13,
+    "invested_eur": 40289.88,
     "portfolio_value": 51646.01,
-    "open_positions": 10,
-    "total_trades": 98,
-    "win_rate": 34.7,
+    "open_positions": 9,
+    "total_trades": 100,
+    "win_rate": 34.0,
     "total_wins": 34,
-    "total_losses": 64,
+    "total_losses": 66,
     "avg_win": 2.86,
-    "avg_loss": -1003.16,
+    "avg_loss": -1051.01,
     "best_trade": {
       "id": 29,
       "ticker": "SOL",
@@ -566,6 +566,16 @@
     },
     {
       "date": "2026-06-29",
+      "value": -19269.37,
+      "trade": "TLT SHORT"
+    },
+    {
+      "date": "2026-06-29",
+      "value": -19269.37,
+      "trade": "IWM SHORT"
+    },
+    {
+      "date": "2026-06-29",
       "value": 51646.01
     }
   ],
@@ -576,7 +586,7 @@
     },
     {
       "month": "2026-06",
-      "pnl": -64083.29
+      "pnl": -69247.89
     }
   ],
   "ticker_pnl": [
@@ -586,7 +596,7 @@
     },
     {
       "ticker": "TLT",
-      "pnl": -10329.2
+      "pnl": -15493.8
     },
     {
       "ticker": "GLD",
@@ -755,24 +765,29 @@
       "forecast": false
     },
     {
+      "date": "2026-06-29",
+      "value": -19269.37,
+      "forecast": false
+    },
+    {
       "date": "2026-07-29",
-      "value": 4355.37,
-      "lower": -15752.21,
-      "upper": 24462.95,
+      "value": 682.64,
+      "lower": -20945.65,
+      "upper": 22310.94,
       "forecast": true
     },
     {
       "date": "2026-08-28",
-      "value": -13385.68,
-      "lower": -33493.26,
-      "upper": 6721.9,
+      "value": -18487.35,
+      "lower": -40115.65,
+      "upper": 3140.95,
       "forecast": true
     },
     {
       "date": "2026-09-27",
-      "value": -31126.72,
-      "lower": -51234.31,
-      "upper": -11019.14,
+      "value": -37657.35,
+      "lower": -59285.64,
+      "upper": -16029.05,
       "forecast": true
     }
   ],
@@ -1274,6 +1289,16 @@
     },
     {
       "date": "2026-06-29",
+      "drawdown_pct": 138.51,
+      "value": -19269.37
+    },
+    {
+      "date": "2026-06-29",
+      "drawdown_pct": 138.51,
+      "value": -19269.37
+    },
+    {
+      "date": "2026-06-29",
       "drawdown_pct": 0.0,
       "value": 51646.01
     }
@@ -1286,7 +1311,7 @@
       "size": 0.1419,
       "invested": 1555.38,
       "leverage": 5,
-      "sl": 52800,
+      "sl": 53100,
       "tp1": 49500.0,
       "tp2": 46000.0,
       "budget_pct": 13.2,
@@ -1303,7 +1328,7 @@
       "size": 24.2091,
       "invested": 7746.9,
       "leverage": 2,
-      "sl": 645,
+      "sl": 642,
       "tp1": 626,
       "tp2": 614,
       "budget_pct": 15,
@@ -1337,7 +1362,7 @@
       "size": 24.9779,
       "invested": 7746.9,
       "leverage": 2,
-      "sl": 628,
+      "sl": 623,
       "tp1": 600.0,
       "tp2": null,
       "budget_pct": 15,
@@ -1368,8 +1393,8 @@
       "ticker": "IWM",
       "direction": "SHORT",
       "entry": 263.22,
-      "size": 58.8626,
-      "invested": 7746.9,
+      "size": 29.4313,
+      "invested": 3873.45,
       "leverage": 2,
       "sl": 269.0,
       "tp1": 254.0,
@@ -1416,23 +1441,6 @@
       "opened_at": "2026-06-29T02:18:38.426839+01:00"
     },
     {
-      "ticker": "TLT",
-      "direction": "SHORT",
-      "entry": 76.69,
-      "size": 134.6877,
-      "invested": 5164.6,
-      "leverage": 2,
-      "sl": 78.0,
-      "tp1": 74.5,
-      "tp2": null,
-      "budget_pct": 10,
-      "confidence": 7,
-      "is_crypto": false,
-      "at_tp1": false,
-      "reason": "RSI 70.7 overbought \u2014 mean reversion on extended bond rally; TNX at RSI 32 oversold",
-      "opened_at": "2026-06-29T02:27:26.558105+01:00"
-    },
-    {
       "ticker": "USO",
       "direction": "SHORT",
       "entry": 92.59,
@@ -1451,6 +1459,20 @@
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "IWM",
+      "direction": "SHORT",
+      "pnl": 0.0,
+      "reason": "\u2702\ufe0f IWM overbought em uptrend - reduzir risco de squeeze 50% (50%)",
+      "closed_at": "2026-06-29T02:53:18.207830+01:00"
+    },
+    {
+      "ticker": "TLT",
+      "direction": "SHORT",
+      "pnl": -5164.6,
+      "reason": "TLT em uptrend forte RSI 70.7 - yield TNX em queda. Short contra-tend\u00eancia.",
+      "closed_at": "2026-06-29T02:53:18.207806+01:00"
+    },
     {
       "ticker": "BTC",
       "direction": "SHORT",
@@ -1576,27 +1598,83 @@
       "pnl": 0.0,
       "reason": "\u2702\ufe0f USO -2.86%, taking 50% profit. Oil bounce risk after US-Iran halt attacks news. (50%)",
       "closed_at": "2026-06-29T01:03:25.273646+01:00"
-    },
-    {
-      "ticker": "EURUSD",
-      "direction": "LONG",
-      "pnl": -5164.6,
-      "reason": "Posi\u00e7\u00e3o plana sem dire\u00e7\u00e3o clara. Libertar 10% capital para alocar em IWM short.",
-      "closed_at": "2026-06-28T21:44:55.080041+01:00"
-    },
-    {
-      "ticker": "TLT",
-      "direction": "SHORT",
-      "pnl": -5164.6,
-      "reason": "TLT em uptrend (RSI 70.7, BB 94.6%). Yields (TNX) em downtrend. SHORT contra-trend. Redirecionar capital.",
-      "closed_at": "2026-06-28T21:10:18.567953+01:00"
     }
   ],
   "recent_sessions": [
     {
-      "id": "505de276",
+      "id": "bd4a5381",
       "agent": "Desconhecido",
       "status": "running",
+      "created": "2026-06-29T01:52:21.743Z",
+      "completed": ""
+    },
+    {
+      "id": "50fb8ede",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-29T01:49:21.704Z",
+      "completed": ""
+    },
+    {
+      "id": "43852061",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-29T01:46:51.656Z",
+      "completed": ""
+    },
+    {
+      "id": "ca44bfac",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-29T01:44:21.609Z",
+      "completed": ""
+    },
+    {
+      "id": "d975b5d3",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-29T01:40:51.533Z",
+      "completed": ""
+    },
+    {
+      "id": "d2f7befb",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-29T01:37:51.474Z",
+      "completed": ""
+    },
+    {
+      "id": "f5996ba8",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-29T01:35:21.392Z",
+      "completed": ""
+    },
+    {
+      "id": "e3decc22",
+      "agent": "Desconhecido",
+      "status": "cancelled",
+      "created": "2026-06-29T01:32:47.020Z",
+      "completed": ""
+    },
+    {
+      "id": "7ccca41d",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-29T01:32:21.342Z",
+      "completed": ""
+    },
+    {
+      "id": "ce9ec4fa",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-29T01:29:51.290Z",
+      "completed": ""
+    },
+    {
+      "id": "505de276",
+      "agent": "Desconhecido",
+      "status": "succeeded",
       "created": "2026-06-29T01:26:21.266Z",
       "completed": ""
     },
@@ -1662,79 +1740,27 @@
       "status": "succeeded",
       "created": "2026-06-29T01:01:20.714Z",
       "completed": ""
-    },
-    {
-      "id": "cb9f528d",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-29T00:58:50.667Z",
-      "completed": ""
-    },
-    {
-      "id": "ade4a56e",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-29T00:45:50.508Z",
-      "completed": ""
-    },
-    {
-      "id": "49fee001",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-29T00:42:50.444Z",
-      "completed": ""
-    },
-    {
-      "id": "ce5b7668",
-      "agent": "Desconhecido",
-      "status": "cancelled",
-      "created": "2026-06-29T00:40:09.871Z",
-      "completed": ""
-    },
-    {
-      "id": "39ecf425",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-29T00:37:20.341Z",
-      "completed": ""
-    },
-    {
-      "id": "bfc2bf5d",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-29T00:34:50.262Z",
-      "completed": ""
-    },
-    {
-      "id": "e09cdd12",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-29T00:32:20.176Z",
-      "completed": ""
-    },
-    {
-      "id": "0a36043b",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-29T00:29:20.123Z",
-      "completed": ""
-    },
-    {
-      "id": "a4fb436d",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-29T00:24:50.092Z",
-      "completed": ""
-    },
-    {
-      "id": "14a16c47",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-29T00:20:20.029Z",
-      "completed": ""
     }
   ],
   "activity_feed": [
+    {
+      "type": "close",
+      "ticker": "TLT",
+      "direction": "SHORT",
+      "pnl": -5164.6,
+      "reason": "TLT em uptrend forte RSI 70.7 - yield TNX em queda. Short contra-tend\u00eancia.",
+      "date": "2026-06-29T02:53",
+      "id": 59
+    },
+    {
+      "type": "close_partial",
+      "ticker": "IWM",
+      "direction": "SHORT",
+      "pnl": 0.0,
+      "reason": "\u2702\ufe0f IWM overbought em uptrend - reduzir risco de squeeze 50% (50%)",
+      "date": "2026-06-29T02:53",
+      "id": 56
+    },
     {
       "type": "tp_hit",
       "ticker": "BTC",
@@ -2256,24 +2282,6 @@
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-12T15:00",
       "id": 26
-    },
-    {
-      "type": "close",
-      "ticker": "META",
-      "direction": "LONG",
-      "pnl": 0.28,
-      "reason": "DOWNTREND estrutural + RSI 26.3 oversold em downtrend = fraqueza, n\u00e3o revers\u00e3o. PTJ: nunca contra a tend\u00eancia. Sa\u00edda limpa a breakeven.",
-      "date": "2026-05-12T12:04",
-      "id": 22
-    },
-    {
-      "type": "close",
-      "ticker": "GLD",
-      "direction": "LONG",
-      "pnl": -0.28,
-      "reason": "Fechar posi\u00e7\u00e3o defensiva em regime RISK-ON forte (US-China truce). Libertar slot para AAPL SHORT de maior convic\u00e7\u00e3o t\u00e9cnica. GLD em lucro (SL estava em \u20ac362).",
-      "date": "2026-05-12T11:25",
-      "id": 5
     }
   ],
   "session_analysis": [
