@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T00:26:55.899004+00:00",
+  "generated_at": "2026-06-29T00:40:14.469905+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -8,16 +8,16 @@
   "stats": {
     "total_pnl_eur": -53775.57,
     "total_pnl_pct": -107.55,
-    "cash_eur": 22183.81,
-    "invested_eur": 29462.2,
+    "cash_eur": 9800.76,
+    "invested_eur": 41845.25,
     "portfolio_value": 51646.01,
-    "open_positions": 4,
-    "total_trades": 92,
-    "win_rate": 37.0,
+    "open_positions": 7,
+    "total_trades": 93,
+    "win_rate": 36.6,
     "total_wins": 34,
-    "total_losses": 58,
+    "total_losses": 59,
     "avg_win": 2.86,
-    "avg_loss": -928.84,
+    "avg_loss": -913.1,
     "best_trade": {
       "id": 29,
       "ticker": "SOL",
@@ -66,7 +66,7 @@
         "total": 0
       }
     },
-    "recent_session_rate": "13/20",
+    "recent_session_rate": "14/20",
     "all_sessions_rate": "0/0"
   },
   "equity_curve": [
@@ -536,6 +536,11 @@
     },
     {
       "date": "2026-06-29",
+      "value": -3775.57,
+      "trade": "BTC SHORT"
+    },
+    {
+      "date": "2026-06-29",
       "value": 51646.01
     }
   ],
@@ -746,23 +751,23 @@
     },
     {
       "date": "2026-07-29",
-      "value": 15791.35,
-      "lower": 565.24,
-      "upper": 31017.46,
+      "value": 13990.82,
+      "lower": -1949.99,
+      "upper": 29931.63,
       "forecast": true
     },
     {
       "date": "2026-08-28",
-      "value": 2499.69,
-      "lower": -12726.41,
-      "upper": 17725.8,
+      "value": -1.36,
+      "lower": -15942.18,
+      "upper": 15939.45,
       "forecast": true
     },
     {
       "date": "2026-09-27",
-      "value": -10791.96,
-      "lower": -26018.07,
-      "upper": 4434.15,
+      "value": -13993.55,
+      "lower": -29934.36,
+      "upper": 1947.27,
       "forecast": true
     }
   ],
@@ -1234,6 +1239,11 @@
     },
     {
       "date": "2026-06-29",
+      "drawdown_pct": 107.55,
+      "value": -3775.57
+    },
+    {
+      "date": "2026-06-29",
       "drawdown_pct": 0.0,
       "value": 51646.01
     }
@@ -1243,10 +1253,10 @@
       "ticker": "BTC",
       "direction": "SHORT",
       "entry": 54789,
-      "size": 0.5678,
-      "invested": 6221.5,
+      "size": 0.2839,
+      "invested": 3110.75,
       "leverage": 5,
-      "sl": 53000,
+      "sl": 52800,
       "tp1": 49500.0,
       "tp2": 46000.0,
       "budget_pct": 13.2,
@@ -1306,9 +1316,67 @@
       "at_tp1": false,
       "reason": "Tech sell-off -1.2% hoje, MACD histograma a cair, SPY em downtrend arrasta QQQ. RSI neutro 50.7 mas momento descendente.",
       "opened_at": "2026-06-29T01:26:41.685709+01:00"
+    },
+    {
+      "ticker": "GLD",
+      "direction": "LONG",
+      "entry": 328.03,
+      "size": 31.4886,
+      "invested": 5164.6,
+      "leverage": 2,
+      "sl": 322.0,
+      "tp1": 340.0,
+      "tp2": null,
+      "budget_pct": 10,
+      "confidence": 7,
+      "is_crypto": false,
+      "at_tp1": false,
+      "reason": "Adicionar exposi\u00e7\u00e3o ouro - safe haven ativo com tens\u00f5es EUA-Ir\u00e3o. GLD +1.41% hoje.",
+      "opened_at": "2026-06-29T01:39:54.359259+01:00"
+    },
+    {
+      "ticker": "TLT",
+      "direction": "LONG",
+      "entry": 76.7,
+      "size": 134.6702,
+      "invested": 5164.6,
+      "leverage": 2,
+      "sl": 75.5,
+      "tp1": 78.5,
+      "tp2": null,
+      "budget_pct": 10,
+      "confidence": 7,
+      "is_crypto": false,
+      "at_tp1": false,
+      "reason": "Bonds longos em tend\u00eancia de alta - TNX yield oversold (RSI 32.1). Flight to quality.",
+      "opened_at": "2026-06-29T01:39:54.359272+01:00"
+    },
+    {
+      "ticker": "USO",
+      "direction": "LONG",
+      "entry": 92.61,
+      "size": 111.5344,
+      "invested": 5164.6,
+      "leverage": 2,
+      "sl": 89.5,
+      "tp1": 98.0,
+      "tp2": null,
+      "budget_pct": 10,
+      "confidence": 7,
+      "is_crypto": false,
+      "at_tp1": false,
+      "reason": "Petr\u00f3leo oversold reaction a tens\u00f5es Ir\u00e3o - caiu -2.86% apesar do cen\u00e1rio geopol\u00edtico.",
+      "opened_at": "2026-06-29T01:39:54.359281+01:00"
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "BTC",
+      "direction": "SHORT",
+      "pnl": 0.0,
+      "reason": "\u2702\ufe0f Realizar 50% lucro na curta BTC - entrada \u20ac54.789, atual \u20ac51.892. Momentum baixista a perder for\u00e7a. (50%)",
+      "closed_at": "2026-06-29T01:39:54.359231+01:00"
+    },
     {
       "ticker": "GLD",
       "direction": "LONG",
@@ -1441,20 +1509,48 @@
       "pnl": -3043.5,
       "reason": "RSI 73.6 sobrecomprado, BB 89.1%, take lucros modo defensivo",
       "closed_at": "2026-06-28T20:20:45.250547+01:00"
-    },
-    {
-      "ticker": "IWM",
-      "direction": "LONG",
-      "pnl": 0.0,
-      "reason": "\u2702\ufe0f RSI 73.6 overbought, BB 89% \u2014 reduzir exposicao num LONG contraditorio com SPY downtrend. (50%)",
-      "closed_at": "2026-06-28T20:16:39.257545+01:00"
     }
   ],
   "recent_sessions": [
     {
-      "id": "a4fb436d",
+      "id": "ce5b7668",
+      "agent": "Desconhecido",
+      "status": "queued",
+      "created": "2026-06-29T00:40:09.871Z",
+      "completed": ""
+    },
+    {
+      "id": "39ecf425",
       "agent": "Desconhecido",
       "status": "running",
+      "created": "2026-06-29T00:37:20.341Z",
+      "completed": ""
+    },
+    {
+      "id": "bfc2bf5d",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-29T00:34:50.262Z",
+      "completed": ""
+    },
+    {
+      "id": "e09cdd12",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-29T00:32:20.176Z",
+      "completed": ""
+    },
+    {
+      "id": "0a36043b",
+      "agent": "Desconhecido",
+      "status": "succeeded",
+      "created": "2026-06-29T00:29:20.123Z",
+      "completed": ""
+    },
+    {
+      "id": "a4fb436d",
+      "agent": "Desconhecido",
+      "status": "succeeded",
       "created": "2026-06-29T00:24:50.092Z",
       "completed": ""
     },
@@ -1555,44 +1651,18 @@
       "status": "succeeded",
       "created": "2026-06-28T20:51:46.441Z",
       "completed": ""
-    },
-    {
-      "id": "25086124",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-28T20:49:16.423Z",
-      "completed": ""
-    },
-    {
-      "id": "218d5073",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-28T20:48:16.418Z",
-      "completed": ""
-    },
-    {
-      "id": "59192b5f",
-      "agent": "Desconhecido",
-      "status": "failed",
-      "created": "2026-06-28T20:45:51.012Z",
-      "completed": ""
-    },
-    {
-      "id": "a39386bb",
-      "agent": "Desconhecido",
-      "status": "succeeded",
-      "created": "2026-06-28T20:43:46.370Z",
-      "completed": ""
-    },
-    {
-      "id": "5444c686",
-      "agent": "Desconhecido",
-      "status": "cancelled",
-      "created": "2026-06-28T20:41:40.043Z",
-      "completed": ""
     }
   ],
   "activity_feed": [
+    {
+      "type": "close",
+      "ticker": "BTC",
+      "direction": "SHORT",
+      "pnl": 0.0,
+      "reason": "\u2702\ufe0f Realizar 50% lucro na curta BTC - entrada \u20ac54.789, atual \u20ac51.892. Momentum baixista a perder for\u00e7a. (50%)",
+      "date": "2026-06-29T01:39",
+      "id": 39
+    },
     {
       "type": "close",
       "ticker": "GLD",
@@ -2122,15 +2192,6 @@
       "pnl": 0.02,
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-11T23:04",
-      "id": 23
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "SOL",
-      "direction": "SHORT",
-      "pnl": 0.03,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-11T22:54",
       "id": 23
     }
   ],
