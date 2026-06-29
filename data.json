@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T08:45:36.670980+00:00",
+  "generated_at": "2026-06-29T09:00:36.777253+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -989,28 +989,28 @@
     {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
-      "status": "error",
+      "status": "running",
       "created": "2026-06-29T05:00:28.657Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
-      "status": "idle",
-      "created": "2026-06-29T05:03:52.615Z",
+      "status": "error",
+      "created": "2026-06-29T09:00:25.483Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
-      "status": "idle",
+      "status": "running",
       "created": "2026-06-29T05:03:07.476Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "idle",
+      "status": "running",
       "created": "2026-06-29T05:03:06.173Z",
       "completed": ""
     },
@@ -1018,7 +1018,7 @@
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
       "status": "error",
-      "created": "2026-06-29T05:05:14.204Z",
+      "created": "2026-06-29T09:00:25.484Z",
       "completed": ""
     },
     {
@@ -1031,8 +1031,8 @@
     {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
-      "status": "idle",
-      "created": "2026-06-29T05:02:42.855Z",
+      "status": "error",
+      "created": "2026-06-29T09:00:25.500Z",
       "completed": ""
     },
     {
@@ -1058,6 +1058,14 @@
     }
   ],
   "activity_feed": [
+    {
+      "type": "session",
+      "session_type": "MANHA",
+      "session_num": 60,
+      "date": "29/06/2026 06:15",
+      "title": "Postmortem \u2014 Sess\u00e3o MANH\u00c3 60 \u2014 29/06/2026",
+      "score": ""
+    },
     {
       "type": "session",
       "session_type": "TARDE",
@@ -1129,14 +1137,6 @@
       "date": "24/06/2026 06:10",
       "title": "Postmortem \u2014 Sess\u00e3o MANHA 51 (24/06/2026 06:10)",
       "score": ""
-    },
-    {
-      "type": "session",
-      "session_type": "MEIODIA",
-      "session_num": 49,
-      "date": "23/06/2026 10:10",
-      "title": "Postmortem conclu\u00eddo e registado no coment\u00e1rio acima. Score: 7/10 \u2014 decis\u00f5es alinhadas com macro, mas exposi\u00e7\u00e3o curta agregada elevada (~90%) com cash",
-      "score": "7"
     },
     {
       "type": "sl_hit",
@@ -1591,6 +1591,17 @@
   ],
   "session_analysis": [
     {
+      "session_type": "MANHA",
+      "session_num": 60,
+      "date": "29/06/2026 06:15",
+      "summary": "## Postmortem \u2014 Sess\u00e3o MANH\u00c3 #60 \u2014 29/06/2026\n\n### 1. Os trades faziam sentido dado o contexto macro?\n\n**Sim, com reservas.** O regime NEUTRO (VIX 18.4, equities mistas) justifica entrada seletiva, mas a velocidade de deploy (3 novas posi\u00e7\u00f5es em 1 sess\u00e3o = 36% do portfolio) \u00e9 elevada para um mercado sem dire\u00e7\u00e3o clara.\n\n- **USO SHORT** \u2705 \u2014 Petr\u00f3leo -2.86%, pr\u00e9mio geopol\u00edtico Ir\u00e3o a evaporar, R/R 3.2:1. S\u00f3lido.\n- **EZU SHORT** \u2705 \u2014 Europa -0.96%, USD forte, Lagarde hoje potencialmente dovish. Tese coerente.\n- **BTC LONG** \u26a0\ufe0f \u2014 F&G 12 \u00e9 historicamente extremo e RSI 24.8 oversold, mas BTC est\u00e1 -13.9% vs MA50. A assimetria p\u00f3s-halving \u00e9 um argumento estrutural (meses), n\u00e3o de entrada intraday/swing. A tese \u00e9 v\u00e1lida mas o timing \u00e9 especulativo.\n\n### 2. Limites de risco respeitados?\n\n**R/R ratio: ",
+      "trades": [],
+      "findings": [
+        "- **USO SHORT** \u2705 \u2014 Petr\u00f3leo -2.86%, pr\u00e9mio geopol\u00edtico Ir\u00e3o a evaporar, R/R 3.2:1. S\u00f3lido.",
+        "**R/R ratio:"
+      ]
+    },
+    {
       "session_type": "TARDE",
       "session_num": 59,
       "date": "26/06/2026 14:09",
@@ -1667,14 +1678,6 @@
       "findings": [
         "- \u2705 **R/R m\u00ednimo 1.56:1** \u2014 acima do threshold 1.5:1. Conforme."
       ]
-    },
-    {
-      "session_type": "MEIODIA",
-      "session_num": 49,
-      "date": "23/06/2026 10:10",
-      "summary": "Postmortem conclu\u00eddo e registado no coment\u00e1rio acima. Score: 7/10 \u2014 decis\u00f5es alinhadas com macro, mas exposi\u00e7\u00e3o curta agregada elevada (~90%) com cash reduzido (~33%) \u00e9 o principal ponto de aten\u00e7\u00e3o para futuras sess\u00f5es.",
-      "trades": [],
-      "findings": []
     }
   ],
   "news_alerts": [
