@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T09:15:49.213971+00:00",
+  "generated_at": "2026-06-30T09:30:36.719298+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -47,8 +47,8 @@
         "total": 299
       },
       "Registador de Decis\u00f5es": {
-        "ok": 45,
-        "total": 48
+        "ok": 46,
+        "total": 49
       },
       "Analista T\u00e9cnico": {
         "ok": 34,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "391/410"
+    "all_sessions_rate": "392/411"
   },
   "equity_curve": [
     {
@@ -1071,8 +1071,8 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "running",
-      "created": "2026-06-30T05:12:37.563Z",
+      "status": "idle",
+      "created": "2026-06-30T09:18:12.432Z",
       "completed": ""
     },
     {
@@ -1714,11 +1714,6 @@
   "news_alerts": [
     {
       "time": "30/06 06:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Oil Set for Quarterly Drop as Morgan Stanley Warns of Glut Risks",
-      "title": "Oil Set for Quarterly Drop as Morgan Stanley Warns of Glut Risks"
-    },
-    {
-      "time": "30/06 06:15",
       "source": "**Cointelegraph**: Donald Trump has 10 days to decide on housing bill with CBDC ban",
       "title": "Donald Trump has 10 days to decide on housing bill with CBDC ban"
     },
@@ -1811,6 +1806,11 @@
       "time": "30/06 10:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Rand Trading Surges as War Spawns Volatility, Central Bank Says",
       "title": "Rand Trading Surges as War Spawns Volatility, Central Bank Says"
+    },
+    {
+      "time": "30/06 10:30",
+      "source": "**NYT World**: China Increases Military and Economic Pressure on Japan",
+      "title": "China Increases Military and Economic Pressure on Japan"
     }
   ]
 }
