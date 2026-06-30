@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T07:15:36.738301+00:00",
+  "generated_at": "2026-06-30T07:30:36.756045+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1719,16 +1719,6 @@
   ],
   "news_alerts": [
     {
-      "time": "29/06 15:15",
-      "source": "\ud83d\udcf0 **BBC News**: US Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case",
-      "title": "US Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case"
-    },
-    {
-      "time": "29/06 15:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Kenya, Congo Eurobonds Among Top Winners From Iran War Trade Unwind",
-      "title": "Kenya, Congo Eurobonds Among Top Winners From Iran War Trade Unwind"
-    },
-    {
       "time": "29/06 16:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Comcast Rises on Split; Iridium Up on Rocket Lab Deal | Stock Movers",
       "title": "Comcast Rises on Split; Iridium Up on Rocket Lab Deal | Stock Movers"
@@ -1817,6 +1807,16 @@
       "time": "30/06 08:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: French Inflation Eases to Lowest Since March as Oil Prices Drop",
       "title": "French Inflation Eases to Lowest Since March as Oil Prices Drop"
+    },
+    {
+      "time": "30/06 08:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Seen Lifting Some Fuel Export Curbs on Ample Supplies",
+      "title": "China Seen Lifting Some Fuel Export Curbs on Ample Supplies"
+    },
+    {
+      "time": "30/06 08:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Philippines Sets Record Pay Hike for Manila Workers on Inflation",
+      "title": "Philippines Sets Record Pay Hike for Manila Workers on Inflation"
     }
   ]
 }
