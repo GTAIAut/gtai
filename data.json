@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T08:30:36.706266+00:00",
+  "generated_at": "2026-06-30T08:45:36.785986+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1719,16 +1719,6 @@
   ],
   "news_alerts": [
     {
-      "time": "29/06 17:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Siris-Backed TPx\u00a0Files Bankruptcy, Mulls $1 Billion Debt Cut",
-      "title": "Siris-Backed TPx\u00a0Files Bankruptcy, Mulls $1 Billion Debt Cut"
-    },
-    {
-      "time": "29/06 17:45",
-      "source": "\ud83d\udcf0 **BBC News**: Resident doctors in England accept pay deal and end strikes",
-      "title": "Resident doctors in England accept pay deal and end strikes"
-    },
-    {
       "time": "29/06 18:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Charter Junk Bonds, CDS See Record Moves on Bets of Comcast Deal",
       "title": "Charter Junk Bonds, CDS See Record Moves on Bets of Comcast Deal"
@@ -1817,6 +1807,16 @@
       "time": "30/06 09:30",
       "source": "**Cointelegraph**: Celsius-linked Bitcoin miner Ionic Digital seeks Nasdaq direct listing amid AI pivot",
       "title": "Celsius-linked Bitcoin miner Ionic Digital seeks Nasdaq direct listing amid AI pivot"
+    },
+    {
+      "time": "30/06 09:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: EU Cuts Tariff-Free Steel Quotas 33% For Close Trade Partners",
+      "title": "EU Cuts Tariff-Free Steel Quotas 33% For Close Trade Partners"
+    },
+    {
+      "time": "30/06 09:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Lane Signals ECB Remains Concerned About Inflation Risks Ahead",
+      "title": "Lane Signals ECB Remains Concerned About Inflation Risks Ahead"
     }
   ]
 }
