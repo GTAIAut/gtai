@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T04:45:36.749772+00:00",
+  "generated_at": "2026-06-30T05:00:36.751218+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1012,35 +1012,35 @@
     {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
-      "status": "idle",
-      "created": "2026-06-29T13:41:12.074Z",
+      "status": "error",
+      "created": "2026-06-30T05:00:29.351Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
-      "status": "idle",
-      "created": "2026-06-29T13:03:16.253Z",
+      "status": "error",
+      "created": "2026-06-30T05:00:29.426Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
-      "status": "idle",
-      "created": "2026-06-29T13:03:15.058Z",
+      "status": "error",
+      "created": "2026-06-30T05:00:29.513Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "idle",
-      "created": "2026-06-29T14:13:09.511Z",
+      "status": "error",
+      "created": "2026-06-30T05:00:29.308Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
-      "status": "idle",
+      "status": "running",
       "created": "2026-06-29T13:15:18.434Z",
       "completed": ""
     },
@@ -1054,7 +1054,7 @@
     {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
-      "status": "idle",
+      "status": "running",
       "created": "2026-06-29T13:50:26.711Z",
       "completed": ""
     },
@@ -1081,6 +1081,14 @@
     }
   ],
   "activity_feed": [
+    {
+      "type": "session",
+      "session_type": "TARDE",
+      "session_num": 62,
+      "date": "29/06/2026 14:13",
+      "title": "Postmortem TARDE 62 conclu\u00eddo. An\u00e1lise publicada no coment\u00e1rio com score 7.0/10. Principais alertas: velocidade de deploy elevada (42% em 30min), dupl",
+      "score": "7.0"
+    },
     {
       "type": "session",
       "session_type": "MEIODIA",
@@ -1152,14 +1160,6 @@
       "date": "24/06/2026 14:10",
       "title": "Postmortem da [Sess\u00e3o TARDE 53](/GTAA/issues/GTAA-630) conclu\u00eddo e registado. Score atribu\u00eddo: 5/10. Principais issues identificados: flip de regime s",
       "score": ""
-    },
-    {
-      "type": "session",
-      "session_type": "MEIODIA",
-      "session_num": 52,
-      "date": "24/06/2026 10:09",
-      "title": "Postmortem concluido. Score: 7/10. Leitura macro correta, 3a sessao sem VIX hedge, 3x leverage em regime NEUTRO, risco pre-Micron nao mitigado.",
-      "score": "7"
     },
     {
       "type": "sl_hit",
@@ -1614,6 +1614,14 @@
   ],
   "session_analysis": [
     {
+      "session_type": "TARDE",
+      "session_num": 62,
+      "date": "29/06/2026 14:13",
+      "summary": "Postmortem TARDE #62 conclu\u00eddo. An\u00e1lise publicada no coment\u00e1rio com score 7.0/10. Principais alertas: velocidade de deploy elevada (42% em 30min), dupla exposi\u00e7\u00e3o cripto na mesma sess\u00e3o, NVDA contrarian timing-dependente. BTC close 75% foi a decis\u00e3o mais importante e correta da sess\u00e3o.",
+      "trades": [],
+      "findings": []
+    },
+    {
       "session_type": "MEIODIA",
       "session_num": 61,
       "date": "29/06/2026 10:11",
@@ -1693,14 +1701,6 @@
       "findings": [
         "Postmortem da [Sess\u00e3o TARDE #53](/GTAA/issues/GTAA-630) conclu\u00eddo e registado. Score atribu\u00eddo: 5/10. Principais issues identificados: flip de regime sem catalisador, R/R n\u00e3o documentado em 5 trades, "
       ]
-    },
-    {
-      "session_type": "MEIODIA",
-      "session_num": 52,
-      "date": "24/06/2026 10:09",
-      "summary": "Postmortem concluido. Score: 7/10. Leitura macro correta, 3a sessao sem VIX hedge, 3x leverage em regime NEUTRO, risco pre-Micron nao mitigado.",
-      "trades": [],
-      "findings": []
     }
   ],
   "news_alerts": [
