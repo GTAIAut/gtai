@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T16:45:36.756882+00:00",
+  "generated_at": "2026-06-30T04:00:36.806916+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -498,21 +498,21 @@
       "forecast": false
     },
     {
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "value": 56893.52,
       "lower": 29117.21,
       "upper": 84669.82,
       "forecast": true
     },
     {
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "value": 79568.29,
       "lower": 51791.99,
       "upper": 107344.59,
       "forecast": true
     },
     {
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "value": 102243.06,
       "lower": 74466.76,
       "upper": 130019.37,
@@ -1705,16 +1705,6 @@
   ],
   "news_alerts": [
     {
-      "time": "29/06 10:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Births Two Robot Unicorns as Sector Funding Stays Strong",
-      "title": "China Births Two Robot Unicorns as Sector Funding Stays Strong"
-    },
-    {
-      "time": "29/06 11:00",
-      "source": "**NYT World**: Whatever You Do in Russia, Don\u2019t Talk About the War",
-      "title": "Whatever You Do in Russia, Don\u2019t Talk About the War"
-    },
-    {
       "time": "29/06 11:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Drops as Traders Watch Iran Tensions for Inflation Outlook",
       "title": "Gold Drops as Traders Watch Iran Tensions for Inflation Outlook"
@@ -1803,6 +1793,16 @@
       "time": "29/06 17:45",
       "source": "\ud83d\udcf0 **BBC News**: Resident doctors in England accept pay deal and end strikes",
       "title": "Resident doctors in England accept pay deal and end strikes"
+    },
+    {
+      "time": "29/06 18:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Charter Junk Bonds, CDS See Record Moves on Bets of Comcast Deal",
+      "title": "Charter Junk Bonds, CDS See Record Moves on Bets of Comcast Deal"
+    },
+    {
+      "time": "29/06 18:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Cook Stays at Fed But Trump Wins Power Over Other Agencies",
+      "title": "Cook Stays at Fed But Trump Wins Power Over Other Agencies"
     }
   ]
 }
