@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T16:00:08.114799+00:00",
+  "generated_at": "2026-06-30T16:15:36.842191+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1722,11 +1722,6 @@
   ],
   "news_alerts": [
     {
-      "time": "30/06 10:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: EU Cuts Tariff-Free Steel Quota 33% For Close Trade Partners",
-      "title": "EU Cuts Tariff-Free Steel Quota 33% For Close Trade Partners"
-    },
-    {
       "time": "30/06 13:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: BOE\u2019s Breeden Warns AI Agents Risk Triggering Market Meltdowns",
       "title": "BOE\u2019s Breeden Warns AI Agents Risk Triggering Market Meltdowns"
@@ -1820,6 +1815,11 @@
       "time": "30/06 16:30",
       "source": "**Investing.com**: US House committee opens investigation into Merck, AbbVie China drug trials",
       "title": "US House committee opens investigation into Merck, AbbVie China drug trials"
+    },
+    {
+      "time": "30/06 17:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Edges Above $4,000 as Traders Eye Fed Outlook, Iran Talks",
+      "title": "Gold Edges Above $4,000 as Traders Eye Fed Outlook, Iran Talks"
     }
   ]
 }
