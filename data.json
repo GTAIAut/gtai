@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T15:15:36.832802+00:00",
+  "generated_at": "2026-06-30T15:30:36.805510+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1722,16 +1722,6 @@
   ],
   "news_alerts": [
     {
-      "time": "30/06 10:30",
-      "source": "**NYT World**: China Increases Military and Economic Pressure on Japan",
-      "title": "China Increases Military and Economic Pressure on Japan"
-    },
-    {
-      "time": "30/06 10:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: India Plans to Cut Reliance on Middle East Oil After War Shock",
-      "title": "India Plans to Cut Reliance on Middle East Oil After War Shock"
-    },
-    {
       "time": "30/06 10:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: EU Cuts Tariff-Free Steel Quota 33% For Close Trade Partners",
       "title": "EU Cuts Tariff-Free Steel Quota 33% For Close Trade Partners"
@@ -1820,6 +1810,16 @@
       "time": "30/06 16:15",
       "source": "**Investing.com**: Aduro Clean Technologies stock rises on AstroTurf recycling deal",
       "title": "Aduro Clean Technologies stock rises on AstroTurf recycling deal"
+    },
+    {
+      "time": "30/06 16:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: RBI Funding Curbs Deal\u00a0\u2018Body Blow\u2019 to Indian Prop Trading Firms",
+      "title": "RBI Funding Curbs Deal\u00a0\u2018Body Blow\u2019 to Indian Prop Trading Firms"
+    },
+    {
+      "time": "30/06 16:30",
+      "source": "**Investing.com**: US House committee opens investigation into Merck, AbbVie China drug trials",
+      "title": "US House committee opens investigation into Merck, AbbVie China drug trials"
     }
   ]
 }
