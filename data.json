@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T05:10:48.604877+00:00",
+  "generated_at": "2026-06-30T05:15:36.736537+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -47,8 +47,8 @@
         "total": 298
       },
       "Registador de Decis\u00f5es": {
-        "ok": 44,
-        "total": 47
+        "ok": 45,
+        "total": 48
       },
       "Analista T\u00e9cnico": {
         "ok": 33,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "388/407"
+    "all_sessions_rate": "389/408"
   },
   "equity_curve": [
     {
@@ -1075,8 +1075,8 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "running",
-      "created": "2026-06-29T13:15:51.856Z",
+      "status": "idle",
+      "created": "2026-06-30T05:12:37.563Z",
       "completed": ""
     },
     {
@@ -1719,16 +1719,6 @@
   ],
   "news_alerts": [
     {
-      "time": "29/06 11:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Drops as Traders Watch Iran Tensions for Inflation Outlook",
-      "title": "Gold Drops as Traders Watch Iran Tensions for Inflation Outlook"
-    },
-    {
-      "time": "29/06 11:15",
-      "source": "**NYT World**: Mideast Live Updates: U.S. Reaches Deal With Iran to Halt Attacks, Official Says",
-      "title": "Mideast Live Updates: U.S. Reaches Deal With Iran to Halt Attacks, Official Says"
-    },
-    {
       "time": "29/06 12:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Copper Steadies as Traders Eye Iran Peace Talks and Fed Outlook",
       "title": "Copper Steadies as Traders Eye Iran Peace Talks and Fed Outlook"
@@ -1817,6 +1807,16 @@
       "time": "29/06 18:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Cook Stays at Fed But Trump Wins Power Over Other Agencies",
       "title": "Cook Stays at Fed But Trump Wins Power Over Other Agencies"
+    },
+    {
+      "time": "30/06 06:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Oil Set for Quarterly Drop as Morgan Stanley Warns of Glut Risks",
+      "title": "Oil Set for Quarterly Drop as Morgan Stanley Warns of Glut Risks"
+    },
+    {
+      "time": "30/06 06:15",
+      "source": "**Cointelegraph**: Donald Trump has 10 days to decide on housing bill with CBDC ban",
+      "title": "Donald Trump has 10 days to decide on housing bill with CBDC ban"
     }
   ]
 }
