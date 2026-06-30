@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T08:45:36.785986+00:00",
+  "generated_at": "2026-06-30T09:00:36.761243+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1026,14 +1026,14 @@
     {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
-      "status": "error",
+      "status": "running",
       "created": "2026-06-30T05:00:29.351Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
-      "status": "error",
+      "status": "running",
       "created": "2026-06-30T05:00:29.426Z",
       "completed": ""
     },
@@ -1041,20 +1041,20 @@
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
       "status": "error",
-      "created": "2026-06-30T05:00:29.513Z",
+      "created": "2026-06-30T09:00:26.169Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "error",
+      "status": "running",
       "created": "2026-06-30T05:00:29.308Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
-      "status": "idle",
+      "status": "running",
       "created": "2026-06-30T05:00:57.080Z",
       "completed": ""
     },
@@ -1068,8 +1068,8 @@
     {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
-      "status": "idle",
-      "created": "2026-06-30T05:02:08.434Z",
+      "status": "error",
+      "created": "2026-06-30T09:00:26.234Z",
       "completed": ""
     },
     {
@@ -1095,6 +1095,14 @@
     }
   ],
   "activity_feed": [
+    {
+      "type": "session",
+      "session_type": "MANHA",
+      "session_num": 63,
+      "date": "30/06/2026 06:10",
+      "title": "Postmortem conclu\u00eddo. Score 8.5/10 \u2014 melhor sess\u00e3o do departamento at\u00e9 \u00e0 data. TLT revers\u00e3o LONG\u2192SHORT, trailing stops, deploy massivo de capital. Ver",
+      "score": "8.5"
+    },
     {
       "type": "session",
       "session_type": "TARDE",
@@ -1166,14 +1174,6 @@
       "date": "25/06/2026 06:10",
       "title": "Postmortem completo. Score 6/10. An\u00e1lise detalhada publicada no coment\u00e1rio acima. 3 issues principais: (1) 5x leverage crypto em Fear Extreme, (2) 3\u00aa ",
       "score": "6"
-    },
-    {
-      "type": "session",
-      "session_type": "TARDE",
-      "session_num": 53,
-      "date": "24/06/2026 14:10",
-      "title": "Postmortem da [Sess\u00e3o TARDE 53](/GTAA/issues/GTAA-630) conclu\u00eddo e registado. Score atribu\u00eddo: 5/10. Principais issues identificados: flip de regime s",
-      "score": ""
     },
     {
       "type": "sl_hit",
@@ -1628,6 +1628,14 @@
   ],
   "session_analysis": [
     {
+      "session_type": "MANHA",
+      "session_num": 63,
+      "date": "30/06/2026 06:10",
+      "summary": "Postmortem conclu\u00eddo. Score 8.5/10 \u2014 melhor sess\u00e3o do departamento at\u00e9 \u00e0 data. TLT revers\u00e3o LONG\u2192SHORT, trailing stops, deploy massivo de capital. Ver coment\u00e1rio para an\u00e1lise completa.",
+      "trades": [],
+      "findings": []
+    },
+    {
       "session_type": "TARDE",
       "session_num": 62,
       "date": "29/06/2026 14:13",
@@ -1705,16 +1713,6 @@
       "summary": "Postmortem completo. Score 6/10. An\u00e1lise detalhada publicada no coment\u00e1rio acima. 3 issues principais: (1) 5x leverage crypto em Fear Extreme, (2) 3\u00aa sess\u00e3o sem VIX hedge, (3) overrides repetidos ao RM sem governance documentada.",
       "trades": [],
       "findings": []
-    },
-    {
-      "session_type": "TARDE",
-      "session_num": 53,
-      "date": "24/06/2026 14:10",
-      "summary": "Postmortem da [Sess\u00e3o TARDE #53](/GTAA/issues/GTAA-630) conclu\u00eddo e registado. Score atribu\u00eddo: 5/10. Principais issues identificados: flip de regime sem catalisador, R/R n\u00e3o documentado em 5 trades, 3x leverage em regime NEUTRO, 3\u00aa sess\u00e3o sem VIX hedge. 5 li\u00e7\u00f5es documentadas no coment\u00e1rio acima.",
-      "trades": [],
-      "findings": [
-        "Postmortem da [Sess\u00e3o TARDE #53](/GTAA/issues/GTAA-630) conclu\u00eddo e registado. Score atribu\u00eddo: 5/10. Principais issues identificados: flip de regime sem catalisador, R/R n\u00e3o documentado em 5 trades, "
-      ]
     }
   ],
   "news_alerts": [
