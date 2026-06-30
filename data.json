@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T05:45:36.732663+00:00",
+  "generated_at": "2026-06-30T06:00:36.849595+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1719,11 +1719,6 @@
   ],
   "news_alerts": [
     {
-      "time": "29/06 13:00",
-      "source": "**NYT World**: Mideast Live Updates: U.S. and Iran Set for New Talks in Qatar, Trump Says",
-      "title": "Mideast Live Updates: U.S. and Iran Set for New Talks in Qatar, Trump Says"
-    },
-    {
       "time": "29/06 13:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Suez Wins Its Largest Mideast Deal With \u20ac2 Billion Oman Contract",
       "title": "Suez Wins Its Largest Mideast Deal With \u20ac2 Billion Oman Contract"
@@ -1817,6 +1812,11 @@
       "time": "30/06 06:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: HSBC Says \u2018Explosive\u2019 Dollar Rally Is Among Biggest Pain Trades",
       "title": "HSBC Says \u2018Explosive\u2019 Dollar Rally Is Among Biggest Pain Trades"
+    },
+    {
+      "time": "30/06 07:00",
+      "source": "**Cointelegraph**: Cathie Wood\u2019s ARK adds $43.5M in crypto stocks amid market dip",
+      "title": "Cathie Wood\u2019s ARK adds $43.5M in crypto stocks amid market dip"
     }
   ]
 }
