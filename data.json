@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-06-30T09:15:36.677935+00:00",
+  "generated_at": "2026-06-30T09:15:49.213971+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": 435.74,
-    "total_pnl_pct": 0.87,
-    "cash_eur": 36391.91,
-    "invested_eur": 13568.52,
-    "portfolio_value": 50480.25,
-    "open_positions": 4,
-    "total_trades": 78,
-    "win_rate": 46.2,
-    "total_wins": 36,
+    "total_pnl_eur": 462.33,
+    "total_pnl_pct": 0.92,
+    "cash_eur": 41490.51,
+    "invested_eur": 8555.5,
+    "portfolio_value": 50462.33,
+    "open_positions": 3,
+    "total_trades": 79,
+    "win_rate": 46.8,
+    "total_wins": 37,
     "total_losses": 42,
-    "avg_win": 13.51,
+    "avg_win": 15.46,
     "avg_loss": -55.32,
     "best_trade": {
       "id": 36,
@@ -286,6 +286,10 @@
     {
       "date": "2026-06-30",
       "value": 50480.25
+    },
+    {
+      "date": "2026-06-30",
+      "value": 50462.33
     }
   ],
   "monthly_pnl": [
@@ -295,7 +299,7 @@
     },
     {
       "month": "2026-06",
-      "pnl": -1815.67
+      "pnl": -1730.08
     }
   ],
   "ticker_pnl": [
@@ -314,6 +318,10 @@
     {
       "ticker": "ETH",
       "pnl": -340.68
+    },
+    {
+      "ticker": "TLT",
+      "pnl": 85.59
     },
     {
       "ticker": "SOL",
@@ -503,28 +511,28 @@
     },
     {
       "date": "2026-06-30",
-      "value": 50480.25,
+      "value": 50462.33,
       "forecast": false
     },
     {
       "date": "2026-07-30",
-      "value": 58696.88,
-      "lower": 31001.46,
-      "upper": 86392.3,
+      "value": 59666.06,
+      "lower": 32061.46,
+      "upper": 87270.66,
       "forecast": true
     },
     {
       "date": "2026-08-29",
-      "value": 81826.08,
-      "lower": 54130.66,
-      "upper": 109521.5,
+      "value": 83215.71,
+      "lower": 55611.11,
+      "upper": 110820.32,
       "forecast": true
     },
     {
       "date": "2026-09-28",
-      "value": 104955.29,
-      "lower": 77259.87,
-      "upper": 132650.71,
+      "value": 106765.37,
+      "lower": 79160.76,
+      "upper": 134369.97,
       "forecast": true
     }
   ],
@@ -808,6 +816,11 @@
       "date": "2026-06-30",
       "drawdown_pct": 0.16,
       "value": 50480.25
+    },
+    {
+      "date": "2026-06-30",
+      "drawdown_pct": 0.2,
+      "value": 50462.33
     }
   ],
   "positions": [
@@ -818,7 +831,7 @@
       "size": 16.1298,
       "invested": 2039.14,
       "leverage": 2,
-      "sl": 255.0,
+      "sl": 259.0,
       "tp1": 268.0,
       "tp2": null,
       "budget_pct": 3.9,
@@ -835,7 +848,7 @@
       "size": 30.1031,
       "invested": 5013.02,
       "leverage": 2,
-      "sl": 335.0,
+      "sl": 328.0,
       "tp1": 313.07,
       "tp2": null,
       "budget_pct": 10.0,
@@ -844,23 +857,6 @@
       "at_tp1": false,
       "reason": "/ 2x: gold breaking $4K, dollar strength",
       "opened_at": "2026-06-24T14:10:34.574304"
-    },
-    {
-      "ticker": "TLT",
-      "direction": "LONG",
-      "entry": 76.09,
-      "size": 131.7692,
-      "invested": 5013.02,
-      "leverage": 2,
-      "sl": 73.81,
-      "tp1": 80.65,
-      "tp2": null,
-      "budget_pct": 10.0,
-      "confidence": 7,
-      "is_crypto": false,
-      "at_tp1": false,
-      "reason": "/ 2x: yields dropping, bonds bid",
-      "opened_at": "2026-06-24T14:10:38.009014"
     },
     {
       "ticker": "BTC",
@@ -881,6 +877,13 @@
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "TLT",
+      "direction": "LONG",
+      "pnl": 85.59,
+      "reason": "RSI 77.2 overbought extremo + BB 91% \u2014 travar +1.7% antes de reversao. ECB mixed: Lane hawkish vs Wunsch dovish. Tecnicos prevalecem",
+      "closed_at": "2026-06-30T10:15:44.038535"
+    },
     {
       "ticker": "BTC",
       "direction": "LONG",
@@ -1013,23 +1016,9 @@
       "pnl": 25.01,
       "reason": "\ud83c\udfc6 TP2",
       "closed_at": "2026-06-12T01:30:55.698590"
-    },
-    {
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": 9.5,
-      "reason": "\u2705 TP1 (50%)",
-      "closed_at": "2026-06-12T01:20:52.874941"
     }
   ],
   "recent_sessions": [
-    {
-      "id": "14f33a21",
-      "agent": "Diretor de Investimentos",
-      "status": "running",
-      "created": "2026-06-30T09:12:25.053Z",
-      "completed": ""
-    },
     {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
@@ -1066,6 +1055,13 @@
       "completed": ""
     },
     {
+      "id": "14f33a21",
+      "agent": "Diretor de Investimentos",
+      "status": "idle",
+      "created": "2026-06-30T09:15:37.126Z",
+      "completed": ""
+    },
+    {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "error",
@@ -1075,7 +1071,7 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "idle",
+      "status": "running",
       "created": "2026-06-30T05:12:37.563Z",
       "completed": ""
     },
@@ -1174,6 +1170,15 @@
       "date": "25/06/2026 06:10",
       "title": "Postmortem completo. Score 6/10. An\u00e1lise detalhada publicada no coment\u00e1rio acima. 3 issues principais: (1) 5x leverage crypto em Fear Extreme, (2) 3\u00aa ",
       "score": "6"
+    },
+    {
+      "type": "close",
+      "ticker": "TLT",
+      "direction": "LONG",
+      "pnl": 85.59,
+      "reason": "RSI 77.2 overbought extremo + BB 91% \u2014 travar +1.7% antes de reversao. ECB mixed: Lane hawkish vs Wunsch dovish. Tecnicos prevalecem",
+      "date": "2026-06-30T10:15",
+      "id": 44
     },
     {
       "type": "sl_hit",
@@ -1615,15 +1620,6 @@
       "reason": "TSLA +3.98% hoje, RSI 74.5 overbought mas momentum bullish forte. SL a \u20ac382.75 vs atual \u20ac377.57 (1.4% margem). Fechar antes de SL.",
       "date": "2026-05-11T22:02",
       "id": 20
-    },
-    {
-      "type": "close",
-      "ticker": "QQQ",
-      "direction": "SHORT",
-      "pnl": -1.27,
-      "reason": "SHORT contr\u00e1rio ao regime RISK-ON, reduzido a 67%, slot necess\u00e1rio para sinal mais forte TSLA",
-      "date": "2026-05-11T16:54",
-      "id": 18
     }
   ],
   "session_analysis": [
