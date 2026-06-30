@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T09:00:36.761243+00:00",
+  "generated_at": "2026-06-30T09:15:36.677935+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -43,16 +43,16 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 287,
-        "total": 298
+        "ok": 288,
+        "total": 299
       },
       "Registador de Decis\u00f5es": {
         "ok": 45,
         "total": 48
       },
       "Analista T\u00e9cnico": {
-        "ok": 33,
-        "total": 35
+        "ok": 34,
+        "total": 36
       },
       "Gestor de Risco": {
         "ok": 24,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "389/408"
+    "all_sessions_rate": "391/410"
   },
   "equity_curve": [
     {
@@ -1024,17 +1024,24 @@
   ],
   "recent_sessions": [
     {
+      "id": "14f33a21",
+      "agent": "Diretor de Investimentos",
+      "status": "running",
+      "created": "2026-06-30T09:12:25.053Z",
+      "completed": ""
+    },
+    {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
-      "status": "running",
-      "created": "2026-06-30T05:00:29.351Z",
+      "status": "idle",
+      "created": "2026-06-30T09:02:24.990Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
-      "status": "running",
-      "created": "2026-06-30T05:00:29.426Z",
+      "status": "idle",
+      "created": "2026-06-30T09:00:42.962Z",
       "completed": ""
     },
     {
@@ -1047,22 +1054,15 @@
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "running",
-      "created": "2026-06-30T05:00:29.308Z",
+      "status": "idle",
+      "created": "2026-06-30T09:00:52.704Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
-      "status": "running",
-      "created": "2026-06-30T05:00:57.080Z",
-      "completed": ""
-    },
-    {
-      "id": "14f33a21",
-      "agent": "Diretor de Investimentos",
       "status": "idle",
-      "created": "2026-06-30T05:10:46.851Z",
+      "created": "2026-06-30T09:00:48.050Z",
       "completed": ""
     },
     {
@@ -1717,16 +1717,6 @@
   ],
   "news_alerts": [
     {
-      "time": "29/06 18:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Charter Junk Bonds, CDS See Record Moves on Bets of Comcast Deal",
-      "title": "Charter Junk Bonds, CDS See Record Moves on Bets of Comcast Deal"
-    },
-    {
-      "time": "29/06 18:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Cook Stays at Fed But Trump Wins Power Over Other Agencies",
-      "title": "Cook Stays at Fed But Trump Wins Power Over Other Agencies"
-    },
-    {
       "time": "30/06 06:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Oil Set for Quarterly Drop as Morgan Stanley Warns of Glut Risks",
       "title": "Oil Set for Quarterly Drop as Morgan Stanley Warns of Glut Risks"
@@ -1815,6 +1805,16 @@
       "time": "30/06 09:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Lane Signals ECB Remains Concerned About Inflation Risks Ahead",
       "title": "Lane Signals ECB Remains Concerned About Inflation Risks Ahead"
+    },
+    {
+      "time": "30/06 10:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Slok Says ECB May Hike Interest Rates Again in September",
+      "title": "Slok Says ECB May Hike Interest Rates Again in September"
+    },
+    {
+      "time": "30/06 10:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Rand Trading Surges as War Spawns Volatility, Central Bank Says",
+      "title": "Rand Trading Surges as War Spawns Volatility, Central Bank Says"
     }
   ]
 }
