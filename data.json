@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T05:15:36.736537+00:00",
+  "generated_at": "2026-06-30T05:30:36.737732+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1719,11 +1719,6 @@
   ],
   "news_alerts": [
     {
-      "time": "29/06 12:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Copper Steadies as Traders Eye Iran Peace Talks and Fed Outlook",
-      "title": "Copper Steadies as Traders Eye Iran Peace Talks and Fed Outlook"
-    },
-    {
       "time": "29/06 12:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Mercuria Signs First Uranium Financing Deal With Malawi Miner",
       "title": "Mercuria Signs First Uranium Financing Deal With Malawi Miner"
@@ -1817,6 +1812,11 @@
       "time": "30/06 06:15",
       "source": "**Cointelegraph**: Donald Trump has 10 days to decide on housing bill with CBDC ban",
       "title": "Donald Trump has 10 days to decide on housing bill with CBDC ban"
+    },
+    {
+      "time": "30/06 06:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Tay: Mideast War Pushed China to Diversify Energy Usage",
+      "title": "Tay: Mideast War Pushed China to Diversify Energy Usage"
     }
   ]
 }
