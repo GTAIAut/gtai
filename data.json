@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T14:00:36.732541+00:00",
+  "generated_at": "2026-06-30T14:15:36.738515+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1722,21 +1722,6 @@
   ],
   "news_alerts": [
     {
-      "time": "30/06 09:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: French Inflation Unexpectedly Falls Back to ECB\u2019s 2% Target",
-      "title": "French Inflation Unexpectedly Falls Back to ECB\u2019s 2% Target"
-    },
-    {
-      "time": "30/06 09:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Morgan Stanley Warns of Oil Glut and Cuts Forecasts on Hormuz",
-      "title": "Morgan Stanley Warns of Oil Glut and Cuts Forecasts on Hormuz"
-    },
-    {
-      "time": "30/06 09:30",
-      "source": "**Cointelegraph**: Celsius-linked Bitcoin miner Ionic Digital seeks Nasdaq direct listing amid AI pivot",
-      "title": "Celsius-linked Bitcoin miner Ionic Digital seeks Nasdaq direct listing amid AI pivot"
-    },
-    {
       "time": "30/06 09:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: EU Cuts Tariff-Free Steel Quotas 33% For Close Trade Partners",
       "title": "EU Cuts Tariff-Free Steel Quotas 33% For Close Trade Partners"
@@ -1820,6 +1805,21 @@
       "time": "30/06 15:00",
       "source": "**NYT World**: Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit.",
       "title": "Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit."
+    },
+    {
+      "time": "30/06 15:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: UK \u2018Minded to Intervene\u2019 in Paramount\u2019s Warner Bros. Deal Over Media Ownership Concerns",
+      "title": "UK \u2018Minded to Intervene\u2019 in Paramount\u2019s Warner Bros. Deal Over Media Ownership Concerns"
+    },
+    {
+      "time": "30/06 15:15",
+      "source": "**Investing.com**: Trump cuts New York funding for Medicaid fraud unit",
+      "title": "Trump cuts New York funding for Medicaid fraud unit"
+    },
+    {
+      "time": "30/06 15:15",
+      "source": "**Investing.com**: Trump administration cuts New York Medicaid fraud unit funding",
+      "title": "Trump administration cuts New York Medicaid fraud unit funding"
     }
   ]
 }
