@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T11:45:36.958693+00:00",
+  "generated_at": "2026-06-30T12:00:36.808436+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1713,11 +1713,6 @@
   ],
   "news_alerts": [
     {
-      "time": "30/06 06:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: HSBC Says \u2018Explosive\u2019 Dollar Rally Is Among Biggest Pain Trades",
-      "title": "HSBC Says \u2018Explosive\u2019 Dollar Rally Is Among Biggest Pain Trades"
-    },
-    {
       "time": "30/06 07:00",
       "source": "**Cointelegraph**: Cathie Wood\u2019s ARK adds $43.5M in crypto stocks amid market dip",
       "title": "Cathie Wood\u2019s ARK adds $43.5M in crypto stocks amid market dip"
@@ -1811,6 +1806,11 @@
       "time": "30/06 10:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: EU Cuts Tariff-Free Steel Quota 33% For Close Trade Partners",
       "title": "EU Cuts Tariff-Free Steel Quota 33% For Close Trade Partners"
+    },
+    {
+      "time": "30/06 13:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: BOE\u2019s Breeden Warns AI Agents Risk Triggering Market Meltdowns",
+      "title": "BOE\u2019s Breeden Warns AI Agents Risk Triggering Market Meltdowns"
     }
   ]
 }
