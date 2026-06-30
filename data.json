@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T07:30:36.756045+00:00",
+  "generated_at": "2026-06-30T07:45:36.926834+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1720,16 +1720,6 @@
   "news_alerts": [
     {
       "time": "29/06 16:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Comcast Rises on Split; Iridium Up on Rocket Lab Deal | Stock Movers",
-      "title": "Comcast Rises on Split; Iridium Up on Rocket Lab Deal | Stock Movers"
-    },
-    {
-      "time": "29/06 16:00",
-      "source": "\ud83d\udcf0 **BBC News**: Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case",
-      "title": "Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case"
-    },
-    {
-      "time": "29/06 16:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Supreme Court Rules Lisa Cook Can Remain at Fed for Now",
       "title": "Supreme Court Rules Lisa Cook Can Remain at Fed for Now"
     },
@@ -1817,6 +1807,16 @@
       "time": "30/06 08:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Philippines Sets Record Pay Hike for Manila Workers on Inflation",
       "title": "Philippines Sets Record Pay Hike for Manila Workers on Inflation"
+    },
+    {
+      "time": "30/06 08:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: ECB Says Extent of Inflation Shock 'Remains to Be Seen'",
+      "title": "ECB Says Extent of Inflation Shock 'Remains to Be Seen'"
+    },
+    {
+      "time": "30/06 08:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Kenya\u2019s Inflation Slows in June on Easing Food and Energy Prices",
+      "title": "Kenya\u2019s Inflation Slows in June on Easing Food and Energy Prices"
     }
   ]
 }
