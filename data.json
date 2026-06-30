@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T12:15:36.786505+00:00",
+  "generated_at": "2026-06-30T12:30:36.834824+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1714,11 +1714,6 @@
   "news_alerts": [
     {
       "time": "30/06 08:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Seen Lifting Some Fuel Export Curbs on Ample Supplies",
-      "title": "China Seen Lifting Some Fuel Export Curbs on Ample Supplies"
-    },
-    {
-      "time": "30/06 08:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Philippines Sets Record Pay Hike for Manila Workers on Inflation",
       "title": "Philippines Sets Record Pay Hike for Manila Workers on Inflation"
     },
@@ -1811,6 +1806,11 @@
       "time": "30/06 13:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: BOE\u2019s Breeden Warns AI Agents Risk Causing Market Meltdowns",
       "title": "BOE\u2019s Breeden Warns AI Agents Risk Causing Market Meltdowns"
+    },
+    {
+      "time": "30/06 13:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: German Inflation Eases as Oil\u2019s Retreat Tames Prices in Europe",
+      "title": "German Inflation Eases as Oil\u2019s Retreat Tames Prices in Europe"
     }
   ]
 }
