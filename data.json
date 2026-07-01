@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T15:15:36.851170+00:00",
+  "generated_at": "2026-07-01T15:30:36.795793+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1689,11 +1689,6 @@
   ],
   "news_alerts": [
     {
-      "time": "01/07 09:30",
-      "source": "**Cointelegraph**: Former Goliath Ventures CEO pleads guilty in $400M crypto Ponzi case",
-      "title": "Former Goliath Ventures CEO pleads guilty in $400M crypto Ponzi case"
-    },
-    {
       "time": "01/07 10:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Pakistan Inflation Cools, Keeping Central Bank on Guard",
       "title": "Pakistan Inflation Cools, Keeping Central Bank on Guard"
@@ -1787,6 +1782,11 @@
       "time": "01/07 16:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: US Stocks Fall as Traders Evaluate Warsh Comments, New Data",
       "title": "US Stocks Fall as Traders Evaluate Warsh Comments, New Data"
+    },
+    {
+      "time": "01/07 16:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Warsh Taps Ex-BOE Chief King for New Fed Communications Task Force",
+      "title": "Warsh Taps Ex-BOE Chief King for New Fed Communications Task Force"
     }
   ]
 }
