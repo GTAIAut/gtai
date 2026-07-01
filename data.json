@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T08:00:36.773362+00:00",
+  "generated_at": "2026-07-01T08:15:36.750596+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1735,11 +1735,6 @@
   "news_alerts": [
     {
       "time": "30/06 15:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: UK \u2018Minded to Intervene\u2019 in Paramount\u2019s Deal for Warner Bros",
-      "title": "UK \u2018Minded to Intervene\u2019 in Paramount\u2019s Deal for Warner Bros"
-    },
-    {
-      "time": "30/06 15:00",
       "source": "**NYT World**: Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit.",
       "title": "Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit."
     },
@@ -1832,6 +1827,11 @@
       "time": "01/07 08:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Xi Positions China\u2019s Ruling Party as Global Force for Progress | The China Show 7/1/2026",
       "title": "Xi Positions China\u2019s Ruling Party as Global Force for Progress | The China Show 7/1/2026"
+    },
+    {
+      "time": "01/07 09:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: South32\u2019s New CEO Looks to Focus on Copper After Aluminum Deal",
+      "title": "South32\u2019s New CEO Looks to Focus on Copper After Aluminum Deal"
     }
   ]
 }
