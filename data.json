@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T14:15:36.856423+00:00",
+  "generated_at": "2026-07-01T14:30:36.715547+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1689,16 +1689,6 @@
   ],
   "news_alerts": [
     {
-      "time": "01/07 06:00",
-      "source": "\ud83d\udcf0 **BBC News**: Trump made more than $1bn from crypto in first year back in office",
-      "title": "Trump made more than $1bn from crypto in first year back in office"
-    },
-    {
-      "time": "01/07 06:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Dollar Gains Ahead of Warsh Speech, Stocks Waver: Markets Wrap",
-      "title": "Dollar Gains Ahead of Warsh Speech, Stocks Waver: Markets Wrap"
-    },
-    {
       "time": "01/07 08:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Xi Positions China\u2019s Ruling Party as Global Force for Progress | The China Show 7/1/2026",
       "title": "Xi Positions China\u2019s Ruling Party as Global Force for Progress | The China Show 7/1/2026"
@@ -1787,6 +1777,16 @@
       "time": "01/07 15:00",
       "source": "\ud83d\udcf0 **BBC News**: England's warmest June on record down to record-breaking heatwave",
       "title": "England's warmest June on record down to record-breaking heatwave"
+    },
+    {
+      "time": "01/07 15:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Peru\u2019s Inflation Unexpectedly Picks Up With Rising Food Prices",
+      "title": "Peru\u2019s Inflation Unexpectedly Picks Up With Rising Food Prices"
+    },
+    {
+      "time": "01/07 15:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: US Stocks Decline as Warsh Says Fed Is Charting New Course",
+      "title": "US Stocks Decline as Warsh Says Fed Is Charting New Course"
     }
   ]
 }
