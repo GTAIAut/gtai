@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T14:45:36.734475+00:00",
+  "generated_at": "2026-07-01T15:00:36.776840+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1689,11 +1689,6 @@
   ],
   "news_alerts": [
     {
-      "time": "01/07 09:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: South32\u2019s New CEO Looks to Focus on Copper After Aluminum Deal",
-      "title": "South32\u2019s New CEO Looks to Focus on Copper After Aluminum Deal"
-    },
-    {
       "time": "01/07 09:30",
       "source": "**Cointelegraph**: Former Goliath Ventures CEO pleads guilty in $400M crypto Ponzi case",
       "title": "Former Goliath Ventures CEO pleads guilty in $400M crypto Ponzi case"
@@ -1787,6 +1782,11 @@
       "time": "01/07 15:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: ECB\u2019s Kaasik Says One More Rate Hike Is Reasonable Expectation",
       "title": "ECB\u2019s Kaasik Says One More Rate Hike Is Reasonable Expectation"
+    },
+    {
+      "time": "01/07 16:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: US Stocks Fall as Traders Evaluate Warsh Comments, New Data",
+      "title": "US Stocks Fall as Traders Evaluate Warsh Comments, New Data"
     }
   ]
 }
