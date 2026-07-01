@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T16:00:36.931903+00:00",
+  "generated_at": "2026-07-01T16:15:36.740390+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1689,11 +1689,6 @@
   ],
   "news_alerts": [
     {
-      "time": "01/07 10:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Euro-Zone Inflation Slows More Than Expected as Oil Retreats",
-      "title": "Euro-Zone Inflation Slows More Than Expected as Oil Retreats"
-    },
-    {
       "time": "01/07 10:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: SARB Will Respond to Above-Target CPI Expectations, Kganyago Says",
       "title": "SARB Will Respond to Above-Target CPI Expectations, Kganyago Says"
@@ -1787,6 +1782,11 @@
       "time": "01/07 16:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: US Stocks Rise as Traders Weigh Warsh Remarks, Manufacturing",
       "title": "US Stocks Rise as Traders Weigh Warsh Remarks, Manufacturing"
+    },
+    {
+      "time": "01/07 17:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: UAE Oil Flows Hit Pre-War Levels on Dark Ships and Hormuz Bypass",
+      "title": "UAE Oil Flows Hit Pre-War Levels on Dark Ships and Hormuz Bypass"
     }
   ]
 }
