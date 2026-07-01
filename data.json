@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T11:00:36.821234+00:00",
+  "generated_at": "2026-07-01T11:15:36.709096+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1709,11 +1709,6 @@
   ],
   "news_alerts": [
     {
-      "time": "30/06 16:15",
-      "source": "**Investing.com**: Aduro Clean Technologies stock rises on AstroTurf recycling deal",
-      "title": "Aduro Clean Technologies stock rises on AstroTurf recycling deal"
-    },
-    {
       "time": "30/06 16:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: RBI Funding Curbs Deal\u00a0\u2018Body Blow\u2019 to Indian Prop Trading Firms",
       "title": "RBI Funding Curbs Deal\u00a0\u2018Body Blow\u2019 to Indian Prop Trading Firms"
@@ -1807,6 +1802,11 @@
       "time": "01/07 11:15",
       "source": "**NYT World**: Trump Suggestion of a Syrian Crackdown on Hezbollah Confounds Many in Mideast",
       "title": "Trump Suggestion of a Syrian Crackdown on Hezbollah Confounds Many in Mideast"
+    },
+    {
+      "time": "01/07 12:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Kevin Warsh to Speak at Sintra, Trump's $1.4B in Crypto Earnings | The Opening Trade 7/1/2026",
+      "title": "Kevin Warsh to Speak at Sintra, Trump's $1.4B in Crypto Earnings | The Opening Trade 7/1/2026"
     }
   ]
 }
