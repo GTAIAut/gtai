@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-07-01T13:30:36.803936+00:00",
+  "generated_at": "2026-07-01T13:40:56.924723+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": 431.9,
-    "total_pnl_pct": 0.86,
-    "cash_eur": 42917.96,
-    "invested_eur": 7052.16,
+    "total_pnl_eur": 258.26,
+    "total_pnl_pct": 0.52,
+    "cash_eur": 48060.94,
+    "invested_eur": 2039.14,
     "portfolio_value": 50431.9,
-    "open_positions": 2,
-    "total_trades": 80,
-    "win_rate": 46.2,
-    "total_wins": 37,
+    "open_positions": 1,
+    "total_trades": 81,
+    "win_rate": 46.9,
+    "total_wins": 38,
     "total_losses": 43,
-    "avg_win": 15.46,
+    "avg_win": 18.47,
     "avg_loss": -55.8,
     "best_trade": {
       "id": 36,
@@ -323,7 +323,7 @@
     },
     {
       "month": "2026-07",
-      "pnl": -75.9
+      "pnl": 54.06
     }
   ],
   "ticker_pnl": [
@@ -342,6 +342,10 @@
     {
       "ticker": "ETH",
       "pnl": -340.68
+    },
+    {
+      "ticker": "GLD",
+      "pnl": 130.13
     },
     {
       "ticker": "TLT",
@@ -382,10 +386,6 @@
     {
       "ticker": "SPY",
       "pnl": 0.26
-    },
-    {
-      "ticker": "GLD",
-      "pnl": 0.17
     },
     {
       "ticker": "IWM",
@@ -849,26 +849,16 @@
       "at_tp1": false,
       "reason": "small caps rotation",
       "opened_at": "2026-06-16T16:05:07.109217"
-    },
-    {
-      "ticker": "GLD",
-      "direction": "SHORT",
-      "entry": 333.06,
-      "size": 30.1031,
-      "invested": 5013.02,
-      "leverage": 2,
-      "sl": 328.0,
-      "tp1": 313.07,
-      "tp2": null,
-      "budget_pct": 10.0,
-      "confidence": 7,
-      "is_crypto": false,
-      "at_tp1": false,
-      "reason": "/ 2x: gold breaking $4K, dollar strength",
-      "opened_at": "2026-06-24T14:10:34.574304"
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "GLD",
+      "direction": "SHORT",
+      "pnl": 129.96,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "closed_at": "2026-07-01T14:40:55.341743"
+    },
     {
       "ticker": "BTC",
       "direction": "LONG",
@@ -1001,13 +991,6 @@
       "pnl": 0.2,
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "closed_at": "2026-06-15T15:30:02.599322"
-    },
-    {
-      "ticker": "META",
-      "direction": "LONG",
-      "pnl": -10.31,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "closed_at": "2026-06-12T14:54:20.206862"
     }
   ],
   "recent_sessions": [
@@ -1138,6 +1121,15 @@
       "date": "26/06/2026 14:09",
       "title": "Postmortem TARDE 59 concluido. Score 5.5/10. Alertas: (1) SOL LONG em RISK-OFF incoerente, (2) ETH 12%/5x duplica exposicao, (3) concentracao 4 crypto",
       "score": "5.5"
+    },
+    {
+      "type": "sl_hit",
+      "ticker": "GLD",
+      "direction": "SHORT",
+      "pnl": 129.96,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-07-01T14:40",
+      "id": 42
     },
     {
       "type": "close",
@@ -1606,15 +1598,6 @@
       "reason": "SHORT contr\u00e1rio ao regime RISK-ON, reduzido a 67%, slot necess\u00e1rio para sinal mais forte TSLA",
       "date": "2026-05-11T16:54",
       "id": 18
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "AVAX",
-      "direction": "SHORT",
-      "pnl": 0.0,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-11T12:40",
-      "id": 17
     }
   ],
   "session_analysis": [
