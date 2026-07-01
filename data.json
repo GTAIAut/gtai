@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T05:00:37.272202+00:00",
+  "generated_at": "2026-07-01T05:15:36.710030+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -51,16 +51,16 @@
         "total": 50
       },
       "Analista T\u00e9cnico": {
-        "ok": 35,
-        "total": 37
+        "ok": 36,
+        "total": 38
       },
       "Gestor de Risco": {
-        "ok": 24,
-        "total": 27
+        "ok": 26,
+        "total": 29
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "395/414"
+    "all_sessions_rate": "398/417"
   },
   "equity_curve": [
     {
@@ -1031,36 +1031,36 @@
     {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
-      "status": "running",
-      "created": "2026-06-30T13:00:29.078Z",
+      "status": "idle",
+      "created": "2026-07-01T05:11:08.116Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
-      "status": "error",
-      "created": "2026-07-01T05:00:34.351Z",
+      "status": "idle",
+      "created": "2026-07-01T05:10:54.050Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
-      "status": "running",
-      "created": "2026-06-30T13:00:53.921Z",
+      "status": "idle",
+      "created": "2026-07-01T05:10:56.647Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "running",
-      "created": "2026-06-30T13:00:52.070Z",
+      "status": "idle",
+      "created": "2026-07-01T05:10:55.685Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
-      "status": "error",
-      "created": "2026-07-01T05:00:34.539Z",
+      "status": "idle",
+      "created": "2026-07-01T05:12:43.219Z",
       "completed": ""
     },
     {
@@ -1073,8 +1073,8 @@
     {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
-      "status": "running",
-      "created": "2026-06-30T13:00:29.082Z",
+      "status": "idle",
+      "created": "2026-07-01T05:12:25.405Z",
       "completed": ""
     },
     {
