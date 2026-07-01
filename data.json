@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T12:45:36.681082+00:00",
+  "generated_at": "2026-07-01T13:00:36.988879+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1018,35 +1018,35 @@
     {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-01T09:50:29.514Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-01T09:50:15.676Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-01T09:50:38.930Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-01T09:51:06.550Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-01T09:50:08.067Z",
       "completed": ""
     },
@@ -1060,7 +1060,7 @@
     {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-01T09:52:58.318Z",
       "completed": ""
     },
@@ -1142,14 +1142,6 @@
       "date": "26/06/2026 14:09",
       "title": "Postmortem TARDE 59 concluido. Score 5.5/10. Alertas: (1) SOL LONG em RISK-OFF incoerente, (2) ETH 12%/5x duplica exposicao, (3) concentracao 4 crypto",
       "score": "5.5"
-    },
-    {
-      "type": "session",
-      "session_type": "MEIODIA",
-      "session_num": 58,
-      "date": "26/06/2026 10:10",
-      "title": "Postmortem MEIODIA 58 conclu\u00eddo. An\u00e1lise publicada com score 6.5/10. Registos 43-46 adicionados (QQQ SHORT, SPY SHORT, USO LONG, ETH SHORT). Principai",
-      "score": "6.5"
     },
     {
       "type": "close",
@@ -1618,9 +1610,26 @@
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-11T12:40",
       "id": 17
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "pnl": 0.16,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-11T12:30",
+      "id": 17
     }
   ],
   "session_analysis": [
+    {
+      "session_type": "MEIODIA",
+      "session_num": 68,
+      "date": "01/07/2026 11:39",
+      "summary": "Postmortem conclu\u00eddo. An\u00e1lise publicada com score 7/10. 5 novos trades registados. Ver [GTAA-793](/GTAA/issues/GTAA-793) para detalhe completo.",
+      "trades": [],
+      "findings": []
+    },
     {
       "session_type": "MEIODIA",
       "session_num": 67,
@@ -1695,14 +1704,6 @@
       "session_num": 59,
       "date": "26/06/2026 14:09",
       "summary": "Postmortem TARDE #59 concluido. Score 5.5/10. Alertas: (1) SOL LONG em RISK-OFF incoerente, (2) ETH 12%/5x duplica exposicao, (3) concentracao 4 crypto, (4) discrepancia cash recorrente.",
-      "trades": [],
-      "findings": []
-    },
-    {
-      "session_type": "MEIODIA",
-      "session_num": 58,
-      "date": "26/06/2026 10:10",
-      "summary": "Postmortem MEIODIA #58 conclu\u00eddo. An\u00e1lise publicada com score 6.5/10. Registos #43-46 adicionados (QQQ SHORT, SPY SHORT, USO LONG, ETH SHORT). Principais alertas: (1) ETH 5x leverage em Extreme Fear 13 \u00e9 excessivo, (2) correla\u00e7\u00e3o QQQ+SPY n\u00e3o agregada, (3) cash deploy inconsistente nos n\u00fameros.",
       "trades": [],
       "findings": []
     }
