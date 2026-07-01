@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T13:00:36.988879+00:00",
+  "generated_at": "2026-07-01T13:15:36.799025+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1019,34 +1019,34 @@
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "running",
-      "created": "2026-07-01T09:50:29.514Z",
+      "created": "2026-07-01T13:10:30.546Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
       "status": "running",
-      "created": "2026-07-01T09:50:15.676Z",
+      "created": "2026-07-01T13:10:29.689Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
       "status": "running",
-      "created": "2026-07-01T09:50:38.930Z",
+      "created": "2026-07-01T13:10:30.001Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
       "status": "running",
-      "created": "2026-07-01T09:51:06.550Z",
+      "created": "2026-07-01T13:10:30.449Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
-      "status": "running",
+      "status": "idle",
       "created": "2026-07-01T09:50:08.067Z",
       "completed": ""
     },
@@ -1061,7 +1061,7 @@
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "running",
-      "created": "2026-07-01T09:52:58.318Z",
+      "created": "2026-07-01T13:10:30.466Z",
       "completed": ""
     },
     {
@@ -1710,11 +1710,6 @@
   ],
   "news_alerts": [
     {
-      "time": "30/06 18:45",
-      "source": "\ud83d\udcf0 **BBC News**: US Supreme Court upholds birthright citizenship in blow to Trump",
-      "title": "US Supreme Court upholds birthright citizenship in blow to Trump"
-    },
-    {
       "time": "01/07 06:00",
       "source": "**Cointelegraph**: Trump earned more from crypto than real estate in 2025, filings show",
       "title": "Trump earned more from crypto than real estate in 2025, filings show"
@@ -1808,6 +1803,11 @@
       "time": "01/07 13:00",
       "source": "\ud83d\udcf0 **BBC News**: Up to 150 ex-WHSmith High Street stores to close as rescue deal approved",
       "title": "Up to 150 ex-WHSmith High Street stores to close as rescue deal approved"
+    },
+    {
+      "time": "01/07 14:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: US Stocks Decline as Traders Await Warsh Comments, Fresh Data",
+      "title": "US Stocks Decline as Traders Await Warsh Comments, Fresh Data"
     }
   ]
 }
