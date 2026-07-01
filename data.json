@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T09:00:37.023850+00:00",
+  "generated_at": "2026-07-01T09:15:37.007082+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -51,16 +51,16 @@
         "total": 51
       },
       "Analista T\u00e9cnico": {
-        "ok": 36,
-        "total": 38
+        "ok": 38,
+        "total": 40
       },
       "Gestor de Risco": {
-        "ok": 26,
-        "total": 29
+        "ok": 28,
+        "total": 31
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "400/419"
+    "all_sessions_rate": "404/423"
   },
   "equity_curve": [
     {
@@ -1045,36 +1045,36 @@
     {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
-      "status": "running",
-      "created": "2026-07-01T05:11:08.116Z",
+      "status": "idle",
+      "created": "2026-07-01T09:11:51.281Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
-      "status": "running",
-      "created": "2026-07-01T05:10:54.050Z",
+      "status": "idle",
+      "created": "2026-07-01T09:11:51.432Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
-      "status": "running",
-      "created": "2026-07-01T05:10:56.647Z",
+      "status": "idle",
+      "created": "2026-07-01T09:11:25.434Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "running",
-      "created": "2026-07-01T05:10:55.685Z",
+      "status": "idle",
+      "created": "2026-07-01T09:11:37.152Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
-      "status": "running",
-      "created": "2026-07-01T05:12:43.219Z",
+      "status": "idle",
+      "created": "2026-07-01T09:11:26.414Z",
       "completed": ""
     },
     {
@@ -1087,8 +1087,8 @@
     {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
-      "status": "running",
-      "created": "2026-07-01T05:12:25.405Z",
+      "status": "idle",
+      "created": "2026-07-01T09:12:58.544Z",
       "completed": ""
     },
     {
@@ -1736,16 +1736,6 @@
   "news_alerts": [
     {
       "time": "30/06 15:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: UK \u2018Minded to Intervene\u2019 in Paramount\u2019s Warner Bros. Deal Over Media Ownership Concerns",
-      "title": "UK \u2018Minded to Intervene\u2019 in Paramount\u2019s Warner Bros. Deal Over Media Ownership Concerns"
-    },
-    {
-      "time": "30/06 15:15",
-      "source": "**Investing.com**: Trump cuts New York funding for Medicaid fraud unit",
-      "title": "Trump cuts New York funding for Medicaid fraud unit"
-    },
-    {
-      "time": "30/06 15:15",
       "source": "**Investing.com**: Trump administration cuts New York Medicaid fraud unit funding",
       "title": "Trump administration cuts New York Medicaid fraud unit funding"
     },
@@ -1833,6 +1823,16 @@
       "time": "01/07 09:30",
       "source": "**Cointelegraph**: Former Goliath Ventures CEO pleads guilty in $400M crypto Ponzi case",
       "title": "Former Goliath Ventures CEO pleads guilty in $400M crypto Ponzi case"
+    },
+    {
+      "time": "01/07 10:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Pakistan Inflation Cools, Keeping Central Bank on Guard",
+      "title": "Pakistan Inflation Cools, Keeping Central Bank on Guard"
+    },
+    {
+      "time": "01/07 10:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Euro-Zone Inflation Slows More Than Expected as Oil Retreats",
+      "title": "Euro-Zone Inflation Slows More Than Expected as Oil Retreats"
     }
   ]
 }
