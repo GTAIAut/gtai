@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T09:45:37.116910+00:00",
+  "generated_at": "2026-07-01T10:00:36.960231+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -43,24 +43,24 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 290,
-        "total": 301
+        "ok": 295,
+        "total": 306
       },
       "Registador de Decis\u00f5es": {
         "ok": 48,
         "total": 51
       },
       "Analista T\u00e9cnico": {
-        "ok": 42,
-        "total": 44
+        "ok": 43,
+        "total": 45
       },
       "Gestor de Risco": {
-        "ok": 32,
-        "total": 35
+        "ok": 33,
+        "total": 36
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "412/431"
+    "all_sessions_rate": "419/438"
   },
   "equity_curve": [
     {
@@ -1046,49 +1046,49 @@
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
-      "created": "2026-07-01T09:41:54.003Z",
+      "created": "2026-07-01T09:50:29.514Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
       "status": "idle",
-      "created": "2026-07-01T09:41:46.750Z",
+      "created": "2026-07-01T09:50:15.676Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
       "status": "idle",
-      "created": "2026-07-01T09:41:38.390Z",
+      "created": "2026-07-01T09:50:38.930Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
       "status": "idle",
-      "created": "2026-07-01T09:41:38.952Z",
+      "created": "2026-07-01T09:51:06.550Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
       "status": "idle",
-      "created": "2026-07-01T09:44:04.499Z",
+      "created": "2026-07-01T09:50:08.067Z",
       "completed": ""
     },
     {
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
-      "status": "running",
-      "created": "2026-07-01T09:45:20.976Z",
+      "status": "idle",
+      "created": "2026-07-01T09:55:24.963Z",
       "completed": ""
     },
     {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
-      "created": "2026-07-01T09:41:34.352Z",
+      "created": "2026-07-01T09:52:58.318Z",
       "completed": ""
     },
     {
@@ -1735,16 +1735,6 @@
   ],
   "news_alerts": [
     {
-      "time": "30/06 16:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Comcast\u2019s NBC Spinoff Sets Stage for More Media, Broadband Deals",
-      "title": "Comcast\u2019s NBC Spinoff Sets Stage for More Media, Broadband Deals"
-    },
-    {
-      "time": "30/06 16:00",
-      "source": "**Investing.com**: NYC Mayor Mamdani, City Council reach deal on $125.8 billion budget",
-      "title": "NYC Mayor Mamdani, City Council reach deal on $125.8 billion budget"
-    },
-    {
       "time": "30/06 16:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: World Bank Approves $750 Million Kenya Deal, Agrees to Back",
       "title": "World Bank Approves $750 Million Kenya Deal, Agrees to Back"
@@ -1833,6 +1823,16 @@
       "time": "01/07 10:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: SARB Will Respond to Above-Target CPI Expectations, Kganyago Says",
       "title": "SARB Will Respond to Above-Target CPI Expectations, Kganyago Says"
+    },
+    {
+      "time": "01/07 11:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Bad Loan Investor APS Eyes \u20ac3.3 Billion of Portfolio Deals",
+      "title": "Bad Loan Investor APS Eyes \u20ac3.3 Billion of Portfolio Deals"
+    },
+    {
+      "time": "01/07 11:00",
+      "source": "**NYT World**: How War Takes Its Toll on Ukraine\u2019s Pregnant Women",
+      "title": "How War Takes Its Toll on Ukraine\u2019s Pregnant Women"
     }
   ]
 }
