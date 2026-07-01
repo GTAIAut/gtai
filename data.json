@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T14:30:36.715547+00:00",
+  "generated_at": "2026-07-01T14:45:36.734475+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1689,11 +1689,6 @@
   ],
   "news_alerts": [
     {
-      "time": "01/07 08:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Xi Positions China\u2019s Ruling Party as Global Force for Progress | The China Show 7/1/2026",
-      "title": "Xi Positions China\u2019s Ruling Party as Global Force for Progress | The China Show 7/1/2026"
-    },
-    {
       "time": "01/07 09:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: South32\u2019s New CEO Looks to Focus on Copper After Aluminum Deal",
       "title": "South32\u2019s New CEO Looks to Focus on Copper After Aluminum Deal"
@@ -1787,6 +1782,11 @@
       "time": "01/07 15:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: US Stocks Decline as Warsh Says Fed Is Charting New Course",
       "title": "US Stocks Decline as Warsh Says Fed Is Charting New Course"
+    },
+    {
+      "time": "01/07 15:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: ECB\u2019s Kaasik Says One More Rate Hike Is Reasonable Expectation",
+      "title": "ECB\u2019s Kaasik Says One More Rate Hike Is Reasonable Expectation"
     }
   ]
 }
