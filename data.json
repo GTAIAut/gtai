@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T10:15:36.795669+00:00",
+  "generated_at": "2026-07-02T10:30:36.830356+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1762,6 +1762,11 @@
       "time": "02/07 11:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China and US Target Tariff Reductions on Agricultural Products",
       "title": "China and US Target Tariff Reductions on Agricultural Products"
+    },
+    {
+      "time": "02/07 11:30",
+      "source": "**Cointelegraph**: OFAC sanctions 134 ISIS-K crypto wallet addresses as Tether freezes funds",
+      "title": "OFAC sanctions 134 ISIS-K crypto wallet addresses as Tether freezes funds"
     }
   ]
 }
