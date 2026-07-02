@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-02T09:00:37.730317+00:00",
+  "generated_at": "2026-07-02T09:07:36.731318+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": 260.33,
-    "total_pnl_pct": 0.52,
-    "cash_eur": 42029.7,
-    "invested_eur": 8070.38,
-    "portfolio_value": 50289.25,
+    "total_pnl_eur": 166.84,
+    "total_pnl_pct": 0.33,
+    "cash_eur": 43992.34,
+    "invested_eur": 6080.07,
+    "portfolio_value": 50166.84,
     "open_positions": 2,
     "total_trades": 81,
     "win_rate": 46.9,
@@ -51,16 +51,16 @@
         "total": 56
       },
       "Analista T\u00e9cnico": {
-        "ok": 47,
-        "total": 49
+        "ok": 48,
+        "total": 50
       },
       "Gestor de Risco": {
-        "ok": 35,
-        "total": 38
+        "ok": 36,
+        "total": 39
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "435/454"
+    "all_sessions_rate": "437/456"
   },
   "equity_curve": [
     {
@@ -318,6 +318,10 @@
     {
       "date": "2026-07-02",
       "value": 50289.25
+    },
+    {
+      "date": "2026-07-02",
+      "value": 50166.84
     }
   ],
   "monthly_pnl": [
@@ -513,23 +517,23 @@
     },
     {
       "date": "2026-08-01",
-      "value": 66351.6,
-      "lower": 39644.43,
-      "upper": 93058.77,
+      "value": 66874.24,
+      "lower": 40315.64,
+      "upper": 93432.84,
       "forecast": true
     },
     {
       "date": "2026-08-31",
-      "value": 92087.41,
-      "lower": 65380.24,
-      "upper": 118794.58,
+      "value": 92836.25,
+      "lower": 66277.65,
+      "upper": 119394.85,
       "forecast": true
     },
     {
       "date": "2026-09-30",
-      "value": 117823.23,
-      "lower": 91116.06,
-      "upper": 144530.4,
+      "value": 118798.25,
+      "lower": 92239.65,
+      "upper": 145356.85,
       "forecast": true
     }
   ],
@@ -853,6 +857,11 @@
       "date": "2026-07-02",
       "drawdown_pct": 0.54,
       "value": 50289.25
+    },
+    {
+      "date": "2026-07-02",
+      "drawdown_pct": 0.78,
+      "value": 50166.84
     }
   ],
   "positions": [
@@ -877,13 +886,13 @@
       "ticker": "BTC",
       "direction": "LONG",
       "entry": 53236,
-      "size": 0.2266,
-      "invested": 6031.24,
+      "size": 0.1518,
+      "invested": 4040.93,
       "leverage": 2,
       "sl": 51638.92,
       "tp1": 56430.16,
       "tp2": null,
-      "budget_pct": 12.0,
+      "budget_pct": 8.0,
       "confidence": 7,
       "is_crypto": true,
       "at_tp1": false,
@@ -1035,24 +1044,17 @@
   ],
   "recent_sessions": [
     {
-      "id": "14f33a21",
-      "agent": "Diretor de Investimentos",
-      "status": "error",
-      "created": "2026-07-02T09:00:17.915Z",
-      "completed": ""
-    },
-    {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
-      "status": "running",
-      "created": "2026-07-02T05:11:24.789Z",
+      "status": "idle",
+      "created": "2026-07-02T09:01:19.293Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
-      "status": "running",
-      "created": "2026-07-02T05:10:38.265Z",
+      "status": "idle",
+      "created": "2026-07-02T09:02:33.791Z",
       "completed": ""
     },
     {
@@ -1072,21 +1074,28 @@
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
-      "status": "running",
-      "created": "2026-07-02T05:12:01.264Z",
+      "status": "idle",
+      "created": "2026-07-02T09:00:56.196Z",
+      "completed": ""
+    },
+    {
+      "id": "14f33a21",
+      "agent": "Diretor de Investimentos",
+      "status": "idle",
+      "created": "2026-07-02T09:07:28.707Z",
       "completed": ""
     },
     {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
-      "status": "running",
-      "created": "2026-07-02T05:11:46.417Z",
+      "status": "idle",
+      "created": "2026-07-02T09:00:47.625Z",
       "completed": ""
     },
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-02T05:25:52.731Z",
       "completed": ""
     },
