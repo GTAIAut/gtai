@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T12:45:36.760345+00:00",
+  "generated_at": "2026-07-02T13:00:36.785493+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1067,14 +1067,14 @@
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-02T09:10:31.944Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-02T09:17:50.071Z",
       "completed": ""
     },
@@ -1146,14 +1146,6 @@
       "date": "29/06/2026 14:13",
       "title": "Postmortem TARDE 62 conclu\u00eddo. An\u00e1lise publicada no coment\u00e1rio com score 7.0/10. Principais alertas: velocidade de deploy elevada (42% em 30min), dupl",
       "score": "7.0"
-    },
-    {
-      "type": "session",
-      "session_type": "MEIODIA",
-      "session_num": 61,
-      "date": "29/06/2026 10:11",
-      "title": "POSTMORTEM \u2014 Sess\u00e3o MEIODIA 61 \u2014 29/06/2026",
-      "score": ""
     },
     {
       "type": "sl_hit",
@@ -1649,9 +1641,26 @@
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-11T12:30",
       "id": 17
+    },
+    {
+      "type": "sl_hit",
+      "ticker": "AVAX",
+      "direction": "SHORT",
+      "pnl": 0.82,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-05-11T12:00",
+      "id": 16
     }
   ],
   "session_analysis": [
+    {
+      "session_type": "MEIODIA",
+      "session_num": 71,
+      "date": "02/07/2026 10:07",
+      "summary": "Postmortem completo. REGISTO.md atualizado com 5 novos trades (#20-#24), atualiza\u00e7\u00f5es BTC CLOSE_PARTIAL, IWM SL trail, e par\u00e2metros globais. Score 7/10 \u2014 sess\u00e3o competente com oportunidades de melhoria identificadas.",
+      "trades": [],
+      "findings": []
+    },
     {
       "session_type": "MANHA",
       "session_num": 70,
@@ -1725,16 +1734,6 @@
       "summary": "Postmortem TARDE #62 conclu\u00eddo. An\u00e1lise publicada no coment\u00e1rio com score 7.0/10. Principais alertas: velocidade de deploy elevada (42% em 30min), dupla exposi\u00e7\u00e3o cripto na mesma sess\u00e3o, NVDA contrarian timing-dependente. BTC close 75% foi a decis\u00e3o mais importante e correta da sess\u00e3o.",
       "trades": [],
       "findings": []
-    },
-    {
-      "session_type": "MEIODIA",
-      "session_num": 61,
-      "date": "29/06/2026 10:11",
-      "summary": "## POSTMORTEM \u2014 Sess\u00e3o MEIODIA #61 \u2014 29/06/2026\n\n### 1. Coer\u00eancia Macro\n\nAs decis\u00f5es foram maioritariamente corretas no contexto:\n- **Regime NEUTRO (VIX 18.4)** \u2014 sem bias direcional forte, justifica diversifica\u00e7\u00e3o de dire\u00e7\u00f5es\n- **Cash 63% \ud83d\udea8** \u2014 alarme real. A sess\u00e3o acertou ao priorizar deploy de capital\n- **BTC 60.1%** \u2014 risco de ru\u00edna. O close de 75% era imperativo e inadi\u00e1vel\n\n**Problema:** 3 posi\u00e7\u00f5es SHORT vs 2 LONG (IWM j\u00e1 existia) cria vi\u00e9s bearish. Para regime NEUTRO, ideal seria mais equilibrado. A diversifica\u00e7\u00e3o do DIA LONG mitiga parcialmente mas n\u00e3o compensa o desequil\u00edbrio.\n\n### 2. Limites de Risco\n\n| Requisito | Verifica\u00e7\u00e3o |\n|-----------|-------------|\n| R/R \u2265 1.5:1 | EZU 1.66:1 \u2705; restantes sem R/R explicitado \u2753 |\n| Limites por asset class | Todas ETFs (salvo BTC) \u2014 concent",
-      "trades": [],
-      "findings": [
-        "| R/R \u2265 1.5:1 | EZU 1.66:1 \u2705; restantes sem R/R explicitado \u2753 |"
-      ]
     }
   ],
   "news_alerts": [
@@ -1782,6 +1781,11 @@
       "time": "02/07 13:45",
       "source": "**NYT World**: China Releases Details About Pilot Who Crashed Plane Into Beijing Skyscraper",
       "title": "China Releases Details About Pilot Who Crashed Plane Into Beijing Skyscraper"
+    },
+    {
+      "time": "02/07 14:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Bonds Rally as Weak Jobs Report Dims Fed Rate-Hike Expectations",
+      "title": "Bonds Rally as Weak Jobs Report Dims Fed Rate-Hike Expectations"
     }
   ]
 }
