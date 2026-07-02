@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T05:04:36.516361+00:00",
+  "generated_at": "2026-07-02T05:15:36.748864+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -47,20 +47,20 @@
         "total": 310
       },
       "Registador de Decis\u00f5es": {
-        "ok": 51,
-        "total": 54
+        "ok": 52,
+        "total": 55
       },
       "Analista T\u00e9cnico": {
-        "ok": 46,
-        "total": 48
+        "ok": 47,
+        "total": 49
       },
       "Gestor de Risco": {
-        "ok": 34,
-        "total": 37
+        "ok": 35,
+        "total": 38
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "430/449"
+    "all_sessions_rate": "433/452"
   },
   "equity_curve": [
     {
@@ -1028,36 +1028,36 @@
     {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
-      "status": "error",
-      "created": "2026-07-02T05:00:21.479Z",
+      "status": "idle",
+      "created": "2026-07-02T05:11:24.789Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
       "status": "idle",
-      "created": "2026-07-02T05:00:35.935Z",
+      "created": "2026-07-02T05:10:38.265Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
       "status": "idle",
-      "created": "2026-07-02T05:00:56.658Z",
+      "created": "2026-07-02T05:10:42.424Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "error",
-      "created": "2026-07-02T05:00:21.659Z",
+      "status": "idle",
+      "created": "2026-07-02T05:12:01.076Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
       "status": "idle",
-      "created": "2026-07-02T05:00:40.566Z",
+      "created": "2026-07-02T05:12:01.264Z",
       "completed": ""
     },
     {
@@ -1071,14 +1071,14 @@
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
-      "created": "2026-07-02T05:00:33.085Z",
+      "created": "2026-07-02T05:11:46.417Z",
       "completed": ""
     },
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "running",
-      "created": "2026-07-01T13:25:04.159Z",
+      "status": "idle",
+      "created": "2026-07-02T05:07:16.684Z",
       "completed": ""
     },
     {
