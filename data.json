@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T05:24:02.286279+00:00",
+  "generated_at": "2026-07-02T05:30:36.742774+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -47,8 +47,8 @@
         "total": 311
       },
       "Registador de Decis\u00f5es": {
-        "ok": 52,
-        "total": 55
+        "ok": 53,
+        "total": 56
       },
       "Analista T\u00e9cnico": {
         "ok": 47,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "434/453"
+    "all_sessions_rate": "435/454"
   },
   "equity_curve": [
     {
@@ -1086,8 +1086,8 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "running",
-      "created": "2026-07-02T05:07:16.684Z",
+      "status": "idle",
+      "created": "2026-07-02T05:25:52.731Z",
       "completed": ""
     },
     {
@@ -1731,11 +1731,6 @@
   "news_alerts": [
     {
       "time": "01/07 13:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Goldman Sachs Says Capital Spending Is Powering the Bull Market",
-      "title": "Goldman Sachs Says Capital Spending Is Powering the Bull Market"
-    },
-    {
-      "time": "01/07 13:00",
       "source": "\ud83d\udcf0 **BBC News**: Up to 150 ex-WHSmith High Street stores to close as rescue deal approved",
       "title": "Up to 150 ex-WHSmith High Street stores to close as rescue deal approved"
     },
@@ -1828,6 +1823,11 @@
       "time": "02/07 06:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Japanese Bonds Fall as Inflation Concerns Curb Demand at Auction",
       "title": "Japanese Bonds Fall as Inflation Concerns Curb Demand at Auction"
+    },
+    {
+      "time": "02/07 06:30",
+      "source": "**Cointelegraph**: Trumps\u2019 American Bitcoin sinks 8.4% ahead of reverse stock split to stay listed",
+      "title": "Trumps\u2019 American Bitcoin sinks 8.4% ahead of reverse stock split to stay listed"
     }
   ]
 }
