@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T11:15:36.857327+00:00",
+  "generated_at": "2026-07-02T11:30:36.778930+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1767,6 +1767,11 @@
       "time": "02/07 11:30",
       "source": "**Cointelegraph**: OFAC sanctions 134 ISIS-K crypto wallet addresses as Tether freezes funds",
       "title": "OFAC sanctions 134 ISIS-K crypto wallet addresses as Tether freezes funds"
+    },
+    {
+      "time": "02/07 12:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Saudi Supertankers Exit Hormuz in Kingdom\u2019s Biggest Oil Flow Since Iran War Truce",
+      "title": "Saudi Supertankers Exit Hormuz in Kingdom\u2019s Biggest Oil Flow Since Iran War Truce"
     }
   ]
 }
