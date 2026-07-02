@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T07:00:36.818072+00:00",
+  "generated_at": "2026-07-02T07:15:36.800594+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1731,11 +1731,6 @@
   "news_alerts": [
     {
       "time": "01/07 15:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Peru\u2019s Inflation Unexpectedly Picks Up With Rising Food Prices",
-      "title": "Peru\u2019s Inflation Unexpectedly Picks Up With Rising Food Prices"
-    },
-    {
-      "time": "01/07 15:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: US Stocks Decline as Warsh Says Fed Is Charting New Course",
       "title": "US Stocks Decline as Warsh Says Fed Is Charting New Course"
     },
@@ -1828,6 +1823,11 @@
       "time": "02/07 07:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Switzerland\u2019s Inflation Slows for First Time in Eight Months",
       "title": "Switzerland\u2019s Inflation Slows for First Time in Eight Months"
+    },
+    {
+      "time": "02/07 08:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Tech Giants Lift China Stocks as Rest of Asia Slumps | The China Show | 7/2/2026",
+      "title": "Tech Giants Lift China Stocks as Rest of Asia Slumps | The China Show | 7/2/2026"
     }
   ]
 }
