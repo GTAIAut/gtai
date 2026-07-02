@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T16:45:36.704142+00:00",
+  "generated_at": "2026-07-02T04:00:36.830346+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -51,8 +51,8 @@
         "total": 54
       },
       "Analista T\u00e9cnico": {
-        "ok": 43,
-        "total": 45
+        "ok": 45,
+        "total": 47
       },
       "Gestor de Risco": {
         "ok": 33,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "426/445"
+    "all_sessions_rate": "428/447"
   },
   "equity_curve": [
     {
@@ -499,21 +499,21 @@
       "forecast": false
     },
     {
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "value": 64344.9,
       "lower": 37344.04,
       "upper": 91345.77,
       "forecast": true
     },
     {
-      "date": "2026-08-30",
+      "date": "2026-08-31",
       "value": 89576.25,
       "lower": 62575.38,
       "upper": 116577.12,
       "forecast": true
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "value": 114807.6,
       "lower": 87806.73,
       "upper": 141808.46,
@@ -997,28 +997,28 @@
     {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
-      "status": "error",
+      "status": "idle",
       "created": "2026-07-01T13:20:42.934Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
-      "status": "error",
+      "status": "idle",
       "created": "2026-07-01T13:20:43.029Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
-      "status": "error",
+      "status": "idle",
       "created": "2026-07-01T13:20:43.027Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "error",
+      "status": "idle",
       "created": "2026-07-01T13:20:42.943Z",
       "completed": ""
     },
@@ -1026,7 +1026,7 @@
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
       "status": "idle",
-      "created": "2026-07-01T09:50:08.067Z",
+      "created": "2026-07-02T00:02:09.512Z",
       "completed": ""
     },
     {
@@ -1039,7 +1039,7 @@
     {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
-      "status": "error",
+      "status": "idle",
       "created": "2026-07-01T13:20:42.934Z",
       "completed": ""
     },
@@ -1689,21 +1689,6 @@
   ],
   "news_alerts": [
     {
-      "time": "01/07 11:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Bad Loan Investor APS Eyes \u20ac3.3 Billion of Portfolio Deals",
-      "title": "Bad Loan Investor APS Eyes \u20ac3.3 Billion of Portfolio Deals"
-    },
-    {
-      "time": "01/07 11:00",
-      "source": "**NYT World**: How War Takes Its Toll on Ukraine\u2019s Pregnant Women",
-      "title": "How War Takes Its Toll on Ukraine\u2019s Pregnant Women"
-    },
-    {
-      "time": "01/07 11:15",
-      "source": "**NYT World**: Trump Suggestion of a Syrian Crackdown on Hezbollah Confounds Many in Mideast",
-      "title": "Trump Suggestion of a Syrian Crackdown on Hezbollah Confounds Many in Mideast"
-    },
-    {
       "time": "01/07 12:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Kevin Warsh to Speak at Sintra, Trump's $1.4B in Crypto Earnings | The Opening Trade 7/1/2026",
       "title": "Kevin Warsh to Speak at Sintra, Trump's $1.4B in Crypto Earnings | The Opening Trade 7/1/2026"
@@ -1787,6 +1772,21 @@
       "time": "01/07 17:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Overpricing Fed Rate Hikes Amid Potential Cuts",
       "title": "Overpricing Fed Rate Hikes Amid Potential Cuts"
+    },
+    {
+      "time": "01/07 18:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump\u2019s $1.4 Billion Haul Makes Him Biggest US Crypto Moneymaker",
+      "title": "Trump\u2019s $1.4 Billion Haul Makes Him Biggest US Crypto Moneymaker"
+    },
+    {
+      "time": "01/07 18:15",
+      "source": "\ud83d\udcf0 **BBC News**: 'Time for him to pay' - Carroll calls on Trump to pay $5m after president's appeal fails",
+      "title": "'Time for him to pay' - Carroll calls on Trump to pay $5m after president's appeal fails"
+    },
+    {
+      "time": "01/07 18:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Peru Inflation Unexpectedly Picks Up With Rising Food Prices",
+      "title": "Peru Inflation Unexpectedly Picks Up With Rising Food Prices"
     }
   ]
 }
