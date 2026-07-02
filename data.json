@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T09:07:36.731318+00:00",
+  "generated_at": "2026-07-02T09:15:36.846644+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -48,7 +48,7 @@
       },
       "Registador de Decis\u00f5es": {
         "ok": 53,
-        "total": 56
+        "total": 57
       },
       "Analista T\u00e9cnico": {
         "ok": 48,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "437/456"
+    "all_sessions_rate": "437/457"
   },
   "equity_curve": [
     {
@@ -1046,35 +1046,35 @@
     {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-02T09:01:19.293Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-02T09:02:33.791Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
-      "status": "running",
-      "created": "2026-07-02T05:10:42.424Z",
+      "status": "idle",
+      "created": "2026-07-02T09:13:02.542Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "running",
-      "created": "2026-07-02T05:12:01.076Z",
+      "status": "error",
+      "created": "2026-07-02T09:10:31.944Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-02T09:00:56.196Z",
       "completed": ""
     },
@@ -1088,15 +1088,15 @@
     {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-02T09:00:47.625Z",
       "completed": ""
     },
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "running",
-      "created": "2026-07-02T05:25:52.731Z",
+      "status": "error",
+      "created": "2026-07-02T09:09:26.283Z",
       "completed": ""
     },
     {
@@ -1739,104 +1739,19 @@
   ],
   "news_alerts": [
     {
-      "time": "01/07 16:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Warsh Taps Ex-BOE Chief King for New Fed Communications Task Force",
-      "title": "Warsh Taps Ex-BOE Chief King for New Fed Communications Task Force"
+      "time": "02/07 10:15",
+      "source": "**Cointelegraph**: OpenAI weighs 5% stake for US government amid Trump talks: FT",
+      "title": "OpenAI weighs 5% stake for US government amid Trump talks: FT"
     },
     {
-      "time": "01/07 16:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: US Stocks Rise as Traders Weigh Warsh Remarks, Manufacturing",
-      "title": "US Stocks Rise as Traders Weigh Warsh Remarks, Manufacturing"
-    },
-    {
-      "time": "01/07 17:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: UAE Oil Flows Hit Pre-War Levels on Dark Ships and Hormuz Bypass",
-      "title": "UAE Oil Flows Hit Pre-War Levels on Dark Ships and Hormuz Bypass"
-    },
-    {
-      "time": "01/07 17:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Overpricing Fed Rate Hikes Amid Potential Cuts",
-      "title": "Overpricing Fed Rate Hikes Amid Potential Cuts"
-    },
-    {
-      "time": "01/07 18:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump\u2019s $1.4 Billion Haul Makes Him Biggest US Crypto Moneymaker",
-      "title": "Trump\u2019s $1.4 Billion Haul Makes Him Biggest US Crypto Moneymaker"
-    },
-    {
-      "time": "01/07 18:15",
-      "source": "\ud83d\udcf0 **BBC News**: 'Time for him to pay' - Carroll calls on Trump to pay $5m after president's appeal fails",
-      "title": "'Time for him to pay' - Carroll calls on Trump to pay $5m after president's appeal fails"
-    },
-    {
-      "time": "01/07 18:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Peru Inflation Unexpectedly Picks Up With Rising Food Prices",
-      "title": "Peru Inflation Unexpectedly Picks Up With Rising Food Prices"
-    },
-    {
-      "time": "02/07 06:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Hails Qatar Meetings on Iran as Talks to Continue",
-      "title": "Trump Hails Qatar Meetings on Iran as Talks to Continue"
-    },
-    {
-      "time": "02/07 06:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: India\u2019s Textile Stocks Become Market Standouts on Trade Deals",
-      "title": "India\u2019s Textile Stocks Become Market Standouts on Trade Deals"
-    },
-    {
-      "time": "02/07 06:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Asia Deals Top $750 Billion Despite Mayhem in Parts of the World",
-      "title": "Asia Deals Top $750 Billion Despite Mayhem in Parts of the World"
-    },
-    {
-      "time": "02/07 06:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Japanese Bonds Fall as Inflation Concerns Curb Demand at Auction",
-      "title": "Japanese Bonds Fall as Inflation Concerns Curb Demand at Auction"
-    },
-    {
-      "time": "02/07 06:30",
-      "source": "**Cointelegraph**: Trumps\u2019 American Bitcoin sinks 8.4% ahead of reverse stock split to stay listed",
-      "title": "Trumps\u2019 American Bitcoin sinks 8.4% ahead of reverse stock split to stay listed"
-    },
-    {
-      "time": "02/07 07:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Kochugovindan: Expect Fed to Hold Rates For Rest of 2026",
-      "title": "Kochugovindan: Expect Fed to Hold Rates For Rest of 2026"
-    },
-    {
-      "time": "02/07 07:15",
-      "source": "**Politico**: Ken Burns on Trump\u2019s America 250: \u2018Washington needed no monuments\u2019",
-      "title": "Ken Burns on Trump\u2019s America 250: \u2018Washington needed no monuments\u2019"
-    },
-    {
-      "time": "02/07 07:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China\u2019s Private Refiners Snap Up Middle East Oil as Prices Slide",
-      "title": "China\u2019s Private Refiners Snap Up Middle East Oil as Prices Slide"
-    },
-    {
-      "time": "02/07 07:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Switzerland\u2019s Inflation Slows for First Time in Eight Months",
-      "title": "Switzerland\u2019s Inflation Slows for First Time in Eight Months"
-    },
-    {
-      "time": "02/07 08:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Tech Giants Lift China Stocks as Rest of Asia Slumps | The China Show | 7/2/2026",
-      "title": "Tech Giants Lift China Stocks as Rest of Asia Slumps | The China Show | 7/2/2026"
-    },
-    {
-      "time": "02/07 09:15",
+      "time": "02/07 10:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: What Dan Wang Saw on His Last Trip to China",
       "title": "What Dan Wang Saw on His Last Trip to China"
     },
     {
-      "time": "02/07 09:45",
-      "source": "**Cointelegraph**: OpenAI weighs 5% US government stake amid Trump talks: FT",
-      "title": "OpenAI weighs 5% US government stake amid Trump talks: FT"
-    },
-    {
-      "time": "02/07 10:00",
-      "source": "**Cointelegraph**: OpenAI weighs 5% stake for US government amid Trump talks: FT",
-      "title": "OpenAI weighs 5% stake for US government amid Trump talks: FT"
+      "time": "02/07 10:15",
+      "source": "**NYT World**: Trump Suggestion of a Syrian Crackdown on Hezbollah Confounds Many in Mideast",
+      "title": "Trump Suggestion of a Syrian Crackdown on Hezbollah Confounds Many in Mideast"
     }
   ]
 }
