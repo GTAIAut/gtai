@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T13:00:36.785493+00:00",
+  "generated_at": "2026-07-02T13:15:36.765447+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -51,16 +51,16 @@
         "total": 57
       },
       "Analista T\u00e9cnico": {
-        "ok": 48,
-        "total": 50
+        "ok": 49,
+        "total": 51
       },
       "Gestor de Risco": {
-        "ok": 37,
-        "total": 40
+        "ok": 38,
+        "total": 41
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "438/458"
+    "all_sessions_rate": "440/460"
   },
   "equity_curve": [
     {
@@ -1047,35 +1047,35 @@
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
-      "created": "2026-07-02T09:17:45.367Z",
+      "created": "2026-07-02T13:13:04.445Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
       "status": "idle",
-      "created": "2026-07-02T09:17:47.568Z",
+      "created": "2026-07-02T13:11:14.725Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
       "status": "idle",
-      "created": "2026-07-02T09:13:02.542Z",
+      "created": "2026-07-02T13:10:57.023Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "running",
-      "created": "2026-07-02T09:10:31.944Z",
+      "status": "idle",
+      "created": "2026-07-02T13:10:32.543Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
-      "status": "running",
-      "created": "2026-07-02T09:17:50.071Z",
+      "status": "idle",
+      "created": "2026-07-02T13:04:28.044Z",
       "completed": ""
     },
     {
@@ -1089,7 +1089,7 @@
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
-      "created": "2026-07-02T09:15:47.702Z",
+      "created": "2026-07-02T13:03:47.606Z",
       "completed": ""
     },
     {
@@ -1786,6 +1786,26 @@
       "time": "02/07 14:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Bonds Rally as Weak Jobs Report Dims Fed Rate-Hike Expectations",
       "title": "Bonds Rally as Weak Jobs Report Dims Fed Rate-Hike Expectations"
+    },
+    {
+      "time": "02/07 14:15",
+      "source": "**NYT World**: China Says Pilot Who Flew Into Skyscraper Had Thoughts of Death",
+      "title": "China Says Pilot Who Flew Into Skyscraper Had Thoughts of Death"
+    },
+    {
+      "time": "02/07 14:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Treasuries Gain as Weak Jobs Report Dims Fed Rate-Hike Bets",
+      "title": "Treasuries Gain as Weak Jobs Report Dims Fed Rate-Hike Bets"
+    },
+    {
+      "time": "02/07 14:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: US Stocks Advance as Jobs Data Dims Prospect of Fed Rate Hike",
+      "title": "US Stocks Advance as Jobs Data Dims Prospect of Fed Rate Hike"
+    },
+    {
+      "time": "02/07 14:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Saudi Oil Flows Hit 90% of Pre-War Rate as Ships Exit Hormuz",
+      "title": "Saudi Oil Flows Hit 90% of Pre-War Rate as Ships Exit Hormuz"
     }
   ]
 }
