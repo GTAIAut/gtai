@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-07-02T16:45:36.808391+00:00",
+  "generated_at": "2026-07-02T17:11:10.679482+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": 317.8,
-    "total_pnl_pct": 0.64,
-    "cash_eur": 43992.34,
-    "invested_eur": 6080.07,
+    "total_pnl_eur": 272.12,
+    "total_pnl_pct": 0.54,
+    "cash_eur": 46124.31,
+    "invested_eur": 4040.93,
     "portfolio_value": 50317.8,
-    "open_positions": 2,
-    "total_trades": 81,
-    "win_rate": 46.9,
-    "total_wins": 38,
+    "open_positions": 1,
+    "total_trades": 82,
+    "win_rate": 47.6,
+    "total_wins": 39,
     "total_losses": 43,
-    "avg_win": 18.47,
+    "avg_win": 20.38,
     "avg_loss": -55.8,
     "best_trade": {
       "id": 36,
@@ -339,7 +339,7 @@
     },
     {
       "month": "2026-07",
-      "pnl": 54.06
+      "pnl": 146.89
     }
   ],
   "ticker_pnl": [
@@ -362,6 +362,10 @@
     {
       "ticker": "GLD",
       "pnl": 130.13
+    },
+    {
+      "ticker": "IWM",
+      "pnl": 92.96
     },
     {
       "ticker": "TLT",
@@ -402,10 +406,6 @@
     {
       "ticker": "SPY",
       "pnl": 0.26
-    },
-    {
-      "ticker": "IWM",
-      "pnl": 0.13
     }
   ],
   "forecast": [
@@ -875,23 +875,6 @@
   ],
   "positions": [
     {
-      "ticker": "IWM",
-      "direction": "LONG",
-      "entry": 252.83,
-      "size": 16.1298,
-      "invested": 2039.14,
-      "leverage": 2,
-      "sl": 259.0,
-      "tp1": 268.0,
-      "tp2": null,
-      "budget_pct": 3.9,
-      "confidence": 7,
-      "is_crypto": false,
-      "at_tp1": false,
-      "reason": "small caps rotation",
-      "opened_at": "2026-06-16T16:05:07.109217"
-    },
-    {
       "ticker": "BTC",
       "direction": "LONG",
       "entry": 53236,
@@ -910,6 +893,13 @@
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "IWM",
+      "direction": "LONG",
+      "pnl": 92.83,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "closed_at": "2026-07-02T18:11:08.709090"
+    },
     {
       "ticker": "GLD",
       "direction": "SHORT",
@@ -1042,13 +1032,6 @@
       "pnl": 7.5,
       "reason": "TP1 batido +20.3%, BNB a virar (+0.48%), take profit \u2014 fecho do resto da posi\u00e7\u00e3o",
       "closed_at": "2026-06-16T10:56:29.015548"
-    },
-    {
-      "ticker": "QQQ",
-      "direction": "LONG",
-      "pnl": 0.2,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "closed_at": "2026-06-15T15:30:02.599322"
     }
   ],
   "recent_sessions": [
@@ -1155,6 +1138,15 @@
       "date": "29/06/2026 14:13",
       "title": "Postmortem TARDE 62 conclu\u00eddo. An\u00e1lise publicada no coment\u00e1rio com score 7.0/10. Principais alertas: velocidade de deploy elevada (42% em 30min), dupl",
       "score": "7.0"
+    },
+    {
+      "type": "sl_hit",
+      "ticker": "IWM",
+      "direction": "LONG",
+      "pnl": 92.83,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-07-02T18:11",
+      "id": 35
     },
     {
       "type": "sl_hit",
@@ -1650,15 +1642,6 @@
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-11T12:30",
       "id": 17
-    },
-    {
-      "type": "sl_hit",
-      "ticker": "AVAX",
-      "direction": "SHORT",
-      "pnl": 0.82,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-05-11T12:00",
-      "id": 16
     }
   ],
   "session_analysis": [
