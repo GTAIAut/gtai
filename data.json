@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T17:11:10.679482+00:00",
+  "generated_at": "2026-07-03T04:00:36.716097+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -520,21 +520,21 @@
       "forecast": false
     },
     {
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "value": 67373.43,
       "lower": 40961.37,
       "upper": 93785.5,
       "forecast": true
     },
     {
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "value": 93551.48,
       "lower": 67139.41,
       "upper": 119963.54,
       "forecast": true
     },
     {
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "value": 119729.52,
       "lower": 93317.46,
       "upper": 146141.58,
@@ -1731,11 +1731,6 @@
   "news_alerts": [
     {
       "time": "02/07 10:15",
-      "source": "**Cointelegraph**: OpenAI weighs 5% stake for US government amid Trump talks: FT",
-      "title": "OpenAI weighs 5% stake for US government amid Trump talks: FT"
-    },
-    {
-      "time": "02/07 10:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: What Dan Wang Saw on His Last Trip to China",
       "title": "What Dan Wang Saw on His Last Trip to China"
     },
@@ -1818,6 +1813,21 @@
       "time": "02/07 17:00",
       "source": "**Politico**: Ken Burns on Trump\u2019s America 250: \u2018Washington needed no monuments\u2019",
       "title": "Ken Burns on Trump\u2019s America 250: \u2018Washington needed no monuments\u2019"
+    },
+    {
+      "time": "02/07 18:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: ECB Made Right Choice in June Rate Hike, Lagarde Tells Les Echos",
+      "title": "ECB Made Right Choice in June Rate Hike, Lagarde Tells Les Echos"
+    },
+    {
+      "time": "02/07 18:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Soybeans Drift as China Buying Awaited After US Tariff Statement",
+      "title": "Soybeans Drift as China Buying Awaited After US Tariff Statement"
+    },
+    {
+      "time": "02/07 18:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Oil Continues Slide as Crude Flows Surge Through Persian Gulf",
+      "title": "Oil Continues Slide as Crude Flows Surge Through Persian Gulf"
     }
   ]
 }
