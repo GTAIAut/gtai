@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T10:30:36.917503+00:00",
+  "generated_at": "2026-07-03T10:45:36.777008+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1757,16 +1757,6 @@
   ],
   "news_alerts": [
     {
-      "time": "02/07 15:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: BlackRock\u2019s Rick Rieder on Jobs Report, Fed Rate Cuts, Yields",
-      "title": "BlackRock\u2019s Rick Rieder on Jobs Report, Fed Rate Cuts, Yields"
-    },
-    {
-      "time": "02/07 15:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Traders Go All-In on Nasdaq 100 Bull Case After Recent Rally",
-      "title": "Traders Go All-In on Nasdaq 100 Bull Case After Recent Rally"
-    },
-    {
       "time": "02/07 17:00",
       "source": "**Politico**: Ken Burns on Trump\u2019s America 250: \u2018Washington needed no monuments\u2019",
       "title": "Ken Burns on Trump\u2019s America 250: \u2018Washington needed no monuments\u2019"
@@ -1855,6 +1845,16 @@
       "time": "03/07 10:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: HSBC, Standard Chartered Weigh SRTs as Asia-Linked Deals Ramp Up",
       "title": "HSBC, Standard Chartered Weigh SRTs as Asia-Linked Deals Ramp Up"
+    },
+    {
+      "time": "03/07 11:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: ECB Is in \u2018Good Position\u2019 After June Rate Hike, Moulin Says",
+      "title": "ECB Is in \u2018Good Position\u2019 After June Rate Hike, Moulin Says"
+    },
+    {
+      "time": "03/07 11:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Allies Push to Reshape Fed | The Pulse 7/3/2026",
+      "title": "Trump Allies Push to Reshape Fed | The Pulse 7/3/2026"
     }
   ]
 }
