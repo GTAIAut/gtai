@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T12:30:36.949274+00:00",
+  "generated_at": "2026-07-03T12:45:36.837465+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1758,16 +1758,6 @@
   "news_alerts": [
     {
       "time": "03/07 06:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Takaichi Eyes India Ties as Relations With China Fray",
-      "title": "Takaichi Eyes India Ties as Relations With China Fray"
-    },
-    {
-      "time": "03/07 06:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: MBK Partners Faces Sanctions Process in Homeplus Case, FSS Says",
-      "title": "MBK Partners Faces Sanctions Process in Homeplus Case, FSS Says"
-    },
-    {
-      "time": "03/07 06:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Services Gauge Fares Better Than Forecast Despite Slip",
       "title": "China Services Gauge Fares Better Than Forecast Despite Slip"
     },
@@ -1855,6 +1845,16 @@
       "time": "03/07 13:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: iCON Infrastructure to Buy Northern Fiber in Rescue Deal",
       "title": "iCON Infrastructure to Buy Northern Fiber in Rescue Deal"
+    },
+    {
+      "time": "03/07 13:45",
+      "source": "**NYT World**: Long Lines for Gas Shatter the Illusion of Normalcy in Wartime Russia",
+      "title": "Long Lines for Gas Shatter the Illusion of Normalcy in Wartime Russia"
+    },
+    {
+      "time": "03/07 13:45",
+      "source": "**NYT World**: Tibetan Activist Sets Self on Fire Outside U.N. in Protest Against China",
+      "title": "Tibetan Activist Sets Self on Fire Outside U.N. in Protest Against China"
     }
   ]
 }
