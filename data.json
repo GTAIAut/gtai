@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-03T13:15:36.645886+00:00",
+  "generated_at": "2026-07-03T13:25:20.132413+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": 257.9,
-    "total_pnl_pct": 0.52,
+    "total_pnl_eur": 285.77,
+    "total_pnl_pct": 0.57,
     "cash_eur": 47484.67,
     "invested_eur": 2707.42,
-    "portfolio_value": 50257.9,
+    "portfolio_value": 50285.77,
     "open_positions": 1,
     "total_trades": 82,
     "win_rate": 47.6,
@@ -43,8 +43,8 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 312,
-        "total": 323
+        "ok": 313,
+        "total": 324
       },
       "Registador de Decis\u00f5es": {
         "ok": 56,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "465/485"
+    "all_sessions_rate": "466/486"
   },
   "equity_curve": [
     {
@@ -334,6 +334,10 @@
     {
       "date": "2026-07-03",
       "value": 50257.9
+    },
+    {
+      "date": "2026-07-03",
+      "value": 50285.77
     }
   ],
   "monthly_pnl": [
@@ -534,23 +538,23 @@
     },
     {
       "date": "2026-08-02",
-      "value": 69105.3,
-      "lower": 43004.57,
-      "upper": 95206.03,
+      "value": 69499.36,
+      "lower": 43551.97,
+      "upper": 95446.75,
       "forecast": true
     },
     {
       "date": "2026-09-01",
-      "value": 95655.02,
-      "lower": 69554.29,
-      "upper": 121755.75,
+      "value": 96219.53,
+      "lower": 70272.14,
+      "upper": 122166.92,
       "forecast": true
     },
     {
       "date": "2026-10-01",
-      "value": 122204.74,
-      "lower": 96104.01,
-      "upper": 148305.47,
+      "value": 122939.7,
+      "lower": 96992.31,
+      "upper": 148887.09,
       "forecast": true
     }
   ],
@@ -894,6 +898,11 @@
       "date": "2026-07-03",
       "drawdown_pct": 0.6,
       "value": 50257.9
+    },
+    {
+      "date": "2026-07-03",
+      "drawdown_pct": 0.55,
+      "value": 50285.77
     }
   ],
   "positions": [
@@ -904,7 +913,7 @@
       "size": 0.1017,
       "invested": 2707.42,
       "leverage": 2,
-      "sl": 52700.0,
+      "sl": 53600.0,
       "tp1": 56430.16,
       "tp2": null,
       "budget_pct": 5.4,
@@ -1096,8 +1105,8 @@
     {
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
-      "status": "idle",
-      "created": "2026-07-03T09:52:24.417Z",
+      "status": "running",
+      "created": "2026-07-03T13:23:29.562Z",
       "completed": ""
     },
     {
@@ -1110,7 +1119,7 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-03T09:52:35.270Z",
       "completed": ""
     },
