@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T14:15:36.864603+00:00",
+  "generated_at": "2026-07-03T14:30:36.730036+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1770,16 +1770,6 @@
   "news_alerts": [
     {
       "time": "03/07 06:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: LVMH Wins Court Case Over Logo Used by China Tea Chain",
-      "title": "LVMH Wins Court Case Over Logo Used by China Tea Chain"
-    },
-    {
-      "time": "03/07 06:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Indian State Objects to MSC\u2019s $1.4 Billion Deal With Adani Ports",
-      "title": "Indian State Objects to MSC\u2019s $1.4 Billion Deal With Adani Ports"
-    },
-    {
-      "time": "03/07 06:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Bracing for Yen Swings; US Jobs Ease Fed-Hike Concerns | The Asia Trade 7/3/2026",
       "title": "Bracing for Yen Swings; US Jobs Ease Fed-Hike Concerns | The Asia Trade 7/3/2026"
     },
@@ -1867,6 +1857,16 @@
       "time": "03/07 14:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Buddhism: China's New Soft Power Front",
       "title": "Buddhism: China's New Soft Power Front"
+    },
+    {
+      "time": "03/07 15:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Fed and ECB Seen Diverging in French Snapshot of War Aftermath",
+      "title": "Fed and ECB Seen Diverging in French Snapshot of War Aftermath"
+    },
+    {
+      "time": "03/07 15:30",
+      "source": "**NYT World**: Four Reasons Crimea Has Become Crucial in the Ukraine War",
+      "title": "Four Reasons Crimea Has Become Crucial in the Ukraine War"
     }
   ]
 }
