@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T08:00:36.800758+00:00",
+  "generated_at": "2026-07-03T08:15:36.784069+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1748,11 +1748,6 @@
   "news_alerts": [
     {
       "time": "02/07 14:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Treasuries Gain as Weak Jobs Report Dims Fed Rate-Hike Bets",
-      "title": "Treasuries Gain as Weak Jobs Report Dims Fed Rate-Hike Bets"
-    },
-    {
-      "time": "02/07 14:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: US Stocks Advance as Jobs Data Dims Prospect of Fed Rate Hike",
       "title": "US Stocks Advance as Jobs Data Dims Prospect of Fed Rate Hike"
     },
@@ -1845,6 +1840,11 @@
       "time": "03/07 08:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Renk Group Nears Deal to Buy UK\u2019s David Brown Defence",
       "title": "Renk Group Nears Deal to Buy UK\u2019s David Brown Defence"
+    },
+    {
+      "time": "03/07 09:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Urges \u2018Unimpeded Passage\u2019 of Hormuz as Fee Chatter Mounts",
+      "title": "China Urges \u2018Unimpeded Passage\u2019 of Hormuz as Fee Chatter Mounts"
     }
   ]
 }
