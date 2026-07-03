@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T09:00:36.827574+00:00",
+  "generated_at": "2026-07-03T09:15:36.722992+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -51,16 +51,16 @@
         "total": 59
       },
       "Analista T\u00e9cnico": {
-        "ok": 51,
-        "total": 53
+        "ok": 53,
+        "total": 55
       },
       "Gestor de Risco": {
-        "ok": 39,
-        "total": 42
+        "ok": 41,
+        "total": 44
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "449/469"
+    "all_sessions_rate": "453/473"
   },
   "equity_curve": [
     {
@@ -1053,35 +1053,35 @@
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
-      "created": "2026-07-03T05:12:46.816Z",
+      "created": "2026-07-03T09:11:10.688Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
       "status": "idle",
-      "created": "2026-07-03T05:11:15.260Z",
+      "created": "2026-07-03T09:11:04.116Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
-      "status": "running",
-      "created": "2026-07-03T05:11:32.184Z",
+      "status": "idle",
+      "created": "2026-07-03T09:11:03.108Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "running",
-      "created": "2026-07-03T05:10:35.729Z",
+      "status": "idle",
+      "created": "2026-07-03T09:02:08.650Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
-      "status": "running",
-      "created": "2026-07-03T05:10:55.165Z",
+      "status": "idle",
+      "created": "2026-07-03T09:13:30.339Z",
       "completed": ""
     },
     {
@@ -1095,7 +1095,7 @@
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
-      "created": "2026-07-03T05:03:18.685Z",
+      "created": "2026-07-03T09:13:01.551Z",
       "completed": ""
     },
     {
@@ -1748,11 +1748,6 @@
   ],
   "news_alerts": [
     {
-      "time": "02/07 15:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Fed's Daly Sees Inflation Slowing, Warns of Uncertainties",
-      "title": "Fed's Daly Sees Inflation Slowing, Warns of Uncertainties"
-    },
-    {
       "time": "02/07 15:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: BlackRock\u2019s Rick Rieder on Jobs Report, Fed Rate Cuts, Yields",
       "title": "BlackRock\u2019s Rick Rieder on Jobs Report, Fed Rate Cuts, Yields"
@@ -1846,6 +1841,11 @@
       "time": "03/07 09:45",
       "source": "**Investing.com**: Dollar heads for biggest weekly drop since April as jobs data dims Fed hike bets",
       "title": "Dollar heads for biggest weekly drop since April as jobs data dims Fed hike bets"
+    },
+    {
+      "time": "03/07 10:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: HSBC, Standard Chartered Weigh SRTs as Asia-Linked Deals Ramp Up",
+      "title": "HSBC, Standard Chartered Weigh SRTs as Asia-Linked Deals Ramp Up"
     }
   ]
 }
