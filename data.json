@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T13:00:36.827027+00:00",
+  "generated_at": "2026-07-03T13:15:36.645886+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -51,16 +51,16 @@
         "total": 60
       },
       "Analista T\u00e9cnico": {
-        "ok": 53,
-        "total": 55
+        "ok": 55,
+        "total": 57
       },
       "Gestor de Risco": {
-        "ok": 41,
-        "total": 44
+        "ok": 42,
+        "total": 45
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "462/482"
+    "all_sessions_rate": "465/485"
   },
   "equity_curve": [
     {
@@ -1062,35 +1062,35 @@
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
-      "created": "2026-07-03T09:11:10.688Z",
+      "created": "2026-07-03T13:11:30.472Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
       "status": "idle",
-      "created": "2026-07-03T09:11:04.116Z",
+      "created": "2026-07-03T13:11:05.887Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
       "status": "idle",
-      "created": "2026-07-03T09:11:03.108Z",
+      "created": "2026-07-03T13:11:05.242Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "running",
-      "created": "2026-07-03T09:02:08.650Z",
+      "status": "idle",
+      "created": "2026-07-03T13:01:59.723Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
-      "status": "running",
-      "created": "2026-07-03T09:13:30.339Z",
+      "status": "idle",
+      "created": "2026-07-03T13:10:47.140Z",
       "completed": ""
     },
     {
@@ -1104,7 +1104,7 @@
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
-      "created": "2026-07-03T09:13:01.551Z",
+      "created": "2026-07-03T13:02:54.680Z",
       "completed": ""
     },
     {
