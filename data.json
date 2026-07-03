@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T08:15:36.784069+00:00",
+  "generated_at": "2026-07-03T08:30:36.763247+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1748,11 +1748,6 @@
   "news_alerts": [
     {
       "time": "02/07 14:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: US Stocks Advance as Jobs Data Dims Prospect of Fed Rate Hike",
-      "title": "US Stocks Advance as Jobs Data Dims Prospect of Fed Rate Hike"
-    },
-    {
-      "time": "02/07 14:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Saudi Oil Flows Hit 90% of Pre-War Rate as Ships Exit Hormuz",
       "title": "Saudi Oil Flows Hit 90% of Pre-War Rate as Ships Exit Hormuz"
     },
@@ -1845,6 +1840,11 @@
       "time": "03/07 09:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Urges \u2018Unimpeded Passage\u2019 of Hormuz as Fee Chatter Mounts",
       "title": "China Urges \u2018Unimpeded Passage\u2019 of Hormuz as Fee Chatter Mounts"
+    },
+    {
+      "time": "03/07 09:30",
+      "source": "**Investing.com**: Euro zone services sector contraction eased in June as inflation cooled sharply, PMI shows",
+      "title": "Euro zone services sector contraction eased in June as inflation cooled sharply, PMI shows"
     }
   ]
 }
