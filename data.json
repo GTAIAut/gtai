@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T08:30:36.763247+00:00",
+  "generated_at": "2026-07-03T08:45:36.791931+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1747,11 +1747,6 @@
   ],
   "news_alerts": [
     {
-      "time": "02/07 14:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Saudi Oil Flows Hit 90% of Pre-War Rate as Ships Exit Hormuz",
-      "title": "Saudi Oil Flows Hit 90% of Pre-War Rate as Ships Exit Hormuz"
-    },
-    {
       "time": "02/07 15:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Fed's Daly Sees Inflation Slowing, Warns of Uncertainties",
       "title": "Fed's Daly Sees Inflation Slowing, Warns of Uncertainties"
@@ -1845,6 +1840,11 @@
       "time": "03/07 09:30",
       "source": "**Investing.com**: Euro zone services sector contraction eased in June as inflation cooled sharply, PMI shows",
       "title": "Euro zone services sector contraction eased in June as inflation cooled sharply, PMI shows"
+    },
+    {
+      "time": "03/07 09:45",
+      "source": "**Investing.com**: Dollar heads for biggest weekly drop since April as jobs data dims Fed hike bets",
+      "title": "Dollar heads for biggest weekly drop since April as jobs data dims Fed hike bets"
     }
   ]
 }
