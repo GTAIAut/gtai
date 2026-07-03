@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T06:15:36.826909+00:00",
+  "generated_at": "2026-07-03T06:30:36.770562+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1747,16 +1747,6 @@
   ],
   "news_alerts": [
     {
-      "time": "02/07 13:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Saudi Oil Exports Approach Pre-War Levels as Hormuz Flows Rise",
-      "title": "Saudi Oil Exports Approach Pre-War Levels as Hormuz Flows Rise"
-    },
-    {
-      "time": "02/07 13:45",
-      "source": "**NYT World**: China Releases Details About Pilot Who Crashed Plane Into Beijing Skyscraper",
-      "title": "China Releases Details About Pilot Who Crashed Plane Into Beijing Skyscraper"
-    },
-    {
       "time": "02/07 14:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Bonds Rally as Weak Jobs Report Dims Fed Rate-Hike Expectations",
       "title": "Bonds Rally as Weak Jobs Report Dims Fed Rate-Hike Expectations"
@@ -1845,6 +1835,16 @@
       "time": "03/07 06:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Bracing for Yen Swings; US Jobs Ease Fed-Hike Concerns | The Asia Trade 7/3/2026",
       "title": "Bracing for Yen Swings; US Jobs Ease Fed-Hike Concerns | The Asia Trade 7/3/2026"
+    },
+    {
+      "time": "03/07 07:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Choppy AI Trade, Fed Outlook Drive Asia Markets | Insight with Haslinda Amin 07/03/2026",
+      "title": "Choppy AI Trade, Fed Outlook Drive Asia Markets | Insight with Haslinda Amin 07/03/2026"
+    },
+    {
+      "time": "03/07 07:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Rises Toward $4,200 as Weak Jobs Data Lowers Rate-Hike Odds",
+      "title": "Gold Rises Toward $4,200 as Weak Jobs Data Lowers Rate-Hike Odds"
     }
   ]
 }
