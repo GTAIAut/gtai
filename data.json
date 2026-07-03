@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T11:30:36.846538+00:00",
+  "generated_at": "2026-07-03T11:45:36.733802+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1757,11 +1757,6 @@
   ],
   "news_alerts": [
     {
-      "time": "02/07 18:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Soybeans Drift as China Buying Awaited After US Tariff Statement",
-      "title": "Soybeans Drift as China Buying Awaited After US Tariff Statement"
-    },
-    {
       "time": "02/07 18:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Oil Continues Slide as Crude Flows Surge Through Persian Gulf",
       "title": "Oil Continues Slide as Crude Flows Surge Through Persian Gulf"
@@ -1855,6 +1850,11 @@
       "time": "03/07 12:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Doubles Down on Fed Changes, Burnham Risks Starmer Mistakes  | The Opening Trade 7/2/2026",
       "title": "Trump Doubles Down on Fed Changes, Burnham Risks Starmer Mistakes  | The Opening Trade 7/2/2026"
+    },
+    {
+      "time": "03/07 12:45",
+      "source": "**Cointelegraph**: Bitcoin supply metric prints first 'buy' signal since late 2022 as bear market continues",
+      "title": "Bitcoin supply metric prints first 'buy' signal since late 2022 as bear market continues"
     }
   ]
 }
