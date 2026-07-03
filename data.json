@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T11:15:36.784979+00:00",
+  "generated_at": "2026-07-03T11:30:36.846538+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1758,11 +1758,6 @@
   "news_alerts": [
     {
       "time": "02/07 18:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: ECB Made Right Choice in June Rate Hike, Lagarde Tells Les Echos",
-      "title": "ECB Made Right Choice in June Rate Hike, Lagarde Tells Les Echos"
-    },
-    {
-      "time": "02/07 18:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Soybeans Drift as China Buying Awaited After US Tariff Statement",
       "title": "Soybeans Drift as China Buying Awaited After US Tariff Statement"
     },
@@ -1855,6 +1850,11 @@
       "time": "03/07 12:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China\u2019s State Iron Ore Buyer Extends Restrictions on Fortescue",
       "title": "China\u2019s State Iron Ore Buyer Extends Restrictions on Fortescue"
+    },
+    {
+      "time": "03/07 12:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Doubles Down on Fed Changes, Burnham Risks Starmer Mistakes  | The Opening Trade 7/2/2026",
+      "title": "Trump Doubles Down on Fed Changes, Burnham Risks Starmer Mistakes  | The Opening Trade 7/2/2026"
     }
   ]
 }
