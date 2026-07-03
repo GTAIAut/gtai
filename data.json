@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T05:15:36.710179+00:00",
+  "generated_at": "2026-07-03T05:30:36.719807+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -43,8 +43,8 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 301,
-        "total": 312
+        "ok": 303,
+        "total": 314
       },
       "Registador de Decis\u00f5es": {
         "ok": 54,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "445/465"
+    "all_sessions_rate": "447/467"
   },
   "equity_curve": [
     {
@@ -1036,6 +1036,13 @@
   ],
   "recent_sessions": [
     {
+      "id": "14f33a21",
+      "agent": "Diretor de Investimentos",
+      "status": "idle",
+      "created": "2026-07-03T05:28:00.287Z",
+      "completed": ""
+    },
+    {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
@@ -1068,13 +1075,6 @@
       "agent": "Analista T\u00e9cnico",
       "status": "idle",
       "created": "2026-07-03T05:10:55.165Z",
-      "completed": ""
-    },
-    {
-      "id": "14f33a21",
-      "agent": "Diretor de Investimentos",
-      "status": "idle",
-      "created": "2026-07-02T13:24:23.002Z",
       "completed": ""
     },
     {
@@ -1733,21 +1733,6 @@
   ],
   "news_alerts": [
     {
-      "time": "02/07 11:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China and US Target Tariff Reductions on Agricultural Products",
-      "title": "China and US Target Tariff Reductions on Agricultural Products"
-    },
-    {
-      "time": "02/07 11:30",
-      "source": "**Cointelegraph**: OFAC sanctions 134 ISIS-K crypto wallet addresses as Tether freezes funds",
-      "title": "OFAC sanctions 134 ISIS-K crypto wallet addresses as Tether freezes funds"
-    },
-    {
-      "time": "02/07 12:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Saudi Supertankers Exit Hormuz in Kingdom\u2019s Biggest Oil Flow Since Iran War Truce",
-      "title": "Saudi Supertankers Exit Hormuz in Kingdom\u2019s Biggest Oil Flow Since Iran War Truce"
-    },
-    {
       "time": "02/07 13:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Saudi Oil Exports Approach Pre-War Levels as Hormuz Flows Rise",
       "title": "Saudi Oil Exports Approach Pre-War Levels as Hormuz Flows Rise"
@@ -1831,6 +1816,21 @@
       "time": "03/07 06:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Services Gauge Fares Better Than Forecast Despite Slip",
       "title": "China Services Gauge Fares Better Than Forecast Despite Slip"
+    },
+    {
+      "time": "03/07 06:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: LVMH Wins Court Case Over Logo Used by China Tea Chain",
+      "title": "LVMH Wins Court Case Over Logo Used by China Tea Chain"
+    },
+    {
+      "time": "03/07 06:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Indian State Objects to MSC\u2019s $1.4 Billion Deal With Adani Ports",
+      "title": "Indian State Objects to MSC\u2019s $1.4 Billion Deal With Adani Ports"
+    },
+    {
+      "time": "03/07 06:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Bracing for Yen Swings; US Jobs Ease Fed-Hike Concerns | The Asia Trade 7/3/2026",
+      "title": "Bracing for Yen Swings; US Jobs Ease Fed-Hike Concerns | The Asia Trade 7/3/2026"
     }
   ]
 }
