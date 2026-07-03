@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T12:15:36.785580+00:00",
+  "generated_at": "2026-07-03T12:30:36.949274+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1757,11 +1757,6 @@
   ],
   "news_alerts": [
     {
-      "time": "02/07 18:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Oil Continues Slide as Crude Flows Surge Through Persian Gulf",
-      "title": "Oil Continues Slide as Crude Flows Surge Through Persian Gulf"
-    },
-    {
       "time": "03/07 06:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Takaichi Eyes India Ties as Relations With China Fray",
       "title": "Takaichi Eyes India Ties as Relations With China Fray"
@@ -1855,6 +1850,11 @@
       "time": "03/07 12:45",
       "source": "**Cointelegraph**: Bitcoin supply metric prints first 'buy' signal since late 2022 as bear market continues",
       "title": "Bitcoin supply metric prints first 'buy' signal since late 2022 as bear market continues"
+    },
+    {
+      "time": "03/07 13:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: iCON Infrastructure to Buy Northern Fiber in Rescue Deal",
+      "title": "iCON Infrastructure to Buy Northern Fiber in Rescue Deal"
     }
   ]
 }
