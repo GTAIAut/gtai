@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T07:00:36.887149+00:00",
+  "generated_at": "2026-07-06T07:15:36.745496+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1663,11 +1663,6 @@
   ],
   "news_alerts": [
     {
-      "time": "03/07 11:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Allies Push to Reshape Fed | The Pulse 7/3/2026",
-      "title": "Trump Allies Push to Reshape Fed | The Pulse 7/3/2026"
-    },
-    {
       "time": "03/07 12:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China\u2019s State Iron Ore Buyer Extends Restrictions on Fortescue",
       "title": "China\u2019s State Iron Ore Buyer Extends Restrictions on Fortescue"
@@ -1761,6 +1756,11 @@
       "time": "06/07 07:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Iran Gives China Concessions for Hormuz Transits | The China Show | 7/6/2026",
       "title": "Iran Gives China Concessions for Hormuz Transits | The China Show | 7/6/2026"
+    },
+    {
+      "time": "06/07 08:15",
+      "source": "**NYT World**: China Test Fires Long-Range Ballistic Missile in the Pacific",
+      "title": "China Test Fires Long-Range Ballistic Missile in the Pacific"
     }
   ]
 }
