@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T12:00:36.883391+00:00",
+  "generated_at": "2026-07-06T12:15:36.883555+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -964,7 +964,7 @@
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
       "status": "idle",
-      "created": "2026-07-06T12:00:00.132Z",
+      "created": "2026-07-06T12:15:09.964Z",
       "completed": ""
     },
     {
@@ -1665,11 +1665,6 @@
   ],
   "news_alerts": [
     {
-      "time": "03/07 16:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: OPEC Output Surged in June as Hormuz Flows Jumped, Survey Shows",
-      "title": "OPEC Output Surged in June as Hormuz Flows Jumped, Survey Shows"
-    },
-    {
       "time": "03/07 18:00",
       "source": "\ud83d\udcf0 **BBC News**: Polish PM warns critical months ahead in face of Russian threat",
       "title": "Polish PM warns critical months ahead in face of Russian threat"
@@ -1763,6 +1758,11 @@
       "time": "06/07 12:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: OPEC+ Emerges From War to Threat of Oil Surplus",
       "title": "OPEC+ Emerges From War to Threat of Oil Surplus"
+    },
+    {
+      "time": "06/07 13:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Tech Leads Stock Futures Higher; Trump Heads to NATO Summit | Bloomberg Brief 07/06/2026",
+      "title": "Tech Leads Stock Futures Higher; Trump Heads to NATO Summit | Bloomberg Brief 07/06/2026"
     }
   ]
 }
