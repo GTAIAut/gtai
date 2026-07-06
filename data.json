@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-06T05:15:36.873610+00:00",
+  "generated_at": "2026-07-06T05:23:46.785518+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": 285.77,
-    "total_pnl_pct": 0.57,
-    "cash_eur": 47484.67,
-    "invested_eur": 2707.42,
-    "portfolio_value": 50285.77,
-    "open_positions": 1,
+    "total_pnl_eur": 393.59,
+    "total_pnl_pct": 0.79,
+    "cash_eur": 39925.63,
+    "invested_eur": 10266.46,
+    "portfolio_value": 50393.59,
+    "open_positions": 2,
     "total_trades": 82,
     "win_rate": 47.6,
     "total_wins": 39,
@@ -270,6 +270,10 @@
     {
       "date": "2026-07-05",
       "value": 50359.21
+    },
+    {
+      "date": "2026-07-06",
+      "value": 50393.59
     }
   ],
   "monthly_pnl": [
@@ -484,29 +488,29 @@
       "forecast": false
     },
     {
-      "date": "2026-07-05",
-      "value": 50359.21,
+      "date": "2026-07-06",
+      "value": 50393.59,
       "forecast": false
     },
     {
       "date": "2026-08-05",
-      "value": 165080.37,
-      "lower": 145669.35,
-      "upper": 184491.38,
+      "value": 162771.09,
+      "lower": 143090.85,
+      "upper": 182451.34,
       "forecast": true
     },
     {
       "date": "2026-09-04",
-      "value": 261677.7,
-      "lower": 242266.69,
-      "upper": 281088.71,
+      "value": 255656.16,
+      "lower": 235975.92,
+      "upper": 275336.41,
       "forecast": true
     },
     {
       "date": "2026-10-04",
-      "value": 358275.03,
-      "lower": 338864.02,
-      "upper": 377686.05,
+      "value": 348541.23,
+      "lower": 328860.99,
+      "upper": 368221.48,
       "forecast": true
     }
   ],
@@ -770,6 +774,11 @@
       "date": "2026-07-05",
       "drawdown_pct": 0.4,
       "value": 50359.21
+    },
+    {
+      "date": "2026-07-06",
+      "drawdown_pct": 0.34,
+      "value": 50393.59
     }
   ],
   "positions": [
@@ -780,7 +789,7 @@
       "size": 0.1017,
       "invested": 2707.42,
       "leverage": 2,
-      "sl": 53600.0,
+      "sl": 54700.0,
       "tp1": 56430.16,
       "tp2": null,
       "budget_pct": 5.4,
@@ -789,6 +798,23 @@
       "at_tp1": false,
       "reason": "5x (MACD bullish cross + Fear&Greed 19)",
       "opened_at": "2026-07-02T06:04:31.747502"
+    },
+    {
+      "ticker": "SOL",
+      "direction": "LONG",
+      "entry": 70.43,
+      "size": 536.6348,
+      "invested": 7559.04,
+      "leverage": 5,
+      "sl": 68.5,
+      "tp1": 74.1,
+      "tp2": 76.0,
+      "budget_pct": 15.0,
+      "confidence": 7,
+      "is_crypto": true,
+      "at_tp1": false,
+      "reason": "RSI 65.6 bullish saudavel (<70 nao overbought) + MACD positivo + UPTREND confirmada + melhor estrutura dos 3 principais cripto + entrada em S1 (70.62) zona de suporte + Fear&Greed 24 contrarian",
+      "opened_at": "2026-07-06T06:23:43.579444"
     }
   ],
   "recent_trades": [
@@ -972,7 +998,7 @@
     {
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-03T13:25:24.333Z",
       "completed": ""
     },
@@ -986,7 +1012,7 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-03T13:27:39.823Z",
       "completed": ""
     },
