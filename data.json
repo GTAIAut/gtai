@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-07-06T12:15:36.883555+00:00",
+  "generated_at": "2026-07-06T12:30:36.934001+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": 393.59,
-    "total_pnl_pct": 0.79,
-    "cash_eur": 39925.63,
-    "invested_eur": 10266.46,
+    "total_pnl_eur": 250.42,
+    "total_pnl_pct": 0.5,
+    "cash_eur": 42745.04,
+    "invested_eur": 7559.04,
     "portfolio_value": 50393.59,
-    "open_positions": 2,
-    "total_trades": 82,
-    "win_rate": 47.6,
-    "total_wins": 39,
+    "open_positions": 1,
+    "total_trades": 83,
+    "win_rate": 48.2,
+    "total_wins": 40,
     "total_losses": 43,
-    "avg_win": 20.38,
+    "avg_win": 22.67,
     "avg_loss": -55.8,
     "best_trade": {
       "id": 36,
@@ -287,13 +287,13 @@
     },
     {
       "month": "2026-07",
-      "pnl": 146.89
+      "pnl": 258.88
     }
   ],
   "ticker_pnl": [
     {
       "ticker": "BTC",
-      "pnl": -1373.96
+      "pnl": -1261.97
     },
     {
       "ticker": "AVAX",
@@ -783,23 +783,6 @@
   ],
   "positions": [
     {
-      "ticker": "BTC",
-      "direction": "LONG",
-      "entry": 53236,
-      "size": 0.1017,
-      "invested": 2707.42,
-      "leverage": 2,
-      "sl": 54700.0,
-      "tp1": 56430.16,
-      "tp2": null,
-      "budget_pct": 5.4,
-      "confidence": 7,
-      "is_crypto": true,
-      "at_tp1": false,
-      "reason": "5x (MACD bullish cross + Fear&Greed 19)",
-      "opened_at": "2026-07-02T06:04:31.747502"
-    },
-    {
       "ticker": "SOL",
       "direction": "LONG",
       "entry": 70.43,
@@ -818,6 +801,13 @@
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "BTC",
+      "direction": "LONG",
+      "pnl": 111.99,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "closed_at": "2026-07-06T13:20:12.454512"
+    },
     {
       "ticker": "IWM",
       "direction": "LONG",
@@ -950,13 +940,6 @@
       "pnl": 1.32,
       "reason": "Reduzir concentra\u00e7\u00e3o de 30.9% para ~20% (close partial 33%)",
       "closed_at": "2026-06-16T10:56:29.015584"
-    },
-    {
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": 7.5,
-      "reason": "TP1 batido +20.3%, BNB a virar (+0.48%), take profit \u2014 fecho do resto da posi\u00e7\u00e3o",
-      "closed_at": "2026-06-16T10:56:29.015548"
     }
   ],
   "recent_sessions": [
@@ -964,7 +947,7 @@
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
       "status": "idle",
-      "created": "2026-07-06T12:15:09.964Z",
+      "created": "2026-07-06T12:28:23.138Z",
       "completed": ""
     },
     {
@@ -1032,6 +1015,15 @@
     }
   ],
   "activity_feed": [
+    {
+      "type": "sl_hit",
+      "ticker": "BTC",
+      "direction": "LONG",
+      "pnl": 111.99,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-07-06T13:20",
+      "id": 47
+    },
     {
       "type": "sl_hit",
       "ticker": "IWM",
@@ -1562,15 +1554,6 @@
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-11T11:29",
       "id": 16
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "SOL",
-      "direction": "SHORT",
-      "pnl": -0.03,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-11T10:08",
-      "id": 15
     }
   ],
   "session_analysis": [
@@ -1665,11 +1648,6 @@
   ],
   "news_alerts": [
     {
-      "time": "03/07 18:00",
-      "source": "\ud83d\udcf0 **BBC News**: Polish PM warns critical months ahead in face of Russian threat",
-      "title": "Polish PM warns critical months ahead in face of Russian threat"
-    },
-    {
       "time": "03/07 18:15",
       "source": "**Cointelegraph**: Donald Trump says \u2018nothing wrong\u2019 with $1.4B crypto windfall while in office",
       "title": "Donald Trump says \u2018nothing wrong\u2019 with $1.4B crypto windfall while in office"
@@ -1763,6 +1741,11 @@
       "time": "06/07 13:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Tech Leads Stock Futures Higher; Trump Heads to NATO Summit | Bloomberg Brief 07/06/2026",
       "title": "Tech Leads Stock Futures Higher; Trump Heads to NATO Summit | Bloomberg Brief 07/06/2026"
+    },
+    {
+      "time": "06/07 13:30",
+      "source": "\ud83d\udcf0 **BBC News**: Ukraine warns of interceptor missile shortage as 19 killed in Kyiv region",
+      "title": "Ukraine warns of interceptor missile shortage as 19 killed in Kyiv region"
     }
   ]
 }
