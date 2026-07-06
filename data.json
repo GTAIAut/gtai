@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T14:00:36.887148+00:00",
+  "generated_at": "2026-07-06T14:15:36.907412+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1657,11 +1657,6 @@
   ],
   "news_alerts": [
     {
-      "time": "03/07 18:15",
-      "source": "**Cointelegraph**: ESMA warns many prediction market event contracts already face EU retail ban",
-      "title": "ESMA warns many prediction market event contracts already face EU retail ban"
-    },
-    {
       "time": "06/07 06:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China\u2019s Biggest ETF Is Now a Gold Fund as National Team Retreats",
       "title": "China\u2019s Biggest ETF Is Now a Gold Fund as National Team Retreats"
@@ -1755,6 +1750,11 @@
       "time": "06/07 14:45",
       "source": "\ud83d\udcf0 **BBC News**: Ukraine warns of interceptor missile shortage as 20 killed in Kyiv region",
       "title": "Ukraine warns of interceptor missile shortage as 20 killed in Kyiv region"
+    },
+    {
+      "time": "06/07 15:15",
+      "source": "\ud83d\udcf0 **BBC News**: Ukraine warns of interceptor missile shortage as 21 killed in Kyiv region",
+      "title": "Ukraine warns of interceptor missile shortage as 21 killed in Kyiv region"
     }
   ]
 }
