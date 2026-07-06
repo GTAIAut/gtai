@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T15:45:36.797584+00:00",
+  "generated_at": "2026-07-06T16:00:36.744381+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1657,11 +1657,6 @@
   ],
   "news_alerts": [
     {
-      "time": "06/07 07:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Iran Gives China Concessions for Hormuz Transits | The China Show | 7/6/2026",
-      "title": "Iran Gives China Concessions for Hormuz Transits | The China Show | 7/6/2026"
-    },
-    {
       "time": "06/07 08:15",
       "source": "**NYT World**: China Test Fires Long-Range Ballistic Missile in the Pacific",
       "title": "China Test Fires Long-Range Ballistic Missile in the Pacific"
@@ -1755,6 +1750,11 @@
       "time": "06/07 16:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: BMO Capital Markets' Jennifer Lee on Labor Market, Inflation",
       "title": "BMO Capital Markets' Jennifer Lee on Labor Market, Inflation"
+    },
+    {
+      "time": "06/07 17:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Peace Deal Doesn\u2019t Restore Pre-War Situation,\u00a0ECB\u2019s Schnabel Says",
+      "title": "Peace Deal Doesn\u2019t Restore Pre-War Situation,\u00a0ECB\u2019s Schnabel Says"
     }
   ]
 }
