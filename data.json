@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T11:00:36.835283+00:00",
+  "generated_at": "2026-07-06T11:15:36.801568+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -964,7 +964,7 @@
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
       "status": "running",
-      "created": "2026-07-06T10:58:06.032Z",
+      "created": "2026-07-06T11:12:40.564Z",
       "completed": ""
     },
     {
@@ -1666,11 +1666,6 @@
   "news_alerts": [
     {
       "time": "03/07 15:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Fed and ECB Seen Diverging in French Snapshot of War Aftermath",
-      "title": "Fed and ECB Seen Diverging in French Snapshot of War Aftermath"
-    },
-    {
-      "time": "03/07 15:30",
       "source": "**NYT World**: Four Reasons Crimea Has Become Crucial in the Ukraine War",
       "title": "Four Reasons Crimea Has Become Crucial in the Ukraine War"
     },
@@ -1763,6 +1758,11 @@
       "time": "06/07 11:30",
       "source": "\ud83d\udcf0 **BBC News**: Ukraine warns of interceptor missile shortage as 15 killed in Kyiv region",
       "title": "Ukraine warns of interceptor missile shortage as 15 killed in Kyiv region"
+    },
+    {
+      "time": "06/07 12:15",
+      "source": "\ud83d\udcf0 **BBC News**: Ukraine warns of interceptor missile shortage as 18 killed in Kyiv region",
+      "title": "Ukraine warns of interceptor missile shortage as 18 killed in Kyiv region"
     }
   ]
 }
