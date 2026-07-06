@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T04:45:36.639733+00:00",
+  "generated_at": "2026-07-06T05:00:37.156824+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -951,7 +951,7 @@
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-03T13:11:05.242Z",
       "completed": ""
     },
@@ -959,13 +959,13 @@
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
       "status": "idle",
-      "created": "2026-07-03T13:01:59.723Z",
+      "created": "2026-07-06T05:00:31.164Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-03T13:10:47.140Z",
       "completed": ""
     },
@@ -1006,14 +1006,6 @@
     }
   ],
   "activity_feed": [
-    {
-      "type": "session",
-      "session_type": "TARDE",
-      "session_num": 65,
-      "date": "30/06/2026 14:11",
-      "title": "Postmortem completo. Score 1.5/10 \u2014 falha de execu\u00e7\u00e3o cr\u00edtica: 0 trades executados vs 6 planeados, 82% cash mantido, sem ajuste de stops. Ver coment\u00e1r",
-      "score": "1.5"
-    },
     {
       "type": "sl_hit",
       "ticker": "IWM",
@@ -1544,9 +1536,26 @@
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-11T11:29",
       "id": 16
+    },
+    {
+      "type": "auto_trim",
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "pnl": -0.03,
+      "reason": "\u2702\ufe0f Auto-trim (30%)",
+      "date": "2026-05-11T10:08",
+      "id": 15
     }
   ],
   "session_analysis": [
+    {
+      "session_type": "TARDE",
+      "session_num": 75,
+      "date": "03/07/2026 14:25",
+      "summary": "Postmortem conclu\u00eddo. Score 4/10 \u2014 ponto cr\u00edtico: 94,4% cash com mercado US aberto e zero novos trades. Li\u00e7\u00f5es: gatilho autom\u00e1tico para deploy de capital, follow-through obrigat\u00f3rio das an\u00e1lises para execu\u00e7\u00e3o. [GTAA-896](/GTAA/issues/GTAA-896)",
+      "trades": [],
+      "findings": []
+    },
     {
       "session_type": "MEIODIA",
       "session_num": 74,
@@ -1624,42 +1633,9 @@
       "summary": "Postmortem completo. Score 4.0/10 \u2014 segunda sess\u00e3o consecutiva com execu\u00e7\u00e3o nula (0/4). SL ajustados corretamente (IWM\u2192\u20ac261, GLD\u2192\u20ac330, BTC\u2192\u20ac50k), mas 82% cash mantido. Discrep\u00e2ncia reportada entre relato do Director (7 posi\u00e7\u00f5es, 77% exposto) e estado real (3 posi\u00e7\u00f5es, 18% exposto). Ver coment\u00e1rio para an\u00e1lise detalhada. Recomenda\u00e7\u00e3o: auditar pipeline de execu\u00e7\u00e3o, sess\u00e3o for\u00e7ada de execu\u00e7\u00e3o na pr\u00f3xima, reavaliar tese BTC (0-6 em BTC). Relat\u00f3rio mensal de Julho pendente para hoje.",
       "trades": [],
       "findings": []
-    },
-    {
-      "session_type": "TARDE",
-      "session_num": 65,
-      "date": "30/06/2026 14:11",
-      "summary": "Postmortem completo. Score 1.5/10 \u2014 falha de execu\u00e7\u00e3o cr\u00edtica: 0 trades executados vs 6 planeados, 82% cash mantido, sem ajuste de stops. Ver coment\u00e1rio para an\u00e1lise detalhada.",
-      "trades": [],
-      "findings": []
     }
   ],
   "news_alerts": [
-    {
-      "time": "03/07 08:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Renk Group Nears Deal to Buy UK\u2019s David Brown Defence",
-      "title": "Renk Group Nears Deal to Buy UK\u2019s David Brown Defence"
-    },
-    {
-      "time": "03/07 09:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Urges \u2018Unimpeded Passage\u2019 of Hormuz as Fee Chatter Mounts",
-      "title": "China Urges \u2018Unimpeded Passage\u2019 of Hormuz as Fee Chatter Mounts"
-    },
-    {
-      "time": "03/07 09:30",
-      "source": "**Investing.com**: Euro zone services sector contraction eased in June as inflation cooled sharply, PMI shows",
-      "title": "Euro zone services sector contraction eased in June as inflation cooled sharply, PMI shows"
-    },
-    {
-      "time": "03/07 09:45",
-      "source": "**Investing.com**: Dollar heads for biggest weekly drop since April as jobs data dims Fed hike bets",
-      "title": "Dollar heads for biggest weekly drop since April as jobs data dims Fed hike bets"
-    },
-    {
-      "time": "03/07 10:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: HSBC, Standard Chartered Weigh SRTs as Asia-Linked Deals Ramp Up",
-      "title": "HSBC, Standard Chartered Weigh SRTs as Asia-Linked Deals Ramp Up"
-    },
     {
       "time": "03/07 11:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: ECB Is in \u2018Good Position\u2019 After June Rate Hike, Moulin Says",
@@ -1734,6 +1710,31 @@
       "time": "03/07 18:15",
       "source": "**Cointelegraph**: ESMA warns many prediction market event contracts already face EU retail ban",
       "title": "ESMA warns many prediction market event contracts already face EU retail ban"
+    },
+    {
+      "time": "06/07 06:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China\u2019s Biggest ETF Is Now a Gold Fund as National Team Retreats",
+      "title": "China\u2019s Biggest ETF Is Now a Gold Fund as National Team Retreats"
+    },
+    {
+      "time": "06/07 06:00",
+      "source": "**Cointelegraph**: Trump\u2019s memecoin holders have lost over $3.8B: Report",
+      "title": "Trump\u2019s memecoin holders have lost over $3.8B: Report"
+    },
+    {
+      "time": "06/07 06:00",
+      "source": "**NYT World**: China Frees Pastor Detained in Crackdown on Religion After Trump\u2019s Urging",
+      "title": "China Frees Pastor Detained in Crackdown on Religion After Trump\u2019s Urging"
+    },
+    {
+      "time": "06/07 06:00",
+      "source": "**NYT World**: China Raises Pressure on Taiwan With Expanded Coast Guard Patrols",
+      "title": "China Raises Pressure on Taiwan With Expanded Coast Guard Patrols"
+    },
+    {
+      "time": "06/07 06:00",
+      "source": "**Politico**: 'Shame on you': Belgium accuses FIFA of caving to Trump ahead of World Cup clash",
+      "title": "'Shame on you': Belgium accuses FIFA of caving to Trump ahead of World Cup clash"
     }
   ]
 }
