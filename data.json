@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T15:15:36.876354+00:00",
+  "generated_at": "2026-07-06T15:30:37.038769+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1658,11 +1658,6 @@
   "news_alerts": [
     {
       "time": "06/07 06:00",
-      "source": "**NYT World**: China Frees Pastor Detained in Crackdown on Religion After Trump\u2019s Urging",
-      "title": "China Frees Pastor Detained in Crackdown on Religion After Trump\u2019s Urging"
-    },
-    {
-      "time": "06/07 06:00",
       "source": "**NYT World**: China Raises Pressure on Taiwan With Expanded Coast Guard Patrols",
       "title": "China Raises Pressure on Taiwan With Expanded Coast Guard Patrols"
     },
@@ -1755,6 +1750,11 @@
       "time": "06/07 16:15",
       "source": "\ud83d\udcf0 **BBC News**: Ukraine warns of interceptor missile shortage as 22 killed in Kyiv region",
       "title": "Ukraine warns of interceptor missile shortage as 22 killed in Kyiv region"
+    },
+    {
+      "time": "06/07 16:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: SK Hynix US Listing Process; Broadcom's Apple Chip Deal | Stock Movers",
+      "title": "SK Hynix US Listing Process; Broadcom's Apple Chip Deal | Stock Movers"
     }
   ]
 }
