@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T08:45:36.858451+00:00",
+  "generated_at": "2026-07-06T09:00:36.778757+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -984,14 +984,14 @@
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-06T05:10:30.618Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-06T05:06:55.647Z",
       "completed": ""
     },
@@ -1575,6 +1575,16 @@
   ],
   "session_analysis": [
     {
+      "session_type": "MANHA",
+      "session_num": 76,
+      "date": "06/07/2026 06:23",
+      "summary": "Postmortem completo. Score 6.5/10 \u2014 tese macro s\u00f3lida (F&G 24 contrarian), BTC trailing stop disciplinado, mas leverage 5x em ambos os trades com R/R marginal (1.56-1.58) penaliza o score. 2 novos registos (#60 BNB, #61 SOL) + atualiza\u00e7\u00e3o BTC #47 (SL 53600\u219254700). Cash ~66% p\u00f3s-sess\u00e3o, limitado por restri\u00e7\u00e3o MANHA s\u00f3 crypto.",
+      "trades": [],
+      "findings": [
+        "Postmortem completo. Score 6.5/10 \u2014 tese macro s\u00f3lida (F&G 24 contrarian), BTC trailing stop disciplinado, mas leverage 5x em ambos os trades com R/R marginal (1.56-1.58) penaliza o score. 2 novos reg"
+      ]
+    },
+    {
       "session_type": "TARDE",
       "session_num": 75,
       "date": "03/07/2026 14:25",
@@ -1649,14 +1659,6 @@
       "session_num": 67,
       "date": "01/07/2026 11:28",
       "summary": "POSTMORTEM conclu\u00eddo. An\u00e1lise publicada no coment\u00e1rio da issue. Score: 7/10 \u2014 execu\u00e7\u00e3o operacional acima da m\u00e9dia, mas falhas no registo de SL/TP e alavancagem 3x sem justifica\u00e7\u00e3o. REGISTO.md atualizado com os trades da sess\u00e3o #67.",
-      "trades": [],
-      "findings": []
-    },
-    {
-      "session_type": "MANHA",
-      "session_num": 66,
-      "date": "01/07/2026 06:24",
-      "summary": "Postmortem completo. Score 4.0/10 \u2014 segunda sess\u00e3o consecutiva com execu\u00e7\u00e3o nula (0/4). SL ajustados corretamente (IWM\u2192\u20ac261, GLD\u2192\u20ac330, BTC\u2192\u20ac50k), mas 82% cash mantido. Discrep\u00e2ncia reportada entre relato do Director (7 posi\u00e7\u00f5es, 77% exposto) e estado real (3 posi\u00e7\u00f5es, 18% exposto). Ver coment\u00e1rio para an\u00e1lise detalhada. Recomenda\u00e7\u00e3o: auditar pipeline de execu\u00e7\u00e3o, sess\u00e3o for\u00e7ada de execu\u00e7\u00e3o na pr\u00f3xima, reavaliar tese BTC (0-6 em BTC). Relat\u00f3rio mensal de Julho pendente para hoje.",
       "trades": [],
       "findings": []
     }
