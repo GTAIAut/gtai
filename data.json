@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T14:45:36.877618+00:00",
+  "generated_at": "2026-07-06T15:00:36.781334+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1658,11 +1658,6 @@
   "news_alerts": [
     {
       "time": "06/07 06:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China\u2019s Biggest ETF Is Now a Gold Fund as National Team Retreats",
-      "title": "China\u2019s Biggest ETF Is Now a Gold Fund as National Team Retreats"
-    },
-    {
-      "time": "06/07 06:00",
       "source": "**Cointelegraph**: Trump\u2019s memecoin holders have lost over $3.8B: Report",
       "title": "Trump\u2019s memecoin holders have lost over $3.8B: Report"
     },
@@ -1755,6 +1750,11 @@
       "time": "06/07 15:15",
       "source": "\ud83d\udcf0 **BBC News**: Ukraine warns of interceptor missile shortage as 21 killed in Kyiv region",
       "title": "Ukraine warns of interceptor missile shortage as 21 killed in Kyiv region"
+    },
+    {
+      "time": "06/07 16:00",
+      "source": "\ud83d\udcf0 **BBC News**: Trump confirms he asked Fifa boss for review of US striker's ban",
+      "title": "Trump confirms he asked Fifa boss for review of US striker's ban"
     }
   ]
 }
