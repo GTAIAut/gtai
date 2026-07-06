@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T09:30:36.795584+00:00",
+  "generated_at": "2026-07-06T09:45:36.944982+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -43,8 +43,8 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 317,
-        "total": 328
+        "ok": 318,
+        "total": 329
       },
       "Registador de Decis\u00f5es": {
         "ok": 58,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "477/497"
+    "all_sessions_rate": "478/498"
   },
   "equity_curve": [
     {
@@ -964,7 +964,7 @@
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
       "status": "idle",
-      "created": "2026-07-06T09:29:05.545Z",
+      "created": "2026-07-06T09:43:37.638Z",
       "completed": ""
     },
     {
@@ -1665,11 +1665,6 @@
   ],
   "news_alerts": [
     {
-      "time": "03/07 13:45",
-      "source": "**NYT World**: Tibetan Activist Sets Self on Fire Outside U.N. in Protest Against China",
-      "title": "Tibetan Activist Sets Self on Fire Outside U.N. in Protest Against China"
-    },
-    {
       "time": "03/07 14:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Buddhism: China's New Soft Power Front",
       "title": "Buddhism: China's New Soft Power Front"
@@ -1763,6 +1758,11 @@
       "time": "06/07 10:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Are SpaceX and Tesla Hurtling Toward a Merger?",
       "title": "Are SpaceX and Tesla Hurtling Toward a Merger?"
+    },
+    {
+      "time": "06/07 10:45",
+      "source": "\ud83d\udcf0 **BBC News**: Ukraine warns of interceptor missile shortage as 14 killed in Kyiv region",
+      "title": "Ukraine warns of interceptor missile shortage as 14 killed in Kyiv region"
     }
   ]
 }
