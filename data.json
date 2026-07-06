@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T06:30:36.762644+00:00",
+  "generated_at": "2026-07-06T06:45:36.705650+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1664,11 +1664,6 @@
   "news_alerts": [
     {
       "time": "03/07 11:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: ECB Is in \u2018Good Position\u2019 After June Rate Hike, Moulin Says",
-      "title": "ECB Is in \u2018Good Position\u2019 After June Rate Hike, Moulin Says"
-    },
-    {
-      "time": "03/07 11:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Allies Push to Reshape Fed | The Pulse 7/3/2026",
       "title": "Trump Allies Push to Reshape Fed | The Pulse 7/3/2026"
     },
@@ -1761,6 +1756,11 @@
       "time": "06/07 06:00",
       "source": "**Politico**: 'Shame on you': Belgium accuses FIFA of caving to Trump ahead of World Cup clash",
       "title": "'Shame on you': Belgium accuses FIFA of caving to Trump ahead of World Cup clash"
+    },
+    {
+      "time": "06/07 07:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Iran Gives China Concessions for Hormuz Transits | The China Show | 7/6/2026",
+      "title": "Iran Gives China Concessions for Hormuz Transits | The China Show | 7/6/2026"
     }
   ]
 }
