@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T09:00:36.778757+00:00",
+  "generated_at": "2026-07-06T09:15:36.794105+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -51,16 +51,16 @@
         "total": 62
       },
       "Analista T\u00e9cnico": {
-        "ok": 56,
-        "total": 58
+        "ok": 58,
+        "total": 60
       },
       "Gestor de Risco": {
-        "ok": 43,
-        "total": 46
+        "ok": 44,
+        "total": 47
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "472/492"
+    "all_sessions_rate": "475/495"
   },
   "equity_curve": [
     {
@@ -963,36 +963,36 @@
     {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
-      "status": "idle",
-      "created": "2026-07-06T05:02:55.380Z",
+      "status": "error",
+      "created": "2026-07-06T09:11:49.744Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
       "status": "idle",
-      "created": "2026-07-06T05:13:48.827Z",
+      "created": "2026-07-06T09:12:02.945Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
       "status": "idle",
-      "created": "2026-07-06T05:10:58.269Z",
+      "created": "2026-07-06T09:12:10.464Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "running",
-      "created": "2026-07-06T05:10:30.618Z",
+      "status": "idle",
+      "created": "2026-07-06T09:11:30.205Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
-      "status": "running",
-      "created": "2026-07-06T05:06:55.647Z",
+      "status": "idle",
+      "created": "2026-07-06T09:11:07.404Z",
       "completed": ""
     },
     {
@@ -1006,7 +1006,7 @@
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
-      "created": "2026-07-06T05:04:20.007Z",
+      "created": "2026-07-06T09:04:37.965Z",
       "completed": ""
     },
     {
@@ -1665,26 +1665,6 @@
   ],
   "news_alerts": [
     {
-      "time": "03/07 12:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Doubles Down on Fed Changes, Burnham Risks Starmer Mistakes  | The Opening Trade 7/2/2026",
-      "title": "Trump Doubles Down on Fed Changes, Burnham Risks Starmer Mistakes  | The Opening Trade 7/2/2026"
-    },
-    {
-      "time": "03/07 12:45",
-      "source": "**Cointelegraph**: Bitcoin supply metric prints first 'buy' signal since late 2022 as bear market continues",
-      "title": "Bitcoin supply metric prints first 'buy' signal since late 2022 as bear market continues"
-    },
-    {
-      "time": "03/07 13:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: iCON Infrastructure to Buy Northern Fiber in Rescue Deal",
-      "title": "iCON Infrastructure to Buy Northern Fiber in Rescue Deal"
-    },
-    {
-      "time": "03/07 13:45",
-      "source": "**NYT World**: Long Lines for Gas Shatter the Illusion of Normalcy in Wartime Russia",
-      "title": "Long Lines for Gas Shatter the Illusion of Normalcy in Wartime Russia"
-    },
-    {
       "time": "03/07 13:45",
       "source": "**NYT World**: Tibetan Activist Sets Self on Fire Outside U.N. in Protest Against China",
       "title": "Tibetan Activist Sets Self on Fire Outside U.N. in Protest Against China"
@@ -1763,6 +1743,26 @@
       "time": "06/07 09:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Samsung Earnings Pivotal for Korea Bulls: 3-Minutes MLIV",
       "title": "Samsung Earnings Pivotal for Korea Bulls: 3-Minutes MLIV"
+    },
+    {
+      "time": "06/07 10:15",
+      "source": "\ud83d\udcf0 **BBC News**: Red card system in disarray as Balogun's suspension overturned after Trump intervention",
+      "title": "Red card system in disarray as Balogun's suspension overturned after Trump intervention"
+    },
+    {
+      "time": "06/07 10:15",
+      "source": "**NYT World**: As Trump Cools on NATO, Turkey Hosts Summit Meeting",
+      "title": "As Trump Cools on NATO, Turkey Hosts Summit Meeting"
+    },
+    {
+      "time": "06/07 10:15",
+      "source": "**NYT World**: Erdogan-Trump Friendship Can Help NATO, Turkey\u2019s Foreign Minister Says",
+      "title": "Erdogan-Trump Friendship Can Help NATO, Turkey\u2019s Foreign Minister Says"
+    },
+    {
+      "time": "06/07 10:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Are SpaceX and Tesla Hurtling Toward a Merger?",
+      "title": "Are SpaceX and Tesla Hurtling Toward a Merger?"
     }
   ]
 }
