@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T15:30:37.038769+00:00",
+  "generated_at": "2026-07-06T15:45:36.797584+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1657,16 +1657,6 @@
   ],
   "news_alerts": [
     {
-      "time": "06/07 06:00",
-      "source": "**NYT World**: China Raises Pressure on Taiwan With Expanded Coast Guard Patrols",
-      "title": "China Raises Pressure on Taiwan With Expanded Coast Guard Patrols"
-    },
-    {
-      "time": "06/07 06:00",
-      "source": "**Politico**: 'Shame on you': Belgium accuses FIFA of caving to Trump ahead of World Cup clash",
-      "title": "'Shame on you': Belgium accuses FIFA of caving to Trump ahead of World Cup clash"
-    },
-    {
       "time": "06/07 07:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Iran Gives China Concessions for Hormuz Transits | The China Show | 7/6/2026",
       "title": "Iran Gives China Concessions for Hormuz Transits | The China Show | 7/6/2026"
@@ -1755,6 +1745,16 @@
       "time": "06/07 16:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: SK Hynix US Listing Process; Broadcom's Apple Chip Deal | Stock Movers",
       "title": "SK Hynix US Listing Process; Broadcom's Apple Chip Deal | Stock Movers"
+    },
+    {
+      "time": "06/07 16:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Bank of Canada Surveys Show War Boosted Inflation Expectations, Investment",
+      "title": "Bank of Canada Surveys Show War Boosted Inflation Expectations, Investment"
+    },
+    {
+      "time": "06/07 16:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: BMO Capital Markets' Jennifer Lee on Labor Market, Inflation",
+      "title": "BMO Capital Markets' Jennifer Lee on Labor Market, Inflation"
     }
   ]
 }
