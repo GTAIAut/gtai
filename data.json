@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-07T05:30:36.745111+00:00",
+  "generated_at": "2026-07-07T05:34:15.399156+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -168.16,
-    "total_pnl_pct": -0.34,
-    "cash_eur": 45083.68,
-    "invested_eur": 5064.56,
-    "portfolio_value": 49831.84,
-    "open_positions": 1,
+    "total_pnl_eur": 187.8,
+    "total_pnl_pct": 0.38,
+    "cash_eur": 39239.87,
+    "invested_eur": 10921.43,
+    "portfolio_value": 50187.8,
+    "open_positions": 2,
     "total_trades": 83,
     "win_rate": 48.2,
     "total_wins": 40,
@@ -278,6 +278,10 @@
     {
       "date": "2026-07-06",
       "value": 49831.84
+    },
+    {
+      "date": "2026-07-07",
+      "value": 50187.8
     }
   ],
   "monthly_pnl": [
@@ -497,24 +501,29 @@
       "forecast": false
     },
     {
+      "date": "2026-07-07",
+      "value": 50187.8,
+      "forecast": false
+    },
+    {
       "date": "2026-08-06",
-      "value": 157976.41,
-      "lower": 138087.21,
-      "upper": 177865.6,
+      "value": 155839.8,
+      "lower": 135712.23,
+      "upper": 175967.37,
       "forecast": true
     },
     {
       "date": "2026-09-05",
-      "value": 247642.35,
-      "lower": 227753.16,
-      "upper": 267531.55,
+      "value": 242118.87,
+      "lower": 221991.3,
+      "upper": 262246.44,
       "forecast": true
     },
     {
       "date": "2026-10-05",
-      "value": 337308.3,
-      "lower": 317419.1,
-      "upper": 357197.49,
+      "value": 328397.94,
+      "lower": 308270.37,
+      "upper": 348525.51,
       "forecast": true
     }
   ],
@@ -788,6 +797,11 @@
       "date": "2026-07-06",
       "drawdown_pct": 1.45,
       "value": 49831.84
+    },
+    {
+      "date": "2026-07-07",
+      "drawdown_pct": 0.74,
+      "value": 50187.8
     }
   ],
   "positions": [
@@ -795,18 +809,35 @@
       "ticker": "SOL",
       "direction": "LONG",
       "entry": 70.43,
-      "size": 359.5453,
-      "invested": 5064.56,
+      "size": 240.8954,
+      "invested": 3393.26,
       "leverage": 5,
-      "sl": 68.5,
+      "sl": 69.2,
       "tp1": 74.1,
       "tp2": 76.0,
-      "budget_pct": 10.0,
+      "budget_pct": 6.7,
       "confidence": 7,
       "is_crypto": true,
       "at_tp1": false,
       "reason": "RSI 65.6 bullish saudavel (<70 nao overbought) + MACD positivo + UPTREND confirmada + melhor estrutura dos 3 principais cripto + entrada em S1 (70.62) zona de suporte + Fear&Greed 24 contrarian",
       "opened_at": "2026-07-06T06:23:43.579444"
+    },
+    {
+      "ticker": "BTC",
+      "direction": "LONG",
+      "entry": 55153,
+      "size": 0.6825,
+      "invested": 7528.17,
+      "leverage": 5,
+      "sl": 53200.0,
+      "tp1": 58440.0,
+      "tp2": null,
+      "budget_pct": 15.0,
+      "confidence": 7,
+      "is_crypto": true,
+      "at_tp1": false,
+      "reason": "Fear&Greed 27 contrarian + Trump pro-crypto + bulls absorveram venda Strategy $216M. RSI 46.4 neutro-baixo. MACD a convergir. R/R 1.71:1.",
+      "opened_at": "2026-07-07T06:34:11.537274"
     }
   ],
   "recent_trades": [
@@ -990,7 +1021,7 @@
     {
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-06T13:32:42.038Z",
       "completed": ""
     },
@@ -1004,7 +1035,7 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-06T13:37:03.137Z",
       "completed": ""
     },
