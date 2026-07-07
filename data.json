@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T09:15:38.049177+00:00",
+  "generated_at": "2026-07-07T09:30:37.030242+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -51,8 +51,8 @@
         "total": 64
       },
       "Analista T\u00e9cnico": {
-        "ok": 63,
-        "total": 65
+        "ok": 64,
+        "total": 66
       },
       "Gestor de Risco": {
         "ok": 49,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "494/514"
+    "all_sessions_rate": "495/515"
   },
   "equity_curve": [
     {
@@ -987,35 +987,35 @@
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
-      "created": "2026-07-07T09:01:45.561Z",
+      "created": "2026-07-07T09:16:46.128Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
       "status": "idle",
-      "created": "2026-07-07T09:02:00.754Z",
+      "created": "2026-07-07T09:16:35.044Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
       "status": "idle",
-      "created": "2026-07-07T09:07:07.945Z",
+      "created": "2026-07-07T09:16:12.885Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "running",
-      "created": "2026-07-07T09:00:43.103Z",
+      "status": "idle",
+      "created": "2026-07-07T09:21:01.889Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
       "status": "idle",
-      "created": "2026-07-07T09:02:34.932Z",
+      "created": "2026-07-07T09:19:29.936Z",
       "completed": ""
     },
     {
@@ -1689,11 +1689,6 @@
   "news_alerts": [
     {
       "time": "06/07 17:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Belgium Fumes After FIFA Clears Balogun Following Trump Call",
-      "title": "Belgium Fumes After FIFA Clears Balogun Following Trump Call"
-    },
-    {
-      "time": "06/07 17:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Sparks Soccer Red Card Drama",
       "title": "Trump Sparks Soccer Red Card Drama"
     },
@@ -1786,6 +1781,11 @@
       "time": "07/07 10:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Czech Policymaker Cautions on Services Prices as Inflation Slows",
       "title": "Czech Policymaker Cautions on Services Prices as Inflation Slows"
+    },
+    {
+      "time": "07/07 10:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Regulator Is Keeping a Close Eye on Susquehanna Case",
+      "title": "China Regulator Is Keeping a Close Eye on Susquehanna Case"
     }
   ]
 }
