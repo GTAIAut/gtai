@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T07:45:36.709200+00:00",
+  "generated_at": "2026-07-07T08:00:36.687782+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1688,11 +1688,6 @@
   ],
   "news_alerts": [
     {
-      "time": "06/07 16:00",
-      "source": "\ud83d\udcf0 **BBC News**: Trump confirms he asked Fifa boss for review of US striker's ban",
-      "title": "Trump confirms he asked Fifa boss for review of US striker's ban"
-    },
-    {
       "time": "06/07 16:15",
       "source": "\ud83d\udcf0 **BBC News**: Ukraine warns of interceptor missile shortage as 22 killed in Kyiv region",
       "title": "Ukraine warns of interceptor missile shortage as 22 killed in Kyiv region"
@@ -1786,6 +1781,11 @@
       "time": "07/07 08:45",
       "source": "**NYT World**: At Least 15 Dead in China After Severe Flooding During Typhoon Maysak",
       "title": "At Least 15 Dead in China After Severe Flooding During Typhoon Maysak"
+    },
+    {
+      "time": "07/07 09:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Panetta Sees Fragile Outlook With Risks to Inflation, Growth",
+      "title": "Panetta Sees Fragile Outlook With Risks to Inflation, Growth"
     }
   ]
 }
