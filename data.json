@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T11:45:36.923029+00:00",
+  "generated_at": "2026-07-07T12:00:36.737122+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1697,11 +1697,6 @@
   ],
   "news_alerts": [
     {
-      "time": "06/07 18:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Sports-Related Deals on the Rise, Says William Blair\u2019s IB Head",
-      "title": "Sports-Related Deals on the Rise, Says William Blair\u2019s IB Head"
-    },
-    {
       "time": "06/07 18:45",
       "source": "**NYT World**: Trump\u2019s Intervention in Balogun\u2019s World Cup Suspension Adds to Conflict With Europe",
       "title": "Trump\u2019s Intervention in Balogun\u2019s World Cup Suspension Adds to Conflict With Europe"
@@ -1795,6 +1790,11 @@
       "time": "07/07 12:00",
       "source": "**NYT World**: Why China Fired a Long-Range Missile Into the Pacific",
       "title": "Why China Fired a Long-Range Missile Into the Pacific"
+    },
+    {
+      "time": "07/07 13:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Arrives in Turkey With Iran War at Top of Agenda",
+      "title": "Trump Arrives in Turkey With Iran War at Top of Agenda"
     }
   ]
 }
