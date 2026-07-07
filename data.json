@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T16:45:36.896865+00:00",
+  "generated_at": "2026-07-07T04:00:36.720019+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -497,21 +497,21 @@
       "forecast": false
     },
     {
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "value": 157976.41,
       "lower": 138087.21,
       "upper": 177865.6,
       "forecast": true
     },
     {
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "value": 247642.35,
       "lower": 227753.16,
       "upper": 267531.55,
       "forecast": true
     },
     {
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "value": 337308.3,
       "lower": 317419.1,
       "upper": 357197.49,
@@ -1658,16 +1658,6 @@
   "news_alerts": [
     {
       "time": "06/07 10:15",
-      "source": "**NYT World**: As Trump Cools on NATO, Turkey Hosts Summit Meeting",
-      "title": "As Trump Cools on NATO, Turkey Hosts Summit Meeting"
-    },
-    {
-      "time": "06/07 10:15",
-      "source": "**NYT World**: Erdogan-Trump Friendship Can Help NATO, Turkey\u2019s Foreign Minister Says",
-      "title": "Erdogan-Trump Friendship Can Help NATO, Turkey\u2019s Foreign Minister Says"
-    },
-    {
-      "time": "06/07 10:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Are SpaceX and Tesla Hurtling Toward a Merger?",
       "title": "Are SpaceX and Tesla Hurtling Toward a Merger?"
     },
@@ -1755,6 +1745,16 @@
       "time": "06/07 17:45",
       "source": "\ud83d\udcf0 **BBC News**: Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
       "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region"
+    },
+    {
+      "time": "06/07 18:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Sports-Related Deals on the Rise, Says William Blair\u2019s IB Head",
+      "title": "Sports-Related Deals on the Rise, Says William Blair\u2019s IB Head"
+    },
+    {
+      "time": "06/07 18:45",
+      "source": "**NYT World**: Trump\u2019s Intervention in Balogun\u2019s World Cup Suspension Adds to Conflict With Europe",
+      "title": "Trump\u2019s Intervention in Balogun\u2019s World Cup Suspension Adds to Conflict With Europe"
     }
   ]
 }
