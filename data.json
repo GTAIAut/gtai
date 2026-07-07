@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T13:15:36.863465+00:00",
+  "generated_at": "2026-07-07T13:30:36.900998+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1003,21 +1003,21 @@
       "id": "55882e4a",
       "agent": "Analista de Cripto",
       "status": "idle",
-      "created": "2026-07-07T13:01:55.762Z",
+      "created": "2026-07-07T13:16:11.935Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
       "status": "idle",
-      "created": "2026-07-07T13:00:54.913Z",
+      "created": "2026-07-07T13:25:45.062Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "running",
-      "created": "2026-07-07T13:00:32.836Z",
+      "status": "idle",
+      "created": "2026-07-07T13:25:24.241Z",
       "completed": ""
     },
     {
