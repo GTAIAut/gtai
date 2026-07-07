@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T14:30:36.880027+00:00",
+  "generated_at": "2026-07-07T14:45:36.881056+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1712,11 +1712,6 @@
   "news_alerts": [
     {
       "time": "07/07 06:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Buys More US Soybeans as Key Agricultural Trade Ramps Up",
-      "title": "China Buys More US Soybeans as Key Agricultural Trade Ramps Up"
-    },
-    {
-      "time": "07/07 06:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Europe\u2019s Defense Stocks Rally Has Much Riding on NATO Summit",
       "title": "Europe\u2019s Defense Stocks Rally Has Much Riding on NATO Summit"
     },
@@ -1809,6 +1804,11 @@
       "time": "07/07 13:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Goldman Says Earnings to Drive Next Leg of Rally in HALO Stocks",
       "title": "Goldman Says Earnings to Drive Next Leg of Rally in HALO Stocks"
+    },
+    {
+      "time": "07/07 15:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Abu Dhabi Ruler\u2019s Family Office Is a Global Dealmaking Force",
+      "title": "Abu Dhabi Ruler\u2019s Family Office Is a Global Dealmaking Force"
     }
   ]
 }
