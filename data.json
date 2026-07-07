@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T09:00:37.540561+00:00",
+  "generated_at": "2026-07-07T09:15:38.049177+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -51,16 +51,16 @@
         "total": 64
       },
       "Analista T\u00e9cnico": {
-        "ok": 62,
-        "total": 64
+        "ok": 63,
+        "total": 65
       },
       "Gestor de Risco": {
-        "ok": 48,
-        "total": 51
+        "ok": 49,
+        "total": 52
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "492/512"
+    "all_sessions_rate": "494/514"
   },
   "equity_curve": [
     {
@@ -987,35 +987,35 @@
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
-      "created": "2026-07-07T05:16:35.499Z",
+      "created": "2026-07-07T09:01:45.561Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
       "status": "idle",
-      "created": "2026-07-07T05:16:12.516Z",
+      "created": "2026-07-07T09:02:00.754Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
       "status": "idle",
-      "created": "2026-07-07T05:15:55.528Z",
+      "created": "2026-07-07T09:07:07.945Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
       "status": "running",
-      "created": "2026-07-07T05:16:49.464Z",
+      "created": "2026-07-07T09:00:43.103Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
-      "status": "running",
-      "created": "2026-07-07T05:15:49.578Z",
+      "status": "idle",
+      "created": "2026-07-07T09:02:34.932Z",
       "completed": ""
     },
     {
@@ -1029,7 +1029,7 @@
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
-      "created": "2026-07-07T05:20:38.787Z",
+      "created": "2026-07-07T09:05:54.654Z",
       "completed": ""
     },
     {
@@ -1688,21 +1688,6 @@
   ],
   "news_alerts": [
     {
-      "time": "06/07 16:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Bank of Canada Surveys Show War Boosted Inflation Expectations, Investment",
-      "title": "Bank of Canada Surveys Show War Boosted Inflation Expectations, Investment"
-    },
-    {
-      "time": "06/07 16:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: BMO Capital Markets' Jennifer Lee on Labor Market, Inflation",
-      "title": "BMO Capital Markets' Jennifer Lee on Labor Market, Inflation"
-    },
-    {
-      "time": "06/07 17:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Peace Deal Doesn\u2019t Restore Pre-War Situation,\u00a0ECB\u2019s Schnabel Says",
-      "title": "Peace Deal Doesn\u2019t Restore Pre-War Situation,\u00a0ECB\u2019s Schnabel Says"
-    },
-    {
       "time": "06/07 17:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Belgium Fumes After FIFA Clears Balogun Following Trump Call",
       "title": "Belgium Fumes After FIFA Clears Balogun Following Trump Call"
@@ -1786,6 +1771,21 @@
       "time": "07/07 10:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China\u2019s PBOC Buys Most Gold Since 2023 as Bullion Swings",
       "title": "China\u2019s PBOC Buys Most Gold Since 2023 as Bullion Swings"
+    },
+    {
+      "time": "07/07 10:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Extreme SK Hynix Stock Swings Add Wild Card to $28 Billion Deal",
+      "title": "Extreme SK Hynix Stock Swings Add Wild Card to $28 Billion Deal"
+    },
+    {
+      "time": "07/07 10:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Watchdog Monitoring US Lawsuit Over Insider Trading Claims",
+      "title": "China Watchdog Monitoring US Lawsuit Over Insider Trading Claims"
+    },
+    {
+      "time": "07/07 10:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Czech Policymaker Cautions on Services Prices as Inflation Slows",
+      "title": "Czech Policymaker Cautions on Services Prices as Inflation Slows"
     }
   ]
 }
