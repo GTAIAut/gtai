@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T04:45:36.798173+00:00",
+  "generated_at": "2026-07-07T05:00:36.828429+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -969,7 +969,7 @@
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-06T13:12:42.852Z",
       "completed": ""
     },
@@ -977,13 +977,13 @@
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
       "status": "idle",
-      "created": "2026-07-06T13:10:40.841Z",
+      "created": "2026-07-07T05:00:34.036Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-06T13:17:23.188Z",
       "completed": ""
     },
@@ -1567,6 +1567,14 @@
   ],
   "session_analysis": [
     {
+      "session_type": "TARDE",
+      "session_num": 77,
+      "date": "06/07/2026 14:32",
+      "summary": "Postmortem conclu\u00eddo. Score 5.5/10 \u2014 5 novos registos (#62-#66) + atualiza\u00e7\u00e3o SOL #61. Problema principal: oversizing (72% budget numa sess\u00e3o NEUTRO). Registo completo no coment\u00e1rio acima.",
+      "trades": [],
+      "findings": []
+    },
+    {
       "session_type": "MANHA",
       "session_num": 76,
       "date": "06/07/2026 06:23",
@@ -1645,37 +1653,9 @@
       "summary": "Postmortem conclu\u00eddo. An\u00e1lise publicada com score 7/10. 5 novos trades registados. Ver [GTAA-793](/GTAA/issues/GTAA-793) para detalhe completo.",
       "trades": [],
       "findings": []
-    },
-    {
-      "session_type": "MEIODIA",
-      "session_num": 67,
-      "date": "01/07/2026 11:28",
-      "summary": "POSTMORTEM conclu\u00eddo. An\u00e1lise publicada no coment\u00e1rio da issue. Score: 7/10 \u2014 execu\u00e7\u00e3o operacional acima da m\u00e9dia, mas falhas no registo de SL/TP e alavancagem 3x sem justifica\u00e7\u00e3o. REGISTO.md atualizado com os trades da sess\u00e3o #67.",
-      "trades": [],
-      "findings": []
     }
   ],
   "news_alerts": [
-    {
-      "time": "06/07 10:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Are SpaceX and Tesla Hurtling Toward a Merger?",
-      "title": "Are SpaceX and Tesla Hurtling Toward a Merger?"
-    },
-    {
-      "time": "06/07 10:45",
-      "source": "\ud83d\udcf0 **BBC News**: Ukraine warns of interceptor missile shortage as 14 killed in Kyiv region",
-      "title": "Ukraine warns of interceptor missile shortage as 14 killed in Kyiv region"
-    },
-    {
-      "time": "06/07 11:30",
-      "source": "\ud83d\udcf0 **BBC News**: Ukraine warns of interceptor missile shortage as 15 killed in Kyiv region",
-      "title": "Ukraine warns of interceptor missile shortage as 15 killed in Kyiv region"
-    },
-    {
-      "time": "06/07 12:15",
-      "source": "\ud83d\udcf0 **BBC News**: Ukraine warns of interceptor missile shortage as 18 killed in Kyiv region",
-      "title": "Ukraine warns of interceptor missile shortage as 18 killed in Kyiv region"
-    },
     {
       "time": "06/07 12:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: OPEC+ Emerges From War to Threat of Oil Surplus",
@@ -1755,6 +1735,26 @@
       "time": "06/07 18:45",
       "source": "**NYT World**: Trump\u2019s Intervention in Balogun\u2019s World Cup Suspension Adds to Conflict With Europe",
       "title": "Trump\u2019s Intervention in Balogun\u2019s World Cup Suspension Adds to Conflict With Europe"
+    },
+    {
+      "time": "07/07 06:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Buys More US Soybeans as Key Agricultural Trade Ramps Up",
+      "title": "China Buys More US Soybeans as Key Agricultural Trade Ramps Up"
+    },
+    {
+      "time": "07/07 06:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Europe\u2019s Defense Stocks Rally Has Much Riding on NATO Summit",
+      "title": "Europe\u2019s Defense Stocks Rally Has Much Riding on NATO Summit"
+    },
+    {
+      "time": "07/07 06:00",
+      "source": "**Cointelegraph**: Trump says he became \u2018a big crypto guy\u2019 partly for politics",
+      "title": "Trump says he became \u2018a big crypto guy\u2019 partly for politics"
+    },
+    {
+      "time": "07/07 06:00",
+      "source": "**Cointelegraph**: US Bitcoin reserve hits snag as federal agencies debate for control: Bloomberg",
+      "title": "US Bitcoin reserve hits snag as federal agencies debate for control: Bloomberg"
     }
   ]
 }
