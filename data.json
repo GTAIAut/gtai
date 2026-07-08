@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T12:15:36.854010+00:00",
+  "generated_at": "2026-07-08T12:30:36.862622+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1723,16 +1723,6 @@
   ],
   "news_alerts": [
     {
-      "time": "08/07 06:00",
-      "source": "**Politico**: North Dakota leaders talk Trump &amp; Teddy Roosevelt over bison burgers",
-      "title": "North Dakota leaders talk Trump &amp; Teddy Roosevelt over bison burgers"
-    },
-    {
-      "time": "08/07 06:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China\u2019s 10-Year Bond Sale Sees Demand Gauge at Record High",
-      "title": "China\u2019s 10-Year Bond Sale Sees Demand Gauge at Record High"
-    },
-    {
       "time": "08/07 06:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China\u2019s Deadly Storms Turbocharged by Convergence of Factors",
       "title": "China\u2019s Deadly Storms Turbocharged by Convergence of Factors"
@@ -1821,6 +1811,16 @@
       "time": "08/07 13:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump & Iran Back in Focus, Korean Stocks Tumble | The Opening Trade 7/8/2026",
       "title": "Trump & Iran Back in Focus, Korean Stocks Tumble | The Opening Trade 7/8/2026"
+    },
+    {
+      "time": "08/07 13:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Stocks Drop, Oil Jumps After Trump Says Ceasefire with Iran Is \"Over\" | Bloomberg Brief 07/08/2026",
+      "title": "Stocks Drop, Oil Jumps After Trump Says Ceasefire with Iran Is \"Over\" | Bloomberg Brief 07/08/2026"
+    },
+    {
+      "time": "08/07 13:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Romania Keeps EU\u2019s Highest Rates With Inflation Stuck Above 10%",
+      "title": "Romania Keeps EU\u2019s Highest Rates With Inflation Stuck Above 10%"
     }
   ]
 }
