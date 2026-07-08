@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T16:00:36.738009+00:00",
+  "generated_at": "2026-07-08T16:15:36.771508+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1732,11 +1732,6 @@
   ],
   "news_alerts": [
     {
-      "time": "08/07 10:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Allowing Major Exports of Diesel and Gasoline This Month",
-      "title": "China Allowing Major Exports of Diesel and Gasoline This Month"
-    },
-    {
       "time": "08/07 10:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Cites Trump Remarks in Rare Criticism of US Taiwan Envoy",
       "title": "China Cites Trump Remarks in Rare Criticism of US Taiwan Envoy"
@@ -1830,6 +1825,11 @@
       "time": "08/07 16:45",
       "source": "\ud83d\udcf0 **BBC News**: Bowen: For all his bluster, Trump has no better option than talks with Iran",
       "title": "Bowen: For all his bluster, Trump has no better option than talks with Iran"
+    },
+    {
+      "time": "08/07 17:15",
+      "source": "**NYT World**: Live Updates: Trump Speaks After Lashing Out at NATO Summit",
+      "title": "Live Updates: Trump Speaks After Lashing Out at NATO Summit"
     }
   ]
 }
