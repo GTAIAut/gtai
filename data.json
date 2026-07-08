@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T13:00:38.633875+00:00",
+  "generated_at": "2026-07-08T13:15:36.844667+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -51,16 +51,16 @@
         "total": 67
       },
       "Analista T\u00e9cnico": {
-        "ok": 69,
-        "total": 71
+        "ok": 70,
+        "total": 72
       },
       "Gestor de Risco": {
-        "ok": 52,
-        "total": 55
+        "ok": 53,
+        "total": 56
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "513/533"
+    "all_sessions_rate": "515/535"
   },
   "equity_curve": [
     {
@@ -1024,35 +1024,35 @@
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
-      "created": "2026-07-08T09:16:25.276Z",
+      "created": "2026-07-08T13:01:49.311Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
       "status": "idle",
-      "created": "2026-07-08T09:16:02.218Z",
+      "created": "2026-07-08T13:01:28.726Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
       "status": "idle",
-      "created": "2026-07-08T09:17:27.636Z",
+      "created": "2026-07-08T13:01:14.471Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
       "status": "running",
-      "created": "2026-07-08T09:15:30.882Z",
+      "created": "2026-07-08T13:00:44.293Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
       "status": "running",
-      "created": "2026-07-08T09:15:58.602Z",
+      "created": "2026-07-08T13:02:01.908Z",
       "completed": ""
     },
     {
@@ -1066,7 +1066,7 @@
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
-      "created": "2026-07-08T09:03:56.349Z",
+      "created": "2026-07-08T13:07:08.200Z",
       "completed": ""
     },
     {
