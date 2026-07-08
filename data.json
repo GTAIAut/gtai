@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T06:15:37.001620+00:00",
+  "generated_at": "2026-07-08T06:30:36.880953+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1692,16 +1692,6 @@
   ],
   "news_alerts": [
     {
-      "time": "07/07 10:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Watchdog Monitoring US Lawsuit Over Insider Trading Claims",
-      "title": "China Watchdog Monitoring US Lawsuit Over Insider Trading Claims"
-    },
-    {
-      "time": "07/07 10:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Czech Policymaker Cautions on Services Prices as Inflation Slows",
-      "title": "Czech Policymaker Cautions on Services Prices as Inflation Slows"
-    },
-    {
       "time": "07/07 10:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Regulator Is Keeping a Close Eye on Susquehanna Case",
       "title": "China Regulator Is Keeping a Close Eye on Susquehanna Case"
@@ -1790,6 +1780,16 @@
       "time": "08/07 07:00",
       "source": "**Cointelegraph**: StarkWare CEO suggests 4% annual Bitcoin inflation to replace 21M cap",
       "title": "StarkWare CEO suggests 4% annual Bitcoin inflation to replace 21M cap"
+    },
+    {
+      "time": "08/07 07:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Australia Turns to Rugby to Pull Pacific Islands Away From China",
+      "title": "Australia Turns to Rugby to Pull Pacific Islands Away From China"
+    },
+    {
+      "time": "08/07 07:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Oil Prices Jump After US Strikes Iran | The China Show | 7/8/2026",
+      "title": "Oil Prices Jump After US Strikes Iran | The China Show | 7/8/2026"
     }
   ]
 }
