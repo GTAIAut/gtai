@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-08T09:30:36.822261+00:00",
+  "generated_at": "2026-07-08T09:37:50.689905+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": 397.5,
-    "total_pnl_pct": 0.8,
-    "cash_eur": 46867.07,
-    "invested_eur": 3379.39,
-    "portfolio_value": 50317.18,
-    "open_positions": 1,
+    "total_pnl_eur": 9.63,
+    "total_pnl_pct": 0.02,
+    "cash_eur": 42903.15,
+    "invested_eur": 7265.15,
+    "portfolio_value": 50009.63,
+    "open_positions": 2,
     "total_trades": 84,
     "win_rate": 47.6,
     "total_wins": 40,
@@ -43,8 +43,8 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 327,
-        "total": 338
+        "ok": 328,
+        "total": 339
       },
       "Registador de Decis\u00f5es": {
         "ok": 62,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "510/530"
+    "all_sessions_rate": "511/531"
   },
   "equity_curve": [
     {
@@ -290,6 +290,10 @@
     {
       "date": "2026-07-07",
       "value": 50317.18
+    },
+    {
+      "date": "2026-07-08",
+      "value": 50009.63
     }
   ],
   "monthly_pnl": [
@@ -519,24 +523,29 @@
       "forecast": false
     },
     {
+      "date": "2026-07-08",
+      "value": 50009.63,
+      "forecast": false
+    },
+    {
       "date": "2026-08-07",
-      "value": 147823.67,
-      "lower": 127428.45,
-      "upper": 168218.9,
+      "value": 146366.11,
+      "lower": 125811.49,
+      "upper": 166920.72,
       "forecast": true
     },
     {
       "date": "2026-09-06",
-      "value": 228805.74,
-      "lower": 208410.52,
-      "upper": 249200.97,
+      "value": 224642.77,
+      "lower": 204088.16,
+      "upper": 245197.39,
       "forecast": true
     },
     {
       "date": "2026-10-06",
-      "value": 309787.82,
-      "lower": 289392.59,
-      "upper": 330183.04,
+      "value": 302919.44,
+      "lower": 282364.82,
+      "upper": 323474.05,
       "forecast": true
     }
   ],
@@ -825,6 +834,11 @@
       "date": "2026-07-07",
       "drawdown_pct": 0.49,
       "value": 50317.18
+    },
+    {
+      "date": "2026-07-08",
+      "drawdown_pct": 1.09,
+      "value": 50009.63
     }
   ],
   "positions": [
@@ -832,18 +846,35 @@
       "ticker": "BTC",
       "direction": "LONG",
       "entry": 55153,
-      "size": 0.3064,
-      "invested": 3379.39,
+      "size": 0.2053,
+      "invested": 2264.19,
       "leverage": 5,
-      "sl": 53200.0,
+      "sl": 52500.0,
       "tp1": 58440.0,
       "tp2": null,
-      "budget_pct": 6.7,
+      "budget_pct": 4.5,
       "confidence": 7,
       "is_crypto": true,
       "at_tp1": false,
       "reason": "Fear&Greed 27 contrarian + Trump pro-crypto + bulls absorveram venda Strategy $216M. RSI 46.4 neutro-baixo. MACD a convergir. R/R 1.71:1.",
       "opened_at": "2026-07-07T06:34:11.537274"
+    },
+    {
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "entry": 67.74,
+      "size": 369.1293,
+      "invested": 5000.96,
+      "leverage": 5,
+      "sl": 72.0,
+      "tp1": 60.0,
+      "tp2": null,
+      "budget_pct": 10.0,
+      "confidence": 7,
+      "is_crypto": true,
+      "at_tp1": false,
+      "reason": "Crypto em Extreme Fear (F&G 20), BTC abaixo MA50 (-6.1%). SOL -4.81% com sell-off generalizado, MACD bearish, BTC dom 55.9% a subir = pressao alts. RR 1.85:1",
+      "opened_at": "2026-07-08T10:37:46.861242"
     }
   ],
   "recent_trades": [
@@ -1027,8 +1058,8 @@
     {
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
-      "status": "idle",
-      "created": "2026-07-08T05:39:51.488Z",
+      "status": "running",
+      "created": "2026-07-08T09:35:10.960Z",
       "completed": ""
     },
     {
@@ -1041,7 +1072,7 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-07T13:38:59.747Z",
       "completed": ""
     },
