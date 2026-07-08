@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T10:30:36.863661+00:00",
+  "generated_at": "2026-07-08T10:45:36.842075+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1723,21 +1723,6 @@
   ],
   "news_alerts": [
     {
-      "time": "07/07 16:30",
-      "source": "**Cointelegraph**: Bitcoin bulls battle for $63K as Micron stock eyes 10% drop in US chip sell-off",
-      "title": "Bitcoin bulls battle for $63K as Micron stock eyes 10% drop in US chip sell-off"
-    },
-    {
-      "time": "07/07 17:15",
-      "source": "**NYT World**: NATO Allies Show Trump They Are Trying to Pay Up for Defense",
-      "title": "NATO Allies Show Trump They Are Trying to Pay Up for Defense"
-    },
-    {
-      "time": "07/07 17:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: BB Energy Strikes Deal with South Sudan to Unblock Oil Sales",
-      "title": "BB Energy Strikes Deal with South Sudan to Unblock Oil Sales"
-    },
-    {
       "time": "07/07 17:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold\u2019s Bull Market Has Ended and Now All Eyes Are on Bears",
       "title": "Gold\u2019s Bull Market Has Ended and Now All Eyes Are on Bears"
@@ -1821,6 +1806,21 @@
       "time": "08/07 11:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: US Stock Futures Slide After Trump Says Iran Ceasefire Is Over",
       "title": "US Stock Futures Slide After Trump Says Iran Ceasefire Is Over"
+    },
+    {
+      "time": "08/07 11:45",
+      "source": "**NYT World**: Iran Live Updates: Trump Casts Doubt on Future of Cease-Fire After Latest Strikes",
+      "title": "Iran Live Updates: Trump Casts Doubt on Future of Cease-Fire After Latest Strikes"
+    },
+    {
+      "time": "08/07 11:45",
+      "source": "**NYT World**: Live Updates: Trump Lashes Out at Europe at NATO Summit",
+      "title": "Live Updates: Trump Lashes Out at Europe at NATO Summit"
+    },
+    {
+      "time": "08/07 11:45",
+      "source": "**NYT World**: Trump\u2019s Arrival in Turkey for NATO Summit Adds Drama and Spectacle",
+      "title": "Trump\u2019s Arrival in Turkey for NATO Summit Adds Drama and Spectacle"
     }
   ]
 }
