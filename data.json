@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T11:15:36.698483+00:00",
+  "generated_at": "2026-07-08T11:30:36.836898+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1724,11 +1724,6 @@
   "news_alerts": [
     {
       "time": "08/07 06:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Extends US Soybean Buying Spree as Trade Thaw Continues",
-      "title": "China Extends US Soybean Buying Spree as Trade Thaw Continues"
-    },
-    {
-      "time": "08/07 06:00",
       "source": "**Cointelegraph**: Strike launches \u2018volatility-proof\u2019 Bitcoin loans amid bear market, but at a cost",
       "title": "Strike launches \u2018volatility-proof\u2019 Bitcoin loans amid bear market, but at a cost"
     },
@@ -1821,6 +1816,11 @@
       "time": "08/07 12:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Says US-Iran Ceasefire Is \u2018Over\u2019 After Strikes | The Pulse 7/8/2026",
       "title": "Trump Says US-Iran Ceasefire Is \u2018Over\u2019 After Strikes | The Pulse 7/8/2026"
+    },
+    {
+      "time": "08/07 12:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Indian Stocks, Rupee Slide After Trump Reignites Iran Tensions",
+      "title": "Indian Stocks, Rupee Slide After Trump Reignites Iran Tensions"
     }
   ]
 }
