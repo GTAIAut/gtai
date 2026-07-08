@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T10:45:36.842075+00:00",
+  "generated_at": "2026-07-08T11:00:36.771540+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1723,11 +1723,6 @@
   ],
   "news_alerts": [
     {
-      "time": "07/07 17:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold\u2019s Bull Market Has Ended and Now All Eyes Are on Bears",
-      "title": "Gold\u2019s Bull Market Has Ended and Now All Eyes Are on Bears"
-    },
-    {
       "time": "08/07 06:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Extends US Soybean Buying Spree as Trade Thaw Continues",
       "title": "China Extends US Soybean Buying Spree as Trade Thaw Continues"
@@ -1821,6 +1816,11 @@
       "time": "08/07 11:45",
       "source": "**NYT World**: Trump\u2019s Arrival in Turkey for NATO Summit Adds Drama and Spectacle",
       "title": "Trump\u2019s Arrival in Turkey for NATO Summit Adds Drama and Spectacle"
+    },
+    {
+      "time": "08/07 12:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Says US-Iran Ceasefire Is \u2018Over\u2019 After Strikes | The Pulse 7/8/2026",
+      "title": "Trump Says US-Iran Ceasefire Is \u2018Over\u2019 After Strikes | The Pulse 7/8/2026"
     }
   ]
 }
