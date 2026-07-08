@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T09:00:36.801173+00:00",
+  "generated_at": "2026-07-08T09:15:37.061611+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -51,16 +51,16 @@
         "total": 66
       },
       "Analista T\u00e9cnico": {
-        "ok": 67,
-        "total": 69
+        "ok": 68,
+        "total": 70
       },
       "Gestor de Risco": {
-        "ok": 51,
-        "total": 54
+        "ok": 52,
+        "total": 55
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "507/527"
+    "all_sessions_rate": "509/529"
   },
   "equity_curve": [
     {
@@ -993,35 +993,35 @@
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
-      "created": "2026-07-08T05:16:13.547Z",
+      "created": "2026-07-08T09:01:34.023Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
       "status": "idle",
-      "created": "2026-07-08T05:16:10.049Z",
+      "created": "2026-07-08T09:01:00.352Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
-      "status": "running",
-      "created": "2026-07-08T05:16:01.797Z",
+      "status": "idle",
+      "created": "2026-07-08T09:00:59.381Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "running",
-      "created": "2026-07-08T05:15:33.366Z",
+      "status": "idle",
+      "created": "2026-07-08T09:15:30.882Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
       "status": "running",
-      "created": "2026-07-08T05:21:42.136Z",
+      "created": "2026-07-08T09:00:45.196Z",
       "completed": ""
     },
     {
@@ -1035,7 +1035,7 @@
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
-      "created": "2026-07-08T05:02:45.145Z",
+      "created": "2026-07-08T09:03:56.349Z",
       "completed": ""
     },
     {
@@ -1692,21 +1692,6 @@
   ],
   "news_alerts": [
     {
-      "time": "07/07 13:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Arrives in Turkey With Iran War at Top of Agenda",
-      "title": "Trump Arrives in Turkey With Iran War at Top of Agenda"
-    },
-    {
-      "time": "07/07 13:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Goldman Says Earnings to Drive Next Leg of Rally in HALO Stocks",
-      "title": "Goldman Says Earnings to Drive Next Leg of Rally in HALO Stocks"
-    },
-    {
-      "time": "07/07 15:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Abu Dhabi Ruler\u2019s Family Office Is a Global Dealmaking Force",
-      "title": "Abu Dhabi Ruler\u2019s Family Office Is a Global Dealmaking Force"
-    },
-    {
       "time": "07/07 16:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: US Consumers\u2019 Inflation Expectations Rose in June, NY Fed Survey Says",
       "title": "US Consumers\u2019 Inflation Expectations Rose in June, NY Fed Survey Says"
@@ -1790,6 +1775,21 @@
       "time": "08/07 10:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Allowing Major Exports of Diesel and Gasoline This Month",
       "title": "China Allowing Major Exports of Diesel and Gasoline This Month"
+    },
+    {
+      "time": "08/07 10:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Cites Trump Remarks in Rare Criticism of US Taiwan Envoy",
+      "title": "China Cites Trump Remarks in Rare Criticism of US Taiwan Envoy"
+    },
+    {
+      "time": "08/07 10:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: UK Carpet Maker Victoria Signs Deal With Left-Behind Bondholders",
+      "title": "UK Carpet Maker Victoria Signs Deal With Left-Behind Bondholders"
+    },
+    {
+      "time": "08/07 10:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: European Bonds Slide as Oil Spike Reignites Inflation Fears",
+      "title": "European Bonds Slide as Oil Spike Reignites Inflation Fears"
     }
   ]
 }
