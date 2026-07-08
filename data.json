@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T10:00:36.744256+00:00",
+  "generated_at": "2026-07-08T10:15:36.798811+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1723,11 +1723,6 @@
   ],
   "news_alerts": [
     {
-      "time": "07/07 16:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: US Consumers\u2019 Inflation Expectations Rose in June, NY Fed Survey Says",
-      "title": "US Consumers\u2019 Inflation Expectations Rose in June, NY Fed Survey Says"
-    },
-    {
       "time": "07/07 16:30",
       "source": "**Cointelegraph**: Bitcoin bulls battle for $63K as Micron stock eyes 10% drop in US chip sell-off",
       "title": "Bitcoin bulls battle for $63K as Micron stock eyes 10% drop in US chip sell-off"
@@ -1821,6 +1816,11 @@
       "time": "08/07 10:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: European Bonds Slide as Oil Spike Reignites Inflation Fears",
       "title": "European Bonds Slide as Oil Spike Reignites Inflation Fears"
+    },
+    {
+      "time": "08/07 11:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: US Stock Futures Slide After Trump Says Iran Ceasefire Is Over",
+      "title": "US Stock Futures Slide After Trump Says Iran Ceasefire Is Over"
     }
   ]
 }
