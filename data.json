@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-07T16:45:36.821891+00:00",
+  "generated_at": "2026-07-08T04:00:36.912648+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": 317.18,
-    "total_pnl_pct": 0.63,
-    "cash_eur": 45351.41,
-    "invested_eur": 4902.62,
+    "total_pnl_eur": 397.5,
+    "total_pnl_pct": 0.8,
+    "cash_eur": 46867.07,
+    "invested_eur": 3379.39,
     "portfolio_value": 50317.18,
-    "open_positions": 2,
-    "total_trades": 83,
-    "win_rate": 48.2,
+    "open_positions": 1,
+    "total_trades": 84,
+    "win_rate": 47.6,
     "total_wins": 40,
-    "total_losses": 43,
+    "total_losses": 44,
     "avg_win": 22.67,
-    "avg_loss": -55.8,
+    "avg_loss": -54.71,
     "best_trade": {
       "id": 36,
       "ticker": "USO",
@@ -303,7 +303,7 @@
     },
     {
       "month": "2026-07",
-      "pnl": 258.88
+      "pnl": 251.31
     }
   ],
   "ticker_pnl": [
@@ -337,7 +337,7 @@
     },
     {
       "ticker": "SOL",
-      "pnl": 49.8
+      "pnl": 42.23
     },
     {
       "ticker": "BNB",
@@ -519,21 +519,21 @@
       "forecast": false
     },
     {
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "value": 147823.67,
       "lower": 127428.45,
       "upper": 168218.9,
       "forecast": true
     },
     {
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "value": 228805.74,
       "lower": 208410.52,
       "upper": 249200.97,
       "forecast": true
     },
     {
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "value": 309787.82,
       "lower": 289392.59,
       "upper": 330183.04,
@@ -829,23 +829,6 @@
   ],
   "positions": [
     {
-      "ticker": "SOL",
-      "direction": "LONG",
-      "entry": 70.43,
-      "size": 108.1379,
-      "invested": 1523.23,
-      "leverage": 5,
-      "sl": 70.43,
-      "tp1": 74.1,
-      "tp2": 76.0,
-      "budget_pct": 3.0,
-      "confidence": 7,
-      "is_crypto": true,
-      "at_tp1": false,
-      "reason": "RSI 65.6 bullish saudavel (<70 nao overbought) + MACD positivo + UPTREND confirmada + melhor estrutura dos 3 principais cripto + entrada em S1 (70.62) zona de suporte + Fear&Greed 24 contrarian",
-      "opened_at": "2026-07-06T06:23:43.579444"
-    },
-    {
       "ticker": "BTC",
       "direction": "LONG",
       "entry": 55153,
@@ -864,6 +847,13 @@
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "SOL",
+      "direction": "LONG",
+      "pnl": -7.57,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "closed_at": "2026-07-08T02:06:58.691334"
+    },
     {
       "ticker": "BTC",
       "direction": "LONG",
@@ -996,13 +986,6 @@
       "pnl": -0.74,
       "reason": "\ud83d\udd34 STOP LOSS",
       "closed_at": "2026-06-16T16:00:02.062164"
-    },
-    {
-      "ticker": "QQQ",
-      "direction": "LONG",
-      "pnl": 1.32,
-      "reason": "Reduzir concentra\u00e7\u00e3o de 30.9% para ~20% (close partial 33%)",
-      "closed_at": "2026-06-16T10:56:29.015584"
     }
   ],
   "recent_sessions": [
@@ -1078,6 +1061,15 @@
     }
   ],
   "activity_feed": [
+    {
+      "type": "sl_hit",
+      "ticker": "SOL",
+      "direction": "LONG",
+      "pnl": -7.57,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-07-08T02:06",
+      "id": 48
+    },
     {
       "type": "sl_hit",
       "ticker": "BTC",
@@ -1607,15 +1599,6 @@
       "pnl": 0.09,
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-11T11:40",
-      "id": 16
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "AVAX",
-      "direction": "SHORT",
-      "pnl": 0.0,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-11T11:29",
       "id": 16
     }
   ],
