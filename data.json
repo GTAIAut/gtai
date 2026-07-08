@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T15:15:36.753278+00:00",
+  "generated_at": "2026-07-08T15:30:36.792486+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1733,11 +1733,6 @@
   "news_alerts": [
     {
       "time": "08/07 07:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Australia Turns to Rugby to Pull Pacific Islands Away From China",
-      "title": "Australia Turns to Rugby to Pull Pacific Islands Away From China"
-    },
-    {
-      "time": "08/07 07:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Oil Prices Jump After US Strikes Iran | The China Show | 7/8/2026",
       "title": "Oil Prices Jump After US Strikes Iran | The China Show | 7/8/2026"
     },
@@ -1830,6 +1825,11 @@
       "time": "08/07 15:30",
       "source": "**NYT World**: Live Updates: Trump Lashes Out at NATO Summit but Offers New Help to Ukraine",
       "title": "Live Updates: Trump Lashes Out at NATO Summit but Offers New Help to Ukraine"
+    },
+    {
+      "time": "08/07 16:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Stocks Fall as US-Iran Jitters Spur Rally in Oil",
+      "title": "Stocks Fall as US-Iran Jitters Spur Rally in Oil"
     }
   ]
 }
