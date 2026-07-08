@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T14:15:36.938980+00:00",
+  "generated_at": "2026-07-08T14:30:36.961316+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1732,11 +1732,6 @@
   ],
   "news_alerts": [
     {
-      "time": "08/07 07:00",
-      "source": "**Cointelegraph**: StarkWare CEO suggests 4% annual Bitcoin inflation to replace 21M cap",
-      "title": "StarkWare CEO suggests 4% annual Bitcoin inflation to replace 21M cap"
-    },
-    {
       "time": "08/07 07:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Australia Turns to Rugby to Pull Pacific Islands Away From China",
       "title": "Australia Turns to Rugby to Pull Pacific Islands Away From China"
@@ -1830,6 +1825,11 @@
       "time": "08/07 15:00",
       "source": "**NYT World**: NATO Summit Gives Trump New Chance to Bust Out Old Grievances",
       "title": "NATO Summit Gives Trump New Chance to Bust Out Old Grievances"
+    },
+    {
+      "time": "08/07 15:30",
+      "source": "**NYT World**: Live Updates: Trump Lashes Out at NATO Summit but Offers New Help to Ukraine",
+      "title": "Live Updates: Trump Lashes Out at NATO Summit but Offers New Help to Ukraine"
     }
   ]
 }
