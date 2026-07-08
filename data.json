@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T08:00:36.732033+00:00",
+  "generated_at": "2026-07-08T08:15:36.911928+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1693,11 +1693,6 @@
   "news_alerts": [
     {
       "time": "07/07 12:00",
-      "source": "**NYT World**: NATO Allies Will Try to Show Trump They Are Paying Up for Defense",
-      "title": "NATO Allies Will Try to Show Trump They Are Paying Up for Defense"
-    },
-    {
-      "time": "07/07 12:00",
       "source": "**NYT World**: Why China Fired a Long-Range Missile Into the Pacific",
       "title": "Why China Fired a Long-Range Missile Into the Pacific"
     },
@@ -1790,6 +1785,11 @@
       "time": "08/07 08:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: S&amp;P Dow Jones Warns of Potential Frontier-Market Cut for Turkey",
       "title": "S&amp;P Dow Jones Warns of Potential Frontier-Market Cut for Turkey"
+    },
+    {
+      "time": "08/07 09:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: German Bonds Slide as Higher Oil Prices Reignite Inflation Fears",
+      "title": "German Bonds Slide as Higher Oil Prices Reignite Inflation Fears"
     }
   ]
 }
