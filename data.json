@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T13:15:36.844667+00:00",
+  "generated_at": "2026-07-08T13:30:36.880959+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -51,16 +51,16 @@
         "total": 67
       },
       "Analista T\u00e9cnico": {
-        "ok": 70,
-        "total": 72
+        "ok": 71,
+        "total": 73
       },
       "Gestor de Risco": {
-        "ok": 53,
-        "total": 56
+        "ok": 54,
+        "total": 57
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "515/535"
+    "all_sessions_rate": "517/537"
   },
   "equity_curve": [
     {
@@ -1024,35 +1024,35 @@
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
-      "created": "2026-07-08T13:01:49.311Z",
+      "created": "2026-07-08T13:16:35.845Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
       "status": "idle",
-      "created": "2026-07-08T13:01:28.726Z",
+      "created": "2026-07-08T13:18:39.461Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
       "status": "idle",
-      "created": "2026-07-08T13:01:14.471Z",
+      "created": "2026-07-08T13:16:11.937Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "running",
-      "created": "2026-07-08T13:00:44.293Z",
+      "status": "idle",
+      "created": "2026-07-08T13:17:52.905Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
-      "status": "running",
-      "created": "2026-07-08T13:02:01.908Z",
+      "status": "idle",
+      "created": "2026-07-08T13:19:59.946Z",
       "completed": ""
     },
     {
@@ -1066,7 +1066,7 @@
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
-      "created": "2026-07-08T13:07:08.200Z",
+      "created": "2026-07-08T13:18:13.662Z",
       "completed": ""
     },
     {
@@ -1724,11 +1724,6 @@
   "news_alerts": [
     {
       "time": "08/07 06:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China\u2019s Deadly Storms Turbocharged by Convergence of Factors",
-      "title": "China\u2019s Deadly Storms Turbocharged by Convergence of Factors"
-    },
-    {
-      "time": "08/07 06:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Big Market Rotation Sends Korean Stocks Tumbling, China Surging",
       "title": "Big Market Rotation Sends Korean Stocks Tumbling, China Surging"
     },
@@ -1821,6 +1816,11 @@
       "time": "08/07 13:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Romania Keeps EU\u2019s Highest Rates With Inflation Stuck Above 10%",
       "title": "Romania Keeps EU\u2019s Highest Rates With Inflation Stuck Above 10%"
+    },
+    {
+      "time": "08/07 14:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Yardeni Says Inflation, Fed Back in Play as Iran Crisis Returns",
+      "title": "Yardeni Says Inflation, Fed Back in Play as Iran Crisis Returns"
     }
   ]
 }
