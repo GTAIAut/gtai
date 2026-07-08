@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T13:45:36.775141+00:00",
+  "generated_at": "2026-07-08T14:00:36.793017+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1732,11 +1732,6 @@
   ],
   "news_alerts": [
     {
-      "time": "08/07 06:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Big Market Rotation Sends Korean Stocks Tumbling, China Surging",
-      "title": "Big Market Rotation Sends Korean Stocks Tumbling, China Surging"
-    },
-    {
       "time": "08/07 07:00",
       "source": "**Cointelegraph**: StarkWare CEO suggests 4% annual Bitcoin inflation to replace 21M cap",
       "title": "StarkWare CEO suggests 4% annual Bitcoin inflation to replace 21M cap"
@@ -1830,6 +1825,11 @@
       "time": "08/07 14:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Yardeni Says Inflation, Fed Back in Play as Iran Crisis Returns",
       "title": "Yardeni Says Inflation, Fed Back in Play as Iran Crisis Returns"
+    },
+    {
+      "time": "08/07 15:00",
+      "source": "**NYT World**: NATO Summit Gives Trump New Chance to Bust Out Old Grievances",
+      "title": "NATO Summit Gives Trump New Chance to Bust Out Old Grievances"
     }
   ]
 }
