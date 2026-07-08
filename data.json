@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T04:45:36.814907+00:00",
+  "generated_at": "2026-07-08T05:00:37.137852+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1006,7 +1006,7 @@
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-07T13:25:45.062Z",
       "completed": ""
     },
@@ -1014,13 +1014,13 @@
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
       "status": "idle",
-      "created": "2026-07-07T13:25:24.241Z",
+      "created": "2026-07-08T05:00:31.580Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-07T13:05:01.745Z",
       "completed": ""
     },
@@ -1604,6 +1604,14 @@
   ],
   "session_analysis": [
     {
+      "session_type": "TARDE",
+      "session_num": 80,
+      "date": "07/07/2026 14:34",
+      "summary": "Postmortem TARDE #80 conclu\u00eddo. 4 novos registos (#52-#55) + atualiza\u00e7\u00f5es SOL #48 e BTC #49. Score: 5.5/10. Alerta principal: oversizing 70% budget + correla\u00e7\u00e3o SPY/QQQ + ETH duplicado intra-sess\u00e3o. An\u00e1lise completa no coment\u00e1rio da issue.",
+      "trades": [],
+      "findings": []
+    },
+    {
       "session_type": "MEIODIA",
       "session_num": 79,
       "date": "07/07/2026 10:37",
@@ -1680,34 +1688,9 @@
       "summary": "Postmortem completo. REGISTO.md atualizado com 5 novos trades (#20-#24), atualiza\u00e7\u00f5es BTC CLOSE_PARTIAL, IWM SL trail, e par\u00e2metros globais. Score 7/10 \u2014 sess\u00e3o competente com oportunidades de melhoria identificadas.",
       "trades": [],
       "findings": []
-    },
-    {
-      "session_type": "MANHA",
-      "session_num": 70,
-      "date": "02/07/2026 06:24",
-      "summary": "## POSTMORTEM \u2014 Sess\u00e3o MANHA #70 \u2014 02/07/2026\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n### 1. Os trades faziam sentido dado o contexto macro?\n\n**Sim, com uma ressalva grave.**\n\nIndividualmente, cada trade tem l\u00f3gica:\n- **SPY LONG** (25% 5x) \u2014 momentum bull com RSI 62, subtrend saud\u00e1vel\n- **QQQ LONG** (20% 5x) \u2014 dip buy em bull trend, l\u00f3gico\n- **BTC LONG** (12% 8x) \u2014 Extreme Fear (19) + MACD bullish cross \u2014 setup contrarian cl\u00e1ssico, bem identificado\n- **TLT SHORT** (15% 3x) \u2014 TNX a subir, bond sell-off, setor em downtrend \u2014 trade limpo\n- **NVDA SHORT** (8% 3x) \u2014 downtrend confirmada, faz sentido\n\n**Ressalva grave:** Passar de **96% cash para 80% deployado numa \u00fanica sess\u00e3o** com o mesmo regime macro (VIX 14.56, NEUTRO) n\u00e3o tem catalisador. Isto parece FOMO de performance \u2014 n\u00e3o h\u00e1 convic\u00e7\u00e3o mac",
-      "trades": [],
-      "findings": [
-        "- **BTC LONG** (12% 8x) \u2014 Extreme Fear (19) + MACD bullish cross \u2014 setup contrarian cl\u00e1ssico, bem identificado"
-      ]
     }
   ],
   "news_alerts": [
-    {
-      "time": "07/07 08:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Panetta Sees Fragile Outlook With Risks to Inflation and Growth",
-      "title": "Panetta Sees Fragile Outlook With Risks to Inflation and Growth"
-    },
-    {
-      "time": "07/07 08:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Czech June Inflation Slows More Than Expected After Rate Hike",
-      "title": "Czech June Inflation Slows More Than Expected After Rate Hike"
-    },
-    {
-      "time": "07/07 08:45",
-      "source": "**NYT World**: At Least 15 Dead in China After Severe Flooding During Typhoon Maysak",
-      "title": "At Least 15 Dead in China After Severe Flooding During Typhoon Maysak"
-    },
     {
       "time": "07/07 09:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Panetta Sees Fragile Outlook With Risks to Inflation, Growth",
@@ -1792,6 +1775,21 @@
       "time": "07/07 17:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold\u2019s Bull Market Has Ended and Now All Eyes Are on Bears",
       "title": "Gold\u2019s Bull Market Has Ended and Now All Eyes Are on Bears"
+    },
+    {
+      "time": "08/07 06:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Extends US Soybean Buying Spree as Trade Thaw Continues",
+      "title": "China Extends US Soybean Buying Spree as Trade Thaw Continues"
+    },
+    {
+      "time": "08/07 06:00",
+      "source": "**Cointelegraph**: Strike launches \u2018volatility-proof\u2019 Bitcoin loans amid bear market, but at a cost",
+      "title": "Strike launches \u2018volatility-proof\u2019 Bitcoin loans amid bear market, but at a cost"
+    },
+    {
+      "time": "08/07 06:00",
+      "source": "**Politico**: North Dakota leaders talk Trump &amp; Teddy Roosevelt over bison burgers",
+      "title": "North Dakota leaders talk Trump &amp; Teddy Roosevelt over bison burgers"
     }
   ]
 }
