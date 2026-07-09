@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-09T05:45:36.773829+00:00",
+  "generated_at": "2026-07-09T05:51:32.403242+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": 66.83,
-    "total_pnl_pct": 0.13,
-    "cash_eur": 47146.2,
-    "invested_eur": 3017.3,
-    "portfolio_value": 50066.83,
-    "open_positions": 2,
+    "total_pnl_eur": 30.97,
+    "total_pnl_pct": 0.06,
+    "cash_eur": 41618.94,
+    "invested_eur": 8525.92,
+    "portfolio_value": 50030.97,
+    "open_positions": 3,
     "total_trades": 84,
     "win_rate": 47.6,
     "total_wins": 40,
@@ -43,8 +43,8 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 332,
-        "total": 343
+        "ok": 333,
+        "total": 344
       },
       "Registador de Decis\u00f5es": {
         "ok": 64,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "524/545"
+    "all_sessions_rate": "525/546"
   },
   "equity_curve": [
     {
@@ -298,6 +298,10 @@
     {
       "date": "2026-07-08",
       "value": 50066.83
+    },
+    {
+      "date": "2026-07-09",
+      "value": 50030.97
     }
   ],
   "monthly_pnl": [
@@ -388,12 +392,7 @@
     },
     {
       "date": "2026-06-16",
-      "value": 1039.54,
-      "forecast": false
-    },
-    {
-      "date": "2026-06-16",
-      "value": 1039.49,
+      "value": 1040.37,
       "forecast": false
     },
     {
@@ -402,13 +401,8 @@
       "forecast": false
     },
     {
-      "date": "2026-06-17",
-      "value": 1034.96,
-      "forecast": false
-    },
-    {
       "date": "2026-06-18",
-      "value": 1036.98,
+      "value": 1036.59,
       "forecast": false
     },
     {
@@ -418,12 +412,7 @@
     },
     {
       "date": "2026-06-19",
-      "value": 1036.95,
-      "forecast": false
-    },
-    {
-      "date": "2026-06-19",
-      "value": 1036.27,
+      "value": 1042.56,
       "forecast": false
     },
     {
@@ -432,13 +421,8 @@
       "forecast": false
     },
     {
-      "date": "2026-06-22",
-      "value": 49766.25,
-      "forecast": false
-    },
-    {
       "date": "2026-06-23",
-      "value": 50117.5,
+      "value": 50108.31,
       "forecast": false
     },
     {
@@ -447,13 +431,8 @@
       "forecast": false
     },
     {
-      "date": "2026-06-24",
-      "value": 50130.22,
-      "forecast": false
-    },
-    {
       "date": "2026-06-25",
-      "value": 50563.1,
+      "value": 50562.04,
       "forecast": false
     },
     {
@@ -462,13 +441,8 @@
       "forecast": false
     },
     {
-      "date": "2026-06-26",
-      "value": 50166.41,
-      "forecast": false
-    },
-    {
-      "date": "2026-06-29",
-      "value": 50111.16,
+      "date": "2026-06-28",
+      "value": 50111.93,
       "forecast": false
     },
     {
@@ -478,12 +452,7 @@
     },
     {
       "date": "2026-06-30",
-      "value": 50462.33,
-      "forecast": false
-    },
-    {
-      "date": "2026-07-01",
-      "value": 50471.09,
+      "value": 50366.87,
       "forecast": false
     },
     {
@@ -493,12 +462,7 @@
     },
     {
       "date": "2026-07-02",
-      "value": 50260.33,
-      "forecast": false
-    },
-    {
-      "date": "2026-07-02",
-      "value": 50166.84,
+      "value": 50289.25,
       "forecast": false
     },
     {
@@ -507,13 +471,8 @@
       "forecast": false
     },
     {
-      "date": "2026-07-03",
-      "value": 50285.77,
-      "forecast": false
-    },
-    {
-      "date": "2026-07-06",
-      "value": 50393.59,
+      "date": "2026-07-05",
+      "value": 50359.21,
       "forecast": false
     },
     {
@@ -522,34 +481,34 @@
       "forecast": false
     },
     {
-      "date": "2026-07-07",
-      "value": 50317.18,
+      "date": "2026-07-08",
+      "value": 50009.63,
       "forecast": false
     },
     {
-      "date": "2026-07-08",
-      "value": 50066.83,
+      "date": "2026-07-09",
+      "value": 50030.97,
       "forecast": false
     },
     {
       "date": "2026-08-08",
-      "value": 142795.61,
-      "lower": 122134.99,
-      "upper": 163456.24,
+      "value": 141421.99,
+      "lower": 120619.07,
+      "upper": 162224.92,
       "forecast": true
     },
     {
       "date": "2026-09-07",
-      "value": 218748.56,
-      "lower": 198087.93,
-      "upper": 239409.18,
+      "value": 214871.29,
+      "lower": 194068.36,
+      "upper": 235674.21,
       "forecast": true
     },
     {
       "date": "2026-10-07",
-      "value": 294701.5,
-      "lower": 274040.88,
-      "upper": 315362.13,
+      "value": 288320.59,
+      "lower": 267517.66,
+      "upper": 309123.51,
       "forecast": true
     }
   ],
@@ -848,6 +807,11 @@
       "date": "2026-07-08",
       "drawdown_pct": 0.98,
       "value": 50066.83
+    },
+    {
+      "date": "2026-07-09",
+      "drawdown_pct": 1.05,
+      "value": 50030.97
     }
   ],
   "positions": [
@@ -872,18 +836,35 @@
       "ticker": "SOL",
       "direction": "SHORT",
       "entry": 67.74,
-      "size": 110.7388,
-      "invested": 1500.29,
+      "size": 74.195,
+      "invested": 1005.19,
       "leverage": 5,
       "sl": 70.0,
       "tp1": 60.0,
       "tp2": null,
-      "budget_pct": 3.0,
+      "budget_pct": 2.0,
       "confidence": 7,
       "is_crypto": true,
       "at_tp1": false,
       "reason": "Crypto em Extreme Fear (F&G 20), BTC abaixo MA50 (-6.1%). SOL -4.81% com sell-off generalizado, MACD bearish, BTC dom 55.9% a subir = pressao alts. RR 1.85:1",
       "opened_at": "2026-07-08T10:37:46.861242"
+    },
+    {
+      "ticker": "TAO",
+      "direction": "SHORT",
+      "entry": 179.49,
+      "size": 167.2437,
+      "invested": 6003.72,
+      "leverage": 5,
+      "sl": 191.0,
+      "tp1": 156.0,
+      "tp2": null,
+      "budget_pct": 12.0,
+      "confidence": 8,
+      "is_crypto": true,
+      "at_tp1": false,
+      "reason": "BTC < MA50 (-5.3%) + Fear&Greed 22 Extreme Fear = checklist SHORT crypto. TAO alto beta AI, -1.57% hoje. MACD neutro mas tendencia bearish em todo o complexo crypto. R/R 1.94:1",
+      "opened_at": "2026-07-09T06:51:29.621874"
     }
   ],
   "recent_trades": [
@@ -1030,13 +1011,6 @@
   ],
   "recent_sessions": [
     {
-      "id": "14f33a21",
-      "agent": "Diretor de Investimentos",
-      "status": "running",
-      "created": "2026-07-09T05:45:32.514Z",
-      "completed": ""
-    },
-    {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
@@ -1072,6 +1046,13 @@
       "completed": ""
     },
     {
+      "id": "14f33a21",
+      "agent": "Diretor de Investimentos",
+      "status": "running",
+      "created": "2026-07-09T05:49:23.476Z",
+      "completed": ""
+    },
+    {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
@@ -1081,7 +1062,7 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-08T13:40:19.641Z",
       "completed": ""
     },
