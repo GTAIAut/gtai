@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T09:44:08.842048+00:00",
+  "generated_at": "2026-07-09T09:45:36.986996+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -43,8 +43,8 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 334,
-        "total": 345
+        "ok": 335,
+        "total": 346
       },
       "Registador de Decis\u00f5es": {
         "ok": 65,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "531/552"
+    "all_sessions_rate": "532/553"
   },
   "equity_curve": [
     {
@@ -1057,8 +1057,8 @@
     {
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
-      "status": "running",
-      "created": "2026-07-09T09:40:19.772Z",
+      "status": "idle",
+      "created": "2026-07-09T09:44:30.277Z",
       "completed": ""
     },
     {
@@ -1724,16 +1724,6 @@
   ],
   "news_alerts": [
     {
-      "time": "08/07 16:45",
-      "source": "\ud83d\udcf0 **BBC News**: Bowen: For all his bluster, Trump has no better option than talks with Iran",
-      "title": "Bowen: For all his bluster, Trump has no better option than talks with Iran"
-    },
-    {
-      "time": "08/07 17:15",
-      "source": "**NYT World**: Live Updates: Trump Speaks After Lashing Out at NATO Summit",
-      "title": "Live Updates: Trump Speaks After Lashing Out at NATO Summit"
-    },
-    {
       "time": "08/07 17:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Zillow, Rocket to Face August FTC Trial Over Rental-Listing Deal",
       "title": "Zillow, Rocket to Face August FTC Trial Over Rental-Listing Deal"
@@ -1822,6 +1812,16 @@
       "time": "09/07 09:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Thailand and Malaysia Reach Deal to End Seafood Trade Spat",
       "title": "Thailand and Malaysia Reach Deal to End Seafood Trade Spat"
+    },
+    {
+      "time": "09/07 10:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Defense Valuations Yet to Peak as Orders Surge, BNP Banker Says",
+      "title": "Defense Valuations Yet to Peak as Orders Surge, BNP Banker Says"
+    },
+    {
+      "time": "09/07 10:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: US, Iran Trade Airstrikes as Fears Grow of a Return to War",
+      "title": "US, Iran Trade Airstrikes as Fears Grow of a Return to War"
     }
   ]
 }
