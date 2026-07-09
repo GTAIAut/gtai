@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T08:30:36.746955+00:00",
+  "generated_at": "2026-07-09T08:45:37.013502+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1714,16 +1714,6 @@
   "news_alerts": [
     {
       "time": "08/07 16:45",
-      "source": "**Cointelegraph**: Bitcoin slides as Iran ceasefire collapse sees $75 oil on Hormuz blockade threats",
-      "title": "Bitcoin slides as Iran ceasefire collapse sees $75 oil on Hormuz blockade threats"
-    },
-    {
-      "time": "08/07 16:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Threatens More Iran Strikes",
-      "title": "Trump Threatens More Iran Strikes"
-    },
-    {
-      "time": "08/07 16:45",
       "source": "\ud83d\udcf0 **BBC News**: Bowen: For all his bluster, Trump has no better option than talks with Iran",
       "title": "Bowen: For all his bluster, Trump has no better option than talks with Iran"
     },
@@ -1811,6 +1801,16 @@
       "time": "09/07 09:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Indonesia Gets First Russian Oil Shipment After Deal with Moscow",
       "title": "Indonesia Gets First Russian Oil Shipment After Deal with Moscow"
+    },
+    {
+      "time": "09/07 09:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China's Tech Stack Outshines its Economy: 3-Minutes MLIV",
+      "title": "China's Tech Stack Outshines its Economy: 3-Minutes MLIV"
+    },
+    {
+      "time": "09/07 09:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Thailand and Malaysia Reach Deal to End Seafood Trade Spat",
+      "title": "Thailand and Malaysia Reach Deal to End Seafood Trade Spat"
     }
   ]
 }
