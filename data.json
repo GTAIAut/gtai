@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T05:51:32.403242+00:00",
+  "generated_at": "2026-07-09T06:00:36.830033+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -47,8 +47,8 @@
         "total": 344
       },
       "Registador de Decis\u00f5es": {
-        "ok": 64,
-        "total": 68
+        "ok": 65,
+        "total": 69
       },
       "Analista T\u00e9cnico": {
         "ok": 73,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "525/546"
+    "all_sessions_rate": "526/547"
   },
   "equity_curve": [
     {
@@ -1048,8 +1048,8 @@
     {
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
-      "status": "running",
-      "created": "2026-07-09T05:49:23.476Z",
+      "status": "idle",
+      "created": "2026-07-09T05:51:37.284Z",
       "completed": ""
     },
     {
@@ -1062,8 +1062,8 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "running",
-      "created": "2026-07-08T13:40:19.641Z",
+      "status": "idle",
+      "created": "2026-07-09T05:56:14.847Z",
       "completed": ""
     },
     {
@@ -1713,11 +1713,6 @@
   ],
   "news_alerts": [
     {
-      "time": "08/07 14:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Yardeni Says Inflation, Fed Back in Play as Iran Crisis Returns",
-      "title": "Yardeni Says Inflation, Fed Back in Play as Iran Crisis Returns"
-    },
-    {
       "time": "08/07 15:00",
       "source": "**NYT World**: NATO Summit Gives Trump New Chance to Bust Out Old Grievances",
       "title": "NATO Summit Gives Trump New Chance to Bust Out Old Grievances"
@@ -1811,6 +1806,11 @@
       "time": "09/07 06:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China\u2019s Top Solar Firm Makes Switch From Silver to Copper",
       "title": "China\u2019s Top Solar Firm Makes Switch From Silver to Copper"
+    },
+    {
+      "time": "09/07 07:00",
+      "source": "**Cointelegraph**: AI is shortening the shelf life of crypto security audits, researchers warn",
+      "title": "AI is shortening the shelf life of crypto security audits, researchers warn"
     }
   ]
 }
