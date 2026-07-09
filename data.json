@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T13:00:36.710159+00:00",
+  "generated_at": "2026-07-09T13:15:36.823737+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1044,7 +1044,7 @@
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
       "status": "running",
-      "created": "2026-07-09T09:05:06.162Z",
+      "created": "2026-07-09T13:00:47.433Z",
       "completed": ""
     },
     {
@@ -1723,11 +1723,6 @@
   "news_alerts": [
     {
       "time": "09/07 06:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Asks Bankers to Avoid Underwriting Short-Term LGFV Bonds",
-      "title": "China Asks Bankers to Avoid Underwriting Short-Term LGFV Bonds"
-    },
-    {
-      "time": "09/07 06:00",
       "source": "**Cointelegraph**: AI boom fuels inflation fears, complicating Fed\u2019s next rate move",
       "title": "AI boom fuels inflation fears, complicating Fed\u2019s next rate move"
     },
@@ -1820,6 +1815,11 @@
       "time": "09/07 14:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Legado de Fujimori desaf\u00eda ofensiva anti-China de Trump en Per\u00fa",
       "title": "Legado de Fujimori desaf\u00eda ofensiva anti-China de Trump en Per\u00fa"
+    },
+    {
+      "time": "09/07 14:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Apollo\u2019s $35 Billion AI Chip Credit Deal Is Set to Begin Trading",
+      "title": "Apollo\u2019s $35 Billion AI Chip Credit Deal Is Set to Begin Trading"
     }
   ]
 }
