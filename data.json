@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T16:15:36.701094+00:00",
+  "generated_at": "2026-07-09T16:30:36.820612+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1732,11 +1732,6 @@
   "news_alerts": [
     {
       "time": "09/07 09:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China's Tech Stack Outshines its Economy: 3-Minutes MLIV",
-      "title": "China's Tech Stack Outshines its Economy: 3-Minutes MLIV"
-    },
-    {
-      "time": "09/07 09:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Thailand and Malaysia Reach Deal to End Seafood Trade Spat",
       "title": "Thailand and Malaysia Reach Deal to End Seafood Trade Spat"
     },
@@ -1829,6 +1824,11 @@
       "time": "09/07 17:15",
       "source": "**Cointelegraph**: Bitcoin traders reveal key levels as BTC price passes $63K after Trump Iran 'deal' comments",
       "title": "Bitcoin traders reveal key levels as BTC price passes $63K after Trump Iran 'deal' comments"
+    },
+    {
+      "time": "09/07 17:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Tech Drives US Stocks Higher as Traders Downplay Iran War Risks",
+      "title": "Tech Drives US Stocks Higher as Traders Downplay Iran War Risks"
     }
   ]
 }
