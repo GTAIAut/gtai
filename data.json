@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T15:00:36.950516+00:00",
+  "generated_at": "2026-07-09T15:15:36.866488+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -55,12 +55,12 @@
         "total": 79
       },
       "Gestor de Risco": {
-        "ok": 58,
-        "total": 62
+        "ok": 59,
+        "total": 63
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "536/557"
+    "all_sessions_rate": "537/558"
   },
   "equity_curve": [
     {
@@ -1065,7 +1065,7 @@
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
-      "created": "2026-07-09T14:53:31.625Z",
+      "created": "2026-07-09T15:10:16.568Z",
       "completed": ""
     },
     {
@@ -1722,16 +1722,6 @@
   ],
   "news_alerts": [
     {
-      "time": "09/07 06:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China\u2019s Top Solar Firm Makes Switch From Silver to Copper",
-      "title": "China\u2019s Top Solar Firm Makes Switch From Silver to Copper"
-    },
-    {
-      "time": "09/07 07:00",
-      "source": "**Cointelegraph**: AI is shortening the shelf life of crypto security audits, researchers warn",
-      "title": "AI is shortening the shelf life of crypto security audits, researchers warn"
-    },
-    {
       "time": "09/07 08:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: US, Iran Trade Attacks for Second Day, Testing Fragile Ceasefire",
       "title": "US, Iran Trade Attacks for Second Day, Testing Fragile Ceasefire"
@@ -1820,6 +1810,16 @@
       "time": "09/07 15:45",
       "source": "**NYT World**: Ukrainians Cautiously Welcome Trump\u2019s Announcement About Air-Defense Systems",
       "title": "Ukrainians Cautiously Welcome Trump\u2019s Announcement About Air-Defense Systems"
+    },
+    {
+      "time": "09/07 16:15",
+      "source": "**NYT World**: Factory Fire in China Kills 28",
+      "title": "Factory Fire in China Kills 28"
+    },
+    {
+      "time": "09/07 16:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Your ETF of the Moment: Winning Big With \u2018Trump Accounts\u2019",
+      "title": "Your ETF of the Moment: Winning Big With \u2018Trump Accounts\u2019"
     }
   ]
 }
