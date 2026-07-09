@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T13:45:38.140295+00:00",
+  "generated_at": "2026-07-09T14:00:36.959065+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -51,8 +51,8 @@
         "total": 70
       },
       "Analista T\u00e9cnico": {
-        "ok": 76,
-        "total": 78
+        "ok": 77,
+        "total": 79
       },
       "Gestor de Risco": {
         "ok": 57,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "534/555"
+    "all_sessions_rate": "535/556"
   },
   "equity_curve": [
     {
@@ -1030,14 +1030,14 @@
       "id": "55882e4a",
       "agent": "Analista de Cripto",
       "status": "idle",
-      "created": "2026-07-09T09:17:36.277Z",
+      "created": "2026-07-09T13:53:19.892Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
       "status": "idle",
-      "created": "2026-07-09T09:03:31.825Z",
+      "created": "2026-07-09T13:52:28.744Z",
       "completed": ""
     },
     {
@@ -1051,7 +1051,7 @@
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
       "status": "idle",
-      "created": "2026-07-09T13:30:49.767Z",
+      "created": "2026-07-09T13:48:31.646Z",
       "completed": ""
     },
     {
@@ -1722,11 +1722,6 @@
   ],
   "news_alerts": [
     {
-      "time": "09/07 06:00",
-      "source": "**Cointelegraph**: Crypto could benefit if Fed steps in to backstop US stock market: Analysts",
-      "title": "Crypto could benefit if Fed steps in to backstop US stock market: Analysts"
-    },
-    {
       "time": "09/07 06:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Holds Decline as US Strikes on Iran Magnify Inflation Risks",
       "title": "Gold Holds Decline as US Strikes on Iran Magnify Inflation Risks"
@@ -1820,6 +1815,11 @@
       "time": "09/07 14:45",
       "source": "**NYT World**: Trump\u2019s NATO Summit, and Everyone Else\u2019s",
       "title": "Trump\u2019s NATO Summit, and Everyone Else\u2019s"
+    },
+    {
+      "time": "09/07 15:00",
+      "source": "**NYT World**: Factory Fire in China Causes \u2018Significant\u2019 Casualties, Xi Says",
+      "title": "Factory Fire in China Causes \u2018Significant\u2019 Casualties, Xi Says"
     }
   ]
 }
