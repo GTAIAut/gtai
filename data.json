@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T09:45:36.986996+00:00",
+  "generated_at": "2026-07-09T10:00:36.902826+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -47,8 +47,8 @@
         "total": 346
       },
       "Registador de Decis\u00f5es": {
-        "ok": 65,
-        "total": 69
+        "ok": 66,
+        "total": 70
       },
       "Analista T\u00e9cnico": {
         "ok": 75,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "532/553"
+    "all_sessions_rate": "533/554"
   },
   "equity_curve": [
     {
@@ -1071,8 +1071,8 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "running",
-      "created": "2026-07-09T05:56:14.847Z",
+      "status": "idle",
+      "created": "2026-07-09T09:47:52.593Z",
       "completed": ""
     },
     {
@@ -1724,11 +1724,6 @@
   ],
   "news_alerts": [
     {
-      "time": "08/07 17:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Zillow, Rocket to Face August FTC Trial Over Rental-Listing Deal",
-      "title": "Zillow, Rocket to Face August FTC Trial Over Rental-Listing Deal"
-    },
-    {
       "time": "08/07 17:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Dollar Gets Safe-Haven Flows as US-Iran Ceasefire Under Threat",
       "title": "Dollar Gets Safe-Haven Flows as US-Iran Ceasefire Under Threat"
@@ -1822,6 +1817,11 @@
       "time": "09/07 10:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: US, Iran Trade Airstrikes as Fears Grow of a Return to War",
       "title": "US, Iran Trade Airstrikes as Fears Grow of a Return to War"
+    },
+    {
+      "time": "09/07 11:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Erste Shares to Rally 30% on Poland Growth, Goldman Sachs Says",
+      "title": "Erste Shares to Rally 30% on Poland Growth, Goldman Sachs Says"
     }
   ]
 }
