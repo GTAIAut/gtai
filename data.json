@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T10:45:36.818402+00:00",
+  "generated_at": "2026-07-09T11:00:36.774598+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1725,11 +1725,6 @@
   "news_alerts": [
     {
       "time": "08/07 18:30",
-      "source": "**NYT World**: Iran Live Updates: Trump Casts Doubt on Future of Cease-Fire After Exchange of Strikes",
-      "title": "Iran Live Updates: Trump Casts Doubt on Future of Cease-Fire After Exchange of Strikes"
-    },
-    {
-      "time": "08/07 18:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Shipowners Wrestle With Hormuz Risks as US-Iran Deal Crumbles",
       "title": "Shipowners Wrestle With Hormuz Risks as US-Iran Deal Crumbles"
     },
@@ -1822,6 +1817,11 @@
       "time": "09/07 11:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Rain-Soaked China Braces For 'Gargantuan' Typhoon",
       "title": "Rain-Soaked China Braces For 'Gargantuan' Typhoon"
+    },
+    {
+      "time": "09/07 12:00",
+      "source": "**NYT World**: At NATO Summit, Trump Puts on a Show While Europe Gets Down to Business",
+      "title": "At NATO Summit, Trump Puts on a Show While Europe Gets Down to Business"
     }
   ]
 }
