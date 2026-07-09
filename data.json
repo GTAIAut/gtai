@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T09:00:37.361088+00:00",
+  "generated_at": "2026-07-09T09:15:36.903427+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -51,16 +51,16 @@
         "total": 69
       },
       "Analista T\u00e9cnico": {
-        "ok": 73,
-        "total": 75
+        "ok": 74,
+        "total": 76
       },
       "Gestor de Risco": {
-        "ok": 55,
-        "total": 59
+        "ok": 56,
+        "total": 60
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "526/547"
+    "all_sessions_rate": "528/549"
   },
   "equity_curve": [
     {
@@ -1014,35 +1014,35 @@
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
-      "created": "2026-07-09T05:19:11.361Z",
+      "created": "2026-07-09T09:11:54.940Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
       "status": "idle",
-      "created": "2026-07-09T05:16:04.559Z",
+      "created": "2026-07-09T09:01:03.386Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
       "status": "idle",
-      "created": "2026-07-09T05:16:11.491Z",
+      "created": "2026-07-09T09:03:31.825Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "running",
-      "created": "2026-07-09T05:15:35.330Z",
+      "status": "idle",
+      "created": "2026-07-09T09:05:06.162Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
       "status": "running",
-      "created": "2026-07-09T05:15:40.210Z",
+      "created": "2026-07-09T09:00:52.296Z",
       "completed": ""
     },
     {
@@ -1056,7 +1056,7 @@
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
-      "created": "2026-07-09T05:17:09.013Z",
+      "created": "2026-07-09T09:07:57.063Z",
       "completed": ""
     },
     {
