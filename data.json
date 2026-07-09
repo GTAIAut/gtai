@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-09T09:30:36.790403+00:00",
+  "generated_at": "2026-07-09T09:44:08.842048+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": 30.97,
-    "total_pnl_pct": 0.06,
-    "cash_eur": 41618.94,
-    "invested_eur": 8525.92,
-    "portfolio_value": 50030.97,
+    "total_pnl_eur": -163.14,
+    "total_pnl_pct": -0.33,
+    "cash_eur": 39976.83,
+    "invested_eur": 9998.68,
+    "portfolio_value": 49836.86,
     "open_positions": 3,
-    "total_trades": 84,
-    "win_rate": 47.6,
+    "total_trades": 85,
+    "win_rate": 47.1,
     "total_wins": 40,
-    "total_losses": 44,
+    "total_losses": 45,
     "avg_win": 22.67,
-    "avg_loss": -54.71,
+    "avg_loss": -54.4,
     "best_trade": {
       "id": 36,
       "ticker": "USO",
@@ -43,8 +43,8 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 333,
-        "total": 344
+        "ok": 334,
+        "total": 345
       },
       "Registador de Decis\u00f5es": {
         "ok": 65,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "530/551"
+    "all_sessions_rate": "531/552"
   },
   "equity_curve": [
     {
@@ -302,6 +302,10 @@
     {
       "date": "2026-07-09",
       "value": 50030.97
+    },
+    {
+      "date": "2026-07-09",
+      "value": 49836.86
     }
   ],
   "monthly_pnl": [
@@ -315,7 +319,7 @@
     },
     {
       "month": "2026-07",
-      "pnl": 251.31
+      "pnl": 210.5
     }
   ],
   "ticker_pnl": [
@@ -348,10 +352,6 @@
       "pnl": 85.59
     },
     {
-      "ticker": "SOL",
-      "pnl": 42.23
-    },
-    {
       "ticker": "BNB",
       "pnl": 14.45
     },
@@ -378,6 +378,10 @@
     {
       "ticker": "QQQ",
       "pnl": -2.7
+    },
+    {
+      "ticker": "SOL",
+      "pnl": 1.42
     },
     {
       "ticker": "SPY",
@@ -487,28 +491,28 @@
     },
     {
       "date": "2026-07-09",
-      "value": 50030.97,
+      "value": 49836.86,
       "forecast": false
     },
     {
       "date": "2026-08-08",
-      "value": 141421.99,
-      "lower": 120619.07,
-      "upper": 162224.92,
+      "value": 138007.83,
+      "lower": 117103.78,
+      "upper": 158911.88,
       "forecast": true
     },
     {
       "date": "2026-09-07",
-      "value": 214871.29,
-      "lower": 194068.36,
-      "upper": 235674.21,
+      "value": 209268.4,
+      "lower": 188364.35,
+      "upper": 230172.45,
       "forecast": true
     },
     {
       "date": "2026-10-07",
-      "value": 288320.59,
-      "lower": 267517.66,
-      "upper": 309123.51,
+      "value": 280528.96,
+      "lower": 259624.91,
+      "upper": 301433.01,
       "forecast": true
     }
   ],
@@ -812,6 +816,11 @@
       "date": "2026-07-09",
       "drawdown_pct": 1.05,
       "value": 50030.97
+    },
+    {
+      "date": "2026-07-09",
+      "drawdown_pct": 1.44,
+      "value": 49836.86
     }
   ],
   "positions": [
@@ -819,13 +828,13 @@
       "ticker": "BTC",
       "direction": "LONG",
       "entry": 55153,
-      "size": 0.1375,
-      "invested": 1517.01,
+      "size": 0.0921,
+      "invested": 1016.4,
       "leverage": 5,
       "sl": 52500.0,
       "tp1": 58440.0,
       "tp2": null,
-      "budget_pct": 3.0,
+      "budget_pct": 2.0,
       "confidence": 7,
       "is_crypto": true,
       "at_tp1": false,
@@ -833,41 +842,48 @@
       "opened_at": "2026-07-07T06:34:11.537274"
     },
     {
-      "ticker": "SOL",
-      "direction": "SHORT",
-      "entry": 67.74,
-      "size": 74.195,
-      "invested": 1005.19,
-      "leverage": 5,
-      "sl": 70.0,
-      "tp1": 60.0,
-      "tp2": null,
-      "budget_pct": 2.0,
-      "confidence": 7,
-      "is_crypto": true,
-      "at_tp1": false,
-      "reason": "Crypto em Extreme Fear (F&G 20), BTC abaixo MA50 (-6.1%). SOL -4.81% com sell-off generalizado, MACD bearish, BTC dom 55.9% a subir = pressao alts. RR 1.85:1",
-      "opened_at": "2026-07-08T10:37:46.861242"
-    },
-    {
       "ticker": "TAO",
       "direction": "SHORT",
       "entry": 179.49,
-      "size": 167.2437,
-      "invested": 6003.72,
+      "size": 83.6219,
+      "invested": 3001.86,
       "leverage": 5,
       "sl": 191.0,
       "tp1": 156.0,
       "tp2": null,
-      "budget_pct": 12.0,
+      "budget_pct": 6.0,
       "confidence": 8,
       "is_crypto": true,
       "at_tp1": false,
       "reason": "BTC < MA50 (-5.3%) + Fear&Greed 22 Extreme Fear = checklist SHORT crypto. TAO alto beta AI, -1.57% hoje. MACD neutro mas tendencia bearish em todo o complexo crypto. R/R 1.94:1",
       "opened_at": "2026-07-09T06:51:29.621874"
+    },
+    {
+      "ticker": "BNB",
+      "direction": "LONG",
+      "entry": 500.29,
+      "size": 35.8617,
+      "invested": 5980.42,
+      "leverage": 3,
+      "sl": 470.0,
+      "tp1": 555.0,
+      "tp2": null,
+      "budget_pct": 12.0,
+      "confidence": 8,
+      "is_crypto": true,
+      "at_tp1": false,
+      "reason": "F&G 22 Extreme Fear contrarian + BNB melhor performer historico (100% wins GLD/USO/TLT) + R/R 1.82:1. Leverage 3x por regime NEUTRO.",
+      "opened_at": "2026-07-09T10:44:04.166956"
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "pnl": -40.81,
+      "reason": "UPTREND + RSI 70 overbought. SHORT contra tendencia com SL \u20ac70 a 2.5%. Cortar perda, libertar slot crypto.",
+      "closed_at": "2026-07-09T10:44:03.275930"
+    },
     {
       "ticker": "SOL",
       "direction": "LONG",
@@ -1000,13 +1016,6 @@
       "pnl": 0.13,
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "closed_at": "2026-06-16T16:10:03.078437"
-    },
-    {
-      "ticker": "QQQ",
-      "direction": "LONG",
-      "pnl": -0.74,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "closed_at": "2026-06-16T16:00:02.062164"
     }
   ],
   "recent_sessions": [
@@ -1048,8 +1057,8 @@
     {
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
-      "status": "idle",
-      "created": "2026-07-09T05:51:37.284Z",
+      "status": "running",
+      "created": "2026-07-09T09:40:19.772Z",
       "completed": ""
     },
     {
@@ -1062,7 +1071,7 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-09T05:56:14.847Z",
       "completed": ""
     },
@@ -1082,6 +1091,15 @@
     }
   ],
   "activity_feed": [
+    {
+      "type": "close",
+      "ticker": "SOL",
+      "direction": "SHORT",
+      "pnl": -40.81,
+      "reason": "UPTREND + RSI 70 overbought. SHORT contra tendencia com SL \u20ac70 a 2.5%. Cortar perda, libertar slot crypto.",
+      "date": "2026-07-09T10:44",
+      "id": 50
+    },
     {
       "type": "sl_hit",
       "ticker": "SOL",
@@ -1611,15 +1629,6 @@
       "pnl": 0.82,
       "reason": "\ud83d\udd34 STOP LOSS",
       "date": "2026-05-11T12:00",
-      "id": 16
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "AVAX",
-      "direction": "SHORT",
-      "pnl": 0.09,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-11T11:40",
       "id": 16
     }
   ],
