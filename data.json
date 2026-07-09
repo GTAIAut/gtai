@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T13:30:37.029306+00:00",
+  "generated_at": "2026-07-09T13:45:38.140295+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -51,8 +51,8 @@
         "total": 70
       },
       "Analista T\u00e9cnico": {
-        "ok": 75,
-        "total": 77
+        "ok": 76,
+        "total": 78
       },
       "Gestor de Risco": {
         "ok": 57,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "533/554"
+    "all_sessions_rate": "534/555"
   },
   "equity_curve": [
     {
@@ -1051,7 +1051,7 @@
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
       "status": "idle",
-      "created": "2026-07-09T09:15:52.541Z",
+      "created": "2026-07-09T13:30:49.767Z",
       "completed": ""
     },
     {
@@ -1723,11 +1723,6 @@
   "news_alerts": [
     {
       "time": "09/07 06:00",
-      "source": "**Cointelegraph**: AI boom fuels inflation fears, complicating Fed\u2019s next rate move",
-      "title": "AI boom fuels inflation fears, complicating Fed\u2019s next rate move"
-    },
-    {
-      "time": "09/07 06:00",
       "source": "**Cointelegraph**: Crypto could benefit if Fed steps in to backstop US stock market: Analysts",
       "title": "Crypto could benefit if Fed steps in to backstop US stock market: Analysts"
     },
@@ -1820,6 +1815,11 @@
       "time": "09/07 14:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Apollo\u2019s $35 Billion AI Chip Credit Deal Is Set to Begin Trading",
       "title": "Apollo\u2019s $35 Billion AI Chip Credit Deal Is Set to Begin Trading"
+    },
+    {
+      "time": "09/07 14:45",
+      "source": "**NYT World**: Trump\u2019s NATO Summit, and Everyone Else\u2019s",
+      "title": "Trump\u2019s NATO Summit, and Everyone Else\u2019s"
     }
   ]
 }
