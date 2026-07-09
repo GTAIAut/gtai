@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T16:45:36.818924+00:00",
+  "generated_at": "2026-07-09T04:00:36.759489+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -532,21 +532,21 @@
       "forecast": false
     },
     {
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "value": 142795.61,
       "lower": 122134.99,
       "upper": 163456.24,
       "forecast": true
     },
     {
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "value": 218748.56,
       "lower": 198087.93,
       "upper": 239409.18,
       "forecast": true
     },
     {
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "value": 294701.5,
       "lower": 274040.88,
       "upper": 315362.13,
@@ -1732,31 +1732,6 @@
   ],
   "news_alerts": [
     {
-      "time": "08/07 10:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: European Bonds Slide as Oil Spike Reignites Inflation Fears",
-      "title": "European Bonds Slide as Oil Spike Reignites Inflation Fears"
-    },
-    {
-      "time": "08/07 11:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: US Stock Futures Slide After Trump Says Iran Ceasefire Is Over",
-      "title": "US Stock Futures Slide After Trump Says Iran Ceasefire Is Over"
-    },
-    {
-      "time": "08/07 11:45",
-      "source": "**NYT World**: Iran Live Updates: Trump Casts Doubt on Future of Cease-Fire After Latest Strikes",
-      "title": "Iran Live Updates: Trump Casts Doubt on Future of Cease-Fire After Latest Strikes"
-    },
-    {
-      "time": "08/07 11:45",
-      "source": "**NYT World**: Live Updates: Trump Lashes Out at Europe at NATO Summit",
-      "title": "Live Updates: Trump Lashes Out at Europe at NATO Summit"
-    },
-    {
-      "time": "08/07 11:45",
-      "source": "**NYT World**: Trump\u2019s Arrival in Turkey for NATO Summit Adds Drama and Spectacle",
-      "title": "Trump\u2019s Arrival in Turkey for NATO Summit Adds Drama and Spectacle"
-    },
-    {
       "time": "08/07 12:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Says US-Iran Ceasefire Is \u2018Over\u2019 After Strikes | The Pulse 7/8/2026",
       "title": "Trump Says US-Iran Ceasefire Is \u2018Over\u2019 After Strikes | The Pulse 7/8/2026"
@@ -1830,6 +1805,31 @@
       "time": "08/07 17:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Dollar Gets Safe-Haven Flows as US-Iran Ceasefire Under Threat",
       "title": "Dollar Gets Safe-Haven Flows as US-Iran Ceasefire Under Threat"
+    },
+    {
+      "time": "08/07 18:00",
+      "source": "**NYT World**: Live Updates: Trump Praises NATO\u2019s \u2018Unity\u2019 After Lashing Out at Allies",
+      "title": "Live Updates: Trump Praises NATO\u2019s \u2018Unity\u2019 After Lashing Out at Allies"
+    },
+    {
+      "time": "08/07 18:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Shipowners Assess Hormuz-Transit Risk as US-Iran Deal Crumbles",
+      "title": "Shipowners Assess Hormuz-Transit Risk as US-Iran Deal Crumbles"
+    },
+    {
+      "time": "08/07 18:30",
+      "source": "**NYT World**: Iran Live Updates: Trump Casts Doubt on Future of Cease-Fire After Exchange of Strikes",
+      "title": "Iran Live Updates: Trump Casts Doubt on Future of Cease-Fire After Exchange of Strikes"
+    },
+    {
+      "time": "08/07 18:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Shipowners Wrestle With Hormuz Risks as US-Iran Deal Crumbles",
+      "title": "Shipowners Wrestle With Hormuz Risks as US-Iran Deal Crumbles"
+    },
+    {
+      "time": "08/07 18:45",
+      "source": "**NYT World**: Trump Praises NATO\u2019s \u2018Unity\u2019 After Lashing Out at Allies",
+      "title": "Trump Praises NATO\u2019s \u2018Unity\u2019 After Lashing Out at Allies"
     }
   ]
 }
