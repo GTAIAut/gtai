@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T07:00:36.829220+00:00",
+  "generated_at": "2026-07-10T07:15:36.860280+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1032,7 +1032,7 @@
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
-      "created": "2026-07-09T14:39:01.827Z",
+      "created": "2026-07-10T07:01:42.987Z",
       "completed": ""
     },
     {
@@ -1731,11 +1731,6 @@
   ],
   "news_alerts": [
     {
-      "time": "09/07 15:00",
-      "source": "**NYT World**: Factory Fire in China Causes \u2018Significant\u2019 Casualties, Xi Says",
-      "title": "Factory Fire in China Causes \u2018Significant\u2019 Casualties, Xi Says"
-    },
-    {
       "time": "09/07 15:45",
       "source": "**NYT World**: Ukrainians Cautiously Welcome Trump\u2019s Announcement About Air-Defense Systems",
       "title": "Ukrainians Cautiously Welcome Trump\u2019s Announcement About Air-Defense Systems"
@@ -1829,6 +1824,11 @@
       "time": "10/07 08:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: MiniMax Joins China AI Fundraising Rush | The China Show 7/10/2026",
       "title": "MiniMax Joins China AI Fundraising Rush | The China Show 7/10/2026"
+    },
+    {
+      "time": "10/07 08:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: EU Banks Urged to Pool Buying Power in Deals With US Tech Giants",
+      "title": "EU Banks Urged to Pool Buying Power in Deals With US Tech Giants"
     }
   ]
 }
