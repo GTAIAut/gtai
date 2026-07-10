@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T05:15:36.786940+00:00",
+  "generated_at": "2026-07-10T05:30:37.010054+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1052,8 +1052,8 @@
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "running",
-      "created": "2026-07-10T05:00:44.821Z",
+      "status": "idle",
+      "created": "2026-07-10T05:25:33.769Z",
       "completed": ""
     },
     {
