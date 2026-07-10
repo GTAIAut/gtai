@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T04:45:37.106876+00:00",
+  "generated_at": "2026-07-10T05:00:37.044046+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1052,7 +1052,7 @@
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-09T13:15:45.717Z",
       "completed": ""
     },
@@ -1643,6 +1643,14 @@
   ],
   "session_analysis": [
     {
+      "session_type": "TARDE",
+      "session_num": 85,
+      "date": "09/07/2026 16:26",
+      "summary": "Postmortem conclu\u00eddo. Score: 6.5/10. Ver coment\u00e1rio para an\u00e1lise detalhada. Registos #25 (QQQ LONG), #26 (TSLA LONG) criados + atualiza\u00e7\u00f5es TAO/BNB CLOSE_PARTIAL no REGISTO.md.",
+      "trades": [],
+      "findings": []
+    },
+    {
       "session_type": "MEIODIA",
       "session_num": 84,
       "date": "09/07/2026 10:44",
@@ -1719,32 +1727,9 @@
       "findings": [
         "Postmortem completo. Score 6.5/10 \u2014 tese macro s\u00f3lida (F&G 24 contrarian), BTC trailing stop disciplinado, mas leverage 5x em ambos os trades com R/R marginal (1.56-1.58) penaliza o score. 2 novos reg"
       ]
-    },
-    {
-      "session_type": "TARDE",
-      "session_num": 75,
-      "date": "03/07/2026 14:25",
-      "summary": "Postmortem conclu\u00eddo. Score 4/10 \u2014 ponto cr\u00edtico: 94,4% cash com mercado US aberto e zero novos trades. Li\u00e7\u00f5es: gatilho autom\u00e1tico para deploy de capital, follow-through obrigat\u00f3rio das an\u00e1lises para execu\u00e7\u00e3o. [GTAA-896](/GTAA/issues/GTAA-896)",
-      "trades": [],
-      "findings": []
     }
   ],
   "news_alerts": [
-    {
-      "time": "09/07 11:15",
-      "source": "**Cointelegraph**: Bitcoin ETFs end 'most overwhelming' $2.7B sell-off amid new $85M net outflow",
-      "title": "Bitcoin ETFs end 'most overwhelming' $2.7B sell-off amid new $85M net outflow"
-    },
-    {
-      "time": "09/07 11:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Fuel Prices Show Inflation Is Still a Risk for Markets",
-      "title": "Fuel Prices Show Inflation Is Still a Risk for Markets"
-    },
-    {
-      "time": "09/07 11:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Rain-Soaked China Braces For 'Gargantuan' Typhoon",
-      "title": "Rain-Soaked China Braces For 'Gargantuan' Typhoon"
-    },
     {
       "time": "09/07 12:00",
       "source": "**NYT World**: At NATO Summit, Trump Puts on a Show While Europe Gets Down to Business",
@@ -1829,6 +1814,21 @@
       "time": "09/07 18:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: ING Weighs Venezuela Commodity Deals as Client Requests Rise",
       "title": "ING Weighs Venezuela Commodity Deals as Client Requests Rise"
+    },
+    {
+      "time": "10/07 06:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Yen Traders Question How Japan Pension Money Can Sustain Rally",
+      "title": "Yen Traders Question How Japan Pension Money Can Sustain Rally"
+    },
+    {
+      "time": "10/07 06:00",
+      "source": "**NYT World**: Factory Blaze in China\u2019s \u2018Shoe Capital\u2019 Kills 28",
+      "title": "Factory Blaze in China\u2019s \u2018Shoe Capital\u2019 Kills 28"
+    },
+    {
+      "time": "10/07 06:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: MiniMax Joins China AI Fundraising Rush With $2 Billion Deal",
+      "title": "MiniMax Joins China AI Fundraising Rush With $2 Billion Deal"
     }
   ]
 }
