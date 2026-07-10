@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T06:45:36.935789+00:00",
+  "generated_at": "2026-07-10T07:00:36.829220+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1039,7 +1039,7 @@
       "id": "55882e4a",
       "agent": "Analista de Cripto",
       "status": "idle",
-      "created": "2026-07-10T06:31:20.427Z",
+      "created": "2026-07-10T06:46:57.209Z",
       "completed": ""
     },
     {
@@ -1731,11 +1731,6 @@
   ],
   "news_alerts": [
     {
-      "time": "09/07 14:45",
-      "source": "**NYT World**: Trump\u2019s NATO Summit, and Everyone Else\u2019s",
-      "title": "Trump\u2019s NATO Summit, and Everyone Else\u2019s"
-    },
-    {
       "time": "09/07 15:00",
       "source": "**NYT World**: Factory Fire in China Causes \u2018Significant\u2019 Casualties, Xi Says",
       "title": "Factory Fire in China Causes \u2018Significant\u2019 Casualties, Xi Says"
@@ -1829,6 +1824,11 @@
       "time": "10/07 07:15",
       "source": "**Politico**: Brussels wants action over Trump-Infantino red card controversy",
       "title": "Brussels wants action over Trump-Infantino red card controversy"
+    },
+    {
+      "time": "10/07 08:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: MiniMax Joins China AI Fundraising Rush | The China Show 7/10/2026",
+      "title": "MiniMax Joins China AI Fundraising Rush | The China Show 7/10/2026"
     }
   ]
 }
