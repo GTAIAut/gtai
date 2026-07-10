@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T14:15:36.853801+00:00",
+  "generated_at": "2026-07-10T14:30:36.891828+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1047,7 +1047,7 @@
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
       "status": "idle",
-      "created": "2026-07-10T14:01:21.223Z",
+      "created": "2026-07-10T14:16:24.906Z",
       "completed": ""
     },
     {
@@ -1730,11 +1730,6 @@
   ],
   "news_alerts": [
     {
-      "time": "10/07 07:15",
-      "source": "**Politico**: Brussels wants action over Trump-Infantino red card controversy",
-      "title": "Brussels wants action over Trump-Infantino red card controversy"
-    },
-    {
       "time": "10/07 08:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: MiniMax Joins China AI Fundraising Rush | The China Show 7/10/2026",
       "title": "MiniMax Joins China AI Fundraising Rush | The China Show 7/10/2026"
@@ -1828,6 +1823,11 @@
       "time": "10/07 14:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Foreign Ownership of UK Firms Soared 35% Amid Glut of Deals",
       "title": "Foreign Ownership of UK Firms Soared 35% Amid Glut of Deals"
+    },
+    {
+      "time": "10/07 15:30",
+      "source": "**Cointelegraph**: A16z\u2019s Andreessen lands Federal Reserve role as AI reshapes policy debate",
+      "title": "A16z\u2019s Andreessen lands Federal Reserve role as AI reshapes policy debate"
     }
   ]
 }
