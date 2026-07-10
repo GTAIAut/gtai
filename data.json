@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T16:45:36.964774+00:00",
+  "generated_at": "2026-07-10T04:00:37.266014+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -499,21 +499,21 @@
       "forecast": false
     },
     {
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "value": 135020.34,
       "lower": 114051.6,
       "upper": 155989.08,
       "forecast": true
     },
     {
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "value": 204365.7,
       "lower": 183396.96,
       "upper": 225334.44,
       "forecast": true
     },
     {
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "value": 273711.06,
       "lower": 252742.32,
       "upper": 294679.8,
@@ -1731,16 +1731,6 @@
   ],
   "news_alerts": [
     {
-      "time": "09/07 10:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: US, Iran Trade Airstrikes as Fears Grow of a Return to War",
-      "title": "US, Iran Trade Airstrikes as Fears Grow of a Return to War"
-    },
-    {
-      "time": "09/07 11:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Erste Shares to Rally 30% on Poland Growth, Goldman Sachs Says",
-      "title": "Erste Shares to Rally 30% on Poland Growth, Goldman Sachs Says"
-    },
-    {
       "time": "09/07 11:15",
       "source": "**Cointelegraph**: Bitcoin ETFs end 'most overwhelming' $2.7B sell-off amid new $85M net outflow",
       "title": "Bitcoin ETFs end 'most overwhelming' $2.7B sell-off amid new $85M net outflow"
@@ -1829,6 +1819,16 @@
       "time": "09/07 17:45",
       "source": "**Cointelegraph**: MARA shares surge after 2 GW Texas infrastructure deal expands AI ambitions",
       "title": "MARA shares surge after 2 GW Texas infrastructure deal expands AI ambitions"
+    },
+    {
+      "time": "09/07 18:15",
+      "source": "**Cointelegraph**: Bitcoin miners\u2019 AI pivot faces investor scrutiny over insider sales",
+      "title": "Bitcoin miners\u2019 AI pivot faces investor scrutiny over insider sales"
+    },
+    {
+      "time": "09/07 18:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: ING Weighs Venezuela Commodity Deals as Client Requests Rise",
+      "title": "ING Weighs Venezuela Commodity Deals as Client Requests Rise"
     }
   ]
 }
