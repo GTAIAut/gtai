@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T05:00:37.044046+00:00",
+  "generated_at": "2026-07-10T05:15:36.786940+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1053,7 +1053,7 @@
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
       "status": "running",
-      "created": "2026-07-09T13:15:45.717Z",
+      "created": "2026-07-10T05:00:44.821Z",
       "completed": ""
     },
     {
@@ -1731,11 +1731,6 @@
   ],
   "news_alerts": [
     {
-      "time": "09/07 12:00",
-      "source": "**NYT World**: At NATO Summit, Trump Puts on a Show While Europe Gets Down to Business",
-      "title": "At NATO Summit, Trump Puts on a Show While Europe Gets Down to Business"
-    },
-    {
       "time": "09/07 12:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Winning Trade of Buying Chips, Selling Software Is Falling Apart",
       "title": "Winning Trade of Buying Chips, Selling Software Is Falling Apart"
@@ -1829,6 +1824,11 @@
       "time": "10/07 06:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: MiniMax Joins China AI Fundraising Rush With $2 Billion Deal",
       "title": "MiniMax Joins China AI Fundraising Rush With $2 Billion Deal"
+    },
+    {
+      "time": "10/07 06:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Embraces Norway's World Cup Star Erling Haaland",
+      "title": "China Embraces Norway's World Cup Star Erling Haaland"
     }
   ]
 }
