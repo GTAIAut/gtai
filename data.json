@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T11:00:36.937341+00:00",
+  "generated_at": "2026-07-10T11:15:36.934998+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -55,12 +55,12 @@
         "total": 82
       },
       "Gestor de Risco": {
-        "ok": 60,
-        "total": 64
+        "ok": 61,
+        "total": 65
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "546/567"
+    "all_sessions_rate": "547/568"
   },
   "equity_curve": [
     {
@@ -1075,7 +1075,7 @@
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
-      "created": "2026-07-10T07:35:16.703Z",
+      "created": "2026-07-10T11:05:12.287Z",
       "completed": ""
     },
     {
@@ -1731,11 +1731,6 @@
   "news_alerts": [
     {
       "time": "10/07 06:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Yen Traders Question How Japan Pension Money Can Sustain Rally",
-      "title": "Yen Traders Question How Japan Pension Money Can Sustain Rally"
-    },
-    {
-      "time": "10/07 06:00",
       "source": "**NYT World**: Factory Blaze in China\u2019s \u2018Shoe Capital\u2019 Kills 28",
       "title": "Factory Blaze in China\u2019s \u2018Shoe Capital\u2019 Kills 28"
     },
@@ -1828,6 +1823,11 @@
       "time": "10/07 12:00",
       "source": "\ud83d\udcf0 **BBC News**: Big tech must deal with scam ads under Ofcom proposals",
       "title": "Big tech must deal with scam ads under Ofcom proposals"
+    },
+    {
+      "time": "10/07 12:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Vanke Says First-Half Loss May Widen to $2.2 Billion",
+      "title": "China Vanke Says First-Half Loss May Widen to $2.2 Billion"
     }
   ]
 }
