@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T07:40:54.655215+00:00",
+  "generated_at": "2026-07-10T07:45:36.848632+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -43,12 +43,12 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 337,
-        "total": 348
+        "ok": 338,
+        "total": 349
       },
       "Registador de Decis\u00f5es": {
-        "ok": 67,
-        "total": 71
+        "ok": 68,
+        "total": 72
       },
       "Analista T\u00e9cnico": {
         "ok": 79,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "543/564"
+    "all_sessions_rate": "545/566"
   },
   "equity_curve": [
     {
@@ -1067,8 +1067,8 @@
     {
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
-      "status": "running",
-      "created": "2026-07-10T07:40:48.595Z",
+      "status": "idle",
+      "created": "2026-07-10T07:41:53.074Z",
       "completed": ""
     },
     {
@@ -1081,8 +1081,8 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "running",
-      "created": "2026-07-09T15:31:28.786Z",
+      "status": "idle",
+      "created": "2026-07-10T07:42:47.757Z",
       "completed": ""
     },
     {
@@ -1733,11 +1733,6 @@
   "news_alerts": [
     {
       "time": "09/07 16:15",
-      "source": "**NYT World**: Factory Fire in China Kills 28",
-      "title": "Factory Fire in China Kills 28"
-    },
-    {
-      "time": "09/07 16:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Your ETF of the Moment: Winning Big With \u2018Trump Accounts\u2019",
       "title": "Your ETF of the Moment: Winning Big With \u2018Trump Accounts\u2019"
     },
@@ -1830,6 +1825,11 @@
       "time": "10/07 08:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Niel Becomes Biggest Vodafone Investor With $6 Billion Deal",
       "title": "Niel Becomes Biggest Vodafone Investor With $6 Billion Deal"
+    },
+    {
+      "time": "10/07 08:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Vanguard Buys Inflation-Protected Bonds on an Oil-Market Oddity",
+      "title": "Vanguard Buys Inflation-Protected Bonds on an Oil-Market Oddity"
     }
   ]
 }
