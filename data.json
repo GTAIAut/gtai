@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-10T16:00:36.824437+00:00",
+  "generated_at": "2026-07-10T16:04:55.893798+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -273.95,
+    "total_pnl_eur": -273.61,
     "total_pnl_pct": -0.55,
-    "cash_eur": 45934.67,
-    "invested_eur": 3701.01,
-    "portfolio_value": 49726.05,
-    "open_positions": 2,
+    "cash_eur": 39369.13,
+    "invested_eur": 10274.05,
+    "portfolio_value": 49726.39,
+    "open_positions": 3,
     "total_trades": 86,
     "win_rate": 46.5,
     "total_wins": 40,
@@ -43,8 +43,8 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 340,
-        "total": 351
+        "ok": 341,
+        "total": 352
       },
       "Registador de Decis\u00f5es": {
         "ok": 68,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "554/575"
+    "all_sessions_rate": "555/576"
   },
   "equity_curve": [
     {
@@ -314,6 +314,10 @@
     {
       "date": "2026-07-10",
       "value": 49726.05
+    },
+    {
+      "date": "2026-07-10",
+      "value": 49726.39
     }
   ],
   "monthly_pnl": [
@@ -508,28 +512,28 @@
     },
     {
       "date": "2026-07-10",
-      "value": 49726.05,
+      "value": 49726.39,
       "forecast": false
     },
     {
       "date": "2026-08-09",
-      "value": 134038.05,
-      "lower": 112970.86,
-      "upper": 155105.25,
+      "value": 131154.53,
+      "lower": 110024.63,
+      "upper": 152284.43,
       "forecast": true
     },
     {
       "date": "2026-09-08",
-      "value": 201302.23,
-      "lower": 180235.03,
-      "upper": 222369.43,
+      "value": 196596.75,
+      "lower": 175466.85,
+      "upper": 217726.66,
       "forecast": true
     },
     {
       "date": "2026-10-08",
-      "value": 268566.4,
-      "lower": 247499.21,
-      "upper": 289633.6,
+      "value": 262038.98,
+      "lower": 240909.08,
+      "upper": 283168.88,
       "forecast": true
     }
   ],
@@ -848,6 +852,11 @@
       "date": "2026-07-10",
       "drawdown_pct": 1.66,
       "value": 49726.05
+    },
+    {
+      "date": "2026-07-10",
+      "drawdown_pct": 1.65,
+      "value": 49726.39
     }
   ],
   "positions": [
@@ -858,7 +867,7 @@
       "size": 0.0921,
       "invested": 1016.4,
       "leverage": 5,
-      "sl": 54800.0,
+      "sl": 55500.0,
       "tp1": 58440.0,
       "tp2": null,
       "budget_pct": 2.0,
@@ -872,18 +881,35 @@
       "ticker": "BNB",
       "direction": "LONG",
       "entry": 500.29,
-      "size": 16.0983,
-      "invested": 2684.61,
+      "size": 10.7859,
+      "invested": 1798.69,
       "leverage": 3,
       "sl": 470.0,
       "tp1": 555.0,
       "tp2": null,
-      "budget_pct": 5.4,
+      "budget_pct": 3.6,
       "confidence": 8,
       "is_crypto": true,
       "at_tp1": false,
       "reason": "F&G 22 Extreme Fear contrarian + BNB melhor performer historico (100% wins GLD/USO/TLT) + R/R 1.82:1. Leverage 3x por regime NEUTRO.",
       "opened_at": "2026-07-09T10:44:04.166956"
+    },
+    {
+      "ticker": "SOL",
+      "direction": "LONG",
+      "entry": 68.2,
+      "size": 546.8444,
+      "invested": 7458.96,
+      "leverage": 5,
+      "sl": 64.5,
+      "tp1": 78.0,
+      "tp2": 85.0,
+      "budget_pct": 15.0,
+      "confidence": 7,
+      "is_crypto": true,
+      "at_tp1": false,
+      "reason": "RSI 66.8 neutro + tend UPTREND + unico slot crypto livre. MACD flat 0.28 e vol 0.9x abaixo media reduzem conviccao. R/R 2.0:1. Cash 92% exige deploy. Sexta-feira restringe a crypto apenas",
+      "opened_at": "2026-07-10T17:04:52.760860"
     }
   ],
   "recent_trades": [
@@ -1067,8 +1093,8 @@
     {
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
-      "status": "idle",
-      "created": "2026-07-10T11:52:55.780Z",
+      "status": "running",
+      "created": "2026-07-10T16:04:44.365Z",
       "completed": ""
     },
     {
@@ -1081,7 +1107,7 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-10T07:42:47.757Z",
       "completed": ""
     },
