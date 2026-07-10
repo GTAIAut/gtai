@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-10T07:30:37.049789+00:00",
+  "generated_at": "2026-07-10T07:40:54.655215+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -194.4,
-    "total_pnl_pct": -0.39,
-    "cash_eur": 42884.61,
-    "invested_eur": 7034.53,
-    "portfolio_value": 49805.6,
-    "open_positions": 3,
-    "total_trades": 85,
-    "win_rate": 47.1,
+    "total_pnl_eur": -273.95,
+    "total_pnl_pct": -0.55,
+    "cash_eur": 45934.67,
+    "invested_eur": 3701.01,
+    "portfolio_value": 49726.05,
+    "open_positions": 2,
+    "total_trades": 86,
+    "win_rate": 46.5,
     "total_wins": 40,
-    "total_losses": 45,
+    "total_losses": 46,
     "avg_win": 22.67,
-    "avg_loss": -54.4,
+    "avg_loss": -59.66,
     "best_trade": {
       "id": 36,
       "ticker": "USO",
@@ -43,8 +43,8 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 336,
-        "total": 347
+        "ok": 337,
+        "total": 348
       },
       "Registador de Decis\u00f5es": {
         "ok": 67,
@@ -55,12 +55,12 @@
         "total": 81
       },
       "Gestor de Risco": {
-        "ok": 59,
-        "total": 63
+        "ok": 60,
+        "total": 64
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "541/562"
+    "all_sessions_rate": "543/564"
   },
   "equity_curve": [
     {
@@ -310,6 +310,10 @@
     {
       "date": "2026-07-09",
       "value": 49805.6
+    },
+    {
+      "date": "2026-07-10",
+      "value": 49726.05
     }
   ],
   "monthly_pnl": [
@@ -323,7 +327,7 @@
     },
     {
       "month": "2026-07",
-      "pnl": 210.5
+      "pnl": -85.88
     }
   ],
   "ticker_pnl": [
@@ -342,6 +346,10 @@
     {
       "ticker": "ETH",
       "pnl": -340.68
+    },
+    {
+      "ticker": "TAO",
+      "pnl": -296.38
     },
     {
       "ticker": "GLD",
@@ -499,24 +507,29 @@
       "forecast": false
     },
     {
+      "date": "2026-07-10",
+      "value": 49726.05,
+      "forecast": false
+    },
+    {
       "date": "2026-08-09",
-      "value": 135020.34,
-      "lower": 114051.6,
-      "upper": 155989.08,
+      "value": 134038.05,
+      "lower": 112970.86,
+      "upper": 155105.25,
       "forecast": true
     },
     {
       "date": "2026-09-08",
-      "value": 204365.7,
-      "lower": 183396.96,
-      "upper": 225334.44,
+      "value": 201302.23,
+      "lower": 180235.03,
+      "upper": 222369.43,
       "forecast": true
     },
     {
       "date": "2026-10-08",
-      "value": 273711.06,
-      "lower": 252742.32,
-      "upper": 294679.8,
+      "value": 268566.4,
+      "lower": 247499.21,
+      "upper": 289633.6,
       "forecast": true
     }
   ],
@@ -830,6 +843,11 @@
       "date": "2026-07-09",
       "drawdown_pct": 1.5,
       "value": 49805.6
+    },
+    {
+      "date": "2026-07-10",
+      "drawdown_pct": 1.66,
+      "value": 49726.05
     }
   ],
   "positions": [
@@ -840,7 +858,7 @@
       "size": 0.0921,
       "invested": 1016.4,
       "leverage": 5,
-      "sl": 52500.0,
+      "sl": 54800.0,
       "tp1": 58440.0,
       "tp2": null,
       "budget_pct": 2.0,
@@ -851,33 +869,16 @@
       "opened_at": "2026-07-07T06:34:11.537274"
     },
     {
-      "ticker": "TAO",
-      "direction": "SHORT",
-      "entry": 179.49,
-      "size": 56.0267,
-      "invested": 2011.25,
-      "leverage": 5,
-      "sl": 191.0,
-      "tp1": 156.0,
-      "tp2": null,
-      "budget_pct": 4.0,
-      "confidence": 8,
-      "is_crypto": true,
-      "at_tp1": false,
-      "reason": "BTC < MA50 (-5.3%) + Fear&Greed 22 Extreme Fear = checklist SHORT crypto. TAO alto beta AI, -1.57% hoje. MACD neutro mas tendencia bearish em todo o complexo crypto. R/R 1.94:1",
-      "opened_at": "2026-07-09T06:51:29.621874"
-    },
-    {
       "ticker": "BNB",
       "direction": "LONG",
       "entry": 500.29,
-      "size": 24.0274,
-      "invested": 4006.88,
+      "size": 16.0983,
+      "invested": 2684.61,
       "leverage": 3,
       "sl": 470.0,
       "tp1": 555.0,
       "tp2": null,
-      "budget_pct": 8.0,
+      "budget_pct": 5.4,
       "confidence": 8,
       "is_crypto": true,
       "at_tp1": false,
@@ -886,6 +887,13 @@
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "TAO",
+      "direction": "SHORT",
+      "pnl": -296.38,
+      "reason": "Tese invalidada \u2014 BTC +2.59% reverteu fraqueza cripto. TAO +4.33% hoje, perda -19.8%. Gestor de Risco e sistema: FECHAR.",
+      "closed_at": "2026-07-10T08:40:50.582013"
+    },
     {
       "ticker": "SOL",
       "direction": "SHORT",
@@ -1018,13 +1026,6 @@
       "pnl": 0.31,
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "closed_at": "2026-06-16T16:10:03.078599"
-    },
-    {
-      "ticker": "IWM",
-      "direction": "LONG",
-      "pnl": 0.13,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "closed_at": "2026-06-16T16:10:03.078437"
     }
   ],
   "recent_sessions": [
@@ -1066,21 +1067,21 @@
     {
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
-      "status": "idle",
-      "created": "2026-07-09T15:27:04.860Z",
+      "status": "running",
+      "created": "2026-07-10T07:40:48.595Z",
       "completed": ""
     },
     {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
-      "created": "2026-07-09T15:10:16.568Z",
+      "created": "2026-07-10T07:35:16.703Z",
       "completed": ""
     },
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-09T15:31:28.786Z",
       "completed": ""
     },
@@ -1100,6 +1101,15 @@
     }
   ],
   "activity_feed": [
+    {
+      "type": "close",
+      "ticker": "TAO",
+      "direction": "SHORT",
+      "pnl": -296.38,
+      "reason": "Tese invalidada \u2014 BTC +2.59% reverteu fraqueza cripto. TAO +4.33% hoje, perda -19.8%. Gestor de Risco e sistema: FECHAR.",
+      "date": "2026-07-10T08:40",
+      "id": 51
+    },
     {
       "type": "close",
       "ticker": "SOL",
@@ -1630,15 +1640,6 @@
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-11T12:30",
       "id": 17
-    },
-    {
-      "type": "sl_hit",
-      "ticker": "AVAX",
-      "direction": "SHORT",
-      "pnl": 0.82,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-05-11T12:00",
-      "id": 16
     }
   ],
   "session_analysis": [
