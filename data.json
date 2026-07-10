@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T11:15:36.934998+00:00",
+  "generated_at": "2026-07-10T11:30:37.023732+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -55,12 +55,12 @@
         "total": 82
       },
       "Gestor de Risco": {
-        "ok": 61,
-        "total": 65
+        "ok": 62,
+        "total": 66
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "547/568"
+    "all_sessions_rate": "548/569"
   },
   "equity_curve": [
     {
@@ -1075,7 +1075,7 @@
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
-      "created": "2026-07-10T11:05:12.287Z",
+      "created": "2026-07-10T11:20:49.796Z",
       "completed": ""
     },
     {
