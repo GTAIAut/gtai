@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T09:00:36.773725+00:00",
+  "generated_at": "2026-07-10T09:15:36.911678+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1054,7 +1054,7 @@
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
       "status": "running",
-      "created": "2026-07-10T05:25:33.769Z",
+      "created": "2026-07-10T09:00:42.241Z",
       "completed": ""
     },
     {
@@ -1730,16 +1730,6 @@
   ],
   "news_alerts": [
     {
-      "time": "09/07 17:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Stops in UK to Switch Air Force One Planes",
-      "title": "Trump Stops in UK to Switch Air Force One Planes"
-    },
-    {
-      "time": "09/07 17:00",
-      "source": "**NYT World**: Ukrainians Cautiously Welcome Trump\u2019s Announcement About Patriot Missile Systems",
-      "title": "Ukrainians Cautiously Welcome Trump\u2019s Announcement About Patriot Missile Systems"
-    },
-    {
       "time": "09/07 17:15",
       "source": "**Cointelegraph**: Bitcoin traders reveal key levels as BTC price passes $63K after Trump Iran 'deal' comments",
       "title": "Bitcoin traders reveal key levels as BTC price passes $63K after Trump Iran 'deal' comments"
@@ -1828,6 +1818,16 @@
       "time": "10/07 09:15",
       "source": "**NYT World**: China Launches Reusable Rocket, Clearing a Key Hurdle in Race With SpaceX",
       "title": "China Launches Reusable Rocket, Clearing a Key Hurdle in Race With SpaceX"
+    },
+    {
+      "time": "10/07 10:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Apollo Approaches Record Spend With EasyJet and\u00a0Bayer Deals",
+      "title": "Apollo Approaches Record Spend With EasyJet and\u00a0Bayer Deals"
+    },
+    {
+      "time": "10/07 10:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: BMW\u2019s Car Sales Decline After 30% Plunge in China",
+      "title": "BMW\u2019s Car Sales Decline After 30% Plunge in China"
     }
   ]
 }
