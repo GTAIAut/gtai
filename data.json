@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T10:00:36.877343+00:00",
+  "generated_at": "2026-07-10T10:15:37.017578+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1040,7 +1040,7 @@
       "id": "55882e4a",
       "agent": "Analista de Cripto",
       "status": "idle",
-      "created": "2026-07-10T06:46:57.209Z",
+      "created": "2026-07-10T10:03:34.882Z",
       "completed": ""
     },
     {
@@ -1730,16 +1730,6 @@
   ],
   "news_alerts": [
     {
-      "time": "09/07 17:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Why Fed Cuts Beat Rate Hikes",
-      "title": "Why Fed Cuts Beat Rate Hikes"
-    },
-    {
-      "time": "09/07 17:45",
-      "source": "**Cointelegraph**: MARA shares surge after 2 GW Texas infrastructure deal expands AI ambitions",
-      "title": "MARA shares surge after 2 GW Texas infrastructure deal expands AI ambitions"
-    },
-    {
       "time": "09/07 18:15",
       "source": "**Cointelegraph**: Bitcoin miners\u2019 AI pivot faces investor scrutiny over insider sales",
       "title": "Bitcoin miners\u2019 AI pivot faces investor scrutiny over insider sales"
@@ -1828,6 +1818,16 @@
       "time": "10/07 10:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Spain\u2019s Cuerpo Touts US Business Ties to Diffuse Trump Tensions",
       "title": "Spain\u2019s Cuerpo Touts US Business Ties to Diffuse Trump Tensions"
+    },
+    {
+      "time": "10/07 11:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: BMW, Volkswagen Sales Decline on Worsening Slump in China",
+      "title": "BMW, Volkswagen Sales Decline on Worsening Slump in China"
+    },
+    {
+      "time": "10/07 11:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Heads for Weekly Loss as Traders Consider Iran, Rates Path",
+      "title": "Gold Heads for Weekly Loss as Traders Consider Iran, Rates Path"
     }
   ]
 }
