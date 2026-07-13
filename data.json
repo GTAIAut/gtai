@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T04:45:36.622163+00:00",
+  "generated_at": "2026-07-13T05:00:36.809810+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -979,8 +979,8 @@
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "idle",
-      "created": "2026-07-10T13:15:43.385Z",
+      "status": "error",
+      "created": "2026-07-13T05:00:24.143Z",
       "completed": ""
     },
     {
@@ -1570,6 +1570,14 @@
   ],
   "session_analysis": [
     {
+      "session_type": "TARDE",
+      "session_num": 87,
+      "date": "10/07/2026 17:04",
+      "summary": "Postmortem conclu\u00eddo e publicado como coment\u00e1rio. Score: 6/10. Principal preocupa\u00e7\u00e3o: SOL LONG aberto por press\u00e3o de cash deployment com confidence 7 + leverage 5x \u2014 risco comportamental identificado. Recomenda\u00e7\u00e3o: adicionar vetos autom\u00e1ticos para MACD flat e volume abaixo da m\u00e9dia.",
+      "trades": [],
+      "findings": []
+    },
+    {
       "session_type": "MANHA",
       "session_num": 86,
       "date": "10/07/2026 08:40",
@@ -1644,32 +1652,9 @@
       "summary": "Postmortem conclu\u00eddo e publicado como coment\u00e1rio. Trades #012 (SOL atualiza\u00e7\u00e3o), #013 (BTC LONG), #014 (BNB LONG) registados em REGISTO_TRADES.md. Score: 5.5/10. Principais alertas: leverage 5x excessivo, concentra\u00e7\u00e3o 100% crypto, padr\u00e3o de escalada SOL (50.6%) repete erro BTC (60.1% junho). Recomenda\u00e7\u00f5es de melhoria documentadas no coment\u00e1rio da issue.",
       "trades": [],
       "findings": []
-    },
-    {
-      "session_type": "TARDE",
-      "session_num": 77,
-      "date": "06/07/2026 14:32",
-      "summary": "Postmortem conclu\u00eddo. Score 5.5/10 \u2014 5 novos registos (#62-#66) + atualiza\u00e7\u00e3o SOL #61. Problema principal: oversizing (72% budget numa sess\u00e3o NEUTRO). Registo completo no coment\u00e1rio acima.",
-      "trades": [],
-      "findings": []
     }
   ],
   "news_alerts": [
-    {
-      "time": "10/07 08:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: MiniMax Joins China AI Fundraising Rush | The China Show 7/10/2026",
-      "title": "MiniMax Joins China AI Fundraising Rush | The China Show 7/10/2026"
-    },
-    {
-      "time": "10/07 08:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: EU Banks Urged to Pool Buying Power in Deals With US Tech Giants",
-      "title": "EU Banks Urged to Pool Buying Power in Deals With US Tech Giants"
-    },
-    {
-      "time": "10/07 08:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Niel Becomes Biggest Vodafone Investor With $6 Billion Deal",
-      "title": "Niel Becomes Biggest Vodafone Investor With $6 Billion Deal"
-    },
     {
       "time": "10/07 08:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Vanguard Buys Inflation-Protected Bonds on an Oil-Market Oddity",
@@ -1754,6 +1739,21 @@
       "time": "10/07 15:30",
       "source": "**Cointelegraph**: A16z\u2019s Andreessen lands Federal Reserve role as AI reshapes policy debate",
       "title": "A16z\u2019s Andreessen lands Federal Reserve role as AI reshapes policy debate"
+    },
+    {
+      "time": "13/07 06:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Modi Seals Deals After\u00a0Courting Indo-Pacific Partners",
+      "title": "Modi Seals Deals After\u00a0Courting Indo-Pacific Partners"
+    },
+    {
+      "time": "13/07 06:00",
+      "source": "\ud83d\udcf0 **BBC News**: Burnham set for No 10: BBC correspondents on what Trump, Putin and others will make of him",
+      "title": "Burnham set for No 10: BBC correspondents on what Trump, Putin and others will make of him"
+    },
+    {
+      "time": "13/07 06:00",
+      "source": "\ud83d\udcf0 **BBC News**: Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+      "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era"
     }
   ]
 }
