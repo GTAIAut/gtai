@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T07:00:36.783789+00:00",
+  "generated_at": "2026-07-13T07:15:36.638193+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -958,8 +958,8 @@
     {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
-      "status": "idle",
-      "created": "2026-07-10T15:17:33.795Z",
+      "status": "error",
+      "created": "2026-07-13T07:01:20.953Z",
       "completed": ""
     },
     {
