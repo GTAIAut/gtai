@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T09:15:36.783704+00:00",
+  "generated_at": "2026-07-13T09:30:36.732565+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -51,8 +51,8 @@
         "total": 74
       },
       "Analista T\u00e9cnico": {
-        "ok": 85,
-        "total": 87
+        "ok": 86,
+        "total": 88
       },
       "Gestor de Risco": {
         "ok": 64,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "562/583"
+    "all_sessions_rate": "563/584"
   },
   "equity_curve": [
     {
@@ -996,7 +996,7 @@
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
       "status": "idle",
-      "created": "2026-07-13T09:03:21.355Z",
+      "created": "2026-07-13T09:18:12.650Z",
       "completed": ""
     },
     {
@@ -1665,21 +1665,6 @@
   ],
   "news_alerts": [
     {
-      "time": "10/07 11:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Heads for Weekly Loss as Traders Consider Iran, Rates Path",
-      "title": "Gold Heads for Weekly Loss as Traders Consider Iran, Rates Path"
-    },
-    {
-      "time": "10/07 11:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Traders Hedge for FX Volatility Return as Fed Uncertainty Builds",
-      "title": "Traders Hedge for FX Volatility Return as Fed Uncertainty Builds"
-    },
-    {
-      "time": "10/07 12:00",
-      "source": "\ud83d\udcf0 **BBC News**: Big tech must deal with scam ads under Ofcom proposals",
-      "title": "Big tech must deal with scam ads under Ofcom proposals"
-    },
-    {
       "time": "10/07 12:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Vanke Says First-Half Loss May Widen to $2.2 Billion",
       "title": "China Vanke Says First-Half Loss May Widen to $2.2 Billion"
@@ -1763,6 +1748,21 @@
       "time": "13/07 09:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: European Stocks 'Vulnerable' Without Solid Iran Deal: Schroders",
       "title": "European Stocks 'Vulnerable' Without Solid Iran Deal: Schroders"
+    },
+    {
+      "time": "13/07 10:30",
+      "source": "**NYT World**: The Next Phase in Ukraine\u2019s War With Russia: The Battle for Minds",
+      "title": "The Next Phase in Ukraine\u2019s War With Russia: The Battle for Minds"
+    },
+    {
+      "time": "13/07 10:30",
+      "source": "**NYT World**: A Robot Army Remakes Ground Warfare in Ukraine",
+      "title": "A Robot Army Remakes Ground Warfare in Ukraine"
+    },
+    {
+      "time": "13/07 10:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China\u2019s Oil Imports Poised to Recover as Stockpiling Returns",
+      "title": "China\u2019s Oil Imports Poised to Recover as Stockpiling Returns"
     }
   ]
 }
