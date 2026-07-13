@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T08:15:36.738472+00:00",
+  "generated_at": "2026-07-13T08:30:36.909134+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1665,11 +1665,6 @@
   ],
   "news_alerts": [
     {
-      "time": "10/07 10:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Spain\u2019s Cuerpo Touts US Business Ties to Diffuse Trump Tensions",
-      "title": "Spain\u2019s Cuerpo Touts US Business Ties to Diffuse Trump Tensions"
-    },
-    {
       "time": "10/07 11:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: BMW, Volkswagen Sales Decline on Worsening Slump in China",
       "title": "BMW, Volkswagen Sales Decline on Worsening Slump in China"
@@ -1763,6 +1758,11 @@
       "time": "13/07 08:00",
       "source": "**NYT World**: Zelensky Announces Leadership Shuffle as War Turns in Ukraine\u2019s Favor",
       "title": "Zelensky Announces Leadership Shuffle as War Turns in Ukraine\u2019s Favor"
+    },
+    {
+      "time": "13/07 09:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Europe 'Vulnerable' Without Solid Iran Deal: Schroders (Video)",
+      "title": "Europe 'Vulnerable' Without Solid Iran Deal: Schroders (Video)"
     }
   ]
 }
