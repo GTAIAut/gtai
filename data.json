@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T10:15:36.879733+00:00",
+  "generated_at": "2026-07-13T10:30:36.803211+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -965,17 +965,17 @@
   ],
   "recent_sessions": [
     {
-      "id": "55882e4a",
-      "agent": "Analista de Cripto",
-      "status": "idle",
-      "created": "2026-07-13T10:03:41.793Z",
-      "completed": ""
-    },
-    {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
       "created": "2026-07-13T07:16:23.839Z",
+      "completed": ""
+    },
+    {
+      "id": "55882e4a",
+      "agent": "Analista de Cripto",
+      "status": "idle",
+      "created": "2026-07-13T10:19:18.001Z",
       "completed": ""
     },
     {
@@ -1665,11 +1665,6 @@
   ],
   "news_alerts": [
     {
-      "time": "10/07 12:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Vanke Says First-Half Loss May Widen to $2.2 Billion",
-      "title": "China Vanke Says First-Half Loss May Widen to $2.2 Billion"
-    },
-    {
       "time": "10/07 12:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Inflation Is a Tailwind for European, Morgan Stanley Says",
       "title": "Inflation Is a Tailwind for European, Morgan Stanley Says"
@@ -1763,6 +1758,11 @@
       "time": "13/07 10:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China\u2019s Oil Imports Poised to Recover as Stockpiling Returns",
       "title": "China\u2019s Oil Imports Poised to Recover as Stockpiling Returns"
+    },
+    {
+      "time": "13/07 11:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Apple\u2019s $600 Billion Rally Fueled by Traders Fleeing AI Selloff",
+      "title": "Apple\u2019s $600 Billion Rally Fueled by Traders Fleeing AI Selloff"
     }
   ]
 }
