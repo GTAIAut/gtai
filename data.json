@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T15:30:36.800078+00:00",
+  "generated_at": "2026-07-13T15:45:36.796823+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1675,11 +1675,6 @@
   "news_alerts": [
     {
       "time": "13/07 06:00",
-      "source": "\ud83d\udcf0 **BBC News**: Burnham set for No 10: BBC correspondents on what Trump, Putin and others will make of him",
-      "title": "Burnham set for No 10: BBC correspondents on what Trump, Putin and others will make of him"
-    },
-    {
-      "time": "13/07 06:00",
       "source": "\ud83d\udcf0 **BBC News**: Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
       "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era"
     },
@@ -1772,6 +1767,11 @@
       "time": "13/07 16:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Apollo\u2019s Slok Warns of Dollar\u2019s Vulnerability to an AI Pullback",
       "title": "Apollo\u2019s Slok Warns of Dollar\u2019s Vulnerability to an AI Pullback"
+    },
+    {
+      "time": "13/07 16:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Says US Will Be Reimbursed 20% Rate for Hormuz Traffic",
+      "title": "Trump Says US Will Be Reimbursed 20% Rate for Hormuz Traffic"
     }
   ]
 }
