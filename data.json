@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-10T16:45:36.716347+00:00",
+  "generated_at": "2026-07-13T04:00:36.778935+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -273.61,
-    "total_pnl_pct": -0.55,
-    "cash_eur": 39369.13,
-    "invested_eur": 10274.05,
+    "total_pnl_eur": -1291.84,
+    "total_pnl_pct": -2.58,
+    "cash_eur": 40379.17,
+    "invested_eur": 9257.65,
     "portfolio_value": 49726.39,
-    "open_positions": 3,
-    "total_trades": 86,
-    "win_rate": 46.5,
+    "open_positions": 2,
+    "total_trades": 87,
+    "win_rate": 46.0,
     "total_wins": 40,
-    "total_losses": 46,
+    "total_losses": 47,
     "avg_win": 22.67,
-    "avg_loss": -59.66,
+    "avg_loss": -58.52,
     "best_trade": {
       "id": 36,
       "ticker": "USO",
@@ -63,58 +63,6 @@
     "all_sessions_rate": "557/578"
   },
   "equity_curve": [
-    {
-      "date": "2026-06-15",
-      "value": 1036.31
-    },
-    {
-      "date": "2026-06-16",
-      "value": 1039.98
-    },
-    {
-      "date": "2026-06-16",
-      "value": 1039.54
-    },
-    {
-      "date": "2026-06-16",
-      "value": 1040.37
-    },
-    {
-      "date": "2026-06-16",
-      "value": 1039.49
-    },
-    {
-      "date": "2026-06-17",
-      "value": 1038.68
-    },
-    {
-      "date": "2026-06-17",
-      "value": 1035.85
-    },
-    {
-      "date": "2026-06-17",
-      "value": 1035.89
-    },
-    {
-      "date": "2026-06-17",
-      "value": 1034.96
-    },
-    {
-      "date": "2026-06-18",
-      "value": 1036.59
-    },
-    {
-      "date": "2026-06-18",
-      "value": 1036.98
-    },
-    {
-      "date": "2026-06-18",
-      "value": 1036.8
-    },
-    {
-      "date": "2026-06-18",
-      "value": 1036.8
-    },
     {
       "date": "2026-06-18",
       "value": 1041.8
@@ -318,6 +266,10 @@
     {
       "date": "2026-07-10",
       "value": 49726.39
+    },
+    {
+      "date": "2026-07-12",
+      "value": 49617.0
     }
   ],
   "monthly_pnl": [
@@ -331,13 +283,13 @@
     },
     {
       "month": "2026-07",
-      "pnl": -85.88
+      "pnl": -92.24
     }
   ],
   "ticker_pnl": [
     {
       "ticker": "BTC",
-      "pnl": -1261.97
+      "pnl": -1268.33
     },
     {
       "ticker": "AVAX",
@@ -406,28 +358,8 @@
   ],
   "forecast": [
     {
-      "date": "2026-06-15",
-      "value": 1036.31,
-      "forecast": false
-    },
-    {
-      "date": "2026-06-16",
-      "value": 1040.37,
-      "forecast": false
-    },
-    {
-      "date": "2026-06-17",
-      "value": 1035.85,
-      "forecast": false
-    },
-    {
       "date": "2026-06-18",
-      "value": 1036.59,
-      "forecast": false
-    },
-    {
-      "date": "2026-06-18",
-      "value": 1036.8,
+      "value": 1041.8,
       "forecast": false
     },
     {
@@ -436,8 +368,13 @@
       "forecast": false
     },
     {
+      "date": "2026-06-21",
+      "value": 50454.52,
+      "forecast": false
+    },
+    {
       "date": "2026-06-22",
-      "value": 50163.75,
+      "value": 50194.82,
       "forecast": false
     },
     {
@@ -446,8 +383,13 @@
       "forecast": false
     },
     {
+      "date": "2026-06-23",
+      "value": 50121.1,
+      "forecast": false
+    },
+    {
       "date": "2026-06-24",
-      "value": 50121.49,
+      "value": 50125.53,
       "forecast": false
     },
     {
@@ -456,8 +398,13 @@
       "forecast": false
     },
     {
+      "date": "2026-06-25",
+      "value": 50519.69,
+      "forecast": false
+    },
+    {
       "date": "2026-06-26",
-      "value": 50202.66,
+      "value": 50184.89,
       "forecast": false
     },
     {
@@ -467,7 +414,12 @@
     },
     {
       "date": "2026-06-29",
-      "value": 50435.74,
+      "value": 50259.32,
+      "forecast": false
+    },
+    {
+      "date": "2026-06-30",
+      "value": 50480.25,
       "forecast": false
     },
     {
@@ -477,7 +429,12 @@
     },
     {
       "date": "2026-07-01",
-      "value": 50412.62,
+      "value": 50412.23,
+      "forecast": false
+    },
+    {
+      "date": "2026-07-01",
+      "value": 50431.9,
       "forecast": false
     },
     {
@@ -486,8 +443,13 @@
       "forecast": false
     },
     {
+      "date": "2026-07-02",
+      "value": 50317.8,
+      "forecast": false
+    },
+    {
       "date": "2026-07-03",
-      "value": 50246.61,
+      "value": 50257.9,
       "forecast": false
     },
     {
@@ -496,8 +458,13 @@
       "forecast": false
     },
     {
+      "date": "2026-07-06",
+      "value": 49831.84,
+      "forecast": false
+    },
+    {
       "date": "2026-07-07",
-      "value": 50187.8,
+      "value": 50348.06,
       "forecast": false
     },
     {
@@ -507,7 +474,12 @@
     },
     {
       "date": "2026-07-09",
-      "value": 49836.86,
+      "value": 50030.97,
+      "forecast": false
+    },
+    {
+      "date": "2026-07-09",
+      "value": 49805.6,
       "forecast": false
     },
     {
@@ -516,93 +488,33 @@
       "forecast": false
     },
     {
-      "date": "2026-08-09",
-      "value": 131154.53,
-      "lower": 110024.63,
-      "upper": 152284.43,
+      "date": "2026-07-12",
+      "value": 49617.0,
+      "forecast": false
+    },
+    {
+      "date": "2026-08-12",
+      "value": 88011.8,
+      "lower": 70821.62,
+      "upper": 105201.98,
       "forecast": true
     },
     {
-      "date": "2026-09-08",
-      "value": 196596.75,
-      "lower": 175466.85,
-      "upper": 217726.66,
+      "date": "2026-09-11",
+      "value": 117519.53,
+      "lower": 100329.35,
+      "upper": 134709.72,
       "forecast": true
     },
     {
-      "date": "2026-10-08",
-      "value": 262038.98,
-      "lower": 240909.08,
-      "upper": 283168.88,
+      "date": "2026-10-11",
+      "value": 147027.27,
+      "lower": 129837.09,
+      "upper": 164217.45,
       "forecast": true
     }
   ],
   "drawdown": [
-    {
-      "date": "2026-06-15",
-      "drawdown_pct": 0.0,
-      "value": 1036.31
-    },
-    {
-      "date": "2026-06-16",
-      "drawdown_pct": 0.0,
-      "value": 1039.98
-    },
-    {
-      "date": "2026-06-16",
-      "drawdown_pct": 0.04,
-      "value": 1039.54
-    },
-    {
-      "date": "2026-06-16",
-      "drawdown_pct": 0.0,
-      "value": 1040.37
-    },
-    {
-      "date": "2026-06-16",
-      "drawdown_pct": 0.08,
-      "value": 1039.49
-    },
-    {
-      "date": "2026-06-17",
-      "drawdown_pct": 0.16,
-      "value": 1038.68
-    },
-    {
-      "date": "2026-06-17",
-      "drawdown_pct": 0.43,
-      "value": 1035.85
-    },
-    {
-      "date": "2026-06-17",
-      "drawdown_pct": 0.43,
-      "value": 1035.89
-    },
-    {
-      "date": "2026-06-17",
-      "drawdown_pct": 0.52,
-      "value": 1034.96
-    },
-    {
-      "date": "2026-06-18",
-      "drawdown_pct": 0.36,
-      "value": 1036.59
-    },
-    {
-      "date": "2026-06-18",
-      "drawdown_pct": 0.33,
-      "value": 1036.98
-    },
-    {
-      "date": "2026-06-18",
-      "drawdown_pct": 0.34,
-      "value": 1036.8
-    },
-    {
-      "date": "2026-06-18",
-      "drawdown_pct": 0.34,
-      "value": 1036.8
-    },
     {
       "date": "2026-06-18",
       "drawdown_pct": 0.0,
@@ -857,26 +769,14 @@
       "date": "2026-07-10",
       "drawdown_pct": 1.65,
       "value": 49726.39
+    },
+    {
+      "date": "2026-07-12",
+      "drawdown_pct": 1.87,
+      "value": 49617.0
     }
   ],
   "positions": [
-    {
-      "ticker": "BTC",
-      "direction": "LONG",
-      "entry": 55153,
-      "size": 0.0921,
-      "invested": 1016.4,
-      "leverage": 5,
-      "sl": 55500.0,
-      "tp1": 58440.0,
-      "tp2": null,
-      "budget_pct": 2.0,
-      "confidence": 7,
-      "is_crypto": true,
-      "at_tp1": false,
-      "reason": "Fear&Greed 27 contrarian + Trump pro-crypto + bulls absorveram venda Strategy $216M. RSI 46.4 neutro-baixo. MACD a convergir. R/R 1.71:1.",
-      "opened_at": "2026-07-07T06:34:11.537274"
-    },
     {
       "ticker": "BNB",
       "direction": "LONG",
@@ -913,6 +813,13 @@
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "BTC",
+      "direction": "LONG",
+      "pnl": -6.36,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "closed_at": "2026-07-13T05:00:01.863856"
+    },
     {
       "ticker": "TAO",
       "direction": "SHORT",
@@ -1045,13 +952,6 @@
       "pnl": -0.09,
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "closed_at": "2026-06-17T06:14:31.660738"
-    },
-    {
-      "ticker": "USO",
-      "direction": "SHORT",
-      "pnl": 0.31,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "closed_at": "2026-06-16T16:10:03.078599"
     }
   ],
   "recent_sessions": [
@@ -1127,6 +1027,15 @@
     }
   ],
   "activity_feed": [
+    {
+      "type": "sl_hit",
+      "ticker": "BTC",
+      "direction": "LONG",
+      "pnl": -6.36,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-07-13T05:00",
+      "id": 49
+    },
     {
       "type": "close",
       "ticker": "TAO",
@@ -1656,15 +1565,6 @@
       "pnl": 0.0,
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-11T12:40",
-      "id": 17
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "AVAX",
-      "direction": "SHORT",
-      "pnl": 0.16,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-11T12:30",
       "id": 17
     }
   ],
