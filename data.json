@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T16:30:37.340043+00:00",
+  "generated_at": "2026-07-13T16:45:36.694478+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1674,21 +1674,6 @@
   ],
   "news_alerts": [
     {
-      "time": "13/07 06:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China\u2019s Oil Imports May Be Set to Recover as Stockpiling Returns",
-      "title": "China\u2019s Oil Imports May Be Set to Recover as Stockpiling Returns"
-    },
-    {
-      "time": "13/07 07:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Rejects South China Sea Ruling on 10th Anniversary | The China Show 7/13/2026",
-      "title": "China Rejects South China Sea Ruling on 10th Anniversary | The China Show 7/13/2026"
-    },
-    {
-      "time": "13/07 07:45",
-      "source": "**NYT World**: How Trump Failed to Secure the Strait of Hormuz in His Iran Deal",
-      "title": "How Trump Failed to Secure the Strait of Hormuz in His Iran Deal"
-    },
-    {
       "time": "13/07 08:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Investors Weigh War Risks as US and Iran Trade Fire | Insight with Haslinda Amin 7/13/2026",
       "title": "Investors Weigh War Risks as US and Iran Trade Fire | Insight with Haslinda Amin 7/13/2026"
@@ -1772,6 +1757,21 @@
       "time": "13/07 17:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: US Stocks Fall as Trump Plans to Reinstate Iran Blockade",
       "title": "US Stocks Fall as Trump Plans to Reinstate Iran Blockade"
+    },
+    {
+      "time": "13/07 17:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Waller Says Fed May Need to Raise Rates to Tame Core Inflation",
+      "title": "Waller Says Fed May Need to Raise Rates to Tame Core Inflation"
+    },
+    {
+      "time": "13/07 17:45",
+      "source": "**Cointelegraph**: Donald Trump invokes US senator\u2019s death to push crypto bill",
+      "title": "Donald Trump invokes US senator\u2019s death to push crypto bill"
+    },
+    {
+      "time": "13/07 17:45",
+      "source": "\ud83d\udcf0 **BBC News**: Roaming charges scrapped and faster airport checks in UK-Switzerland deal",
+      "title": "Roaming charges scrapped and faster airport checks in UK-Switzerland deal"
     }
   ]
 }
