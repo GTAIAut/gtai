@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T15:15:36.788552+00:00",
+  "generated_at": "2026-07-13T15:30:36.800078+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1675,11 +1675,6 @@
   "news_alerts": [
     {
       "time": "13/07 06:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Modi Seals Deals After\u00a0Courting Indo-Pacific Partners",
-      "title": "Modi Seals Deals After\u00a0Courting Indo-Pacific Partners"
-    },
-    {
-      "time": "13/07 06:00",
       "source": "\ud83d\udcf0 **BBC News**: Burnham set for No 10: BBC correspondents on what Trump, Putin and others will make of him",
       "title": "Burnham set for No 10: BBC correspondents on what Trump, Putin and others will make of him"
     },
@@ -1772,6 +1767,11 @@
       "time": "13/07 16:15",
       "source": "**Cointelegraph**: Bitcoin threatens $62K in risk-asset rout as Donald Trump says US will 'run' closed Hormuz Strait",
       "title": "Bitcoin threatens $62K in risk-asset rout as Donald Trump says US will 'run' closed Hormuz Strait"
+    },
+    {
+      "time": "13/07 16:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Apollo\u2019s Slok Warns of Dollar\u2019s Vulnerability to an AI Pullback",
+      "title": "Apollo\u2019s Slok Warns of Dollar\u2019s Vulnerability to an AI Pullback"
     }
   ]
 }
