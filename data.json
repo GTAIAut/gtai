@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T14:00:36.878555+00:00",
+  "generated_at": "2026-07-13T14:15:36.937849+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -43,8 +43,8 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 345,
-        "total": 356
+        "ok": 346,
+        "total": 357
       },
       "Registador de Decis\u00f5es": {
         "ok": 70,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "572/593"
+    "all_sessions_rate": "573/594"
   },
   "equity_curve": [
     {
@@ -965,13 +965,6 @@
   ],
   "recent_sessions": [
     {
-      "id": "14f33a21",
-      "agent": "Diretor de Investimentos",
-      "status": "idle",
-      "created": "2026-07-13T13:36:56.784Z",
-      "completed": ""
-    },
-    {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
@@ -996,14 +989,21 @@
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
       "status": "idle",
-      "created": "2026-07-13T13:02:29.328Z",
+      "created": "2026-07-13T14:14:01.969Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-13T13:06:53.442Z",
+      "completed": ""
+    },
+    {
+      "id": "14f33a21",
+      "agent": "Diretor de Investimentos",
+      "status": "idle",
+      "created": "2026-07-13T14:01:19.846Z",
       "completed": ""
     },
     {
@@ -1665,11 +1665,6 @@
   ],
   "news_alerts": [
     {
-      "time": "10/07 14:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Foreign Ownership of UK Firms Soared 35% Amid Glut of Deals",
-      "title": "Foreign Ownership of UK Firms Soared 35% Amid Glut of Deals"
-    },
-    {
       "time": "10/07 15:30",
       "source": "**Cointelegraph**: A16z\u2019s Andreessen lands Federal Reserve role as AI reshapes policy debate",
       "title": "A16z\u2019s Andreessen lands Federal Reserve role as AI reshapes policy debate"
@@ -1763,6 +1758,11 @@
       "time": "13/07 14:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Apple\u2019s $650 Billion Rally Fueled by Traders Fleeing AI Selloff",
       "title": "Apple\u2019s $650 Billion Rally Fueled by Traders Fleeing AI Selloff"
+    },
+    {
+      "time": "13/07 15:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Says US Would 'Keep the Strait' And Run It",
+      "title": "Trump Says US Would 'Keep the Strait' And Run It"
     }
   ]
 }
