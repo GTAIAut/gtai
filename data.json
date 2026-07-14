@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T07:00:37.056101+00:00",
+  "generated_at": "2026-07-14T07:15:36.800483+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1675,11 +1675,6 @@
   ],
   "news_alerts": [
     {
-      "time": "13/07 14:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Apple\u2019s $650 Billion Rally Fueled by Traders Fleeing AI Selloff",
-      "title": "Apple\u2019s $650 Billion Rally Fueled by Traders Fleeing AI Selloff"
-    },
-    {
       "time": "13/07 15:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Says US Would 'Keep the Strait' And Run It",
       "title": "Trump Says US Would 'Keep the Strait' And Run It"
@@ -1773,6 +1768,11 @@
       "time": "14/07 08:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Asian Oil Buyers Look to US Crude Again as Iran War Intensifies",
       "title": "Asian Oil Buyers Look to US Crude Again as Iran War Intensifies"
+    },
+    {
+      "time": "14/07 08:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: US-Iran Clashes Lift Oil, Rate Hike Bets | Insight with Haslinda Amin 7/14/2026",
+      "title": "US-Iran Clashes Lift Oil, Rate Hike Bets | Insight with Haslinda Amin 7/14/2026"
     }
   ]
 }
