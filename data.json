@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T06:00:36.846528+00:00",
+  "generated_at": "2026-07-14T06:15:36.735477+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1675,11 +1675,6 @@
   ],
   "news_alerts": [
     {
-      "time": "13/07 12:15",
-      "source": "**Cointelegraph**: BTC price bull market to begin in September? Five things to know in Bitcoin this week",
-      "title": "BTC price bull market to begin in September? Five things to know in Bitcoin this week"
-    },
-    {
       "time": "13/07 12:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Renewed Iran Woes Flip Script for Traders Betting War Risks Over",
       "title": "Renewed Iran Woes Flip Script for Traders Betting War Risks Over"
@@ -1773,6 +1768,11 @@
       "time": "14/07 06:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Reinstates Iran Blockade, Plans Hormuz Ship Fee",
       "title": "Trump Reinstates Iran Blockade, Plans Hormuz Ship Fee"
+    },
+    {
+      "time": "14/07 07:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: India Inflation Risks Mount on Renewed US-Iran Tensions, El Nino",
+      "title": "India Inflation Risks Mount on Renewed US-Iran Tensions, El Nino"
     }
   ]
 }
