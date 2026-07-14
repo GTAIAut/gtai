@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-14T13:15:37.135351+00:00",
+  "generated_at": "2026-07-14T13:21:13.330604+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -1387.69,
-    "total_pnl_pct": -2.78,
-    "cash_eur": 46814.05,
-    "invested_eur": 1798.69,
-    "portfolio_value": 48612.31,
-    "open_positions": 1,
+    "total_pnl_eur": -1350.04,
+    "total_pnl_pct": -2.7,
+    "cash_eur": 41949.05,
+    "invested_eur": 6663.69,
+    "portfolio_value": 48649.96,
+    "open_positions": 2,
     "total_trades": 88,
     "win_rate": 45.5,
     "total_wins": 40,
@@ -43,8 +43,8 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 353,
-        "total": 364
+        "ok": 354,
+        "total": 365
       },
       "Registador de Decis\u00f5es": {
         "ok": 72,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "592/613"
+    "all_sessions_rate": "593/614"
   },
   "equity_curve": [
     {
@@ -282,6 +282,10 @@
     {
       "date": "2026-07-14",
       "value": 48612.31
+    },
+    {
+      "date": "2026-07-14",
+      "value": 48649.96
     }
   ],
   "monthly_pnl": [
@@ -511,23 +515,23 @@
     },
     {
       "date": "2026-08-13",
-      "value": 82456.41,
-      "lower": 65402.71,
-      "upper": 99510.1,
+      "value": 80477.19,
+      "lower": 63486.75,
+      "upper": 97467.63,
       "forecast": true
     },
     {
       "date": "2026-09-12",
-      "value": 107197.1,
-      "lower": 90143.4,
-      "upper": 124250.79,
+      "value": 103958.86,
+      "lower": 86968.42,
+      "upper": 120949.3,
       "forecast": true
     },
     {
       "date": "2026-10-12",
-      "value": 131937.78,
-      "lower": 114884.09,
-      "upper": 148991.48,
+      "value": 127440.53,
+      "lower": 110450.1,
+      "upper": 144430.97,
       "forecast": true
     }
   ],
@@ -806,6 +810,11 @@
       "date": "2026-07-14",
       "drawdown_pct": 3.86,
       "value": 48612.31
+    },
+    {
+      "date": "2026-07-14",
+      "drawdown_pct": 3.78,
+      "value": 48649.96
     }
   ],
   "positions": [
@@ -825,6 +834,23 @@
       "at_tp1": false,
       "reason": "F&G 22 Extreme Fear contrarian + BNB melhor performer historico (100% wins GLD/USO/TLT) + R/R 1.82:1. Leverage 3x por regime NEUTRO.",
       "opened_at": "2026-07-09T10:44:04.166956"
+    },
+    {
+      "ticker": "USO",
+      "direction": "LONG",
+      "entry": 102.87,
+      "size": 94.5822,
+      "invested": 4865.0,
+      "leverage": 2,
+      "sl": 99.5,
+      "tp1": 108.0,
+      "tp2": 112.0,
+      "budget_pct": 10.0,
+      "confidence": 7,
+      "is_crypto": false,
+      "at_tp1": false,
+      "reason": "Catalisador geopolitico: bloqueio de Hormuz reinstaurado por Trump. Dip de -1.69% e entrada, nao reversao. R/R ~1.5:1. Ticker com 100% win rate historico no sistema.",
+      "opened_at": "2026-07-14T14:21:08.240600"
     }
   ],
   "recent_trades": [
@@ -971,13 +997,6 @@
   ],
   "recent_sessions": [
     {
-      "id": "14f33a21",
-      "agent": "Diretor de Investimentos",
-      "status": "running",
-      "created": "2026-07-14T09:58:37.298Z",
-      "completed": ""
-    },
-    {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
@@ -1013,6 +1032,13 @@
       "completed": ""
     },
     {
+      "id": "14f33a21",
+      "agent": "Diretor de Investimentos",
+      "status": "running",
+      "created": "2026-07-14T13:21:02.887Z",
+      "completed": ""
+    },
+    {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
@@ -1022,7 +1048,7 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-14T05:27:02.306Z",
       "completed": ""
     },
