@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T15:45:36.897824+00:00",
+  "generated_at": "2026-07-14T16:00:36.780995+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1701,16 +1701,6 @@
   ],
   "news_alerts": [
     {
-      "time": "14/07 11:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Fed Hike Bets Mount Ahead of CPI Data, Warsh Hearing",
-      "title": "Fed Hike Bets Mount Ahead of CPI Data, Warsh Hearing"
-    },
-    {
-      "time": "14/07 11:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Deutsche Bank May Win Russia-Sanctions Lawsuit Against Linde",
-      "title": "Deutsche Bank May Win Russia-Sanctions Lawsuit Against Linde"
-    },
-    {
       "time": "14/07 11:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump's Hormuz Blockade Sends Oil Soaring; Samsung Explores US ADR Listing | The Pulse 7/14/2026",
       "title": "Trump's Hormuz Blockade Sends Oil Soaring; Samsung Explores US ADR Listing | The Pulse 7/14/2026"
@@ -1799,6 +1789,16 @@
       "time": "14/07 16:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Warsh Vows to Deliver Price Stability, Fed \u2018Regime Change\u2019",
       "title": "Warsh Vows to Deliver Price Stability, Fed \u2018Regime Change\u2019"
+    },
+    {
+      "time": "14/07 17:00",
+      "source": "**NYT World**: China Purges Top Official Over Corruption and Sex Charges",
+      "title": "China Purges Top Official Over Corruption and Sex Charges"
+    },
+    {
+      "time": "14/07 17:00",
+      "source": "**Politico**: McMaster, Trump look to Graham's sister for Senate",
+      "title": "McMaster, Trump look to Graham's sister for Senate"
     }
   ]
 }
