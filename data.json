@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T08:15:36.745663+00:00",
+  "generated_at": "2026-07-14T08:30:36.824585+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1675,16 +1675,6 @@
   ],
   "news_alerts": [
     {
-      "time": "13/07 17:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: US Stocks Fall as Trump Plans to Reinstate Iran Blockade",
-      "title": "US Stocks Fall as Trump Plans to Reinstate Iran Blockade"
-    },
-    {
-      "time": "13/07 17:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Waller Says Fed May Need to Raise Rates to Tame Core Inflation",
-      "title": "Waller Says Fed May Need to Raise Rates to Tame Core Inflation"
-    },
-    {
       "time": "13/07 17:45",
       "source": "**Cointelegraph**: Donald Trump invokes US senator\u2019s death to push crypto bill",
       "title": "Donald Trump invokes US senator\u2019s death to push crypto bill"
@@ -1773,6 +1763,16 @@
       "time": "14/07 09:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Oil Tops $86 a Barrel as Trump Reinstates Naval Blockade on Iran",
       "title": "Oil Tops $86 a Barrel as Trump Reinstates Naval Blockade on Iran"
+    },
+    {
+      "time": "14/07 09:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Widens Australian Canola Trade to Include Private Crushers",
+      "title": "China Widens Australian Canola Trade to Include Private Crushers"
+    },
+    {
+      "time": "14/07 09:30",
+      "source": "\ud83d\udcf0 **BBC News**: Bangkok fire probe finds locked doors and flammable decor as deaths climb to 30",
+      "title": "Bangkok fire probe finds locked doors and flammable decor as deaths climb to 30"
     }
   ]
 }
