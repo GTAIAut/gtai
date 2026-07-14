@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T14:00:36.874501+00:00",
+  "generated_at": "2026-07-14T14:15:37.139361+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1701,16 +1701,6 @@
   ],
   "news_alerts": [
     {
-      "time": "14/07 09:30",
-      "source": "\ud83d\udcf0 **BBC News**: Bangkok fire probe finds locked doors and flammable decor as deaths climb to 30",
-      "title": "Bangkok fire probe finds locked doors and flammable decor as deaths climb to 30"
-    },
-    {
-      "time": "14/07 09:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Asian Oil Buyers Look to US Crude as Iran War Intensifies",
-      "title": "Asian Oil Buyers Look to US Crude as Iran War Intensifies"
-    },
-    {
       "time": "14/07 09:45",
       "source": "\ud83d\udcf0 **BBC News**: Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30",
       "title": "Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30"
@@ -1799,6 +1789,16 @@
       "time": "14/07 14:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: US CPI Falls for the First Time Since 2020",
       "title": "US CPI Falls for the First Time Since 2020"
+    },
+    {
+      "time": "14/07 15:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: US Stocks Advance as Traders Parse CPI Data, Warsh Comments",
+      "title": "US Stocks Advance as Traders Parse CPI Data, Warsh Comments"
+    },
+    {
+      "time": "14/07 15:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Emerging Market Assets Rally as US CPI Data Trims Rate Hike Bets",
+      "title": "Emerging Market Assets Rally as US CPI Data Trims Rate Hike Bets"
     }
   ]
 }
