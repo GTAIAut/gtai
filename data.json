@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T14:45:36.793143+00:00",
+  "generated_at": "2026-07-14T15:00:36.800217+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1701,16 +1701,6 @@
   ],
   "news_alerts": [
     {
-      "time": "14/07 09:45",
-      "source": "\ud83d\udcf0 **BBC News**: Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30",
-      "title": "Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30"
-    },
-    {
-      "time": "14/07 10:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Pricey Stocks Charge Into CPI, Earnings and Fed, All in One Day",
-      "title": "Pricey Stocks Charge Into CPI, Earnings and Fed, All in One Day"
-    },
-    {
       "time": "14/07 10:45",
       "source": "\ud83d\udcf0 **BBC News**: 'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
       "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal"
@@ -1799,6 +1789,16 @@
       "time": "14/07 15:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Emerging Market Assets Rally as US CPI Data Trims Rate Hike Bets",
       "title": "Emerging Market Assets Rally as US CPI Data Trims Rate Hike Bets"
+    },
+    {
+      "time": "14/07 16:00",
+      "source": "**Cointelegraph**: Bitcoin jumps on lowest US CPI since 2020 as traders stay wary of $64K failure",
+      "title": "Bitcoin jumps on lowest US CPI since 2020 as traders stay wary of $64K failure"
+    },
+    {
+      "time": "14/07 16:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Warsh Says Fed Has 'No Tolerance' for Persistent Inflation",
+      "title": "Warsh Says Fed Has 'No Tolerance' for Persistent Inflation"
     }
   ]
 }
