@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T04:45:36.756132+00:00",
+  "generated_at": "2026-07-14T05:00:36.739855+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -997,7 +997,7 @@
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-13T14:14:01.969Z",
       "completed": ""
     },
@@ -1589,6 +1589,18 @@
   "session_analysis": [
     {
       "session_type": "TARDE",
+      "session_num": 89,
+      "date": "13/07/2026 15:45",
+      "summary": "## \ud83d\udcca AN\u00c1LISE CR\u00cdTICA \u2014 Sess\u00e3o TARDE #89 (13/07/2026 15:45)\n\n### 1. CONTEXTO MACRO E CONSIST\u00caNCIA\n- **QQQ SHORT**: justificado (downtrend + MACD bearish) \u2192 alinhado com ambiente de cautela em tech\n- **USO LONG**: catalisador geoestrat\u00e9gico v\u00e1lido (tens\u00e3o Hormuz) \u2192 hedge contra incerteza energ\u00e9tica\n- **Gest\u00e3o de risco**: redu\u00e7\u00e3o de concentra\u00e7\u00e3o SOL/BNB (49.8% \u2192 ~30% estimado) demonstra disciplina\n\n### 2. RESPEITO POR LIMITES DE RISCO\n- **R/R QQQ**: 1.71:1 \u2705 acima do m\u00ednimo 1.5:1\n- **R/R USO**: 2.05:1 \u2705 excelente\n- **Limites por classe**: cripto reduzido para n\u00edveis seguros ap\u00f3s parcial closes\n\n### 3. OPORTUNIDADES APROVEITADAS/FALHADAS\n\u2705 **APROVEITADAS**:\n- Hedge geoestrat\u00e9gico (USO) aproveitando catalisador imediato\n- Desalavancagem proativa de cripto antes de poss\u00edvel corre\u00e7\u00e3o\n- Timing def",
+      "trades": [],
+      "findings": [
+        "- **QQQ SHORT**: justificado (downtrend + MACD bearish) \u2192 alinhado com ambiente de cautela em tech",
+        "- **R/R QQQ**: 1.71:1 \u2705 acima do m\u00ednimo 1.5:1",
+        "- **R/R USO**: 2.05:1 \u2705 excelente"
+      ]
+    },
+    {
+      "session_type": "TARDE",
       "session_num": 87,
       "date": "10/07/2026 17:04",
       "summary": "Postmortem conclu\u00eddo e publicado como coment\u00e1rio. Score: 6/10. Principal preocupa\u00e7\u00e3o: SOL LONG aberto por press\u00e3o de cash deployment com confidence 7 + leverage 5x \u2014 risco comportamental identificado. Recomenda\u00e7\u00e3o: adicionar vetos autom\u00e1ticos para MACD flat e volume abaixo da m\u00e9dia.",
@@ -1662,37 +1674,9 @@
       "summary": "Postmortem MEIODIA #79 conclu\u00eddo. An\u00e1lise publicada como coment\u00e1rio com score 7.0/10. Registo: ETH #50 aberto, EURUSD=X #51 aberto, SOL #48 parcial+breakeven, BTC #49 parcial.",
       "trades": [],
       "findings": []
-    },
-    {
-      "session_type": "MANHA",
-      "session_num": 78,
-      "date": "07/07/2026 06:34",
-      "summary": "Postmortem conclu\u00eddo e publicado como coment\u00e1rio. Trades #012 (SOL atualiza\u00e7\u00e3o), #013 (BTC LONG), #014 (BNB LONG) registados em REGISTO_TRADES.md. Score: 5.5/10. Principais alertas: leverage 5x excessivo, concentra\u00e7\u00e3o 100% crypto, padr\u00e3o de escalada SOL (50.6%) repete erro BTC (60.1% junho). Recomenda\u00e7\u00f5es de melhoria documentadas no coment\u00e1rio da issue.",
-      "trades": [],
-      "findings": []
     }
   ],
   "news_alerts": [
-    {
-      "time": "13/07 08:00",
-      "source": "**NYT World**: Zelensky Announces Leadership Shuffle as War Turns in Ukraine\u2019s Favor",
-      "title": "Zelensky Announces Leadership Shuffle as War Turns in Ukraine\u2019s Favor"
-    },
-    {
-      "time": "13/07 09:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Europe 'Vulnerable' Without Solid Iran Deal: Schroders (Video)",
-      "title": "Europe 'Vulnerable' Without Solid Iran Deal: Schroders (Video)"
-    },
-    {
-      "time": "13/07 09:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: European Stocks 'Vulnerable' Without Solid Iran Deal: Schroders",
-      "title": "European Stocks 'Vulnerable' Without Solid Iran Deal: Schroders"
-    },
-    {
-      "time": "13/07 10:30",
-      "source": "**NYT World**: The Next Phase in Ukraine\u2019s War With Russia: The Battle for Minds",
-      "title": "The Next Phase in Ukraine\u2019s War With Russia: The Battle for Minds"
-    },
     {
       "time": "13/07 10:30",
       "source": "**NYT World**: A Robot Army Remakes Ground Warfare in Ukraine",
@@ -1772,6 +1756,26 @@
       "time": "13/07 18:00",
       "source": "\ud83d\udcf0 **BBC News**: UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
       "title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates"
+    },
+    {
+      "time": "14/07 06:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Palm Oil Advances as Crude Rally Boosts Outlook for Biofuels",
+      "title": "Palm Oil Advances as Crude Rally Boosts Outlook for Biofuels"
+    },
+    {
+      "time": "14/07 06:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Oil Rises as Trump Resumes Hormuz Blockade | The Asia Trade 7/14/2026",
+      "title": "Oil Rises as Trump Resumes Hormuz Blockade | The Asia Trade 7/14/2026"
+    },
+    {
+      "time": "14/07 06:00",
+      "source": "\ud83d\udcf0 **BBC News**: Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
+      "title": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses"
+    },
+    {
+      "time": "14/07 06:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Oil Tops $85 a Barrel as Trump Reinstates Naval Blockade on Iran",
+      "title": "Oil Tops $85 a Barrel as Trump Reinstates Naval Blockade on Iran"
     }
   ]
 }
