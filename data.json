@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T07:45:36.716533+00:00",
+  "generated_at": "2026-07-14T08:00:36.789163+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1675,11 +1675,6 @@
   ],
   "news_alerts": [
     {
-      "time": "13/07 16:15",
-      "source": "**Cointelegraph**: Bitcoin threatens $62K in risk-asset rout as Donald Trump says US will 'run' closed Hormuz Strait",
-      "title": "Bitcoin threatens $62K in risk-asset rout as Donald Trump says US will 'run' closed Hormuz Strait"
-    },
-    {
       "time": "13/07 16:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Apollo\u2019s Slok Warns of Dollar\u2019s Vulnerability to an AI Pullback",
       "title": "Apollo\u2019s Slok Warns of Dollar\u2019s Vulnerability to an AI Pullback"
@@ -1773,6 +1768,11 @@
       "time": "14/07 08:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: US Stocks, Treasuries Steady Before Warsh and CPI: Markets Wrap",
       "title": "US Stocks, Treasuries Steady Before Warsh and CPI: Markets Wrap"
+    },
+    {
+      "time": "14/07 09:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Iran Sneaks Out Tankers Via Hormuz as Trump Amps Up Threats",
+      "title": "Iran Sneaks Out Tankers Via Hormuz as Trump Amps Up Threats"
     }
   ]
 }
