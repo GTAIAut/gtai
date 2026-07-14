@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T08:00:36.789163+00:00",
+  "generated_at": "2026-07-14T08:15:36.745663+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1675,16 +1675,6 @@
   ],
   "news_alerts": [
     {
-      "time": "13/07 16:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Apollo\u2019s Slok Warns of Dollar\u2019s Vulnerability to an AI Pullback",
-      "title": "Apollo\u2019s Slok Warns of Dollar\u2019s Vulnerability to an AI Pullback"
-    },
-    {
-      "time": "13/07 16:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Trump Says US Will Be Reimbursed 20% Rate for Hormuz Traffic",
-      "title": "Trump Says US Will Be Reimbursed 20% Rate for Hormuz Traffic"
-    },
-    {
       "time": "13/07 17:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: US Stocks Fall as Trump Plans to Reinstate Iran Blockade",
       "title": "US Stocks Fall as Trump Plans to Reinstate Iran Blockade"
@@ -1773,6 +1763,16 @@
       "time": "14/07 09:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Iran Sneaks Out Tankers Via Hormuz as Trump Amps Up Threats",
       "title": "Iran Sneaks Out Tankers Via Hormuz as Trump Amps Up Threats"
+    },
+    {
+      "time": "14/07 09:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Traders Boost BOE and\u00a0ECB Rate-Hike Bets After Oil Price Surge",
+      "title": "Traders Boost BOE and\u00a0ECB Rate-Hike Bets After Oil Price Surge"
+    },
+    {
+      "time": "14/07 09:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Oil Tops $86 a Barrel as Trump Reinstates Naval Blockade on Iran",
+      "title": "Oil Tops $86 a Barrel as Trump Reinstates Naval Blockade on Iran"
     }
   ]
 }
