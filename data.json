@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T15:30:36.773176+00:00",
+  "generated_at": "2026-07-14T15:45:36.897824+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1701,16 +1701,6 @@
   ],
   "news_alerts": [
     {
-      "time": "14/07 10:45",
-      "source": "\ud83d\udcf0 **BBC News**: 'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
-      "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal"
-    },
-    {
-      "time": "14/07 11:15",
-      "source": "**Cointelegraph**: Bitcoin bear market will bottom when two-month RSI metric hits zero, trader predicts",
-      "title": "Bitcoin bear market will bottom when two-month RSI metric hits zero, trader predicts"
-    },
-    {
       "time": "14/07 11:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Fed Hike Bets Mount Ahead of CPI Data, Warsh Hearing",
       "title": "Fed Hike Bets Mount Ahead of CPI Data, Warsh Hearing"
@@ -1799,6 +1789,16 @@
       "time": "14/07 16:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Warsh Says Fed Has 'No Tolerance' for Persistent Inflation",
       "title": "Warsh Says Fed Has 'No Tolerance' for Persistent Inflation"
+    },
+    {
+      "time": "14/07 16:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Francisco Partners Nears $1.3 Billion Deal to Buy Construction Software Maker Command Alkon",
+      "title": "Francisco Partners Nears $1.3 Billion Deal to Buy Construction Software Maker Command Alkon"
+    },
+    {
+      "time": "14/07 16:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Warsh Vows to Deliver Price Stability, Fed \u2018Regime Change\u2019",
+      "title": "Warsh Vows to Deliver Price Stability, Fed \u2018Regime Change\u2019"
     }
   ]
 }
