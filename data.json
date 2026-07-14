@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T05:00:36.739855+00:00",
+  "generated_at": "2026-07-14T05:15:36.973465+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -51,8 +51,8 @@
         "total": 75
       },
       "Analista T\u00e9cnico": {
-        "ok": 94,
-        "total": 96
+        "ok": 95,
+        "total": 97
       },
       "Gestor de Risco": {
         "ok": 67,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "580/601"
+    "all_sessions_rate": "581/602"
   },
   "equity_curve": [
     {
@@ -976,36 +976,36 @@
     {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
-      "status": "idle",
-      "created": "2026-07-13T14:29:27.289Z",
+      "status": "error",
+      "created": "2026-07-14T05:11:50.114Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
       "status": "idle",
-      "created": "2026-07-13T14:27:45.594Z",
+      "created": "2026-07-14T05:11:42.674Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
       "status": "idle",
-      "created": "2026-07-13T14:25:50.587Z",
+      "created": "2026-07-14T05:09:30.947Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "running",
-      "created": "2026-07-13T14:14:01.969Z",
+      "status": "idle",
+      "created": "2026-07-14T05:03:33.444Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
       "status": "idle",
-      "created": "2026-07-13T14:25:05.927Z",
+      "created": "2026-07-14T05:08:00.709Z",
       "completed": ""
     },
     {
@@ -1678,16 +1678,6 @@
   ],
   "news_alerts": [
     {
-      "time": "13/07 10:30",
-      "source": "**NYT World**: A Robot Army Remakes Ground Warfare in Ukraine",
-      "title": "A Robot Army Remakes Ground Warfare in Ukraine"
-    },
-    {
-      "time": "13/07 10:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China\u2019s Oil Imports Poised to Recover as Stockpiling Returns",
-      "title": "China\u2019s Oil Imports Poised to Recover as Stockpiling Returns"
-    },
-    {
       "time": "13/07 11:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Apple\u2019s $600 Billion Rally Fueled by Traders Fleeing AI Selloff",
       "title": "Apple\u2019s $600 Billion Rally Fueled by Traders Fleeing AI Selloff"
@@ -1776,6 +1766,16 @@
       "time": "14/07 06:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Oil Tops $85 a Barrel as Trump Reinstates Naval Blockade on Iran",
       "title": "Oil Tops $85 a Barrel as Trump Reinstates Naval Blockade on Iran"
+    },
+    {
+      "time": "14/07 06:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China\u2019s Green-Tech Exports Surge on Energy Transition Demand",
+      "title": "China\u2019s Green-Tech Exports Surge on Energy Transition Demand"
+    },
+    {
+      "time": "14/07 06:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Expels Former Politburo Member Over Graft and Sex Charges",
+      "title": "China Expels Former Politburo Member Over Graft and Sex Charges"
     }
   ]
 }
