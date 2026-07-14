@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T12:30:36.763538+00:00",
+  "generated_at": "2026-07-14T12:45:37.009341+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1675,21 +1675,6 @@
   ],
   "news_alerts": [
     {
-      "time": "14/07 08:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Asian Oil Buyers Look to US Crude Again as Iran War Intensifies",
-      "title": "Asian Oil Buyers Look to US Crude Again as Iran War Intensifies"
-    },
-    {
-      "time": "14/07 08:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: US-Iran Clashes Lift Oil, Rate Hike Bets | Insight with Haslinda Amin 7/14/2026",
-      "title": "US-Iran Clashes Lift Oil, Rate Hike Bets | Insight with Haslinda Amin 7/14/2026"
-    },
-    {
-      "time": "14/07 08:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: US Stocks, Treasuries Steady Before Warsh and CPI: Markets Wrap",
-      "title": "US Stocks, Treasuries Steady Before Warsh and CPI: Markets Wrap"
-    },
-    {
       "time": "14/07 09:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Iran Sneaks Out Tankers Via Hormuz as Trump Amps Up Threats",
       "title": "Iran Sneaks Out Tankers Via Hormuz as Trump Amps Up Threats"
@@ -1773,6 +1758,21 @@
       "time": "14/07 13:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: S&amp;P 500 Futures Steady Ahead of Inflation Data, Warsh Testimony",
       "title": "S&amp;P 500 Futures Steady Ahead of Inflation Data, Warsh Testimony"
+    },
+    {
+      "time": "14/07 13:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: US CPI Falls for the First Time Since 2020, Core Gauge Flat",
+      "title": "US CPI Falls for the First Time Since 2020, Core Gauge Flat"
+    },
+    {
+      "time": "14/07 13:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Warsh Says Fed Has \u2018No Tolerance\u2019 for Elevated Inflation",
+      "title": "Warsh Says Fed Has \u2018No Tolerance\u2019 for Elevated Inflation"
+    },
+    {
+      "time": "14/07 13:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Markets Brace for CPI, Warsh Hearing & Bank Earnings | Bloomberg Brief 07/14/2026",
+      "title": "Markets Brace for CPI, Warsh Hearing & Bank Earnings | Bloomberg Brief 07/14/2026"
     }
   ]
 }
