@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T05:25:43.754990+00:00",
+  "generated_at": "2026-07-14T05:30:36.738029+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -47,8 +47,8 @@
         "total": 360
       },
       "Registador de Decis\u00f5es": {
-        "ok": 71,
-        "total": 75
+        "ok": 72,
+        "total": 76
       },
       "Analista T\u00e9cnico": {
         "ok": 95,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "583/604"
+    "all_sessions_rate": "584/605"
   },
   "equity_curve": [
     {
@@ -1008,8 +1008,8 @@
     {
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
-      "status": "running",
-      "created": "2026-07-14T05:25:33.994Z",
+      "status": "idle",
+      "created": "2026-07-14T05:25:49.274Z",
       "completed": ""
     },
     {
@@ -1022,8 +1022,8 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "running",
-      "created": "2026-07-13T21:07:32.365Z",
+      "status": "idle",
+      "created": "2026-07-14T05:27:02.306Z",
       "completed": ""
     },
     {
