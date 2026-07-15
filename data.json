@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T09:15:36.976510+00:00",
+  "generated_at": "2026-07-15T09:30:36.879784+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -55,12 +55,12 @@
         "total": 102
       },
       "Gestor de Risco": {
-        "ok": 71,
-        "total": 75
+        "ok": 72,
+        "total": 76
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "602/623"
+    "all_sessions_rate": "603/624"
   },
   "equity_curve": [
     {
@@ -1011,30 +1011,37 @@
   ],
   "recent_sessions": [
     {
+      "id": "14f33a21",
+      "agent": "Diretor de Investimentos",
+      "status": "error",
+      "created": "2026-07-15T09:30:08.950Z",
+      "completed": ""
+    },
+    {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
-      "created": "2026-07-15T05:18:44.602Z",
+      "created": "2026-07-15T09:26:06.567Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
       "status": "idle",
-      "created": "2026-07-15T05:17:16.656Z",
+      "created": "2026-07-15T09:19:15.704Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
-      "status": "running",
-      "created": "2026-07-15T05:14:58.431Z",
+      "status": "idle",
+      "created": "2026-07-15T09:17:14.968Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "error",
+      "status": "idle",
       "created": "2026-07-15T09:05:27.833Z",
       "completed": ""
     },
@@ -1046,17 +1053,10 @@
       "completed": ""
     },
     {
-      "id": "14f33a21",
-      "agent": "Diretor de Investimentos",
-      "status": "idle",
-      "created": "2026-07-15T05:38:23.576Z",
-      "completed": ""
-    },
-    {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
-      "created": "2026-07-15T05:21:05.079Z",
+      "created": "2026-07-15T09:30:03.125Z",
       "completed": ""
     },
     {
