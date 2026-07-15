@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T16:45:36.754991+00:00",
+  "generated_at": "2026-07-15T04:00:36.842469+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -514,21 +514,21 @@
       "forecast": false
     },
     {
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "value": 80477.19,
       "lower": 63486.75,
       "upper": 97467.63,
       "forecast": true
     },
     {
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "value": 103958.86,
       "lower": 86968.42,
       "upper": 120949.3,
       "forecast": true
     },
     {
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "value": 127440.53,
       "lower": 110450.1,
       "upper": 144430.97,
@@ -1701,16 +1701,6 @@
   ],
   "news_alerts": [
     {
-      "time": "14/07 12:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Urges Normal Hormuz Passage as Trump Reinstates Blockade",
-      "title": "China Urges Normal Hormuz Passage as Trump Reinstates Blockade"
-    },
-    {
-      "time": "14/07 12:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Fed Is Behind The Curve as Tech Economy Booms, TS Lombard Says",
-      "title": "Fed Is Behind The Curve as Tech Economy Booms, TS Lombard Says"
-    },
-    {
       "time": "14/07 12:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Deutsche Bank May Win Russia Sanctions Lawsuit Against Linde",
       "title": "Deutsche Bank May Win Russia Sanctions Lawsuit Against Linde"
@@ -1799,6 +1789,16 @@
       "time": "14/07 17:30",
       "source": "\ud83d\udcf0 **BBC News**: Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
       "title": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation"
+    },
+    {
+      "time": "14/07 18:00",
+      "source": "\ud83d\udcf0 **BBC News**: Writer E Jean Carroll receives $5m in damages from Trump over sexual abuse and defamation case",
+      "title": "Writer E Jean Carroll receives $5m in damages from Trump over sexual abuse and defamation case"
+    },
+    {
+      "time": "14/07 18:30",
+      "source": "\ud83d\udcf0 **BBC News**: Trump scraps threat of 20% fee on Hormuz cargo as US prepares to resume blockade of Iran ports",
+      "title": "Trump scraps threat of 20% fee on Hormuz cargo as US prepares to resume blockade of Iran ports"
     }
   ]
 }
