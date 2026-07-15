@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T14:15:36.812064+00:00",
+  "generated_at": "2026-07-15T14:30:36.881572+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1760,16 +1760,6 @@
   "news_alerts": [
     {
       "time": "14/07 13:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: US CPI Falls for the First Time Since 2020, Core Gauge Flat",
-      "title": "US CPI Falls for the First Time Since 2020, Core Gauge Flat"
-    },
-    {
-      "time": "14/07 13:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Warsh Says Fed Has \u2018No Tolerance\u2019 for Elevated Inflation",
-      "title": "Warsh Says Fed Has \u2018No Tolerance\u2019 for Elevated Inflation"
-    },
-    {
-      "time": "14/07 13:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Markets Brace for CPI, Warsh Hearing & Bank Earnings | Bloomberg Brief 07/14/2026",
       "title": "Markets Brace for CPI, Warsh Hearing & Bank Earnings | Bloomberg Brief 07/14/2026"
     },
@@ -1857,6 +1847,16 @@
       "time": "15/07 06:00",
       "source": "\ud83d\udcf0 **BBC News**: Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
       "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war"
+    },
+    {
+      "time": "15/07 15:30",
+      "source": "**NYT World**: U.S. Presses China to Free American Seismologist Accused of Spying",
+      "title": "U.S. Presses China to Free American Seismologist Accused of Spying"
+    },
+    {
+      "time": "15/07 15:30",
+      "source": "**Investing.com**: Evercore ISI reiterates Apple stock rating on China AI approval",
+      "title": "Evercore ISI reiterates Apple stock rating on China AI approval"
     }
   ]
 }
