@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T05:29:20.501834+00:00",
+  "generated_at": "2026-07-16T05:30:36.927100+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -43,8 +43,8 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 360,
-        "total": 371
+        "ok": 361,
+        "total": 372
       },
       "Registador de Decis\u00f5es": {
         "ok": 75,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "611/632"
+    "all_sessions_rate": "612/633"
   },
   "equity_curve": [
     {
@@ -1035,8 +1035,8 @@
     {
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
-      "status": "running",
-      "created": "2026-07-15T13:37:09.279Z",
+      "status": "idle",
+      "created": "2026-07-16T05:29:40.208Z",
       "completed": ""
     },
     {
@@ -1049,7 +1049,7 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "running",
+      "status": "idle",
       "created": "2026-07-15T13:40:37.703Z",
       "completed": ""
     },
@@ -1724,11 +1724,6 @@
   "news_alerts": [
     {
       "time": "14/07 17:00",
-      "source": "**NYT World**: China Purges Top Official Over Corruption and Sex Charges",
-      "title": "China Purges Top Official Over Corruption and Sex Charges"
-    },
-    {
-      "time": "14/07 17:00",
       "source": "**Politico**: McMaster, Trump look to Graham's sister for Senate",
       "title": "McMaster, Trump look to Graham's sister for Senate"
     },
@@ -1821,6 +1816,11 @@
       "time": "16/07 06:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Nickel Hits Three-Week High on Indonesia Supply Risks, Fed View",
       "title": "Nickel Hits Three-Week High on Indonesia Supply Risks, Fed View"
+    },
+    {
+      "time": "16/07 06:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: IEA Sees $6.5 Trillion At Risk if China Imposes Rare-Earth Curbs",
+      "title": "IEA Sees $6.5 Trillion At Risk if China Imposes Rare-Earth Curbs"
     }
   ]
 }
