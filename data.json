@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-16T13:30:36.967150+00:00",
+  "generated_at": "2026-07-16T13:32:42.738502+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -1074.85,
-    "total_pnl_pct": -2.15,
-    "cash_eur": 41949.05,
-    "invested_eur": 6663.69,
-    "portfolio_value": 48925.15,
-    "open_positions": 2,
+    "total_pnl_eur": -1082.7,
+    "total_pnl_pct": -2.17,
+    "cash_eur": 27273.87,
+    "invested_eur": 21338.88,
+    "portfolio_value": 48917.3,
+    "open_positions": 4,
     "total_trades": 88,
     "win_rate": 45.5,
     "total_wins": 40,
@@ -43,8 +43,8 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 363,
-        "total": 374
+        "ok": 364,
+        "total": 375
       },
       "Registador de Decis\u00f5es": {
         "ok": 76,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "620/642"
+    "all_sessions_rate": "621/643"
   },
   "equity_curve": [
     {
@@ -306,6 +306,10 @@
     {
       "date": "2026-07-16",
       "value": 48925.15
+    },
+    {
+      "date": "2026-07-16",
+      "value": 48917.3
     }
   ],
   "monthly_pnl": [
@@ -500,23 +504,23 @@
     },
     {
       "date": "2026-08-15",
-      "value": 74234.94,
-      "lower": 57634.3,
-      "upper": 90835.57,
+      "value": 73133.84,
+      "lower": 56622.23,
+      "upper": 89645.46,
       "forecast": true
     },
     {
       "date": "2026-09-14",
-      "value": 92915.66,
-      "lower": 76315.02,
-      "upper": 109516.29,
+      "value": 91134.81,
+      "lower": 74623.2,
+      "upper": 107646.42,
       "forecast": true
     },
     {
       "date": "2026-10-14",
-      "value": 111596.38,
-      "lower": 94995.74,
-      "upper": 128197.01,
+      "value": 109135.78,
+      "lower": 92624.16,
+      "upper": 125647.39,
       "forecast": true
     }
   ],
@@ -825,6 +829,11 @@
       "date": "2026-07-16",
       "drawdown_pct": 3.24,
       "value": 48925.15
+    },
+    {
+      "date": "2026-07-16",
+      "drawdown_pct": 3.25,
+      "value": 48917.3
     }
   ],
   "positions": [
@@ -852,7 +861,7 @@
       "size": 94.5822,
       "invested": 4865.0,
       "leverage": 2,
-      "sl": 105.5,
+      "sl": 105.6,
       "tp1": 108.0,
       "tp2": 112.0,
       "budget_pct": 10.0,
@@ -861,6 +870,40 @@
       "at_tp1": false,
       "reason": "Catalisador geopolitico: bloqueio de Hormuz reinstaurado por Trump. Dip de -1.69% e entrada, nao reversao. R/R ~1.5:1. Ticker com 100% win rate historico no sistema.",
       "opened_at": "2026-07-14T14:21:08.240600"
+    },
+    {
+      "ticker": "LMT",
+      "direction": "LONG",
+      "entry": 450.69,
+      "size": 65.1227,
+      "invested": 9783.46,
+      "leverage": 3,
+      "sl": 432.1,
+      "tp1": 480.39,
+      "tp2": 506.37,
+      "budget_pct": 20.0,
+      "confidence": 8,
+      "is_crypto": false,
+      "at_tp1": false,
+      "reason": "Catalisador geopol\u00edtico direto (bloqueio naval Ir\u00e3o-EUA) beneficia diretamente sistemas de defesa a\u00e9rea/m\u00edsseis LMT (F-35, THAAD, Aegis). Factor score 7/10, R/R 1.72:1. Fear&Greed 25 favorece acumula\u00e7",
+      "opened_at": "2026-07-16T14:32:35.990924"
+    },
+    {
+      "ticker": "JPM",
+      "direction": "LONG",
+      "entry": 302.08,
+      "size": 48.5807,
+      "invested": 4891.73,
+      "leverage": 3,
+      "sl": 288.1,
+      "tp1": 323.12,
+      "tp2": 336.21,
+      "budget_pct": 10.0,
+      "confidence": 7,
+      "is_crypto": false,
+      "at_tp1": false,
+      "reason": "10Y yield +1.08% hoje expande NIM banc\u00e1rio \u2014 trade cl\u00e1ssico de curva a subir. Quality name com capital ratios s\u00f3lidos. R/R 1.66:1. Pre\u00e7o convertido de $346.91 USD via EURUSD 1.1451.",
+      "opened_at": "2026-07-16T14:32:38.294938"
     }
   ],
   "recent_trades": [
@@ -1007,13 +1050,6 @@
   ],
   "recent_sessions": [
     {
-      "id": "14f33a21",
-      "agent": "Diretor de Investimentos",
-      "status": "idle",
-      "created": "2026-07-16T09:23:35.257Z",
-      "completed": ""
-    },
-    {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
@@ -1049,6 +1085,13 @@
       "completed": ""
     },
     {
+      "id": "14f33a21",
+      "agent": "Diretor de Investimentos",
+      "status": "idle",
+      "created": "2026-07-16T13:32:32.302Z",
+      "completed": ""
+    },
+    {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
@@ -1058,7 +1101,7 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-16T09:22:42.234Z",
       "completed": ""
     },
