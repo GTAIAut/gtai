@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T07:30:36.870232+00:00",
+  "generated_at": "2026-07-16T07:45:37.000256+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1723,11 +1723,6 @@
   ],
   "news_alerts": [
     {
-      "time": "14/07 17:30",
-      "source": "\ud83d\udcf0 **BBC News**: Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
-      "title": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation"
-    },
-    {
       "time": "14/07 18:00",
       "source": "\ud83d\udcf0 **BBC News**: Writer E Jean Carroll receives $5m in damages from Trump over sexual abuse and defamation case",
       "title": "Writer E Jean Carroll receives $5m in damages from Trump over sexual abuse and defamation case"
@@ -1821,6 +1816,11 @@
       "time": "16/07 07:45",
       "source": "**Cointelegraph**: US Senator blasts AG pick for \u2018dismantling\u2019 crypto unit, Trump\u2019s CZ pardon",
       "title": "US Senator blasts AG pick for \u2018dismantling\u2019 crypto unit, Trump\u2019s CZ pardon"
+    },
+    {
+      "time": "16/07 08:45",
+      "source": "**Cointelegraph**: US senator blasts AG pick for \u2018dismantling\u2019 crypto unit, Trump\u2019s CZ pardon",
+      "title": "US senator blasts AG pick for \u2018dismantling\u2019 crypto unit, Trump\u2019s CZ pardon"
     }
   ]
 }
