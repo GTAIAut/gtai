@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T05:00:36.975870+00:00",
+  "generated_at": "2026-07-16T05:15:37.129960+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -51,8 +51,8 @@
         "total": 79
       },
       "Analista T\u00e9cnico": {
-        "ok": 101,
-        "total": 103
+        "ok": 102,
+        "total": 104
       },
       "Gestor de Risco": {
         "ok": 73,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "609/630"
+    "all_sessions_rate": "610/631"
   },
   "equity_curve": [
     {
@@ -1036,7 +1036,7 @@
     {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-15T13:21:05.151Z",
       "completed": ""
     },
@@ -1044,28 +1044,28 @@
       "id": "55882e4a",
       "agent": "Analista de Cripto",
       "status": "idle",
-      "created": "2026-07-15T13:17:54.221Z",
+      "created": "2026-07-16T05:14:01.256Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
       "status": "idle",
-      "created": "2026-07-15T13:15:07.594Z",
+      "created": "2026-07-16T05:08:40.793Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "running",
-      "created": "2026-07-15T13:08:13.571Z",
+      "status": "idle",
+      "created": "2026-07-16T05:02:42.803Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
       "status": "idle",
-      "created": "2026-07-15T13:13:11.864Z",
+      "created": "2026-07-16T05:06:30.396Z",
       "completed": ""
     },
     {
@@ -1759,11 +1759,6 @@
   ],
   "news_alerts": [
     {
-      "time": "14/07 16:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Warsh Vows to Deliver Price Stability, Fed \u2018Regime Change\u2019",
-      "title": "Warsh Vows to Deliver Price Stability, Fed \u2018Regime Change\u2019"
-    },
-    {
       "time": "14/07 17:00",
       "source": "**NYT World**: China Purges Top Official Over Corruption and Sex Charges",
       "title": "China Purges Top Official Over Corruption and Sex Charges"
@@ -1857,6 +1852,11 @@
       "time": "16/07 06:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Declines as Fresh US Strikes on Iran Fuel Inflation Fears",
       "title": "Gold Declines as Fresh US Strikes on Iran Fuel Inflation Fears"
+    },
+    {
+      "time": "16/07 06:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Nickel Hits Three-Week High on Indonesia Supply Risks, Fed View",
+      "title": "Nickel Hits Three-Week High on Indonesia Supply Risks, Fed View"
     }
   ]
 }
