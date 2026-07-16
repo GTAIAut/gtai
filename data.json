@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T04:45:36.766736+00:00",
+  "generated_at": "2026-07-16T05:00:36.975870+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1057,7 +1057,7 @@
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-15T13:08:13.571Z",
       "completed": ""
     },
@@ -1648,6 +1648,14 @@
   ],
   "session_analysis": [
     {
+      "session_type": "TARDE",
+      "session_num": 94,
+      "date": "15/07/2026 14:36",
+      "summary": "Postmortem completo. 3 novas posi\u00e7\u00f5es registadas (#018 BTC, #019 NVDA, #020 EURUSD=X) + SL updates em BNB e USO. Score 5/10 \u2014 alertas de BTC 10% WR e 5+ perdas consecutivas ativos. Registo completo em REGISTO_TRADES.md.",
+      "trades": [],
+      "findings": []
+    },
+    {
       "session_type": "MANHA",
       "session_num": 92,
       "date": "15/07/2026 06:36",
@@ -1747,42 +1755,9 @@
       "findings": [
         "| R/R \u2265 1.5:1 | \u2705 USO 1.82, SPY 1.55, GLD 1.60 |"
       ]
-    },
-    {
-      "session_type": "MEIODIA",
-      "session_num": 81,
-      "date": "08/07/2026 10:37",
-      "summary": "Postmortem MEIODIA #81 conclu\u00eddo. Score: 5.5/10. An\u00e1lise detalhada publicada em coment\u00e1rio. Novos trades #50 (SOL SHORT) e #51 (BNB SHORT) registados. Registo #49 (BTC) atualizado com CLOSE_PARTIAL e novo SL. [GTAA-1002](/GTAA/issues/GTAA-1002)",
-      "trades": [],
-      "findings": []
     }
   ],
   "news_alerts": [
-    {
-      "time": "14/07 15:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: US Stocks Advance as Traders Parse CPI Data, Warsh Comments",
-      "title": "US Stocks Advance as Traders Parse CPI Data, Warsh Comments"
-    },
-    {
-      "time": "14/07 15:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Emerging Market Assets Rally as US CPI Data Trims Rate Hike Bets",
-      "title": "Emerging Market Assets Rally as US CPI Data Trims Rate Hike Bets"
-    },
-    {
-      "time": "14/07 16:00",
-      "source": "**Cointelegraph**: Bitcoin jumps on lowest US CPI since 2020 as traders stay wary of $64K failure",
-      "title": "Bitcoin jumps on lowest US CPI since 2020 as traders stay wary of $64K failure"
-    },
-    {
-      "time": "14/07 16:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Warsh Says Fed Has 'No Tolerance' for Persistent Inflation",
-      "title": "Warsh Says Fed Has 'No Tolerance' for Persistent Inflation"
-    },
-    {
-      "time": "14/07 16:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Francisco Partners Nears $1.3 Billion Deal to Buy Construction Software Maker Command Alkon",
-      "title": "Francisco Partners Nears $1.3 Billion Deal to Buy Construction Software Maker Command Alkon"
-    },
     {
       "time": "14/07 16:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Warsh Vows to Deliver Price Stability, Fed \u2018Regime Change\u2019",
@@ -1857,6 +1832,31 @@
       "time": "15/07 18:15",
       "source": "**Investing.com**: Truflation\u2019s Oliver Rust: Gasoline reversal could unwind June\u2019s inflation cooldown",
       "title": "Truflation\u2019s Oliver Rust: Gasoline reversal could unwind June\u2019s inflation cooldown"
+    },
+    {
+      "time": "16/07 06:00",
+      "source": "**Cointelegraph**: Trump to meet with senators over CLARITY Act on Thursday: Politico",
+      "title": "Trump to meet with senators over CLARITY Act on Thursday: Politico"
+    },
+    {
+      "time": "16/07 06:00",
+      "source": "\ud83d\udcf0 **BBC News**: US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+      "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'"
+    },
+    {
+      "time": "16/07 06:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Seeks to Curb New Bond Sales by LGFVs With Increased Debt",
+      "title": "China Seeks to Curb New Bond Sales by LGFVs With Increased Debt"
+    },
+    {
+      "time": "16/07 06:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Global Investors Hunt For Creative Backdoors Into China\u2019s Mega CXMT IPO",
+      "title": "Global Investors Hunt For Creative Backdoors Into China\u2019s Mega CXMT IPO"
+    },
+    {
+      "time": "16/07 06:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Declines as Fresh US Strikes on Iran Fuel Inflation Fears",
+      "title": "Gold Declines as Fresh US Strikes on Iran Fuel Inflation Fears"
     }
   ]
 }
