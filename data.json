@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T15:00:36.901306+00:00",
+  "generated_at": "2026-07-16T15:15:36.869374+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1773,11 +1773,6 @@
   ],
   "news_alerts": [
     {
-      "time": "15/07 16:00",
-      "source": "**Cointelegraph**: Bitcoin hits $65.5K as more surprise US inflation data sparks three-week BTC price high",
-      "title": "Bitcoin hits $65.5K as more surprise US inflation data sparks three-week BTC price high"
-    },
-    {
       "time": "15/07 16:30",
       "source": "**Investing.com**: Explainer-What is Pickaxe\u00a0Mountain, the Iranian nuclear-linked site threatened by Trump?",
       "title": "Explainer-What is Pickaxe\u00a0Mountain, the Iranian nuclear-linked site threatened by Trump?"
@@ -1871,6 +1866,11 @@
       "time": "16/07 14:30",
       "source": "**NYT World**: In Iran war, Trump Risks Another American \u2018Forever War\u2019",
       "title": "In Iran war, Trump Risks Another American \u2018Forever War\u2019"
+    },
+    {
+      "time": "16/07 16:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Bond Traders Bail on Fed Hike Wagers on Softer Inflation Outlook",
+      "title": "Bond Traders Bail on Fed Hike Wagers on Softer Inflation Outlook"
     }
   ]
 }
