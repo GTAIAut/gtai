@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T16:15:37.834231+00:00",
+  "generated_at": "2026-07-16T16:30:36.961281+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1773,11 +1773,6 @@
   ],
   "news_alerts": [
     {
-      "time": "15/07 16:30",
-      "source": "**Investing.com**: Explainer-What is Pickaxe\u00a0Mountain, the Iranian nuclear-linked site threatened by Trump?",
-      "title": "Explainer-What is Pickaxe\u00a0Mountain, the Iranian nuclear-linked site threatened by Trump?"
-    },
-    {
       "time": "15/07 16:45",
       "source": "**Investing.com**: Trump\u2019s pick to head Bureau of Labor Statistics clears key Senate hurdle",
       "title": "Trump\u2019s pick to head Bureau of Labor Statistics clears key Senate hurdle"
@@ -1871,6 +1866,11 @@
       "time": "16/07 16:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Bond Traders Bail on Fed Hike Wagers on Softer Inflation Outlook",
       "title": "Bond Traders Bail on Fed Hike Wagers on Softer Inflation Outlook"
+    },
+    {
+      "time": "16/07 17:30",
+      "source": "**Cointelegraph**: Tradable\u2019s $1B Stellar deal adds to institutional tokenization boom",
+      "title": "Tradable\u2019s $1B Stellar deal adds to institutional tokenization boom"
     }
   ]
 }
