@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T11:00:36.839809+00:00",
+  "generated_at": "2026-07-16T11:15:36.868643+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1730,21 +1730,6 @@
   ],
   "news_alerts": [
     {
-      "time": "14/07 18:30",
-      "source": "\ud83d\udcf0 **BBC News**: Trump scraps threat of 20% fee on Hormuz cargo as US prepares to resume blockade of Iran ports",
-      "title": "Trump scraps threat of 20% fee on Hormuz cargo as US prepares to resume blockade of Iran ports"
-    },
-    {
-      "time": "15/07 06:00",
-      "source": "\ud83d\udcf0 **BBC News**: Trump threatens to bomb bridges and power plants unless Iran resumes talks",
-      "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks"
-    },
-    {
-      "time": "15/07 06:00",
-      "source": "\ud83d\udcf0 **BBC News**: Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war"
-    },
-    {
       "time": "15/07 15:30",
       "source": "**NYT World**: U.S. Presses China to Free American Seismologist Accused of Spying",
       "title": "U.S. Presses China to Free American Seismologist Accused of Spying"
@@ -1828,6 +1813,21 @@
       "time": "16/07 09:15",
       "source": "**Politico**: Judge handling challenge to Trump immigration halt cites exceptions for World Cup visas",
       "title": "Judge handling challenge to Trump immigration halt cites exceptions for World Cup visas"
+    },
+    {
+      "time": "16/07 12:15",
+      "source": "**NYT World**: Global Opinion Shifts Toward Favoring China Over the U.S., Poll Finds",
+      "title": "Global Opinion Shifts Toward Favoring China Over the U.S., Poll Finds"
+    },
+    {
+      "time": "16/07 12:15",
+      "source": "**NYT World**: Ukraine\u2019s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out",
+      "title": "Ukraine\u2019s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out"
+    },
+    {
+      "time": "16/07 12:15",
+      "source": "**NYT World**: What to Know About Mykhailo Fedorov, Ukraine\u2019s Ousted Defense Minister",
+      "title": "What to Know About Mykhailo Fedorov, Ukraine\u2019s Ousted Defense Minister"
     }
   ]
 }
