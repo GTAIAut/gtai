@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T15:00:37.025385+00:00",
+  "generated_at": "2026-07-17T15:15:36.878657+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1871,11 +1871,6 @@
   ],
   "news_alerts": [
     {
-      "time": "16/07 18:15",
-      "source": "**Cointelegraph**: Bitcoin price dips on US stocks sell-off as Micron losses pass 30%",
-      "title": "Bitcoin price dips on US stocks sell-off as Micron losses pass 30%"
-    },
-    {
       "time": "17/07 06:00",
       "source": "\ud83d\udcf0 **BBC News**: Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
       "title": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms"
@@ -1969,6 +1964,11 @@
       "time": "17/07 13:45",
       "source": "\ud83d\udcf0 **BBC News**: Trump drops BBC's commercial arm from Panorama lawsuit, but main case remains",
       "title": "Trump drops BBC's commercial arm from Panorama lawsuit, but main case remains"
+    },
+    {
+      "time": "17/07 16:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Foundever Strikes Deal With Creditors to Slash Debt Load",
+      "title": "Foundever Strikes Deal With Creditors to Slash Debt Load"
     }
   ]
 }
