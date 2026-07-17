@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T12:30:36.985883+00:00",
+  "generated_at": "2026-07-17T12:45:36.830648+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1879,11 +1879,6 @@
   ],
   "news_alerts": [
     {
-      "time": "16/07 18:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Turning Oil to Fuel Has Never Been More Profitable as Refining Margins Surge",
-      "title": "Turning Oil to Fuel Has Never Been More Profitable as Refining Margins Surge"
-    },
-    {
       "time": "16/07 18:15",
       "source": "**Cointelegraph**: Bitcoin price dips on US stocks sell-off as Micron losses pass 30%",
       "title": "Bitcoin price dips on US stocks sell-off as Micron losses pass 30%"
@@ -1977,6 +1972,11 @@
       "time": "17/07 12:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Lula\u2019s Panda-Bond Push Tests China\u2019s Appeal for Brazil\u2019s Firms",
       "title": "Lula\u2019s Panda-Bond Push Tests China\u2019s Appeal for Brazil\u2019s Firms"
+    },
+    {
+      "time": "17/07 13:45",
+      "source": "\ud83d\udcf0 **BBC News**: Trump drops BBC's commercial arm from Panorama lawsuit, but main case remains",
+      "title": "Trump drops BBC's commercial arm from Panorama lawsuit, but main case remains"
     }
   ]
 }
