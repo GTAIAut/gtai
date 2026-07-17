@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-16T16:45:36.809090+00:00",
+  "generated_at": "2026-07-17T04:00:37.000648+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -1082.7,
-    "total_pnl_pct": -2.17,
-    "cash_eur": 27273.87,
-    "invested_eur": 21338.88,
+    "total_pnl_eur": -1509.47,
+    "total_pnl_pct": -3.02,
+    "cash_eur": 34063.25,
+    "invested_eur": 14675.19,
     "portfolio_value": 48917.3,
-    "open_positions": 4,
-    "total_trades": 88,
-    "win_rate": 45.5,
-    "total_wins": 40,
-    "total_losses": 48,
-    "avg_win": 22.67,
-    "avg_loss": -73.64,
+    "open_positions": 2,
+    "total_trades": 90,
+    "win_rate": 45.6,
+    "total_wins": 41,
+    "total_losses": 49,
+    "avg_win": 25.24,
+    "avg_loss": -72.19,
     "best_trade": {
       "id": 36,
       "ticker": "USO",
@@ -323,7 +323,7 @@
     },
     {
       "month": "2026-07",
-      "pnl": -876.31
+      "pnl": -750.61
     }
   ],
   "ticker_pnl": [
@@ -341,7 +341,7 @@
     },
     {
       "ticker": "USO",
-      "pnl": 389.35
+      "pnl": 517.53
     },
     {
       "ticker": "ETH",
@@ -364,16 +364,16 @@
       "pnl": 85.59
     },
     {
-      "ticker": "BNB",
-      "pnl": 14.45
-    },
-    {
       "ticker": "TSLA",
       "pnl": -12.47
     },
     {
       "ticker": "META",
       "pnl": -12.33
+    },
+    {
+      "ticker": "BNB",
+      "pnl": 11.97
     },
     {
       "ticker": "AMD",
@@ -503,21 +503,21 @@
       "forecast": false
     },
     {
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "value": 73133.84,
       "lower": 56622.23,
       "upper": 89645.46,
       "forecast": true
     },
     {
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "value": 91134.81,
       "lower": 74623.2,
       "upper": 107646.42,
       "forecast": true
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "value": 109135.78,
       "lower": 92624.16,
       "upper": 125647.39,
@@ -838,40 +838,6 @@
   ],
   "positions": [
     {
-      "ticker": "BNB",
-      "direction": "LONG",
-      "entry": 500.29,
-      "size": 10.7859,
-      "invested": 1798.69,
-      "leverage": 3,
-      "sl": 500.29,
-      "tp1": 555.0,
-      "tp2": null,
-      "budget_pct": 3.6,
-      "confidence": 8,
-      "is_crypto": true,
-      "at_tp1": false,
-      "reason": "F&G 22 Extreme Fear contrarian + BNB melhor performer historico (100% wins GLD/USO/TLT) + R/R 1.82:1. Leverage 3x por regime NEUTRO.",
-      "opened_at": "2026-07-09T10:44:04.166956"
-    },
-    {
-      "ticker": "USO",
-      "direction": "LONG",
-      "entry": 102.87,
-      "size": 94.5822,
-      "invested": 4865.0,
-      "leverage": 2,
-      "sl": 105.6,
-      "tp1": 108.0,
-      "tp2": 112.0,
-      "budget_pct": 10.0,
-      "confidence": 7,
-      "is_crypto": false,
-      "at_tp1": false,
-      "reason": "Catalisador geopolitico: bloqueio de Hormuz reinstaurado por Trump. Dip de -1.69% e entrada, nao reversao. R/R ~1.5:1. Ticker com 100% win rate historico no sistema.",
-      "opened_at": "2026-07-14T14:21:08.240600"
-    },
-    {
       "ticker": "LMT",
       "direction": "LONG",
       "entry": 450.69,
@@ -907,6 +873,20 @@
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "BNB",
+      "direction": "LONG",
+      "pnl": -2.48,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "closed_at": "2026-07-17T00:20:27.789129"
+    },
+    {
+      "ticker": "USO",
+      "direction": "LONG",
+      "pnl": 128.18,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "closed_at": "2026-07-16T23:00:02.159780"
+    },
     {
       "ticker": "SOL",
       "direction": "LONG",
@@ -1032,20 +1012,6 @@
       "pnl": -5.01,
       "reason": "\ud83d\udd34 STOP LOSS",
       "closed_at": "2026-06-18T16:41:04.320524"
-    },
-    {
-      "ticker": "GLD",
-      "direction": "LONG",
-      "pnl": 0.45,
-      "reason": "Contra-tend\u00eancia + R/R 1.78:1 < 2:1 + Risk Manager rejeitou",
-      "closed_at": "2026-06-17T10:13:41.818281"
-    },
-    {
-      "ticker": "BTC",
-      "direction": "LONG",
-      "pnl": -0.12,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "closed_at": "2026-06-17T06:24:35.690307"
     }
   ],
   "recent_sessions": [
@@ -1121,6 +1087,24 @@
     }
   ],
   "activity_feed": [
+    {
+      "type": "sl_hit",
+      "ticker": "BNB",
+      "direction": "LONG",
+      "pnl": -2.48,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-07-17T00:20",
+      "id": 52
+    },
+    {
+      "type": "sl_hit",
+      "ticker": "USO",
+      "direction": "LONG",
+      "pnl": 128.18,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-07-16T23:00",
+      "id": 54
+    },
     {
       "type": "close",
       "ticker": "SOL",
@@ -1642,24 +1626,6 @@
       "reason": "Posi\u00e7\u00e3o em -8.4% \u2014 regra obrigat\u00f3ria de fecho em -8% sem catalisador de revers\u00e3o. SOL em UPTREND com RSI 66 e BB 84%, SHORT contra regime RISK-ON. SL a apenas 1.4% de dist\u00e2ncia.",
       "date": "2026-05-11T22:02",
       "id": 15
-    },
-    {
-      "type": "close",
-      "ticker": "TSLA",
-      "direction": "SHORT",
-      "pnl": -4.08,
-      "reason": "TSLA +3.98% hoje, RSI 74.5 overbought mas momentum bullish forte. SL a \u20ac382.75 vs atual \u20ac377.57 (1.4% margem). Fechar antes de SL.",
-      "date": "2026-05-11T22:02",
-      "id": 20
-    },
-    {
-      "type": "close",
-      "ticker": "QQQ",
-      "direction": "SHORT",
-      "pnl": -1.27,
-      "reason": "SHORT contr\u00e1rio ao regime RISK-ON, reduzido a 67%, slot necess\u00e1rio para sinal mais forte TSLA",
-      "date": "2026-05-11T16:54",
-      "id": 18
     }
   ],
   "session_analysis": [
@@ -1773,21 +1739,6 @@
   ],
   "news_alerts": [
     {
-      "time": "15/07 16:45",
-      "source": "**Investing.com**: Trump\u2019s pick to head Bureau of Labor Statistics clears key Senate hurdle",
-      "title": "Trump\u2019s pick to head Bureau of Labor Statistics clears key Senate hurdle"
-    },
-    {
-      "time": "15/07 17:45",
-      "source": "**Investing.com**: US producer prices post largest drop in 14 months; inflation risks still tilted to the upside",
-      "title": "US producer prices post largest drop in 14 months; inflation risks still tilted to the upside"
-    },
-    {
-      "time": "15/07 18:15",
-      "source": "**Investing.com**: Truflation\u2019s Oliver Rust: Gasoline reversal could unwind June\u2019s inflation cooldown",
-      "title": "Truflation\u2019s Oliver Rust: Gasoline reversal could unwind June\u2019s inflation cooldown"
-    },
-    {
       "time": "16/07 06:00",
       "source": "**Cointelegraph**: Trump to meet with senators over CLARITY Act on Thursday: Politico",
       "title": "Trump to meet with senators over CLARITY Act on Thursday: Politico"
@@ -1871,6 +1822,21 @@
       "time": "16/07 17:30",
       "source": "**Cointelegraph**: Tradable\u2019s $1B Stellar deal adds to institutional tokenization boom",
       "title": "Tradable\u2019s $1B Stellar deal adds to institutional tokenization boom"
+    },
+    {
+      "time": "16/07 18:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Oil Traders Crowd Around Cheap TACO Hedge as Iran War Escalates",
+      "title": "Oil Traders Crowd Around Cheap TACO Hedge as Iran War Escalates"
+    },
+    {
+      "time": "16/07 18:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Turning Oil to Fuel Has Never Been More Profitable as Refining Margins Surge",
+      "title": "Turning Oil to Fuel Has Never Been More Profitable as Refining Margins Surge"
+    },
+    {
+      "time": "16/07 18:15",
+      "source": "**Cointelegraph**: Bitcoin price dips on US stocks sell-off as Micron losses pass 30%",
+      "title": "Bitcoin price dips on US stocks sell-off as Micron losses pass 30%"
     }
   ]
 }
