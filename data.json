@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-07-17T13:15:37.036952+00:00",
+  "generated_at": "2026-07-17T13:29:34.635404+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -1453.95,
-    "total_pnl_pct": -2.91,
-    "cash_eur": 15597.51,
-    "invested_eur": 33120.4,
-    "portfolio_value": 48546.05,
-    "open_positions": 6,
-    "total_trades": 91,
-    "win_rate": 45.1,
-    "total_wins": 41,
+    "total_pnl_eur": -1331.28,
+    "total_pnl_pct": -2.66,
+    "cash_eur": 20721.58,
+    "invested_eur": 28023.92,
+    "portfolio_value": 48668.72,
+    "open_positions": 5,
+    "total_trades": 92,
+    "win_rate": 45.7,
+    "total_wins": 42,
     "total_losses": 50,
-    "avg_win": 25.24,
+    "avg_win": 25.3,
     "avg_loss": -71.15,
     "best_trade": {
       "id": 36,
@@ -43,8 +43,8 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 368,
-        "total": 379
+        "ok": 369,
+        "total": 380
       },
       "Registador de Decis\u00f5es": {
         "ok": 77,
@@ -55,12 +55,12 @@
         "total": 112
       },
       "Gestor de Risco": {
-        "ok": 78,
-        "total": 82
+        "ok": 79,
+        "total": 83
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "632/657"
+    "all_sessions_rate": "634/659"
   },
   "equity_curve": [
     {
@@ -318,6 +318,10 @@
     {
       "date": "2026-07-17",
       "value": 48546.05
+    },
+    {
+      "date": "2026-07-17",
+      "value": 48668.72
     }
   ],
   "monthly_pnl": [
@@ -331,7 +335,7 @@
     },
     {
       "month": "2026-07",
-      "pnl": -771.16
+      "pnl": -743.56
     }
   ],
   "ticker_pnl": [
@@ -357,7 +361,7 @@
     },
     {
       "ticker": "TAO",
-      "pnl": -296.38
+      "pnl": -268.78
     },
     {
       "ticker": "GLD",
@@ -521,23 +525,23 @@
     },
     {
       "date": "2026-08-16",
-      "value": 71457.46,
-      "lower": 55107.87,
-      "upper": 87807.04,
+      "value": 70538.49,
+      "lower": 54276.91,
+      "upper": 86800.07,
       "forecast": true
     },
     {
       "date": "2026-09-15",
-      "value": 88072.55,
-      "lower": 71722.97,
-      "upper": 104422.14,
+      "value": 86594.12,
+      "lower": 70332.54,
+      "upper": 102855.7,
       "forecast": true
     },
     {
       "date": "2026-10-15",
-      "value": 104687.65,
-      "lower": 88338.06,
-      "upper": 121037.23,
+      "value": 102649.75,
+      "lower": 86388.17,
+      "upper": 118911.33,
       "forecast": true
     }
   ],
@@ -861,6 +865,11 @@
       "date": "2026-07-17",
       "drawdown_pct": 3.99,
       "value": 48546.05
+    },
+    {
+      "date": "2026-07-17",
+      "drawdown_pct": 3.75,
+      "value": 48668.72
     }
   ],
   "positions": [
@@ -871,7 +880,7 @@
       "size": 65.1227,
       "invested": 9783.46,
       "leverage": 3,
-      "sl": 432.1,
+      "sl": 440.0,
       "tp1": 480.39,
       "tp2": 506.37,
       "budget_pct": 20.0,
@@ -916,33 +925,16 @@
       "opened_at": "2026-07-17T06:24:52.110726"
     },
     {
-      "ticker": "TAO",
-      "direction": "SHORT",
-      "entry": 167.7,
-      "size": 26.0379,
-      "invested": 1455.52,
-      "leverage": 3,
-      "sl": 172.0,
-      "tp1": 152.0,
-      "tp2": 144.0,
-      "budget_pct": 3.0,
-      "confidence": 7,
-      "is_crypto": true,
-      "at_tp1": false,
-      "reason": "Maior perdedor 24h -4.55%. SL apertado 5% pos revenge trade #51. R/R ~2.9:1",
-      "opened_at": "2026-07-17T06:24:53.076955"
-    },
-    {
       "ticker": "NEAR",
       "direction": "SHORT",
       "entry": 1.67,
-      "size": 17441.6947,
-      "invested": 7281.91,
+      "size": 8720.8474,
+      "invested": 3640.95,
       "leverage": 4,
       "sl": 1.76,
       "tp1": 1.51,
       "tp2": 1.4,
-      "budget_pct": 15.0,
+      "budget_pct": 7.5,
       "confidence": 8,
       "is_crypto": true,
       "at_tp1": false,
@@ -968,6 +960,13 @@
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "TAO",
+      "direction": "SHORT",
+      "pnl": 27.6,
+      "reason": "SHORT #58 em +2.6% - momentum mais fraco que ETH/NEAR, liberta slot cripto para BTC SHORT de maior conviccao.",
+      "closed_at": "2026-07-17T14:29:25.986157"
+    },
     {
       "ticker": "INJ",
       "direction": "SHORT",
@@ -1100,13 +1099,6 @@
       "pnl": -628.02,
       "reason": "\ud83d\udd34 STOP LOSS",
       "closed_at": "2026-06-22T12:41:47.955687"
-    },
-    {
-      "ticker": "ETH",
-      "direction": "SHORT",
-      "pnl": -339.1,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "closed_at": "2026-06-22T02:29:03.949332"
     }
   ],
   "recent_sessions": [
@@ -1114,14 +1106,14 @@
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
-      "created": "2026-07-17T09:19:27.655Z",
+      "created": "2026-07-17T13:18:09.124Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
-      "status": "running",
-      "created": "2026-07-17T09:16:43.960Z",
+      "status": "idle",
+      "created": "2026-07-17T13:16:24.183Z",
       "completed": ""
     },
     {
@@ -1148,21 +1140,21 @@
     {
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
-      "status": "idle",
-      "created": "2026-07-17T09:34:10.207Z",
+      "status": "error",
+      "created": "2026-07-17T13:29:33.503Z",
       "completed": ""
     },
     {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
-      "created": "2026-07-17T09:21:39.209Z",
+      "created": "2026-07-17T13:20:51.179Z",
       "completed": ""
     },
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-17T09:26:41.494Z",
       "completed": ""
     },
@@ -1182,6 +1174,15 @@
     }
   ],
   "activity_feed": [
+    {
+      "type": "close",
+      "ticker": "TAO",
+      "direction": "SHORT",
+      "pnl": 27.6,
+      "reason": "SHORT #58 em +2.6% - momentum mais fraco que ETH/NEAR, liberta slot cripto para BTC SHORT de maior conviccao.",
+      "date": "2026-07-17T14:29",
+      "id": 58
+    },
     {
       "type": "close",
       "ticker": "INJ",
@@ -1712,15 +1713,6 @@
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-11T22:54",
       "id": 23
-    },
-    {
-      "type": "close_partial",
-      "ticker": "AVAX",
-      "direction": "SHORT",
-      "pnl": -0.69,
-      "reason": "Setor cripto extremamente overbought (SOL RSI 84.3 proxy). Compliance j\u00e1 reduziu 33% na sess\u00e3o anterior. Fechar para libertar slot e reduzir exposi\u00e7\u00e3o cripto no pico.",
-      "date": "2026-05-11T22:24",
-      "id": 17
     }
   ],
   "session_analysis": [
