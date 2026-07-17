@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T10:15:36.869153+00:00",
+  "generated_at": "2026-07-17T10:30:36.888999+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1879,11 +1879,6 @@
   ],
   "news_alerts": [
     {
-      "time": "16/07 16:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Bond Traders Bail on Fed Hike Wagers on Softer Inflation Outlook",
-      "title": "Bond Traders Bail on Fed Hike Wagers on Softer Inflation Outlook"
-    },
-    {
       "time": "16/07 17:30",
       "source": "**Cointelegraph**: Tradable\u2019s $1B Stellar deal adds to institutional tokenization boom",
       "title": "Tradable\u2019s $1B Stellar deal adds to institutional tokenization boom"
@@ -1977,6 +1972,11 @@
       "time": "17/07 11:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Airbus Wins Major Order from Air China to Firm Regional Hold",
       "title": "Airbus Wins Major Order from Air China to Firm Regional Hold"
+    },
+    {
+      "time": "17/07 11:30",
+      "source": "**NYT World**: The 20-Somethings Running Ukraine\u2019s War Machine",
+      "title": "The 20-Somethings Running Ukraine\u2019s War Machine"
     }
   ]
 }
