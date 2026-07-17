@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T05:00:36.917304+00:00",
+  "generated_at": "2026-07-17T05:15:36.988664+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -51,8 +51,8 @@
         "total": 82
       },
       "Analista T\u00e9cnico": {
-        "ok": 105,
-        "total": 107
+        "ok": 106,
+        "total": 108
       },
       "Gestor de Risco": {
         "ok": 76,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "622/644"
+    "all_sessions_rate": "623/645"
   },
   "equity_curve": [
     {
@@ -1025,7 +1025,7 @@
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-16T13:17:48.839Z",
       "completed": ""
     },
@@ -1033,21 +1033,21 @@
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
       "status": "idle",
-      "created": "2026-07-16T13:15:11.990Z",
+      "created": "2026-07-17T05:13:49.316Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "running",
-      "created": "2026-07-16T13:02:47.674Z",
+      "status": "idle",
+      "created": "2026-07-17T05:02:17.248Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
-      "status": "idle",
-      "created": "2026-07-16T13:14:39.202Z",
+      "status": "error",
+      "created": "2026-07-17T05:07:56.841Z",
       "completed": ""
     },
     {
@@ -1784,11 +1784,6 @@
   ],
   "news_alerts": [
     {
-      "time": "16/07 06:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Nickel Hits Three-Week High on Indonesia Supply Risks, Fed View",
-      "title": "Nickel Hits Three-Week High on Indonesia Supply Risks, Fed View"
-    },
-    {
       "time": "16/07 06:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: IEA Sees $6.5 Trillion At Risk if China Imposes Rare-Earth Curbs",
       "title": "IEA Sees $6.5 Trillion At Risk if China Imposes Rare-Earth Curbs"
@@ -1882,6 +1877,11 @@
       "time": "17/07 06:00",
       "source": "**Cointelegraph**: Balaji seeks Malaysia deal, threatens exit after Network School probe",
       "title": "Balaji seeks Malaysia deal, threatens exit after Network School probe"
+    },
+    {
+      "time": "17/07 06:15",
+      "source": "**Cointelegraph**: Trump teleprompter operator made $100K betting on Kalshi markets tied to speeches: ABC",
+      "title": "Trump teleprompter operator made $100K betting on Kalshi markets tied to speeches: ABC"
     }
   ]
 }
