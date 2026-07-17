@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-17T05:15:36.988664+00:00",
+  "generated_at": "2026-07-17T05:24:57.904487+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -1509.47,
-    "total_pnl_pct": -3.02,
-    "cash_eur": 34063.25,
-    "invested_eur": 14675.19,
-    "portfolio_value": 48917.3,
-    "open_positions": 2,
+    "total_pnl_eur": -1482.68,
+    "total_pnl_pct": -2.97,
+    "cash_eur": 29211.52,
+    "invested_eur": 19526.93,
+    "portfolio_value": 48517.32,
+    "open_positions": 5,
     "total_trades": 90,
     "win_rate": 45.6,
     "total_wins": 41,
@@ -43,8 +43,8 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 364,
-        "total": 375
+        "ok": 365,
+        "total": 376
       },
       "Registador de Decis\u00f5es": {
         "ok": 77,
@@ -55,12 +55,12 @@
         "total": 108
       },
       "Gestor de Risco": {
-        "ok": 76,
-        "total": 80
+        "ok": 77,
+        "total": 81
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "623/645"
+    "all_sessions_rate": "625/647"
   },
   "equity_curve": [
     {
@@ -310,6 +310,10 @@
     {
       "date": "2026-07-16",
       "value": 48917.3
+    },
+    {
+      "date": "2026-07-17",
+      "value": 48517.32
     }
   ],
   "monthly_pnl": [
@@ -503,24 +507,29 @@
       "forecast": false
     },
     {
+      "date": "2026-07-17",
+      "value": 48517.32,
+      "forecast": false
+    },
+    {
       "date": "2026-08-16",
-      "value": 73133.84,
-      "lower": 56622.23,
-      "upper": 89645.46,
+      "value": 72518.23,
+      "lower": 56085.25,
+      "upper": 88951.21,
       "forecast": true
     },
     {
       "date": "2026-09-15",
-      "value": 91134.81,
-      "lower": 74623.2,
-      "upper": 107646.42,
+      "value": 89779.12,
+      "lower": 73346.14,
+      "upper": 106212.09,
       "forecast": true
     },
     {
       "date": "2026-10-15",
-      "value": 109135.78,
-      "lower": 92624.16,
-      "upper": 125647.39,
+      "value": 107040.0,
+      "lower": 90607.02,
+      "upper": 123472.98,
       "forecast": true
     }
   ],
@@ -834,6 +843,11 @@
       "date": "2026-07-16",
       "drawdown_pct": 3.25,
       "value": 48917.3
+    },
+    {
+      "date": "2026-07-17",
+      "drawdown_pct": 4.05,
+      "value": 48517.32
     }
   ],
   "positions": [
@@ -870,6 +884,57 @@
       "at_tp1": false,
       "reason": "10Y yield +1.08% hoje expande NIM banc\u00e1rio \u2014 trade cl\u00e1ssico de curva a subir. Quality name com capital ratios s\u00f3lidos. R/R 1.66:1. Pre\u00e7o convertido de $346.91 USD via EURUSD 1.1451.",
       "opened_at": "2026-07-16T14:32:38.294938"
+    },
+    {
+      "ticker": "ETH",
+      "direction": "SHORT",
+      "entry": 1611.79,
+      "size": 4.5152,
+      "invested": 2425.87,
+      "leverage": 3,
+      "sl": 1690.0,
+      "tp1": 1480.0,
+      "tp2": 1420.0,
+      "budget_pct": 5.0,
+      "confidence": 7,
+      "is_crypto": true,
+      "at_tp1": false,
+      "reason": "Selloff cripto -3.59% 24h. Sizing e leverage reduzidos vs analistas. R/R ~2:1",
+      "opened_at": "2026-07-17T06:24:52.110726"
+    },
+    {
+      "ticker": "TAO",
+      "direction": "SHORT",
+      "entry": 167.7,
+      "size": 26.0379,
+      "invested": 1455.52,
+      "leverage": 3,
+      "sl": 176.0,
+      "tp1": 152.0,
+      "tp2": 144.0,
+      "budget_pct": 3.0,
+      "confidence": 7,
+      "is_crypto": true,
+      "at_tp1": false,
+      "reason": "Maior perdedor 24h -4.55%. SL apertado 5% pos revenge trade #51. R/R ~2.9:1",
+      "opened_at": "2026-07-17T06:24:53.076955"
+    },
+    {
+      "ticker": "INJ",
+      "direction": "SHORT",
+      "entry": 4.25,
+      "size": 684.9504,
+      "invested": 970.35,
+      "leverage": 3,
+      "sl": 4.5,
+      "tp1": 3.85,
+      "tp2": 3.65,
+      "budget_pct": 2.0,
+      "confidence": 7,
+      "is_crypto": true,
+      "at_tp1": false,
+      "reason": "3o e ultimo slot cripto. Queda -4.64% 24h. R/R ~1.8:1",
+      "opened_at": "2026-07-17T06:24:54.206483"
     }
   ],
   "recent_trades": [
@@ -1019,14 +1084,14 @@
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
-      "created": "2026-07-16T13:20:34.232Z",
+      "created": "2026-07-17T05:17:59.886Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
-      "status": "running",
-      "created": "2026-07-16T13:17:48.839Z",
+      "status": "idle",
+      "created": "2026-07-17T05:15:53.222Z",
       "completed": ""
     },
     {
@@ -1053,21 +1118,21 @@
     {
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
-      "status": "idle",
-      "created": "2026-07-16T13:32:32.302Z",
+      "status": "running",
+      "created": "2026-07-17T05:24:46.146Z",
       "completed": ""
     },
     {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
-      "created": "2026-07-16T13:22:37.907Z",
+      "created": "2026-07-17T05:19:56.036Z",
       "completed": ""
     },
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-16T13:36:35.933Z",
       "completed": ""
     },
