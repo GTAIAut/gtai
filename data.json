@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T09:00:36.817886+00:00",
+  "generated_at": "2026-07-17T09:15:37.045159+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -51,8 +51,8 @@
         "total": 83
       },
       "Analista T\u00e9cnico": {
-        "ok": 106,
-        "total": 108
+        "ok": 107,
+        "total": 109
       },
       "Gestor de Risco": {
         "ok": 77,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "626/649"
+    "all_sessions_rate": "627/650"
   },
   "equity_curve": [
     {
@@ -1090,7 +1090,7 @@
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-17T05:15:53.222Z",
       "completed": ""
     },
@@ -1098,21 +1098,21 @@
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
       "status": "idle",
-      "created": "2026-07-17T05:13:49.316Z",
+      "created": "2026-07-17T09:14:55.954Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
       "status": "idle",
-      "created": "2026-07-17T05:02:17.248Z",
+      "created": "2026-07-17T09:02:49.656Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
-      "status": "idle",
-      "created": "2026-07-17T05:07:56.841Z",
+      "status": "running",
+      "created": "2026-07-17T09:11:33.240Z",
       "completed": ""
     },
     {
@@ -1850,11 +1850,6 @@
   "news_alerts": [
     {
       "time": "16/07 12:15",
-      "source": "**NYT World**: Ukraine\u2019s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out",
-      "title": "Ukraine\u2019s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out"
-    },
-    {
-      "time": "16/07 12:15",
       "source": "**NYT World**: What to Know About Mykhailo Fedorov, Ukraine\u2019s Ousted Defense Minister",
       "title": "What to Know About Mykhailo Fedorov, Ukraine\u2019s Ousted Defense Minister"
     },
@@ -1947,6 +1942,11 @@
       "time": "17/07 10:00",
       "source": "**Cointelegraph**: MacOS malware hijacks Telegram sessions, targets crypto wallets: SlowMist",
       "title": "MacOS malware hijacks Telegram sessions, targets crypto wallets: SlowMist"
+    },
+    {
+      "time": "17/07 10:15",
+      "source": "\ud83d\udcf0 **BBC News**: Trump accuses China of election meddling and questions voting security ahead of midterms",
+      "title": "Trump accuses China of election meddling and questions voting security ahead of midterms"
     }
   ]
 }
