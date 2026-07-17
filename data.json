@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T04:45:37.012776+00:00",
+  "generated_at": "2026-07-17T05:00:36.917304+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1039,7 +1039,7 @@
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-16T13:02:47.674Z",
       "completed": ""
     },
@@ -1630,6 +1630,61 @@
   ],
   "session_analysis": [
     {
+      "session_type": "TARDE",
+      "session_num": 97,
+      "date": "16/07/2026 14:32",
+      "summary": "## \ud83d\udccb POSTMORTEM \u2014 Sess\u00e3o TARDE #97 \u2014 16/07/2026\n\n### \ud83d\udea8 ALERTAS OBRIGAT\u00d3RIOS\n\n**\ud83d\udd34 ALERTA #1 \u2014 Sequ\u00eancia de 5+ perdas consecutivas**\n\u00daltimos 5 trades fechados (#48, #49, #50, #51, #53) s\u00e3o TODOS perdas. A \u00faltima (#53 SOL LONG, -\u20ac784.07) est\u00e1 a -17% sem catalisador de revers\u00e3o \u2014 stop n\u00e3o foi respeitado.\n\n**\ud83d\udd34 ALERTA #2 \u2014 SOL #53 ainda aberto em -17%**\nPosi\u00e7\u00e3o a -17% com MACD bearish sem ajuste de SL ou fecho. Perda de -\u20ac784.07 aceit\u00e1vel em valor absoluto mas inaceit\u00e1vel como drawdown n\u00e3o mitigado.\n\n**\ud83d\udfe1 ALERTA #3 \u2014 Win rate hist\u00f3rico 45.5% com tend\u00eancia recente de perdas**\nWR global abaixo de 50% + 5 perdas consecutivas = zona de aten\u00e7\u00e3o.\n\n---\n\n### 1. OS TRADES FAZIAM SENTIDO?\n\nSim, a tese macro \u00e9 coerente (bloqueio naval, yields em alta, DXY a fortalecer, VIX em alta):\n\n| Trade | Tese | Coer\u00ean",
+      "trades": [
+        {
+          "ticker": "LMT",
+          "action": "LMT LONG",
+          "detail": "Defesa geopol\u00edtica",
+          "assessment": "\u2705 Direto"
+        },
+        {
+          "ticker": "JPM",
+          "action": "JPM LONG",
+          "detail": "NIM banc\u00e1rio com yields",
+          "assessment": "\u2705 Cl\u00e1ssico"
+        },
+        {
+          "ticker": "SHORT",
+          "action": "EURUSD SHORT",
+          "detail": "DXY forte + yields US",
+          "assessment": "\u2705 Coerente"
+        },
+        {
+          "ticker": "TLT",
+          "action": "TLT SHORT",
+          "detail": "Yields sobem \u2192 bonds caem",
+          "assessment": "\u2705 Direto"
+        },
+        {
+          "ticker": "LMT",
+          "action": "LMT",
+          "detail": "1.72:1",
+          "assessment": "~2.36%"
+        },
+        {
+          "ticker": "JPM",
+          "action": "JPM",
+          "detail": "1.66:1",
+          "assessment": "~1.31%"
+        },
+        {
+          "ticker": "TLT",
+          "action": "TLT",
+          "detail": "1.58:1",
+          "assessment": "~0.36%"
+        }
+      ],
+      "findings": [
+        "### 2. R/R E LIMITES DE RISCO?",
+        "| Trade | R/R TP1 | R/R TP2 | SL % | Leverage | Risco Portf\u00f3lio |",
+        "**\u2705 R/R \u22651.5:1 em todos.** **\u2705 Risco portfolio ~4.21% \u2014 dentro do limite RISK-ON (5-8%).**"
+      ]
+    },
+    {
       "session_type": "MANHA",
       "session_num": 95,
       "date": "16/07/2026 06:29",
@@ -1725,44 +1780,9 @@
       "summary": "Postmortem concluido com analise critica e registo formal das posicoes.",
       "trades": [],
       "findings": []
-    },
-    {
-      "session_type": "MANHA",
-      "session_num": 83,
-      "date": "09/07/2026 06:51",
-      "summary": "## POSTMORTEM \u2014 Sess\u00e3o MANHA #83 \u2014 09/07/2026 06:51\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udccb REGISTO #1 \u2014 TAO \u2014 09/07/2026 06:51\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n**INSTRUMENTO**\n\u2022 Ativo: TAO (Bittensor) \u2014 AI crypto token\n\u2022 Classe: Cripto\n\u2022 Exchange: Binance\n\n**PAR\u00c2METROS**\n\u2022 Dire\u00e7\u00e3o: SHORT\n\u2022 Entrada: $179.10\n\u2022 Stop Loss: $191.00 \u2192 Risco unit\u00e1rio: 6.64%\n\u2022 Take Profit 1: $156.00 \u2192 R/R parcial: 1.94:1\n\u2022 % Budget: 12% (alavancagem 5x)\n\n**TESE**\nBTC abaixo MA50 (-5.3%) + Fear&Greed 22 Extreme Fear = checklist SHORT em cripto. TAO \u00e9 AI de alto beta, -1.57% hoje. MACD neutro mas bearish geral no complexo cripto.\n\n**ESTADO:** \ud83d\udfe2 ABERTA\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udccb REGISTO #2 \u2014 EURUSD=X \u2014 09/07/2026 06:51\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n**INSTRUMENTO**\n\u2022 Ativo: EUR/USD\n\u2022 Classe:",
-      "trades": [],
-      "findings": [
-        "\u2022 Take Profit 1: $156.00 \u2192 R/R parcial: 1.94:1"
-      ]
     }
   ],
   "news_alerts": [
-    {
-      "time": "16/07 06:00",
-      "source": "**Cointelegraph**: Trump to meet with senators over CLARITY Act on Thursday: Politico",
-      "title": "Trump to meet with senators over CLARITY Act on Thursday: Politico"
-    },
-    {
-      "time": "16/07 06:00",
-      "source": "\ud83d\udcf0 **BBC News**: US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-      "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'"
-    },
-    {
-      "time": "16/07 06:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Seeks to Curb New Bond Sales by LGFVs With Increased Debt",
-      "title": "China Seeks to Curb New Bond Sales by LGFVs With Increased Debt"
-    },
-    {
-      "time": "16/07 06:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Global Investors Hunt For Creative Backdoors Into China\u2019s Mega CXMT IPO",
-      "title": "Global Investors Hunt For Creative Backdoors Into China\u2019s Mega CXMT IPO"
-    },
-    {
-      "time": "16/07 06:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Declines as Fresh US Strikes on Iran Fuel Inflation Fears",
-      "title": "Gold Declines as Fresh US Strikes on Iran Fuel Inflation Fears"
-    },
     {
       "time": "16/07 06:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Nickel Hits Three-Week High on Indonesia Supply Risks, Fed View",
@@ -1837,6 +1857,31 @@
       "time": "16/07 18:15",
       "source": "**Cointelegraph**: Bitcoin price dips on US stocks sell-off as Micron losses pass 30%",
       "title": "Bitcoin price dips on US stocks sell-off as Micron losses pass 30%"
+    },
+    {
+      "time": "17/07 06:00",
+      "source": "\ud83d\udcf0 **BBC News**: Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
+      "title": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms"
+    },
+    {
+      "time": "17/07 06:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Hong Kong Stocks\u2019 Discount to China Widens on Liquidity Pressure",
+      "title": "Hong Kong Stocks\u2019 Discount to China Widens on Liquidity Pressure"
+    },
+    {
+      "time": "17/07 06:00",
+      "source": "\ud83d\udcf0 **BBC News**: China hits out at British Steel nationalisation",
+      "title": "China hits out at British Steel nationalisation"
+    },
+    {
+      "time": "17/07 06:00",
+      "source": "**Cointelegraph**: Trump Media sells Wall Street low-latency access to Trump posts",
+      "title": "Trump Media sells Wall Street low-latency access to Trump posts"
+    },
+    {
+      "time": "17/07 06:00",
+      "source": "**Cointelegraph**: Balaji seeks Malaysia deal, threatens exit after Network School probe",
+      "title": "Balaji seeks Malaysia deal, threatens exit after Network School probe"
     }
   ]
 }
