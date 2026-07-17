@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-17T09:15:37.045159+00:00",
+  "generated_at": "2026-07-17T09:26:30.221278+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -1482.68,
-    "total_pnl_pct": -2.97,
-    "cash_eur": 29211.52,
-    "invested_eur": 19526.93,
-    "portfolio_value": 48517.32,
-    "open_positions": 5,
-    "total_trades": 90,
-    "win_rate": 45.6,
+    "total_pnl_eur": -1453.95,
+    "total_pnl_pct": -2.91,
+    "cash_eur": 15597.51,
+    "invested_eur": 33120.4,
+    "portfolio_value": 48546.05,
+    "open_positions": 6,
+    "total_trades": 91,
+    "win_rate": 45.1,
     "total_wins": 41,
-    "total_losses": 49,
+    "total_losses": 50,
     "avg_win": 25.24,
-    "avg_loss": -72.19,
+    "avg_loss": -71.15,
     "best_trade": {
       "id": 36,
       "ticker": "USO",
@@ -43,24 +43,24 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 366,
-        "total": 377
+        "ok": 367,
+        "total": 378
       },
       "Registador de Decis\u00f5es": {
         "ok": 77,
         "total": 83
       },
       "Analista T\u00e9cnico": {
-        "ok": 107,
-        "total": 109
+        "ok": 108,
+        "total": 110
       },
       "Gestor de Risco": {
-        "ok": 77,
-        "total": 81
+        "ok": 78,
+        "total": 82
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "627/650"
+    "all_sessions_rate": "630/653"
   },
   "equity_curve": [
     {
@@ -314,6 +314,10 @@
     {
       "date": "2026-07-17",
       "value": 48517.32
+    },
+    {
+      "date": "2026-07-17",
+      "value": 48546.05
     }
   ],
   "monthly_pnl": [
@@ -327,7 +331,7 @@
     },
     {
       "month": "2026-07",
-      "pnl": -750.61
+      "pnl": -771.16
     }
   ],
   "ticker_pnl": [
@@ -366,6 +370,10 @@
     {
       "ticker": "TLT",
       "pnl": 85.59
+    },
+    {
+      "ticker": "INJ",
+      "pnl": -20.55
     },
     {
       "ticker": "TSLA",
@@ -508,28 +516,28 @@
     },
     {
       "date": "2026-07-17",
-      "value": 48517.32,
+      "value": 48546.05,
       "forecast": false
     },
     {
       "date": "2026-08-16",
-      "value": 72518.23,
-      "lower": 56085.25,
-      "upper": 88951.21,
+      "value": 71457.46,
+      "lower": 55107.87,
+      "upper": 87807.04,
       "forecast": true
     },
     {
       "date": "2026-09-15",
-      "value": 89779.12,
-      "lower": 73346.14,
-      "upper": 106212.09,
+      "value": 88072.55,
+      "lower": 71722.97,
+      "upper": 104422.14,
       "forecast": true
     },
     {
       "date": "2026-10-15",
-      "value": 107040.0,
-      "lower": 90607.02,
-      "upper": 123472.98,
+      "value": 104687.65,
+      "lower": 88338.06,
+      "upper": 121037.23,
       "forecast": true
     }
   ],
@@ -848,6 +856,11 @@
       "date": "2026-07-17",
       "drawdown_pct": 4.05,
       "value": 48517.32
+    },
+    {
+      "date": "2026-07-17",
+      "drawdown_pct": 3.99,
+      "value": 48546.05
     }
   ],
   "positions": [
@@ -892,7 +905,7 @@
       "size": 4.5152,
       "invested": 2425.87,
       "leverage": 3,
-      "sl": 1690.0,
+      "sl": 1630.0,
       "tp1": 1480.0,
       "tp2": 1420.0,
       "budget_pct": 5.0,
@@ -909,7 +922,7 @@
       "size": 26.0379,
       "invested": 1455.52,
       "leverage": 3,
-      "sl": 176.0,
+      "sl": 172.0,
       "tp1": 152.0,
       "tp2": 144.0,
       "budget_pct": 3.0,
@@ -920,24 +933,48 @@
       "opened_at": "2026-07-17T06:24:53.076955"
     },
     {
-      "ticker": "INJ",
+      "ticker": "NEAR",
       "direction": "SHORT",
-      "entry": 4.25,
-      "size": 684.9504,
-      "invested": 970.35,
-      "leverage": 3,
-      "sl": 4.5,
-      "tp1": 3.85,
-      "tp2": 3.65,
-      "budget_pct": 2.0,
-      "confidence": 7,
+      "entry": 1.67,
+      "size": 17441.6947,
+      "invested": 7281.91,
+      "leverage": 4,
+      "sl": 1.76,
+      "tp1": 1.51,
+      "tp2": 1.4,
+      "budget_pct": 15.0,
+      "confidence": 8,
       "is_crypto": true,
       "at_tp1": false,
-      "reason": "3o e ultimo slot cripto. Queda -4.64% 24h. R/R ~1.8:1",
-      "opened_at": "2026-07-17T06:24:54.206483"
+      "reason": "Pior performer do universo cripto hoje (-6.39%), consenso de 3 analistas (Cripto, A\u00e7\u00f5es, Macro) para SHORT. Regime Transi\u00e7\u00e3o/Risk-Off incipiente em cripto (VIX +10.89%, Fear&Greed 27, BTC abaixo MA50)",
+      "opened_at": "2026-07-17T10:26:25.380533"
+    },
+    {
+      "ticker": "EURUSD=X",
+      "direction": "LONG",
+      "entry": 1.0,
+      "size": 21845.7237,
+      "invested": 7281.91,
+      "leverage": 3,
+      "sl": 0.99,
+      "tp1": 1.02,
+      "tp2": 1.03,
+      "budget_pct": 15.0,
+      "confidence": 7,
+      "is_crypto": false,
+      "at_tp1": false,
+      "reason": "Tese macro: CPI y/y desinflacionou para 3.8% (vs 4.2% anterior), press\u00e3o pol\u00edtica crescente sobre independ\u00eancia da Fed estruturalmente bearish para USD, DXY lateral sem catalisador de for\u00e7a. Forex dis",
+      "opened_at": "2026-07-17T10:26:26.297796"
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "INJ",
+      "direction": "SHORT",
+      "pnl": -20.55,
+      "reason": "Gestor de Risco rejeitou este slot (R/R fraco, posi\u00e7\u00e3o -1.4% sem catalisador de revers\u00e3o claro). Liberta slot cripto (m\u00e1x 3 simult\u00e2neas) para NEAR SHORT de maior convic\u00e7\u00e3o.",
+      "closed_at": "2026-07-17T10:26:22.946998"
+    },
     {
       "ticker": "BNB",
       "direction": "LONG",
@@ -1070,13 +1107,6 @@
       "pnl": -339.1,
       "reason": "\ud83d\udd34 STOP LOSS",
       "closed_at": "2026-06-22T02:29:03.949332"
-    },
-    {
-      "ticker": "BTC",
-      "direction": "LONG",
-      "pnl": -5.01,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "closed_at": "2026-06-18T16:41:04.320524"
     }
   ],
   "recent_sessions": [
@@ -1084,14 +1114,14 @@
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
-      "created": "2026-07-17T05:17:59.886Z",
+      "created": "2026-07-17T09:19:27.655Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
-      "status": "running",
-      "created": "2026-07-17T05:15:53.222Z",
+      "status": "idle",
+      "created": "2026-07-17T09:16:43.960Z",
       "completed": ""
     },
     {
@@ -1111,28 +1141,28 @@
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
-      "status": "running",
-      "created": "2026-07-17T09:11:33.240Z",
+      "status": "idle",
+      "created": "2026-07-17T09:16:15.633Z",
       "completed": ""
     },
     {
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
-      "status": "idle",
-      "created": "2026-07-17T05:25:18.221Z",
+      "status": "running",
+      "created": "2026-07-17T09:26:16.940Z",
       "completed": ""
     },
     {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
-      "created": "2026-07-17T05:19:56.036Z",
+      "created": "2026-07-17T09:21:39.209Z",
       "completed": ""
     },
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-17T05:25:07.121Z",
       "completed": ""
     },
@@ -1152,6 +1182,15 @@
     }
   ],
   "activity_feed": [
+    {
+      "type": "close",
+      "ticker": "INJ",
+      "direction": "SHORT",
+      "pnl": -20.55,
+      "reason": "Gestor de Risco rejeitou este slot (R/R fraco, posi\u00e7\u00e3o -1.4% sem catalisador de revers\u00e3o claro). Liberta slot cripto (m\u00e1x 3 simult\u00e2neas) para NEAR SHORT de maior convic\u00e7\u00e3o.",
+      "date": "2026-07-17T10:26",
+      "id": 59
+    },
     {
       "type": "sl_hit",
       "ticker": "BNB",
@@ -1682,15 +1721,6 @@
       "reason": "Setor cripto extremamente overbought (SOL RSI 84.3 proxy). Compliance j\u00e1 reduziu 33% na sess\u00e3o anterior. Fechar para libertar slot e reduzir exposi\u00e7\u00e3o cripto no pico.",
       "date": "2026-05-11T22:24",
       "id": 17
-    },
-    {
-      "type": "close",
-      "ticker": "SOL",
-      "direction": "SHORT",
-      "pnl": -4.95,
-      "reason": "Posi\u00e7\u00e3o em -8.4% \u2014 regra obrigat\u00f3ria de fecho em -8% sem catalisador de revers\u00e3o. SOL em UPTREND com RSI 66 e BB 84%, SHORT contra regime RISK-ON. SL a apenas 1.4% de dist\u00e2ncia.",
-      "date": "2026-05-11T22:02",
-      "id": 15
     }
   ],
   "session_analysis": [
