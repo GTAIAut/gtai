@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T15:45:37.033769+00:00",
+  "generated_at": "2026-07-17T16:00:37.178291+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1872,11 +1872,6 @@
   "news_alerts": [
     {
       "time": "17/07 06:00",
-      "source": "\ud83d\udcf0 **BBC News**: Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
-      "title": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms"
-    },
-    {
-      "time": "17/07 06:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Hong Kong Stocks\u2019 Discount to China Widens on Liquidity Pressure",
       "title": "Hong Kong Stocks\u2019 Discount to China Widens on Liquidity Pressure"
     },
@@ -1969,6 +1964,11 @@
       "time": "17/07 16:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Foundever Strikes Deal With Creditors to Slash Debt Load",
       "title": "Foundever Strikes Deal With Creditors to Slash Debt Load"
+    },
+    {
+      "time": "17/07 17:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Foundever Strikes Deal With Creditors to Cut Debt Load",
+      "title": "Foundever Strikes Deal With Creditors to Cut Debt Load"
     }
   ]
 }
