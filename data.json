@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-20T13:15:37.075439+00:00",
+  "generated_at": "2026-07-20T13:26:24.160145+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -2030.69,
-    "total_pnl_pct": -4.06,
-    "cash_eur": 14718.43,
-    "invested_eur": 33486.64,
-    "portfolio_value": 48038.48,
-    "open_positions": 5,
-    "total_trades": 94,
-    "win_rate": 44.7,
+    "total_pnl_eur": -2025.62,
+    "total_pnl_pct": -4.05,
+    "cash_eur": 9527.0,
+    "invested_eur": 38678.07,
+    "portfolio_value": 47974.38,
+    "open_positions": 7,
+    "total_trades": 95,
+    "win_rate": 44.2,
     "total_wins": 42,
-    "total_losses": 52,
+    "total_losses": 53,
     "avg_win": 25.3,
-    "avg_loss": -78.81,
+    "avg_loss": -77.32,
     "best_trade": {
       "id": 36,
       "ticker": "USO",
@@ -43,8 +43,8 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 372,
-        "total": 383
+        "ok": 374,
+        "total": 385
       },
       "Registador de Decis\u00f5es": {
         "ok": 77,
@@ -55,12 +55,12 @@
         "total": 115
       },
       "Gestor de Risco": {
-        "ok": 81,
-        "total": 85
+        "ok": 82,
+        "total": 86
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "642/670"
+    "all_sessions_rate": "645/673"
   },
   "equity_curve": [
     {
@@ -278,6 +278,10 @@
     {
       "date": "2026-07-20",
       "value": 48038.48
+    },
+    {
+      "date": "2026-07-20",
+      "value": 47974.38
     }
   ],
   "monthly_pnl": [
@@ -370,6 +374,10 @@
     {
       "ticker": "SPY",
       "pnl": 0.26
+    },
+    {
+      "ticker": "EURUSD=X",
+      "pnl": 0.0
     }
   ],
   "forecast": [
@@ -509,24 +517,29 @@
       "forecast": false
     },
     {
+      "date": "2026-07-20",
+      "value": 47974.38,
+      "forecast": false
+    },
+    {
       "date": "2026-08-19",
-      "value": 45699.56,
-      "lower": 45203.54,
-      "upper": 46195.58,
+      "value": 45594.21,
+      "lower": 45092.03,
+      "upper": 46096.39,
       "forecast": true
     },
     {
       "date": "2026-09-18",
-      "value": 42895.33,
-      "lower": 42399.31,
-      "upper": 43391.35,
+      "value": 42723.36,
+      "lower": 42221.18,
+      "upper": 43225.54,
       "forecast": true
     },
     {
       "date": "2026-10-18",
-      "value": 40091.1,
-      "lower": 39595.08,
-      "upper": 40587.12,
+      "value": 39852.51,
+      "lower": 39350.33,
+      "upper": 40354.69,
       "forecast": true
     }
   ],
@@ -800,6 +813,11 @@
       "date": "2026-07-20",
       "drawdown_pct": 4.99,
       "value": 48038.48
+    },
+    {
+      "date": "2026-07-20",
+      "drawdown_pct": 5.12,
+      "value": 47974.38
     }
   ],
   "positions": [
@@ -827,7 +845,7 @@
       "size": 48.5807,
       "invested": 4891.73,
       "leverage": 3,
-      "sl": 288.1,
+      "sl": 293.0,
       "tp1": 323.12,
       "tp2": 336.21,
       "budget_pct": 10.0,
@@ -838,30 +856,13 @@
       "opened_at": "2026-07-16T14:32:38.294938"
     },
     {
-      "ticker": "EURUSD=X",
-      "direction": "LONG",
-      "entry": 1.0,
-      "size": 21845.7237,
-      "invested": 7281.91,
-      "leverage": 3,
-      "sl": 0.99,
-      "tp1": 1.02,
-      "tp2": 1.03,
-      "budget_pct": 15.0,
-      "confidence": 7,
-      "is_crypto": false,
-      "at_tp1": false,
-      "reason": "Tese macro: CPI y/y desinflacionou para 3.8% (vs 4.2% anterior), press\u00e3o pol\u00edtica crescente sobre independ\u00eancia da Fed estruturalmente bearish para USD, DXY lateral sem catalisador de for\u00e7a. Forex dis",
-      "opened_at": "2026-07-17T10:26:26.297796"
-    },
-    {
       "ticker": "BTC",
       "direction": "LONG",
       "entry": 56056,
       "size": 0.3085,
       "invested": 5764.77,
       "leverage": 3,
-      "sl": 54200.0,
+      "sl": 55500.0,
       "tp1": 60000.0,
       "tp2": 62500.0,
       "budget_pct": 12.0,
@@ -878,7 +879,7 @@
       "size": 10.6532,
       "invested": 5764.77,
       "leverage": 3,
-      "sl": 1565.0,
+      "sl": 1600.0,
       "tp1": 1755.0,
       "tp2": 1830.0,
       "budget_pct": 12.0,
@@ -887,9 +888,67 @@
       "at_tp1": false,
       "reason": "RSI 59.9 saudavel, MACD bullish (39.9 vs 27.9 signal), uptrend, BB 75% da banda. Volume fraco (0.8x) sugere cautela - leverage reduzida a 3x. Rejeito tese SHORT proposta pelos analistas: dados tecnico",
       "opened_at": "2026-07-20T06:29:26.324749"
+    },
+    {
+      "ticker": "QQQ",
+      "direction": "SHORT",
+      "entry": 608.71,
+      "size": 18.9152,
+      "invested": 3837.95,
+      "leverage": 3,
+      "sl": 625.0,
+      "tp1": 574.0,
+      "tp2": null,
+      "budget_pct": 8.0,
+      "confidence": 8,
+      "is_crypto": false,
+      "at_tp1": false,
+      "reason": "Yields 10Y a subir (+0.55%) + DXY forte pressionam growth/tech; convergencia de 3 analistas (Acoes, Forex, Risco); R/R 2:1",
+      "opened_at": "2026-07-20T14:26:15.795673"
+    },
+    {
+      "ticker": "USO",
+      "direction": "SHORT",
+      "entry": 108.52,
+      "size": 88.4175,
+      "invested": 4797.44,
+      "leverage": 2,
+      "sl": 111.5,
+      "tp1": 103.0,
+      "tp2": null,
+      "budget_pct": 10.0,
+      "confidence": 7,
+      "is_crypto": false,
+      "at_tp1": false,
+      "reason": "USD forte pressiona commodities, oil -1.11% no dia; recomendacao macro; R/R 1.79:1",
+      "opened_at": "2026-07-20T14:26:18.708088"
+    },
+    {
+      "ticker": "TLT",
+      "direction": "SHORT",
+      "entry": 73.99,
+      "size": 103.7409,
+      "invested": 3837.95,
+      "leverage": 2,
+      "sl": 75.5,
+      "tp1": 70.85,
+      "tp2": null,
+      "budget_pct": 8.0,
+      "confidence": 8,
+      "is_crypto": false,
+      "at_tp1": false,
+      "reason": "10Y yield a subir para maximos recentes pressiona preco de bonds inversamente; R/R 2:1",
+      "opened_at": "2026-07-20T14:26:20.693578"
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "EURUSD=X",
+      "direction": "LONG",
+      "pnl": 0.0,
+      "reason": "DXY em tendencia de alta consistente 5a sessao, posicao LONG flat sem catalisador; risk manager rejeitou reversao SHORT (R/R 1:1.25 insuficiente)",
+      "closed_at": "2026-07-20T14:26:12.622052"
+    },
     {
       "ticker": "NEAR",
       "direction": "SHORT",
@@ -1022,13 +1081,6 @@
       "pnl": -303.51,
       "reason": "\ud83d\udd34 STOP LOSS",
       "closed_at": "2026-06-24T16:54:34.697523"
-    },
-    {
-      "ticker": "USO",
-      "direction": "SHORT",
-      "pnl": 194.88,
-      "reason": "\u2705 TP1 (50%)",
-      "closed_at": "2026-06-24T14:33:34.197352"
     }
   ],
   "recent_sessions": [
@@ -1036,14 +1088,14 @@
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
-      "created": "2026-07-20T09:12:19.793Z",
+      "created": "2026-07-20T13:18:24.392Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
-      "status": "running",
-      "created": "2026-07-20T09:10:19.926Z",
+      "status": "idle",
+      "created": "2026-07-20T13:15:44.425Z",
       "completed": ""
     },
     {
@@ -1071,20 +1123,20 @@
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
       "status": "idle",
-      "created": "2026-07-20T09:19:07.380Z",
+      "created": "2026-07-20T13:26:09.371Z",
       "completed": ""
     },
     {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
-      "created": "2026-07-20T09:14:52.157Z",
+      "created": "2026-07-20T13:21:39.054Z",
       "completed": ""
     },
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-20T09:24:24.201Z",
       "completed": ""
     },
@@ -1104,6 +1156,15 @@
     }
   ],
   "activity_feed": [
+    {
+      "type": "close",
+      "ticker": "EURUSD=X",
+      "direction": "LONG",
+      "pnl": 0.0,
+      "reason": "DXY em tendencia de alta consistente 5a sessao, posicao LONG flat sem catalisador; risk manager rejeitou reversao SHORT (R/R 1:1.25 insuficiente)",
+      "date": "2026-07-20T14:26",
+      "id": 61
+    },
     {
       "type": "sl_hit",
       "ticker": "NEAR",
@@ -1634,15 +1695,6 @@
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-12T01:05",
       "id": 24
-    },
-    {
-      "type": "close_partial",
-      "ticker": "SPY",
-      "direction": "SHORT",
-      "pnl": 0.26,
-      "reason": "SHORT contra regime RISK-ON confirmado. SPY em UPTREND estrutural com S&P +9.7% acima MA200. Fechar para libertar slot e reduzir exposi\u00e7\u00e3o contra-tend\u00eancia.",
-      "date": "2026-05-11T23:24",
-      "id": 21
     }
   ],
   "session_analysis": [
