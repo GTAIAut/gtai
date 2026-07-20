@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T06:00:36.742268+00:00",
+  "generated_at": "2026-07-20T06:15:36.948062+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1805,11 +1805,6 @@
   ],
   "news_alerts": [
     {
-      "time": "17/07 08:00",
-      "source": "\ud83d\udcf0 **BBC News**: Olympic cyclist admits to driving despite ban after crash that killed wife",
-      "title": "Olympic cyclist admits to driving despite ban after crash that killed wife"
-    },
-    {
       "time": "17/07 08:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: UBS, Deutsche Bank Raise Stoxx 600 Targets as European Stocks Rally",
       "title": "UBS, Deutsche Bank Raise Stoxx 600 Targets as European Stocks Rally"
@@ -1903,6 +1898,11 @@
       "time": "20/07 07:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Steadies as Traders Assess Rates Path After US-Iran Clashes",
       "title": "Gold Steadies as Traders Assess Rates Path After US-Iran Clashes"
+    },
+    {
+      "time": "20/07 07:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Is Exporting 20% Fewer Magnets to US Despite Trade Truce",
+      "title": "China Is Exporting 20% Fewer Magnets to US Despite Trade Truce"
     }
   ]
 }
