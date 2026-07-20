@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T09:00:37.002397+00:00",
+  "generated_at": "2026-07-20T09:15:36.936532+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -51,16 +51,16 @@
         "total": 86
       },
       "Analista T\u00e9cnico": {
-        "ok": 110,
-        "total": 113
+        "ok": 111,
+        "total": 114
       },
       "Gestor de Risco": {
-        "ok": 80,
-        "total": 84
+        "ok": 81,
+        "total": 85
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "638/665"
+    "all_sessions_rate": "640/667"
   },
   "equity_curve": [
     {
@@ -1037,52 +1037,52 @@
   ],
   "recent_sessions": [
     {
+      "id": "14f33a21",
+      "agent": "Diretor de Investimentos",
+      "status": "running",
+      "created": "2026-07-20T05:31:15.128Z",
+      "completed": ""
+    },
+    {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
-      "created": "2026-07-20T05:19:56.717Z",
+      "created": "2026-07-20T09:12:19.793Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
       "status": "idle",
-      "created": "2026-07-20T05:17:28.571Z",
+      "created": "2026-07-20T09:10:19.926Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
       "status": "idle",
-      "created": "2026-07-20T05:15:50.763Z",
+      "created": "2026-07-20T09:08:30.137Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "running",
-      "created": "2026-07-20T05:03:36.231Z",
+      "status": "idle",
+      "created": "2026-07-20T09:02:20.017Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
       "status": "idle",
-      "created": "2026-07-20T05:15:20.675Z",
-      "completed": ""
-    },
-    {
-      "id": "14f33a21",
-      "agent": "Diretor de Investimentos",
-      "status": "idle",
-      "created": "2026-07-20T05:31:15.128Z",
+      "created": "2026-07-20T09:06:09.427Z",
       "completed": ""
     },
     {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
-      "created": "2026-07-20T05:22:10.264Z",
+      "created": "2026-07-20T09:14:52.157Z",
       "completed": ""
     },
     {
