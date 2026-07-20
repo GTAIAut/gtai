@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T06:30:36.872927+00:00",
+  "generated_at": "2026-07-20T06:45:37.056354+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1805,11 +1805,6 @@
   ],
   "news_alerts": [
     {
-      "time": "17/07 08:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: UBS, Deutsche Bank Raise Stoxx 600 Targets as European Stocks Rally",
-      "title": "UBS, Deutsche Bank Raise Stoxx 600 Targets as European Stocks Rally"
-    },
-    {
       "time": "17/07 09:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Why Fed Independence Is Hanging by a Thread",
       "title": "Why Fed Independence Is Hanging by a Thread"
@@ -1903,6 +1898,11 @@
       "time": "20/07 07:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Is Exporting 20% Fewer Magnets to US Despite Trade Truce",
       "title": "China Is Exporting 20% Fewer Magnets to US Despite Trade Truce"
+    },
+    {
+      "time": "20/07 07:45",
+      "source": "\ud83d\udcf0 **BBC News**: Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed"
     }
   ]
 }
