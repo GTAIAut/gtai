@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T05:00:36.875747+00:00",
+  "generated_at": "2026-07-20T05:15:36.997361+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -51,8 +51,8 @@
         "total": 85
       },
       "Analista T\u00e9cnico": {
-        "ok": 109,
-        "total": 112
+        "ok": 110,
+        "total": 113
       },
       "Gestor de Risco": {
         "ok": 79,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "634/660"
+    "all_sessions_rate": "635/661"
   },
   "equity_curve": [
     {
@@ -1010,7 +1010,7 @@
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-17T13:14:47.755Z",
       "completed": ""
     },
@@ -1018,14 +1018,14 @@
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
       "status": "idle",
-      "created": "2026-07-17T13:04:23.772Z",
+      "created": "2026-07-20T05:03:36.231Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
       "status": "idle",
-      "created": "2026-07-17T13:13:16.820Z",
+      "created": "2026-07-20T05:15:20.675Z",
       "completed": ""
     },
     {
@@ -1762,11 +1762,6 @@
   ],
   "news_alerts": [
     {
-      "time": "17/07 06:00",
-      "source": "**Cointelegraph**: Balaji seeks Malaysia deal, threatens exit after Network School probe",
-      "title": "Balaji seeks Malaysia deal, threatens exit after Network School probe"
-    },
-    {
       "time": "17/07 06:15",
       "source": "**Cointelegraph**: Trump teleprompter operator made $100K betting on Kalshi markets tied to speeches: ABC",
       "title": "Trump teleprompter operator made $100K betting on Kalshi markets tied to speeches: ABC"
@@ -1860,6 +1855,11 @@
       "time": "20/07 06:00",
       "source": "**NYT World**: Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
       "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War"
+    },
+    {
+      "time": "20/07 06:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Solar Stocks Rise After Beijing Issues Consumption Tax",
+      "title": "China Solar Stocks Rise After Beijing Issues Consumption Tax"
     }
   ]
 }
