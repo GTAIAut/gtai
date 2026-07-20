@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T05:45:36.879618+00:00",
+  "generated_at": "2026-07-20T06:00:36.742268+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1088,7 +1088,7 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "error",
+      "status": "idle",
       "created": "2026-07-20T05:31:58.957Z",
       "completed": ""
     },
@@ -1805,16 +1805,6 @@
   ],
   "news_alerts": [
     {
-      "time": "17/07 06:15",
-      "source": "**Cointelegraph**: Trump teleprompter operator made $100K betting on Kalshi markets tied to speeches: ABC",
-      "title": "Trump teleprompter operator made $100K betting on Kalshi markets tied to speeches: ABC"
-    },
-    {
-      "time": "17/07 07:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Chip Stock Pullback Drives Investor Fear to Record High",
-      "title": "China Chip Stock Pullback Drives Investor Fear to Record High"
-    },
-    {
       "time": "17/07 08:00",
       "source": "\ud83d\udcf0 **BBC News**: Olympic cyclist admits to driving despite ban after crash that killed wife",
       "title": "Olympic cyclist admits to driving despite ban after crash that killed wife"
@@ -1903,6 +1893,16 @@
       "time": "20/07 06:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Solar Stocks Rise After Beijing Issues Consumption Tax",
       "title": "China Solar Stocks Rise After Beijing Issues Consumption Tax"
+    },
+    {
+      "time": "20/07 07:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: FTSE 100 Live: Oil Back to $90 to Keep Inflation Pressures Rumbling",
+      "title": "FTSE 100 Live: Oil Back to $90 to Keep Inflation Pressures Rumbling"
+    },
+    {
+      "time": "20/07 07:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Steadies as Traders Assess Rates Path After US-Iran Clashes",
+      "title": "Gold Steadies as Traders Assess Rates Path After US-Iran Clashes"
     }
   ]
 }
