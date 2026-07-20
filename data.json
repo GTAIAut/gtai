@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-20T05:15:36.997361+00:00",
+  "generated_at": "2026-07-20T05:29:30.076910+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -2134.66,
-    "total_pnl_pct": -4.27,
-    "cash_eur": 23043.06,
-    "invested_eur": 25598.05,
-    "portfolio_value": 48668.72,
-    "open_positions": 4,
+    "total_pnl_eur": -1960.25,
+    "total_pnl_pct": -3.92,
+    "cash_eur": 11513.52,
+    "invested_eur": 37127.59,
+    "portfolio_value": 48039.75,
+    "open_positions": 6,
     "total_trades": 93,
     "win_rate": 45.2,
     "total_wins": 42,
@@ -43,8 +43,8 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 369,
-        "total": 380
+        "ok": 370,
+        "total": 381
       },
       "Registador de Decis\u00f5es": {
         "ok": 77,
@@ -55,12 +55,12 @@
         "total": 113
       },
       "Gestor de Risco": {
-        "ok": 79,
-        "total": 83
+        "ok": 80,
+        "total": 84
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "635/661"
+    "all_sessions_rate": "637/663"
   },
   "equity_curve": [
     {
@@ -270,6 +270,10 @@
     {
       "date": "2026-07-19",
       "value": 48039.76
+    },
+    {
+      "date": "2026-07-20",
+      "value": 48039.75
     }
   ],
   "monthly_pnl": [
@@ -492,29 +496,29 @@
       "forecast": false
     },
     {
-      "date": "2026-07-19",
-      "value": 48039.76,
+      "date": "2026-07-20",
+      "value": 48039.75,
       "forecast": false
     },
     {
       "date": "2026-08-19",
-      "value": 46024.99,
-      "lower": 45541.97,
-      "upper": 46508.01,
+      "value": 45808.03,
+      "lower": 45317.42,
+      "upper": 46298.64,
       "forecast": true
     },
     {
       "date": "2026-09-18",
-      "value": 43370.59,
-      "lower": 42887.58,
-      "upper": 43853.61,
+      "value": 43072.39,
+      "lower": 42581.78,
+      "upper": 43562.99,
       "forecast": true
     },
     {
       "date": "2026-10-18",
-      "value": 40716.2,
-      "lower": 40233.18,
-      "upper": 41199.21,
+      "value": 40336.75,
+      "lower": 39846.14,
+      "upper": 40827.35,
       "forecast": true
     }
   ],
@@ -778,6 +782,11 @@
       "date": "2026-07-19",
       "drawdown_pct": 4.99,
       "value": 48039.76
+    },
+    {
+      "date": "2026-07-20",
+      "drawdown_pct": 4.99,
+      "value": 48039.75
     }
   ],
   "positions": [
@@ -848,6 +857,40 @@
       "at_tp1": false,
       "reason": "Tese macro: CPI y/y desinflacionou para 3.8% (vs 4.2% anterior), press\u00e3o pol\u00edtica crescente sobre independ\u00eancia da Fed estruturalmente bearish para USD, DXY lateral sem catalisador de for\u00e7a. Forex dis",
       "opened_at": "2026-07-17T10:26:26.297796"
+    },
+    {
+      "ticker": "BTC",
+      "direction": "LONG",
+      "entry": 56056,
+      "size": 0.3085,
+      "invested": 5764.77,
+      "leverage": 3,
+      "sl": 54200.0,
+      "tp1": 60000.0,
+      "tp2": 62500.0,
+      "budget_pct": 12.0,
+      "confidence": 7,
+      "is_crypto": true,
+      "at_tp1": false,
+      "reason": "RSI 54.3 zona saudavel, MACD bullish (262 vs -39), uptrend confirmado, preco acima do pivot diario (64486 vs 64512), Fear&Greed 29 = contrarian bullish pre-CPI. Volume fraco (0.7x) e historico ruim em",
+      "opened_at": "2026-07-20T06:29:25.496513"
+    },
+    {
+      "ticker": "ETH",
+      "direction": "LONG",
+      "entry": 1623.39,
+      "size": 10.6532,
+      "invested": 5764.77,
+      "leverage": 3,
+      "sl": 1565.0,
+      "tp1": 1755.0,
+      "tp2": 1830.0,
+      "budget_pct": 12.0,
+      "confidence": 7,
+      "is_crypto": true,
+      "at_tp1": false,
+      "reason": "RSI 59.9 saudavel, MACD bullish (39.9 vs 27.9 signal), uptrend, BB 75% da banda. Volume fraco (0.8x) sugere cautela - leverage reduzida a 3x. Rejeito tese SHORT proposta pelos analistas: dados tecnico",
+      "opened_at": "2026-07-20T06:29:26.324749"
     }
   ],
   "recent_trades": [
@@ -997,21 +1040,21 @@
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
-      "created": "2026-07-17T13:18:09.124Z",
+      "created": "2026-07-20T05:19:56.717Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
       "status": "idle",
-      "created": "2026-07-17T13:16:24.183Z",
+      "created": "2026-07-20T05:17:28.571Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
-      "status": "running",
-      "created": "2026-07-17T13:14:47.755Z",
+      "status": "idle",
+      "created": "2026-07-20T05:15:50.763Z",
       "completed": ""
     },
     {
@@ -1031,15 +1074,15 @@
     {
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
-      "status": "idle",
-      "created": "2026-07-17T13:29:33.503Z",
+      "status": "running",
+      "created": "2026-07-20T05:29:19.529Z",
       "completed": ""
     },
     {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
-      "created": "2026-07-17T13:20:51.179Z",
+      "created": "2026-07-20T05:22:10.264Z",
       "completed": ""
     },
     {
