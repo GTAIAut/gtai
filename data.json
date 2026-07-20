@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-17T16:45:36.969291+00:00",
+  "generated_at": "2026-07-20T04:00:36.909456+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -1331.28,
-    "total_pnl_pct": -2.66,
-    "cash_eur": 20721.58,
-    "invested_eur": 28023.92,
+    "total_pnl_eur": -2134.66,
+    "total_pnl_pct": -4.27,
+    "cash_eur": 23043.06,
+    "invested_eur": 25598.05,
     "portfolio_value": 48668.72,
-    "open_positions": 5,
-    "total_trades": 92,
-    "win_rate": 45.7,
+    "open_positions": 4,
+    "total_trades": 93,
+    "win_rate": 45.2,
     "total_wins": 42,
-    "total_losses": 50,
+    "total_losses": 51,
     "avg_win": 25.3,
-    "avg_loss": -71.15,
+    "avg_loss": -71.81,
     "best_trade": {
       "id": 36,
       "ticker": "USO",
@@ -63,62 +63,6 @@
     "all_sessions_rate": "634/660"
   },
   "equity_curve": [
-    {
-      "date": "2026-06-18",
-      "value": 1041.8
-    },
-    {
-      "date": "2026-06-19",
-      "value": 1036.95
-    },
-    {
-      "date": "2026-06-19",
-      "value": 1042.56
-    },
-    {
-      "date": "2026-06-19",
-      "value": 1036.27
-    },
-    {
-      "date": "2026-06-21",
-      "value": 50454.52
-    },
-    {
-      "date": "2026-06-22",
-      "value": 50163.75
-    },
-    {
-      "date": "2026-06-22",
-      "value": 50194.82
-    },
-    {
-      "date": "2026-06-22",
-      "value": 49766.25
-    },
-    {
-      "date": "2026-06-23",
-      "value": 50108.31
-    },
-    {
-      "date": "2026-06-23",
-      "value": 50117.5
-    },
-    {
-      "date": "2026-06-23",
-      "value": 50121.1
-    },
-    {
-      "date": "2026-06-24",
-      "value": 50121.49
-    },
-    {
-      "date": "2026-06-24",
-      "value": 50125.53
-    },
-    {
-      "date": "2026-06-24",
-      "value": 50130.22
-    },
     {
       "date": "2026-06-25",
       "value": 50562.04
@@ -322,6 +266,10 @@
     {
       "date": "2026-07-17",
       "value": 48668.72
+    },
+    {
+      "date": "2026-07-19",
+      "value": 48039.76
     }
   ],
   "monthly_pnl": [
@@ -335,7 +283,7 @@
     },
     {
       "month": "2026-07",
-      "pnl": -743.56
+      "pnl": -847.95
     }
   ],
   "ticker_pnl": [
@@ -357,7 +305,7 @@
     },
     {
       "ticker": "ETH",
-      "pnl": -340.68
+      "pnl": -445.07
     },
     {
       "ticker": "TAO",
@@ -414,33 +362,13 @@
   ],
   "forecast": [
     {
-      "date": "2026-06-18",
-      "value": 1041.8,
-      "forecast": false
-    },
-    {
-      "date": "2026-06-19",
-      "value": 1036.27,
-      "forecast": false
-    },
-    {
-      "date": "2026-06-22",
-      "value": 50194.82,
-      "forecast": false
-    },
-    {
-      "date": "2026-06-23",
-      "value": 50117.5,
-      "forecast": false
-    },
-    {
-      "date": "2026-06-24",
-      "value": 50125.53,
+      "date": "2026-06-25",
+      "value": 50562.04,
       "forecast": false
     },
     {
       "date": "2026-06-25",
-      "value": 50563.1,
+      "value": 50519.69,
       "forecast": false
     },
     {
@@ -449,8 +377,13 @@
       "forecast": false
     },
     {
+      "date": "2026-06-28",
+      "value": 50111.93,
+      "forecast": false
+    },
+    {
       "date": "2026-06-29",
-      "value": 50111.16,
+      "value": 50259.32,
       "forecast": false
     },
     {
@@ -459,8 +392,13 @@
       "forecast": false
     },
     {
+      "date": "2026-06-30",
+      "value": 50366.87,
+      "forecast": false
+    },
+    {
       "date": "2026-07-01",
-      "value": 50471.09,
+      "value": 50412.23,
       "forecast": false
     },
     {
@@ -470,7 +408,12 @@
     },
     {
       "date": "2026-07-02",
-      "value": 50166.84,
+      "value": 50289.25,
+      "forecast": false
+    },
+    {
+      "date": "2026-07-02",
+      "value": 50317.8,
       "forecast": false
     },
     {
@@ -479,8 +422,13 @@
       "forecast": false
     },
     {
+      "date": "2026-07-05",
+      "value": 50359.21,
+      "forecast": false
+    },
+    {
       "date": "2026-07-06",
-      "value": 50393.59,
+      "value": 49831.84,
       "forecast": false
     },
     {
@@ -490,7 +438,12 @@
     },
     {
       "date": "2026-07-08",
-      "value": 50066.83,
+      "value": 50009.63,
+      "forecast": false
+    },
+    {
+      "date": "2026-07-09",
+      "value": 50030.97,
       "forecast": false
     },
     {
@@ -499,8 +452,13 @@
       "forecast": false
     },
     {
-      "date": "2026-07-12",
-      "value": 49617.0,
+      "date": "2026-07-10",
+      "value": 49726.39,
+      "forecast": false
+    },
+    {
+      "date": "2026-07-13",
+      "value": 48885.68,
       "forecast": false
     },
     {
@@ -510,7 +468,12 @@
     },
     {
       "date": "2026-07-15",
-      "value": 48881.9,
+      "value": 48876.25,
+      "forecast": false
+    },
+    {
+      "date": "2026-07-15",
+      "value": 49002.06,
       "forecast": false
     },
     {
@@ -520,102 +483,42 @@
     },
     {
       "date": "2026-07-17",
-      "value": 48546.05,
+      "value": 48517.32,
       "forecast": false
     },
     {
-      "date": "2026-08-16",
-      "value": 70538.49,
-      "lower": 54276.91,
-      "upper": 86800.07,
+      "date": "2026-07-17",
+      "value": 48668.72,
+      "forecast": false
+    },
+    {
+      "date": "2026-07-19",
+      "value": 48039.76,
+      "forecast": false
+    },
+    {
+      "date": "2026-08-19",
+      "value": 46024.99,
+      "lower": 45541.97,
+      "upper": 46508.01,
       "forecast": true
     },
     {
-      "date": "2026-09-15",
-      "value": 86594.12,
-      "lower": 70332.54,
-      "upper": 102855.7,
+      "date": "2026-09-18",
+      "value": 43370.59,
+      "lower": 42887.58,
+      "upper": 43853.61,
       "forecast": true
     },
     {
-      "date": "2026-10-15",
-      "value": 102649.75,
-      "lower": 86388.17,
-      "upper": 118911.33,
+      "date": "2026-10-18",
+      "value": 40716.2,
+      "lower": 40233.18,
+      "upper": 41199.21,
       "forecast": true
     }
   ],
   "drawdown": [
-    {
-      "date": "2026-06-18",
-      "drawdown_pct": 0.0,
-      "value": 1041.8
-    },
-    {
-      "date": "2026-06-19",
-      "drawdown_pct": 0.47,
-      "value": 1036.95
-    },
-    {
-      "date": "2026-06-19",
-      "drawdown_pct": 0.0,
-      "value": 1042.56
-    },
-    {
-      "date": "2026-06-19",
-      "drawdown_pct": 0.6,
-      "value": 1036.27
-    },
-    {
-      "date": "2026-06-21",
-      "drawdown_pct": 0.0,
-      "value": 50454.52
-    },
-    {
-      "date": "2026-06-22",
-      "drawdown_pct": 0.58,
-      "value": 50163.75
-    },
-    {
-      "date": "2026-06-22",
-      "drawdown_pct": 0.51,
-      "value": 50194.82
-    },
-    {
-      "date": "2026-06-22",
-      "drawdown_pct": 1.36,
-      "value": 49766.25
-    },
-    {
-      "date": "2026-06-23",
-      "drawdown_pct": 0.69,
-      "value": 50108.31
-    },
-    {
-      "date": "2026-06-23",
-      "drawdown_pct": 0.67,
-      "value": 50117.5
-    },
-    {
-      "date": "2026-06-23",
-      "drawdown_pct": 0.66,
-      "value": 50121.1
-    },
-    {
-      "date": "2026-06-24",
-      "drawdown_pct": 0.66,
-      "value": 50121.49
-    },
-    {
-      "date": "2026-06-24",
-      "drawdown_pct": 0.65,
-      "value": 50125.53
-    },
-    {
-      "date": "2026-06-24",
-      "drawdown_pct": 0.64,
-      "value": 50130.22
-    },
     {
       "date": "2026-06-25",
       "drawdown_pct": 0.0,
@@ -870,6 +773,11 @@
       "date": "2026-07-17",
       "drawdown_pct": 3.75,
       "value": 48668.72
+    },
+    {
+      "date": "2026-07-19",
+      "drawdown_pct": 4.99,
+      "value": 48039.76
     }
   ],
   "positions": [
@@ -908,23 +816,6 @@
       "opened_at": "2026-07-16T14:32:38.294938"
     },
     {
-      "ticker": "ETH",
-      "direction": "SHORT",
-      "entry": 1611.79,
-      "size": 4.5152,
-      "invested": 2425.87,
-      "leverage": 3,
-      "sl": 1630.0,
-      "tp1": 1480.0,
-      "tp2": 1420.0,
-      "budget_pct": 5.0,
-      "confidence": 7,
-      "is_crypto": true,
-      "at_tp1": false,
-      "reason": "Selloff cripto -3.59% 24h. Sizing e leverage reduzidos vs analistas. R/R ~2:1",
-      "opened_at": "2026-07-17T06:24:52.110726"
-    },
-    {
       "ticker": "NEAR",
       "direction": "SHORT",
       "entry": 1.67,
@@ -960,6 +851,13 @@
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "ETH",
+      "direction": "SHORT",
+      "pnl": -104.39,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "closed_at": "2026-07-19T03:15:39.631037"
+    },
     {
       "ticker": "TAO",
       "direction": "SHORT",
@@ -1092,13 +990,6 @@
       "pnl": -670.29,
       "reason": "\ud83d\udd34 STOP LOSS",
       "closed_at": "2026-06-22T13:32:06.186722"
-    },
-    {
-      "ticker": "AVAX",
-      "direction": "SHORT",
-      "pnl": -628.02,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "closed_at": "2026-06-22T12:41:47.955687"
     }
   ],
   "recent_sessions": [
@@ -1174,6 +1065,15 @@
     }
   ],
   "activity_feed": [
+    {
+      "type": "sl_hit",
+      "ticker": "ETH",
+      "direction": "SHORT",
+      "pnl": -104.39,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-07-19T03:15",
+      "id": 57
+    },
     {
       "type": "close",
       "ticker": "TAO",
@@ -1704,15 +1604,6 @@
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-11T23:04",
       "id": 23
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "SOL",
-      "direction": "SHORT",
-      "pnl": 0.03,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-11T22:54",
-      "id": 23
     }
   ],
   "session_analysis": [
@@ -1872,11 +1763,6 @@
   "news_alerts": [
     {
       "time": "17/07 06:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Hong Kong Stocks\u2019 Discount to China Widens on Liquidity Pressure",
-      "title": "Hong Kong Stocks\u2019 Discount to China Widens on Liquidity Pressure"
-    },
-    {
-      "time": "17/07 06:00",
       "source": "\ud83d\udcf0 **BBC News**: China hits out at British Steel nationalisation",
       "title": "China hits out at British Steel nationalisation"
     },
@@ -1969,6 +1855,11 @@
       "time": "17/07 17:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Foundever Strikes Deal With Creditors to Cut Debt Load",
       "title": "Foundever Strikes Deal With Creditors to Cut Debt Load"
+    },
+    {
+      "time": "17/07 18:00",
+      "source": "**Cointelegraph**: Senator Warren requests 2026 reporting for Trump\u2019s crypto earnings after $1.4B disclosure",
+      "title": "Senator Warren requests 2026 reporting for Trump\u2019s crypto earnings after $1.4B disclosure"
     }
   ]
 }
