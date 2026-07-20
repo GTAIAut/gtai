@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T08:30:36.929992+00:00",
+  "generated_at": "2026-07-20T08:45:36.963264+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1805,11 +1805,6 @@
   ],
   "news_alerts": [
     {
-      "time": "17/07 10:15",
-      "source": "\ud83d\udcf0 **BBC News**: Trump accuses China of election meddling and questions voting security ahead of midterms",
-      "title": "Trump accuses China of election meddling and questions voting security ahead of midterms"
-    },
-    {
       "time": "17/07 10:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Airbus Wins Major Order from Air China to Cement Regional Hold",
       "title": "Airbus Wins Major Order from Air China to Cement Regional Hold"
@@ -1903,6 +1898,11 @@
       "time": "20/07 09:15",
       "source": "**Investing.com**: China\u2019s Moonshot pauses Kimi subscriptions amid hot demand, IPO push",
       "title": "China\u2019s Moonshot pauses Kimi subscriptions amid hot demand, IPO push"
+    },
+    {
+      "time": "20/07 09:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Bond Traders Take Warsh at Word, See Inflation Fight Continuing",
+      "title": "Bond Traders Take Warsh at Word, See Inflation Fight Continuing"
     }
   ]
 }
