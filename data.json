@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T07:45:36.908957+00:00",
+  "generated_at": "2026-07-20T08:00:37.095078+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1805,11 +1805,6 @@
   ],
   "news_alerts": [
     {
-      "time": "17/07 09:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Why Fed Independence Is Hanging by a Thread",
-      "title": "Why Fed Independence Is Hanging by a Thread"
-    },
-    {
       "time": "17/07 10:00",
       "source": "**Cointelegraph**: MacOS malware hijacks Telegram sessions, targets crypto wallets: SlowMist",
       "title": "MacOS malware hijacks Telegram sessions, targets crypto wallets: SlowMist"
@@ -1903,6 +1898,11 @@
       "time": "20/07 07:45",
       "source": "\ud83d\udcf0 **BBC News**: Trump says US strikes hit Iran in 'honour' of American soldiers killed",
       "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed"
+    },
+    {
+      "time": "20/07 09:00",
+      "source": "**Cointelegraph**: Upbit parent Dunamu faces South Korean regulator sanctions process: Report",
+      "title": "Upbit parent Dunamu faces South Korean regulator sanctions process: Report"
     }
   ]
 }
