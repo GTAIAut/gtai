@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T16:00:37.277095+00:00",
+  "generated_at": "2026-07-20T16:15:37.148150+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1853,11 +1853,6 @@
   ],
   "news_alerts": [
     {
-      "time": "17/07 17:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Foundever Strikes Deal With Creditors to Cut Debt Load",
-      "title": "Foundever Strikes Deal With Creditors to Cut Debt Load"
-    },
-    {
       "time": "17/07 18:00",
       "source": "**Cointelegraph**: Senator Warren requests 2026 reporting for Trump\u2019s crypto earnings after $1.4B disclosure",
       "title": "Senator Warren requests 2026 reporting for Trump\u2019s crypto earnings after $1.4B disclosure"
@@ -1951,6 +1946,11 @@
       "time": "20/07 17:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Angola Signs $900 Million Port Deals With Chinese Firms",
       "title": "Angola Signs $900 Million Port Deals With Chinese Firms"
+    },
+    {
+      "time": "20/07 17:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: DoubleLine Says Higher Bond Yields to Help Fed Keep Rates Steady",
+      "title": "DoubleLine Says Higher Bond Yields to Help Fed Keep Rates Steady"
     }
   ]
 }
