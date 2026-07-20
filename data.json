@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T04:45:36.940433+00:00",
+  "generated_at": "2026-07-20T05:00:36.875747+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1763,16 +1763,6 @@
   "news_alerts": [
     {
       "time": "17/07 06:00",
-      "source": "\ud83d\udcf0 **BBC News**: China hits out at British Steel nationalisation",
-      "title": "China hits out at British Steel nationalisation"
-    },
-    {
-      "time": "17/07 06:00",
-      "source": "**Cointelegraph**: Trump Media sells Wall Street low-latency access to Trump posts",
-      "title": "Trump Media sells Wall Street low-latency access to Trump posts"
-    },
-    {
-      "time": "17/07 06:00",
       "source": "**Cointelegraph**: Balaji seeks Malaysia deal, threatens exit after Network School probe",
       "title": "Balaji seeks Malaysia deal, threatens exit after Network School probe"
     },
@@ -1860,6 +1850,16 @@
       "time": "17/07 18:00",
       "source": "**Cointelegraph**: Senator Warren requests 2026 reporting for Trump\u2019s crypto earnings after $1.4B disclosure",
       "title": "Senator Warren requests 2026 reporting for Trump\u2019s crypto earnings after $1.4B disclosure"
+    },
+    {
+      "time": "20/07 06:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Key China Copper Gauge Rallies to $100 After Tax Crackdown",
+      "title": "Key China Copper Gauge Rallies to $100 After Tax Crackdown"
+    },
+    {
+      "time": "20/07 06:00",
+      "source": "**NYT World**: Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
+      "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War"
     }
   ]
 }
