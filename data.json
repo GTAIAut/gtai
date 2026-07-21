@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T16:45:37.079520+00:00",
+  "generated_at": "2026-07-21T04:00:36.923246+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -522,21 +522,21 @@
       "forecast": false
     },
     {
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "value": 45594.21,
       "lower": 45092.03,
       "upper": 46096.39,
       "forecast": true
     },
     {
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "value": 42723.36,
       "lower": 42221.18,
       "upper": 43225.54,
       "forecast": true
     },
     {
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "value": 39852.51,
       "lower": 39350.33,
       "upper": 40354.69,
@@ -1853,16 +1853,6 @@
   ],
   "news_alerts": [
     {
-      "time": "20/07 06:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Key China Copper Gauge Rallies to $100 After Tax Crackdown",
-      "title": "Key China Copper Gauge Rallies to $100 After Tax Crackdown"
-    },
-    {
-      "time": "20/07 06:00",
-      "source": "**NYT World**: Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
-      "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War"
-    },
-    {
       "time": "20/07 06:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Solar Stocks Rise After Beijing Issues Consumption Tax",
       "title": "China Solar Stocks Rise After Beijing Issues Consumption Tax"
@@ -1951,6 +1941,16 @@
       "time": "20/07 17:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: National Bank of Canada Weighs SRT Tied to Project Finance Deals",
       "title": "National Bank of Canada Weighs SRT Tied to Project Finance Deals"
+    },
+    {
+      "time": "20/07 18:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Money Funds Keep Cash Closer as Fed Leaves Markets Guessing",
+      "title": "Money Funds Keep Cash Closer as Fed Leaves Markets Guessing"
+    },
+    {
+      "time": "20/07 18:45",
+      "source": "**Cointelegraph**: Hut 8, IREN deals lift AI-focused Bitcoin mining stocks",
+      "title": "Hut 8, IREN deals lift AI-focused Bitcoin mining stocks"
     }
   ]
 }
