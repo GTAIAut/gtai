@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T16:00:37.083904+00:00",
+  "generated_at": "2026-07-21T16:15:36.982111+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1832,11 +1832,6 @@
   "news_alerts": [
     {
       "time": "21/07 06:00",
-      "source": "\ud83d\udcf0 **BBC News**: US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers"
-    },
-    {
-      "time": "21/07 06:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Unleashes Broad State Support to Halt Tech Stock Selloff",
       "title": "China Unleashes Broad State Support to Halt Tech Stock Selloff"
     },
@@ -1929,6 +1924,11 @@
       "time": "21/07 16:30",
       "source": "**Cointelegraph**: Bitcoin nears seven-week high as stocks ignore Iran strikes, Trump 10% tariff plans",
       "title": "Bitcoin nears seven-week high as stocks ignore Iran strikes, Trump 10% tariff plans"
+    },
+    {
+      "time": "21/07 17:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: US Yields Hit Two-Month High as Oil Sparks Inflation Risk",
+      "title": "US Yields Hit Two-Month High as Oil Sparks Inflation Risk"
     }
   ]
 }
