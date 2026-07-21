@@ -1,30 +1,37 @@
 {
-  "generated_at": "2026-07-21T15:00:36.933659+00:00",
+  "generated_at": "2026-07-21T15:15:37.341685+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -2182.47,
-    "total_pnl_pct": -4.36,
-    "cash_eur": 27291.24,
-    "invested_eur": 19205.44,
+    "total_pnl_eur": -2210.55,
+    "total_pnl_pct": -4.42,
+    "cash_eur": 33751.77,
+    "invested_eur": 13440.67,
     "portfolio_value": 49053.5,
-    "open_positions": 4,
-    "total_trades": 98,
-    "win_rate": 42.9,
-    "total_wins": 42,
+    "open_positions": 3,
+    "total_trades": 99,
+    "win_rate": 43.4,
+    "total_wins": 43,
     "total_losses": 56,
-    "avg_win": 25.3,
+    "avg_win": 40.89,
     "avg_loss": -103.69,
     "best_trade": {
-      "id": 36,
-      "ticker": "USO",
-      "direction": "SHORT",
-      "close_reason": "\u2705 TP1 (50%)",
-      "pnl_eur": 194.88,
-      "closed_at": "2026-06-24T14:33:34.197352"
+      "id": 63,
+      "ticker": "ETH",
+      "direction": "LONG",
+      "entry_price_eur": 1623.39,
+      "exit_price_eur": 1688.7,
+      "size_units": 10.653208387609462,
+      "invested_eur": 5764.77,
+      "leverage": 3,
+      "pnl_eur": 695.76,
+      "pnl_pct": 12.07,
+      "close_reason": "\ud83d\udd34 STOP LOSS",
+      "opened_at": "2026-07-20T06:29:26.324749",
+      "closed_at": "2026-07-21T16:07:06.790395"
     },
     "worst_trade": {
       "id": 55,
@@ -307,7 +314,7 @@
     },
     {
       "month": "2026-07",
-      "pnl": -2992.38
+      "pnl": -2296.62
     }
   ],
   "ticker_pnl": [
@@ -328,10 +335,6 @@
       "pnl": -619.54
     },
     {
-      "ticker": "ETH",
-      "pnl": -445.07
-    },
-    {
       "ticker": "NEAR",
       "pnl": -436.04
     },
@@ -346,6 +349,10 @@
     {
       "ticker": "JPM",
       "pnl": -258.38
+    },
+    {
+      "ticker": "ETH",
+      "pnl": 250.69
     },
     {
       "ticker": "GLD",
@@ -879,23 +886,6 @@
       "opened_at": "2026-07-20T06:29:25.496513"
     },
     {
-      "ticker": "ETH",
-      "direction": "LONG",
-      "entry": 1623.39,
-      "size": 10.6532,
-      "invested": 5764.77,
-      "leverage": 3,
-      "sl": 1690.0,
-      "tp1": 1755.0,
-      "tp2": 1830.0,
-      "budget_pct": 12.0,
-      "confidence": 7,
-      "is_crypto": true,
-      "at_tp1": false,
-      "reason": "RSI 59.9 saudavel, MACD bullish (39.9 vs 27.9 signal), uptrend, BB 75% da banda. Volume fraco (0.8x) sugere cautela - leverage reduzida a 3x. Rejeito tese SHORT proposta pelos analistas: dados tecnico",
-      "opened_at": "2026-07-20T06:29:26.324749"
-    },
-    {
       "ticker": "QQQ",
       "direction": "SHORT",
       "entry": 608.71,
@@ -931,6 +921,13 @@
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "ETH",
+      "direction": "LONG",
+      "pnl": 695.76,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "closed_at": "2026-07-21T16:07:06.790395"
+    },
     {
       "ticker": "LMT",
       "direction": "LONG",
@@ -1063,13 +1060,6 @@
       "pnl": -75.9,
       "reason": "(#46) \u2014 perdedor -7.7%, MACD bearish, historico 0-24 BTC",
       "closed_at": "2026-07-01T14:23:33.652454"
-    },
-    {
-      "ticker": "TLT",
-      "direction": "LONG",
-      "pnl": 85.59,
-      "reason": "RSI 77.2 overbought extremo + BB 91% \u2014 travar +1.7% antes de reversao. ECB mixed: Lane hawkish vs Wunsch dovish. Tecnicos prevalecem",
-      "closed_at": "2026-06-30T10:15:44.038535"
     }
   ],
   "recent_sessions": [
@@ -1152,6 +1142,15 @@
       "date": "21/07/2026 10:35",
       "title": "POSTMORTEM conclu\u00eddo. Registo 63 (DOT LONG) criado. Score 4/10 \u2014 crypto continua a receber capital apesar de ser a classe mais perdedora (\u20ac-3.842). Al",
       "score": "4"
+    },
+    {
+      "type": "sl_hit",
+      "ticker": "ETH",
+      "direction": "LONG",
+      "pnl": 695.76,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-07-21T16:07",
+      "id": 63
     },
     {
       "type": "sl_hit",
@@ -1674,15 +1673,6 @@
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-12T15:00",
       "id": 26
-    },
-    {
-      "type": "close",
-      "ticker": "META",
-      "direction": "LONG",
-      "pnl": 0.28,
-      "reason": "DOWNTREND estrutural + RSI 26.3 oversold em downtrend = fraqueza, n\u00e3o revers\u00e3o. PTJ: nunca contra a tend\u00eancia. Sa\u00edda limpa a breakeven.",
-      "date": "2026-05-12T12:04",
-      "id": 22
     }
   ],
   "session_analysis": [
@@ -1842,11 +1832,6 @@
   "news_alerts": [
     {
       "time": "21/07 06:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Iron Ore Drops as China Steel Losses Deepen, Hormuz Risks Rise",
-      "title": "Iron Ore Drops as China Steel Losses Deepen, Hormuz Risks Rise"
-    },
-    {
-      "time": "21/07 06:00",
       "source": "**Cointelegraph**: Binance & OKX users face $1900 fines in Vietnam, Coinbase in China? Asia Express",
       "title": "Binance & OKX users face $1900 fines in Vietnam, Coinbase in China? Asia Express"
     },
@@ -1939,6 +1924,11 @@
       "time": "21/07 15:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Treasury Yields Hit Two-Month High as Oil Sparks Inflation Risk",
       "title": "Treasury Yields Hit Two-Month High as Oil Sparks Inflation Risk"
+    },
+    {
+      "time": "21/07 16:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: AMC Rolls Out Red Carpet for Debt Investors to Trumpet Rebound",
+      "title": "AMC Rolls Out Red Carpet for Debt Investors to Trumpet Rebound"
     }
   ]
 }
