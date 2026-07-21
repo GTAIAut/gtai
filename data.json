@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-21T05:15:36.975506+00:00",
+  "generated_at": "2026-07-21T05:18:52.053756+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -2025.62,
-    "total_pnl_pct": -4.05,
-    "cash_eur": 9527.0,
-    "invested_eur": 38678.07,
-    "portfolio_value": 47974.38,
-    "open_positions": 7,
-    "total_trades": 95,
-    "win_rate": 44.2,
+    "total_pnl_eur": -1395.06,
+    "total_pnl_pct": -2.79,
+    "cash_eur": 14201.06,
+    "invested_eur": 33880.63,
+    "portfolio_value": 48604.94,
+    "open_positions": 6,
+    "total_trades": 96,
+    "win_rate": 43.8,
     "total_wins": 42,
-    "total_losses": 53,
+    "total_losses": 54,
     "avg_win": 25.3,
-    "avg_loss": -77.32,
+    "avg_loss": -78.18,
     "best_trade": {
       "id": 36,
       "ticker": "USO",
@@ -43,8 +43,8 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 374,
-        "total": 385
+        "ok": 375,
+        "total": 386
       },
       "Registador de Decis\u00f5es": {
         "ok": 77,
@@ -55,12 +55,12 @@
         "total": 116
       },
       "Gestor de Risco": {
-        "ok": 82,
-        "total": 86
+        "ok": 83,
+        "total": 87
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "646/675"
+    "all_sessions_rate": "648/677"
   },
   "equity_curve": [
     {
@@ -282,6 +282,10 @@
     {
       "date": "2026-07-20",
       "value": 47974.38
+    },
+    {
+      "date": "2026-07-21",
+      "value": 48604.94
     }
   ],
   "monthly_pnl": [
@@ -295,7 +299,7 @@
     },
     {
       "month": "2026-07",
-      "pnl": -1283.99
+      "pnl": -1407.37
     }
   ],
   "ticker_pnl": [
@@ -312,16 +316,16 @@
       "pnl": -619.54
     },
     {
-      "ticker": "USO",
-      "pnl": 517.53
-    },
-    {
       "ticker": "ETH",
       "pnl": -445.07
     },
     {
       "ticker": "NEAR",
       "pnl": -436.04
+    },
+    {
+      "ticker": "USO",
+      "pnl": 394.15
     },
     {
       "ticker": "TAO",
@@ -522,24 +526,29 @@
       "forecast": false
     },
     {
+      "date": "2026-07-21",
+      "value": 48604.94,
+      "forecast": false
+    },
+    {
       "date": "2026-08-20",
-      "value": 45594.21,
-      "lower": 45092.03,
-      "upper": 46096.39,
+      "value": 45545.83,
+      "lower": 45046.09,
+      "upper": 46045.57,
       "forecast": true
     },
     {
       "date": "2026-09-19",
-      "value": 42723.36,
-      "lower": 42221.18,
-      "upper": 43225.54,
+      "value": 42704.48,
+      "lower": 42204.73,
+      "upper": 43204.22,
       "forecast": true
     },
     {
       "date": "2026-10-19",
-      "value": 39852.51,
-      "lower": 39350.33,
-      "upper": 40354.69,
+      "value": 39863.12,
+      "lower": 39363.38,
+      "upper": 40362.86,
       "forecast": true
     }
   ],
@@ -818,6 +827,11 @@
       "date": "2026-07-20",
       "drawdown_pct": 5.12,
       "value": 47974.38
+    },
+    {
+      "date": "2026-07-21",
+      "drawdown_pct": 3.87,
+      "value": 48604.94
     }
   ],
   "positions": [
@@ -862,7 +876,7 @@
       "size": 0.3085,
       "invested": 5764.77,
       "leverage": 3,
-      "sl": 55500.0,
+      "sl": 56500.0,
       "tp1": 60000.0,
       "tp2": 62500.0,
       "budget_pct": 12.0,
@@ -879,7 +893,7 @@
       "size": 10.6532,
       "invested": 5764.77,
       "leverage": 3,
-      "sl": 1600.0,
+      "sl": 1650.0,
       "tp1": 1755.0,
       "tp2": 1830.0,
       "budget_pct": 12.0,
@@ -907,23 +921,6 @@
       "opened_at": "2026-07-20T14:26:15.795673"
     },
     {
-      "ticker": "USO",
-      "direction": "SHORT",
-      "entry": 108.52,
-      "size": 88.4175,
-      "invested": 4797.44,
-      "leverage": 2,
-      "sl": 111.5,
-      "tp1": 103.0,
-      "tp2": null,
-      "budget_pct": 10.0,
-      "confidence": 7,
-      "is_crypto": false,
-      "at_tp1": false,
-      "reason": "USD forte pressiona commodities, oil -1.11% no dia; recomendacao macro; R/R 1.79:1",
-      "opened_at": "2026-07-20T14:26:18.708088"
-    },
-    {
       "ticker": "TLT",
       "direction": "SHORT",
       "entry": 73.99,
@@ -942,6 +939,13 @@
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "USO",
+      "direction": "SHORT",
+      "pnl": -123.38,
+      "reason": "Escalada militar EUA-Ir\u00e3o (ataques Hormuz, Goldman prev\u00ea Brent >$120) torna SHORT petr\u00f3leo demasiado arriscado apesar de RSI 78.9 sobrecomprado. Risco de gap-up 5-10%. Unanimidade Macro/T\u00e9cnico/FX/Risco.",
+      "closed_at": "2026-07-21T06:18:47.777786"
+    },
     {
       "ticker": "EURUSD=X",
       "direction": "LONG",
@@ -1074,13 +1078,6 @@
       "pnl": 194.16,
       "reason": "#36: RSI 12.5 oversold extremo, lucro +12.8% garantido",
       "closed_at": "2026-06-25T10:11:59.268110"
-    },
-    {
-      "ticker": "BTC",
-      "direction": "LONG",
-      "pnl": -303.51,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "closed_at": "2026-06-24T16:54:34.697523"
     }
   ],
   "recent_sessions": [
@@ -1122,15 +1119,15 @@
     {
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
-      "status": "idle",
-      "created": "2026-07-20T13:26:09.371Z",
+      "status": "running",
+      "created": "2026-07-21T05:18:42.051Z",
       "completed": ""
     },
     {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
-      "status": "running",
-      "created": "2026-07-20T13:21:39.054Z",
+      "status": "idle",
+      "created": "2026-07-21T05:16:32.892Z",
       "completed": ""
     },
     {
@@ -1156,6 +1153,15 @@
     }
   ],
   "activity_feed": [
+    {
+      "type": "close",
+      "ticker": "USO",
+      "direction": "SHORT",
+      "pnl": -123.38,
+      "reason": "Escalada militar EUA-Ir\u00e3o (ataques Hormuz, Goldman prev\u00ea Brent >$120) torna SHORT petr\u00f3leo demasiado arriscado apesar de RSI 78.9 sobrecomprado. Risco de gap-up 5-10%. Unanimidade Macro/T\u00e9cnico/FX/Risco.",
+      "date": "2026-07-21T06:18",
+      "id": 65
+    },
     {
       "type": "close",
       "ticker": "EURUSD=X",
@@ -1685,15 +1691,6 @@
       "pnl": 0.17,
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-12T01:15",
-      "id": 24
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": -0.03,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-12T01:05",
       "id": 24
     }
   ],
