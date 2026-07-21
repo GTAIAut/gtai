@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T12:45:36.940050+00:00",
+  "generated_at": "2026-07-21T13:00:36.977555+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1114,7 +1114,7 @@
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-21T09:02:58.922Z",
       "completed": ""
     },
@@ -1162,6 +1162,14 @@
     }
   ],
   "activity_feed": [
+    {
+      "type": "session",
+      "session_type": "MEIODIA",
+      "session_num": 105,
+      "date": "21/07/2026 10:35",
+      "title": "POSTMORTEM conclu\u00eddo. Registo 63 (DOT LONG) criado. Score 4/10 \u2014 crypto continua a receber capital apesar de ser a classe mais perdedora (\u20ac-3.842). Al",
+      "score": "4"
+    },
     {
       "type": "close",
       "ticker": "USO",
@@ -1692,18 +1700,17 @@
       "reason": "Liberar posi\u00e7\u00e3o para TSLA SHORT de alta convic\u00e7\u00e3o (6 posi\u00e7\u00f5es > m\u00e1ximo 5). AAPL RSI 68 zona de sa\u00edda, momentum a enfraquecer.",
       "date": "2026-05-12T10:54",
       "id": 19
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": 0.17,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-12T01:15",
-      "id": 24
     }
   ],
   "session_analysis": [
+    {
+      "session_type": "MEIODIA",
+      "session_num": 105,
+      "date": "21/07/2026 10:35",
+      "summary": "POSTMORTEM conclu\u00eddo. Registo #63 (DOT LONG) criado. Score 4/10 \u2014 crypto continua a receber capital apesar de ser a classe mais perdedora (\u20ac-3.842). Alertas emitidos: BTC (10% WR), ETH (0% WR). SL de BTC/ETH atualizados. Li\u00e7\u00f5es acion\u00e1veis para pr\u00f3ximas 3 sess\u00f5es publicadas na an\u00e1lise.",
+      "trades": [],
+      "findings": []
+    },
     {
       "session_type": "MEIODIA",
       "session_num": 102,
@@ -1845,14 +1852,6 @@
       "session_num": 87,
       "date": "10/07/2026 17:04",
       "summary": "Postmortem conclu\u00eddo e publicado como coment\u00e1rio. Score: 6/10. Principal preocupa\u00e7\u00e3o: SOL LONG aberto por press\u00e3o de cash deployment com confidence 7 + leverage 5x \u2014 risco comportamental identificado. Recomenda\u00e7\u00e3o: adicionar vetos autom\u00e1ticos para MACD flat e volume abaixo da m\u00e9dia.",
-      "trades": [],
-      "findings": []
-    },
-    {
-      "session_type": "MANHA",
-      "session_num": 86,
-      "date": "10/07/2026 08:40",
-      "summary": "Postmortem conclu\u00eddo. Score: 6/10. Ver coment\u00e1rio para an\u00e1lise detalhada.",
       "trades": [],
       "findings": []
     }
