@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T13:45:37.401806+00:00",
+  "generated_at": "2026-07-21T14:00:37.043080+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1841,11 +1841,6 @@
   ],
   "news_alerts": [
     {
-      "time": "20/07 17:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: National Bank of Canada Weighs SRT Tied to Project Finance Deals",
-      "title": "National Bank of Canada Weighs SRT Tied to Project Finance Deals"
-    },
-    {
       "time": "20/07 18:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Money Funds Keep Cash Closer as Fed Leaves Markets Guessing",
       "title": "Money Funds Keep Cash Closer as Fed Leaves Markets Guessing"
@@ -1939,6 +1934,11 @@
       "time": "21/07 14:30",
       "source": "\ud83d\udcf0 **BBC News**: Russian warship carried out firing exercise off Plymouth coast",
       "title": "Russian warship carried out firing exercise off Plymouth coast"
+    },
+    {
+      "time": "21/07 15:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Nasdaq 100 Soars as Chipmaker Rebound Overshadows Iran War",
+      "title": "Nasdaq 100 Soars as Chipmaker Rebound Overshadows Iran War"
     }
   ]
 }
