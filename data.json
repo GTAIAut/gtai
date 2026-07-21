@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T09:45:37.067277+00:00",
+  "generated_at": "2026-07-21T10:00:36.986953+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1859,11 +1859,6 @@
   ],
   "news_alerts": [
     {
-      "time": "20/07 09:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Bond Traders Take Warsh at Word, See Inflation Fight Continuing",
-      "title": "Bond Traders Take Warsh at Word, See Inflation Fight Continuing"
-    },
-    {
       "time": "20/07 10:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Steadies as Traders Assess Rates Path Amid US-Iran Conflict",
       "title": "Gold Steadies as Traders Assess Rates Path Amid US-Iran Conflict"
@@ -1957,6 +1952,11 @@
       "time": "21/07 10:00",
       "source": "**Politico**: South Carolina Republicans test Trump's clout in race for Graham's seat",
       "title": "South Carolina Republicans test Trump's clout in race for Graham's seat"
+    },
+    {
+      "time": "21/07 11:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: The Great British Takeover Tops $60 Billion After Mitie Deal",
+      "title": "The Great British Takeover Tops $60 Billion After Mitie Deal"
     }
   ]
 }
