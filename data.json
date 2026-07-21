@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T09:35:33.333423+00:00",
+  "generated_at": "2026-07-21T09:45:37.067277+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -47,8 +47,8 @@
         "total": 387
       },
       "Registador de Decis\u00f5es": {
-        "ok": 77,
-        "total": 89
+        "ok": 78,
+        "total": 90
       },
       "Analista T\u00e9cnico": {
         "ok": 114,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "651/681"
+    "all_sessions_rate": "652/682"
   },
   "equity_curve": [
     {
@@ -1142,8 +1142,8 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "running",
-      "created": "2026-07-21T05:21:20.210Z",
+      "status": "idle",
+      "created": "2026-07-21T09:40:48.420Z",
       "completed": ""
     },
     {
