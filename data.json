@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T04:45:36.866998+00:00",
+  "generated_at": "2026-07-21T05:00:36.850647+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1853,31 +1853,6 @@
   ],
   "news_alerts": [
     {
-      "time": "20/07 06:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Solar Stocks Rise After Beijing Issues Consumption Tax",
-      "title": "China Solar Stocks Rise After Beijing Issues Consumption Tax"
-    },
-    {
-      "time": "20/07 07:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: FTSE 100 Live: Oil Back to $90 to Keep Inflation Pressures Rumbling",
-      "title": "FTSE 100 Live: Oil Back to $90 to Keep Inflation Pressures Rumbling"
-    },
-    {
-      "time": "20/07 07:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Gold Steadies as Traders Assess Rates Path After US-Iran Clashes",
-      "title": "Gold Steadies as Traders Assess Rates Path After US-Iran Clashes"
-    },
-    {
-      "time": "20/07 07:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Is Exporting 20% Fewer Magnets to US Despite Trade Truce",
-      "title": "China Is Exporting 20% Fewer Magnets to US Despite Trade Truce"
-    },
-    {
-      "time": "20/07 07:45",
-      "source": "\ud83d\udcf0 **BBC News**: Trump says US strikes hit Iran in 'honour' of American soldiers killed",
-      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed"
-    },
-    {
       "time": "20/07 09:00",
       "source": "**Cointelegraph**: Upbit parent Dunamu faces South Korean regulator sanctions process: Report",
       "title": "Upbit parent Dunamu faces South Korean regulator sanctions process: Report"
@@ -1951,6 +1926,31 @@
       "time": "20/07 18:45",
       "source": "**Cointelegraph**: Hut 8, IREN deals lift AI-focused Bitcoin mining stocks",
       "title": "Hut 8, IREN deals lift AI-focused Bitcoin mining stocks"
+    },
+    {
+      "time": "21/07 06:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Iron Ore Drops as China Steel Losses Deepen, Hormuz Risks Rise",
+      "title": "Iron Ore Drops as China Steel Losses Deepen, Hormuz Risks Rise"
+    },
+    {
+      "time": "21/07 06:00",
+      "source": "**Cointelegraph**: Binance & OKX users face $1900 fines in Vietnam, Coinbase in China? Asia Express",
+      "title": "Binance & OKX users face $1900 fines in Vietnam, Coinbase in China? Asia Express"
+    },
+    {
+      "time": "21/07 06:00",
+      "source": "\ud83d\udcf0 **BBC News**: US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers"
+    },
+    {
+      "time": "21/07 06:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Unleashes Broad State Support to Halt Tech Stock Selloff",
+      "title": "China Unleashes Broad State Support to Halt Tech Stock Selloff"
+    },
+    {
+      "time": "21/07 06:00",
+      "source": "\ud83d\udcf0 **BBC News**: Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks"
     }
   ]
 }
