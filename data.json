@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T11:15:36.854738+00:00",
+  "generated_at": "2026-07-21T11:30:37.045153+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1859,11 +1859,6 @@
   ],
   "news_alerts": [
     {
-      "time": "20/07 14:45",
-      "source": "**Cointelegraph**: Peter Brandt predicts the exact day Bitcoin\u2019s bear market will be over",
-      "title": "Peter Brandt predicts the exact day Bitcoin\u2019s bear market will be over"
-    },
-    {
       "time": "20/07 16:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Lionheart (CUB) Nears $400 Million Deal for Venezuela Oil Stake",
       "title": "Lionheart (CUB) Nears $400 Million Deal for Venezuela Oil Stake"
@@ -1957,6 +1952,11 @@
       "time": "21/07 12:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: US-Based Axiom Seeks Hong Kong IPO to Tap China\u2019s Biotech Boom",
       "title": "US-Based Axiom Seeks Hong Kong IPO to Tap China\u2019s Biotech Boom"
+    },
+    {
+      "time": "21/07 12:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Tether\u2019s Three-Way Crypto Deal Falls Apart, Mallers Steps Down",
+      "title": "Tether\u2019s Three-Way Crypto Deal Falls Apart, Mallers Steps Down"
     }
   ]
 }
