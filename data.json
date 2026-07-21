@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T14:30:36.914641+00:00",
+  "generated_at": "2026-07-21T14:45:36.884009+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1841,11 +1841,6 @@
   ],
   "news_alerts": [
     {
-      "time": "20/07 18:45",
-      "source": "**Cointelegraph**: Hut 8, IREN deals lift AI-focused Bitcoin mining stocks",
-      "title": "Hut 8, IREN deals lift AI-focused Bitcoin mining stocks"
-    },
-    {
       "time": "21/07 06:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Iron Ore Drops as China Steel Losses Deepen, Hormuz Risks Rise",
       "title": "Iron Ore Drops as China Steel Losses Deepen, Hormuz Risks Rise"
@@ -1939,6 +1934,11 @@
       "time": "21/07 15:30",
       "source": "**NYT World**: Trump Is Squeezing Canada. Don\u2019t Expect Carney to Roll Over.",
       "title": "Trump Is Squeezing Canada. Don\u2019t Expect Carney to Roll Over."
+    },
+    {
+      "time": "21/07 15:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Treasury Yields Hit Two-Month High as Oil Sparks Inflation Risk",
+      "title": "Treasury Yields Hit Two-Month High as Oil Sparks Inflation Risk"
     }
   ]
 }
