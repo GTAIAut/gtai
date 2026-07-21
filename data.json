@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T15:15:37.341685+00:00",
+  "generated_at": "2026-07-21T15:30:36.874034+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1832,11 +1832,6 @@
   "news_alerts": [
     {
       "time": "21/07 06:00",
-      "source": "**Cointelegraph**: Binance & OKX users face $1900 fines in Vietnam, Coinbase in China? Asia Express",
-      "title": "Binance & OKX users face $1900 fines in Vietnam, Coinbase in China? Asia Express"
-    },
-    {
-      "time": "21/07 06:00",
       "source": "\ud83d\udcf0 **BBC News**: US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
       "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers"
     },
@@ -1929,6 +1924,11 @@
       "time": "21/07 16:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: AMC Rolls Out Red Carpet for Debt Investors to Trumpet Rebound",
       "title": "AMC Rolls Out Red Carpet for Debt Investors to Trumpet Rebound"
+    },
+    {
+      "time": "21/07 16:30",
+      "source": "**Cointelegraph**: Bitcoin nears seven-week high as stocks ignore Iran strikes, Trump 10% tariff plans",
+      "title": "Bitcoin nears seven-week high as stocks ignore Iran strikes, Trump 10% tariff plans"
     }
   ]
 }
