@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T13:20:37.379115+00:00",
+  "generated_at": "2026-07-21T13:30:37.009670+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -43,12 +43,12 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 377,
-        "total": 388
+        "ok": 378,
+        "total": 389
       },
       "Registador de Decis\u00f5es": {
         "ok": 78,
-        "total": 90
+        "total": 91
       },
       "Analista T\u00e9cnico": {
         "ok": 115,
@@ -60,7 +60,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "655/685"
+    "all_sessions_rate": "656/687"
   },
   "equity_curve": [
     {
@@ -1124,8 +1124,8 @@
     {
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
-      "status": "running",
-      "created": "2026-07-21T13:20:33.290Z",
+      "status": "idle",
+      "created": "2026-07-21T13:21:44.912Z",
       "completed": ""
     },
     {
@@ -1138,8 +1138,8 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "running",
-      "created": "2026-07-21T09:40:48.420Z",
+      "status": "idle",
+      "created": "2026-07-21T13:20:50.767Z",
       "completed": ""
     },
     {
@@ -1854,11 +1854,6 @@
   ],
   "news_alerts": [
     {
-      "time": "20/07 17:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: DoubleLine Says Higher Bond Yields to Help Fed Keep Rates Steady",
-      "title": "DoubleLine Says Higher Bond Yields to Help Fed Keep Rates Steady"
-    },
-    {
       "time": "20/07 17:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: National Bank of Canada Weighs SRT Tied to Project Finance Deals",
       "title": "National Bank of Canada Weighs SRT Tied to Project Finance Deals"
@@ -1952,6 +1947,11 @@
       "time": "21/07 13:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: US Stock Futures Rise as Chipmaker Rebound Overshadows Iran War",
       "title": "US Stock Futures Rise as Chipmaker Rebound Overshadows Iran War"
+    },
+    {
+      "time": "21/07 14:30",
+      "source": "\ud83d\udcf0 **BBC News**: Russian warship carried out firing exercise off Plymouth coast",
+      "title": "Russian warship carried out firing exercise off Plymouth coast"
     }
   ]
 }
