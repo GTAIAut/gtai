@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T11:00:36.927633+00:00",
+  "generated_at": "2026-07-21T11:15:36.854738+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1859,16 +1859,6 @@
   ],
   "news_alerts": [
     {
-      "time": "20/07 11:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Alkegen Plans Prepackaged Bankruptcy in Deal for Fresh Cash",
-      "title": "Alkegen Plans Prepackaged Bankruptcy in Deal for Fresh Cash"
-    },
-    {
-      "time": "20/07 14:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Shapoorji Closes One of India\u2019s Biggest Private Credit Deals",
-      "title": "Shapoorji Closes One of India\u2019s Biggest Private Credit Deals"
-    },
-    {
       "time": "20/07 14:45",
       "source": "**Cointelegraph**: Peter Brandt predicts the exact day Bitcoin\u2019s bear market will be over",
       "title": "Peter Brandt predicts the exact day Bitcoin\u2019s bear market will be over"
@@ -1957,6 +1947,16 @@
       "time": "21/07 11:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Emerging Market Assets Rally on China Tech Support, Iran Talks",
       "title": "Emerging Market Assets Rally on China Tech Support, Iran Talks"
+    },
+    {
+      "time": "21/07 12:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: IEA Warns Mideast Hostilities Are Increasing Oil Supply Concerns",
+      "title": "IEA Warns Mideast Hostilities Are Increasing Oil Supply Concerns"
+    },
+    {
+      "time": "21/07 12:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: US-Based Axiom Seeks Hong Kong IPO to Tap China\u2019s Biotech Boom",
+      "title": "US-Based Axiom Seeks Hong Kong IPO to Tap China\u2019s Biotech Boom"
     }
   ]
 }
