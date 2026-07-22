@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T04:45:36.853409+00:00",
+  "generated_at": "2026-07-22T05:00:36.853918+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1831,26 +1831,6 @@
   ],
   "news_alerts": [
     {
-      "time": "21/07 06:00",
-      "source": "\ud83d\udcf0 **BBC News**: Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
-      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks"
-    },
-    {
-      "time": "21/07 08:00",
-      "source": "**Cointelegraph**: Binance & OKX users face $1,900 fines in Vietnam, Coinbase in China? Asia Express",
-      "title": "Binance & OKX users face $1,900 fines in Vietnam, Coinbase in China? Asia Express"
-    },
-    {
-      "time": "21/07 10:00",
-      "source": "**Politico**: South Carolina Republicans test Trump's clout in race for Graham's seat",
-      "title": "South Carolina Republicans test Trump's clout in race for Graham's seat"
-    },
-    {
-      "time": "21/07 11:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: The Great British Takeover Tops $60 Billion After Mitie Deal",
-      "title": "The Great British Takeover Tops $60 Billion After Mitie Deal"
-    },
-    {
       "time": "21/07 11:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Millikin University Sweetens Bond Deal By Adding 600-Bed Student Apartments",
       "title": "Millikin University Sweetens Bond Deal By Adding 600-Bed Student Apartments"
@@ -1929,6 +1909,26 @@
       "time": "21/07 17:30",
       "source": "**NYT World**: Trump Escalates Canada Tariffs as Mark Carney Holds Firm",
       "title": "Trump Escalates Canada Tariffs as Mark Carney Holds Firm"
+    },
+    {
+      "time": "22/07 06:00",
+      "source": "\ud83d\udcf0 **BBC News**: US renews strikes on Iran as Trump threatens to attack underground nuclear site",
+      "title": "US renews strikes on Iran as Trump threatens to attack underground nuclear site"
+    },
+    {
+      "time": "22/07 06:00",
+      "source": "\ud83d\udcf0 **BBC News**: Judge rules Trump must hand over records sought by BBC in defamation case",
+      "title": "Judge rules Trump must hand over records sought by BBC in defamation case"
+    },
+    {
+      "time": "22/07 06:00",
+      "source": "**Politico**: Trump-backed Jay Feely wins GOP primary in Arizona\u2019s battleground 1st District",
+      "title": "Trump-backed Jay Feely wins GOP primary in Arizona\u2019s battleground 1st District"
+    },
+    {
+      "time": "22/07 06:00",
+      "source": "**Cointelegraph**: CLARITY Act could help CFTC deal with prediction markets: Lawyer",
+      "title": "CLARITY Act could help CFTC deal with prediction markets: Lawyer"
     }
   ]
 }
