@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T16:00:37.169666+00:00",
+  "generated_at": "2026-07-22T16:15:37.026885+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1870,11 +1870,6 @@
   "news_alerts": [
     {
       "time": "22/07 06:00",
-      "source": "\ud83d\udcf0 **BBC News**: Judge rules Trump must hand over records sought by BBC in defamation case",
-      "title": "Judge rules Trump must hand over records sought by BBC in defamation case"
-    },
-    {
-      "time": "22/07 06:00",
       "source": "**Politico**: Trump-backed Jay Feely wins GOP primary in Arizona\u2019s battleground 1st District",
       "title": "Trump-backed Jay Feely wins GOP primary in Arizona\u2019s battleground 1st District"
     },
@@ -1967,6 +1962,11 @@
       "time": "22/07 16:00",
       "source": "\ud83d\udcf0 **BBC News**: US to announce deal allowing Saudi Arabia a nuclear programme",
       "title": "US to announce deal allowing Saudi Arabia a nuclear programme"
+    },
+    {
+      "time": "22/07 17:15",
+      "source": "**Cointelegraph**: BitGo, OTC Markets plan tokenized securities access for broker-dealers",
+      "title": "BitGo, OTC Markets plan tokenized securities access for broker-dealers"
     }
   ]
 }
