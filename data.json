@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T14:45:37.032929+00:00",
+  "generated_at": "2026-07-22T15:00:36.918798+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1869,16 +1869,6 @@
   ],
   "news_alerts": [
     {
-      "time": "21/07 17:30",
-      "source": "**NYT World**: Trump Escalates Canada Tariffs as Mark Carney Holds Firm",
-      "title": "Trump Escalates Canada Tariffs as Mark Carney Holds Firm"
-    },
-    {
-      "time": "22/07 06:00",
-      "source": "\ud83d\udcf0 **BBC News**: US renews strikes on Iran as Trump threatens to attack underground nuclear site",
-      "title": "US renews strikes on Iran as Trump threatens to attack underground nuclear site"
-    },
-    {
       "time": "22/07 06:00",
       "source": "\ud83d\udcf0 **BBC News**: Judge rules Trump must hand over records sought by BBC in defamation case",
       "title": "Judge rules Trump must hand over records sought by BBC in defamation case"
@@ -1967,6 +1957,16 @@
       "time": "22/07 15:45",
       "source": "**NYT World**: Trump\u2019s 50% Tariffs on Canada: What to Know, and What\u2019s Next",
       "title": "Trump\u2019s 50% Tariffs on Canada: What to Know, and What\u2019s Next"
+    },
+    {
+      "time": "22/07 16:00",
+      "source": "**NYT World**: Coveted U.S. Nuclear Deal Is a Coup for Saudi Crown Prince",
+      "title": "Coveted U.S. Nuclear Deal Is a Coup for Saudi Crown Prince"
+    },
+    {
+      "time": "22/07 16:00",
+      "source": "\ud83d\udcf0 **BBC News**: US to announce deal allowing Saudi Arabia a nuclear programme",
+      "title": "US to announce deal allowing Saudi Arabia a nuclear programme"
     }
   ]
 }
