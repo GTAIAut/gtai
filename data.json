@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T05:00:36.853918+00:00",
+  "generated_at": "2026-07-22T05:15:36.960909+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -58,8 +58,8 @@
         "total": 91
       },
       "Analista T\u00e9cnico": {
-        "ok": 115,
-        "total": 118
+        "ok": 116,
+        "total": 119
       },
       "Gestor de Risco": {
         "ok": 85,
@@ -67,7 +67,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "656/687"
+    "all_sessions_rate": "657/688"
   },
   "equity_curve": [
     {
@@ -1066,7 +1066,7 @@
     {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-21T13:12:40.265Z",
       "completed": ""
     },
@@ -1074,28 +1074,28 @@
       "id": "55882e4a",
       "agent": "Analista de Cripto",
       "status": "idle",
-      "created": "2026-07-21T13:10:02.649Z",
+      "created": "2026-07-22T05:12:39.437Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
       "status": "idle",
-      "created": "2026-07-21T13:07:52.443Z",
+      "created": "2026-07-22T05:09:02.524Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
       "status": "idle",
-      "created": "2026-07-21T13:03:23.334Z",
+      "created": "2026-07-22T05:02:16.219Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
       "status": "idle",
-      "created": "2026-07-21T13:05:33.778Z",
+      "created": "2026-07-22T05:06:12.538Z",
       "completed": ""
     },
     {
@@ -1108,7 +1108,7 @@
     {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-21T13:16:07.432Z",
       "completed": ""
     },
@@ -1831,11 +1831,6 @@
   ],
   "news_alerts": [
     {
-      "time": "21/07 11:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Millikin University Sweetens Bond Deal By Adding 600-Bed Student Apartments",
-      "title": "Millikin University Sweetens Bond Deal By Adding 600-Bed Student Apartments"
-    },
-    {
       "time": "21/07 11:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Emerging Market Assets Rally on China Tech Support, Iran Talks",
       "title": "Emerging Market Assets Rally on China Tech Support, Iran Talks"
@@ -1929,6 +1924,11 @@
       "time": "22/07 06:00",
       "source": "**Cointelegraph**: CLARITY Act could help CFTC deal with prediction markets: Lawyer",
       "title": "CLARITY Act could help CFTC deal with prediction markets: Lawyer"
+    },
+    {
+      "time": "22/07 06:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Copper Wavers Near $14,000 as Traders Watch for Trump\u2019s Tariff",
+      "title": "Copper Wavers Near $14,000 as Traders Watch for Trump\u2019s Tariff"
     }
   ]
 }
