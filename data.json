@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T14:30:37.020164+00:00",
+  "generated_at": "2026-07-22T14:45:37.032929+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1869,21 +1869,6 @@
   ],
   "news_alerts": [
     {
-      "time": "21/07 16:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: AMC Rolls Out Red Carpet for Debt Investors to Trumpet Rebound",
-      "title": "AMC Rolls Out Red Carpet for Debt Investors to Trumpet Rebound"
-    },
-    {
-      "time": "21/07 16:30",
-      "source": "**Cointelegraph**: Bitcoin nears seven-week high as stocks ignore Iran strikes, Trump 10% tariff plans",
-      "title": "Bitcoin nears seven-week high as stocks ignore Iran strikes, Trump 10% tariff plans"
-    },
-    {
-      "time": "21/07 17:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: US Yields Hit Two-Month High as Oil Sparks Inflation Risk",
-      "title": "US Yields Hit Two-Month High as Oil Sparks Inflation Risk"
-    },
-    {
       "time": "21/07 17:30",
       "source": "**NYT World**: Trump Escalates Canada Tariffs as Mark Carney Holds Firm",
       "title": "Trump Escalates Canada Tariffs as Mark Carney Holds Firm"
@@ -1967,6 +1952,21 @@
       "time": "22/07 14:30",
       "source": "\ud83d\udcf0 **BBC News**: US to announce deal allowing Saudi Arabia a nuclear programme, reports say",
       "title": "US to announce deal allowing Saudi Arabia a nuclear programme, reports say"
+    },
+    {
+      "time": "22/07 15:45",
+      "source": "**NYT World**: U.S.-Saudi Nuclear Deal Stokes Israeli Concerns of Mideast Arms Race",
+      "title": "U.S.-Saudi Nuclear Deal Stokes Israeli Concerns of Mideast Arms Race"
+    },
+    {
+      "time": "22/07 15:45",
+      "source": "**NYT World**: Coveted U.S. Nuclear Deal is a Coup for Saudi Crown Prince",
+      "title": "Coveted U.S. Nuclear Deal is a Coup for Saudi Crown Prince"
+    },
+    {
+      "time": "22/07 15:45",
+      "source": "**NYT World**: Trump\u2019s 50% Tariffs on Canada: What to Know, and What\u2019s Next",
+      "title": "Trump\u2019s 50% Tariffs on Canada: What to Know, and What\u2019s Next"
     }
   ]
 }
