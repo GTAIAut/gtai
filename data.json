@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T06:00:36.950578+00:00",
+  "generated_at": "2026-07-22T06:15:36.791199+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1863,11 +1863,6 @@
   "news_alerts": [
     {
       "time": "21/07 12:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: IEA Warns Mideast Hostilities Are Increasing Oil Supply Concerns",
-      "title": "IEA Warns Mideast Hostilities Are Increasing Oil Supply Concerns"
-    },
-    {
-      "time": "21/07 12:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: US-Based Axiom Seeks Hong Kong IPO to Tap China\u2019s Biotech Boom",
       "title": "US-Based Axiom Seeks Hong Kong IPO to Tap China\u2019s Biotech Boom"
     },
@@ -1960,6 +1955,11 @@
       "time": "22/07 07:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: FTSE 100 Live: Pound Makes Up Ground Ahead of Inflation Data",
       "title": "FTSE 100 Live: Pound Makes Up Ground Ahead of Inflation Data"
+    },
+    {
+      "time": "22/07 07:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: FTSE 100 Live: UK Inflation Slows More Than Expected in June",
+      "title": "FTSE 100 Live: UK Inflation Slows More Than Expected in June"
     }
   ]
 }
