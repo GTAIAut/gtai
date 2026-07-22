@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-22T05:15:36.960909+00:00",
+  "generated_at": "2026-07-22T05:22:54.629725+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -2210.55,
-    "total_pnl_pct": -4.42,
-    "cash_eur": 33751.77,
-    "invested_eur": 13440.67,
-    "portfolio_value": 49053.5,
-    "open_positions": 3,
+    "total_pnl_eur": -2398.42,
+    "total_pnl_pct": -4.8,
+    "cash_eur": 28991.61,
+    "invested_eur": 18200.83,
+    "portfolio_value": 47601.58,
+    "open_positions": 4,
     "total_trades": 99,
     "win_rate": 43.4,
     "total_wins": 43,
@@ -50,8 +50,8 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 378,
-        "total": 389
+        "ok": 379,
+        "total": 390
       },
       "Registador de Decis\u00f5es": {
         "ok": 78,
@@ -62,12 +62,12 @@
         "total": 119
       },
       "Gestor de Risco": {
-        "ok": 85,
-        "total": 89
+        "ok": 86,
+        "total": 90
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "657/688"
+    "all_sessions_rate": "659/690"
   },
   "equity_curve": [
     {
@@ -301,6 +301,10 @@
     {
       "date": "2026-07-21",
       "value": 49053.5
+    },
+    {
+      "date": "2026-07-22",
+      "value": 47601.58
     }
   ],
   "monthly_pnl": [
@@ -554,24 +558,29 @@
       "forecast": false
     },
     {
+      "date": "2026-07-22",
+      "value": 47601.58,
+      "forecast": false
+    },
+    {
       "date": "2026-08-21",
-      "value": 45759.42,
-      "lower": 45243.08,
-      "upper": 46275.77,
+      "value": 45531.73,
+      "lower": 44999.3,
+      "upper": 46064.16,
       "forecast": true
     },
     {
       "date": "2026-09-20",
-      "value": 43051.18,
-      "lower": 42534.84,
-      "upper": 43567.53,
+      "value": 42739.02,
+      "lower": 42206.59,
+      "upper": 43271.45,
       "forecast": true
     },
     {
       "date": "2026-10-20",
-      "value": 40342.94,
-      "lower": 39826.6,
-      "upper": 40859.28,
+      "value": 39946.31,
+      "lower": 39413.89,
+      "upper": 40478.74,
       "forecast": true
     }
   ],
@@ -865,6 +874,11 @@
       "date": "2026-07-21",
       "drawdown_pct": 2.99,
       "value": 49053.5
+    },
+    {
+      "date": "2026-07-22",
+      "drawdown_pct": 5.86,
+      "value": 47601.58
     }
   ],
   "positions": [
@@ -875,7 +889,7 @@
       "size": 0.3085,
       "invested": 5764.77,
       "leverage": 3,
-      "sl": 57500.0,
+      "sl": 57200.0,
       "tp1": 60000.0,
       "tp2": 62500.0,
       "budget_pct": 12.0,
@@ -892,7 +906,7 @@
       "size": 18.9152,
       "invested": 3837.95,
       "leverage": 3,
-      "sl": 625.0,
+      "sl": 635.0,
       "tp1": 574.0,
       "tp2": null,
       "budget_pct": 8.0,
@@ -918,6 +932,23 @@
       "at_tp1": false,
       "reason": "10Y yield a subir para maximos recentes pressiona preco de bonds inversamente; R/R 2:1",
       "opened_at": "2026-07-20T14:26:20.693578"
+    },
+    {
+      "ticker": "ETH",
+      "direction": "LONG",
+      "entry": 1686.94,
+      "size": 11.2871,
+      "invested": 4760.16,
+      "leverage": 4,
+      "sl": 1620.0,
+      "tp1": 1800.0,
+      "tp2": 1935.0,
+      "budget_pct": 10.0,
+      "confidence": 7,
+      "is_crypto": true,
+      "at_tp1": false,
+      "reason": "Nova posi\u00e7\u00e3o LONG: uptrend HH/HL, MACD bullish 47.3>33.9, RSI 68.5 com margem at\u00e9 overbought, volume alinhado 1.0x. WIN anterior +12.1% no mesmo ticker refor\u00e7a momentum. Sizing reduzido para 10% (dent",
+      "opened_at": "2026-07-22T06:22:50.394964"
     }
   ],
   "recent_trades": [
@@ -1066,8 +1097,8 @@
     {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
-      "status": "running",
-      "created": "2026-07-21T13:12:40.265Z",
+      "status": "idle",
+      "created": "2026-07-22T05:15:40.503Z",
       "completed": ""
     },
     {
@@ -1101,15 +1132,15 @@
     {
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
-      "status": "idle",
-      "created": "2026-07-21T13:21:44.912Z",
+      "status": "running",
+      "created": "2026-07-22T05:22:51.553Z",
       "completed": ""
     },
     {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
-      "status": "running",
-      "created": "2026-07-21T13:16:07.432Z",
+      "status": "idle",
+      "created": "2026-07-22T05:17:32.411Z",
       "completed": ""
     },
     {
