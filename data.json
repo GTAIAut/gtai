@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-07-22T13:15:37.055267+00:00",
+  "generated_at": "2026-07-22T13:23:16.343066+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -2441.88,
-    "total_pnl_pct": -4.88,
-    "cash_eur": 26613.71,
-    "invested_eur": 20578.74,
-    "portfolio_value": 47558.12,
-    "open_positions": 5,
-    "total_trades": 99,
-    "win_rate": 43.4,
-    "total_wins": 43,
+    "total_pnl_eur": -2598.07,
+    "total_pnl_pct": -5.2,
+    "cash_eur": 25044.68,
+    "invested_eur": 22179.03,
+    "portfolio_value": 47401.93,
+    "open_positions": 6,
+    "total_trades": 100,
+    "win_rate": 44.0,
+    "total_wins": 44,
     "total_losses": 56,
-    "avg_win": 40.89,
+    "avg_win": 41.66,
     "avg_loss": -103.69,
     "best_trade": {
       "id": 63,
@@ -50,8 +50,8 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 381,
-        "total": 392
+        "ok": 382,
+        "total": 393
       },
       "Registador de Decis\u00f5es": {
         "ok": 78,
@@ -62,12 +62,12 @@
         "total": 121
       },
       "Gestor de Risco": {
-        "ok": 87,
-        "total": 91
+        "ok": 88,
+        "total": 92
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "664/696"
+    "all_sessions_rate": "666/698"
   },
   "equity_curve": [
     {
@@ -309,6 +309,10 @@
     {
       "date": "2026-07-22",
       "value": 47558.12
+    },
+    {
+      "date": "2026-07-22",
+      "value": 47401.93
     }
   ],
   "monthly_pnl": [
@@ -322,7 +326,7 @@
     },
     {
       "month": "2026-07",
-      "pnl": -2296.62
+      "pnl": -2221.84
     }
   ],
   "ticker_pnl": [
@@ -363,16 +367,16 @@
       "pnl": 250.69
     },
     {
+      "ticker": "TLT",
+      "pnl": 160.37
+    },
+    {
       "ticker": "GLD",
       "pnl": 130.13
     },
     {
       "ticker": "IWM",
       "pnl": 92.96
-    },
-    {
-      "ticker": "TLT",
-      "pnl": 85.59
     },
     {
       "ticker": "INJ",
@@ -518,28 +522,28 @@
     },
     {
       "date": "2026-07-22",
-      "value": 47558.12,
+      "value": 47401.93,
       "forecast": false
     },
     {
       "date": "2026-08-21",
-      "value": 45404.67,
-      "lower": 44857.52,
-      "upper": 45951.81,
+      "value": 45268.52,
+      "lower": 44702.02,
+      "upper": 45835.02,
       "forecast": true
     },
     {
       "date": "2026-09-20",
-      "value": 42533.85,
-      "lower": 41986.71,
-      "upper": 43081.0,
+      "value": 42314.02,
+      "lower": 41747.53,
+      "upper": 42880.52,
       "forecast": true
     },
     {
       "date": "2026-10-20",
-      "value": 39663.04,
-      "lower": 39115.89,
-      "upper": 40210.19,
+      "value": 39359.52,
+      "lower": 38793.03,
+      "upper": 39926.02,
       "forecast": true
     }
   ],
@@ -843,6 +847,11 @@
       "date": "2026-07-22",
       "drawdown_pct": 5.94,
       "value": 47558.12
+    },
+    {
+      "date": "2026-07-22",
+      "drawdown_pct": 6.25,
+      "value": 47401.93
     }
   ],
   "positions": [
@@ -853,7 +862,7 @@
       "size": 0.3085,
       "invested": 5764.77,
       "leverage": 3,
-      "sl": 56400.0,
+      "sl": 56800.0,
       "tp1": 60000.0,
       "tp2": 62500.0,
       "budget_pct": 12.0,
@@ -870,7 +879,7 @@
       "size": 18.9152,
       "invested": 3837.95,
       "leverage": 3,
-      "sl": 635.0,
+      "sl": 628.0,
       "tp1": 574.0,
       "tp2": null,
       "budget_pct": 8.0,
@@ -881,33 +890,16 @@
       "opened_at": "2026-07-20T14:26:15.795673"
     },
     {
-      "ticker": "TLT",
-      "direction": "SHORT",
-      "entry": 73.99,
-      "size": 103.7409,
-      "invested": 3837.95,
-      "leverage": 2,
-      "sl": 75.5,
-      "tp1": 70.85,
-      "tp2": null,
-      "budget_pct": 8.0,
-      "confidence": 8,
-      "is_crypto": false,
-      "at_tp1": false,
-      "reason": "10Y yield a subir para maximos recentes pressiona preco de bonds inversamente; R/R 2:1",
-      "opened_at": "2026-07-20T14:26:20.693578"
-    },
-    {
       "ticker": "ETH",
       "direction": "LONG",
       "entry": 1686.94,
-      "size": 11.2871,
-      "invested": 4760.16,
+      "size": 3.9505,
+      "invested": 1666.06,
       "leverage": 4,
       "sl": 1640.0,
       "tp1": 1800.0,
       "tp2": 1935.0,
-      "budget_pct": 10.0,
+      "budget_pct": 3.5,
       "confidence": 7,
       "is_crypto": true,
       "at_tp1": false,
@@ -921,7 +913,7 @@
       "size": 7173.9784,
       "invested": 2377.91,
       "leverage": 3,
-      "sl": 0.88,
+      "sl": 0.94,
       "tp1": 1.2,
       "tp2": 1.45,
       "budget_pct": 5.0,
@@ -930,9 +922,50 @@
       "at_tp1": false,
       "reason": "Unica cripto no verde (+0.11%) num dia vermelho generalizado (BTC.D 56.8% a subir, F&G 33 Fear) - forca relativa genuina. R/R 1:1.9 TP1 / 1:4.2 TP2, acima do minimo 1.5:1. 3a posicao cripto dentro do ",
       "opened_at": "2026-07-22T10:32:37.904393"
+    },
+    {
+      "ticker": "GLD",
+      "direction": "LONG",
+      "entry": 328.26,
+      "size": 28.8805,
+      "invested": 4740.19,
+      "leverage": 2,
+      "sl": 318.0,
+      "tp1": 348.0,
+      "tp2": 358.0,
+      "budget_pct": 10.0,
+      "confidence": 8,
+      "is_crypto": false,
+      "at_tp1": false,
+      "reason": "Consenso un\u00e2nime dos 5 analistas (Macro, T\u00e9cnico, Equity, Cripto, Risco): hedge geopol\u00edtico com escalada Ucr\u00e2nia (demiss\u00e3o chefe militar) + tens\u00e3o Ir\u00e3o-Hormuz (Goldman prev\u00ea Brent>$120) + potencial ac",
+      "opened_at": "2026-07-22T14:23:10.461063"
+    },
+    {
+      "ticker": "USO",
+      "direction": "LONG",
+      "entry": 112.85,
+      "size": 67.2081,
+      "invested": 3792.15,
+      "leverage": 2,
+      "sl": 109.5,
+      "tp1": 119.5,
+      "tp2": 124.0,
+      "budget_pct": 8.0,
+      "confidence": 7,
+      "is_crypto": false,
+      "at_tp1": false,
+      "reason": "USO \u00e9 o melhor ticker hist\u00f3rico da carteira (80% win rate, +\u20ac394 acumulado). Risco geopol\u00edtico Ir\u00e3o/Hormuz ativo com Goldman a prever Brent>$120 em caso de escalada; SHORT anterior (#65) foi fechado p",
+      "opened_at": "2026-07-22T14:23:12.389473"
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "TLT",
+      "direction": "SHORT",
+      "pnl": 74.78,
+      "reason": "R/R a partir do pre\u00e7o atual caiu para 1.1:1 (abaixo do m\u00ednimo 1.5:1); TP1 \u20ac70.85 demasiado distante do movimento j\u00e1 capturado. Fecho com lucro +\u20ac70.78 (+1.8%) e liberta ~\u20ac3.9K de capital para redeploy com melhor R/R.",
+      "closed_at": "2026-07-22T14:23:07.979880"
+    },
     {
       "ticker": "ETH",
       "direction": "LONG",
@@ -1065,13 +1098,6 @@
       "pnl": 129.96,
       "reason": "\ud83d\udd34 STOP LOSS",
       "closed_at": "2026-07-01T14:40:55.341743"
-    },
-    {
-      "ticker": "BTC",
-      "direction": "LONG",
-      "pnl": -75.9,
-      "reason": "(#46) \u2014 perdedor -7.7%, MACD bearish, historico 0-24 BTC",
-      "closed_at": "2026-07-01T14:23:33.652454"
     }
   ],
   "recent_sessions": [
@@ -1113,21 +1139,21 @@
     {
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
-      "status": "idle",
-      "created": "2026-07-22T09:32:55.061Z",
+      "status": "running",
+      "created": "2026-07-22T13:22:13.510Z",
       "completed": ""
     },
     {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
-      "status": "running",
-      "created": "2026-07-22T09:26:14.128Z",
+      "status": "idle",
+      "created": "2026-07-22T13:17:41.080Z",
       "completed": ""
     },
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-22T09:42:46.468Z",
       "completed": ""
     },
@@ -1154,6 +1180,15 @@
       "date": "21/07/2026 10:35",
       "title": "POSTMORTEM conclu\u00eddo. Registo 63 (DOT LONG) criado. Score 4/10 \u2014 crypto continua a receber capital apesar de ser a classe mais perdedora (\u20ac-3.842). Al",
       "score": "4"
+    },
+    {
+      "type": "tp_hit",
+      "ticker": "TLT",
+      "direction": "SHORT",
+      "pnl": 74.78,
+      "reason": "R/R a partir do pre\u00e7o atual caiu para 1.1:1 (abaixo do m\u00ednimo 1.5:1); TP1 \u20ac70.85 demasiado distante do movimento j\u00e1 capturado. Fecho com lucro +\u20ac70.78 (+1.8%) e liberta ~\u20ac3.9K de capital para redeploy com melhor R/R.",
+      "date": "2026-07-22T14:23",
+      "id": 66
     },
     {
       "type": "sl_hit",
@@ -1676,15 +1711,6 @@
       "reason": "SHORT a lutar contra UPTREND RSI 77.4 \u2014 PTJ: nunca contra a tend\u00eancia. Liberta slot para AMD SHORT com melhor setup.",
       "date": "2026-05-12T18:54",
       "id": 23
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "AAPL",
-      "direction": "SHORT",
-      "pnl": -0.27,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-12T15:00",
-      "id": 26
     }
   ],
   "session_analysis": [
