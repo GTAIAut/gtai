@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T12:00:37.010908+00:00",
+  "generated_at": "2026-07-22T12:15:36.975577+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1843,11 +1843,6 @@
   ],
   "news_alerts": [
     {
-      "time": "21/07 15:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Nasdaq 100 Soars as Chipmaker Rebound Overshadows Iran War",
-      "title": "Nasdaq 100 Soars as Chipmaker Rebound Overshadows Iran War"
-    },
-    {
       "time": "21/07 15:30",
       "source": "**NYT World**: Trump Is Squeezing Canada. Don\u2019t Expect Carney to Roll Over.",
       "title": "Trump Is Squeezing Canada. Don\u2019t Expect Carney to Roll Over."
@@ -1941,6 +1936,11 @@
       "time": "22/07 12:00",
       "source": "\ud83d\udcf0 **BBC News**: Some food prices have fallen \u2013 but inflation expected to rise from here",
       "title": "Some food prices have fallen \u2013 but inflation expected to rise from here"
+    },
+    {
+      "time": "22/07 13:15",
+      "source": "**NYT World**: Expected U.S.-Saudi Nuclear Deal Fuels Israeli Concerns of Regional Arms Race",
+      "title": "Expected U.S.-Saudi Nuclear Deal Fuels Israeli Concerns of Regional Arms Race"
     }
   ]
 }
