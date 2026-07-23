@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T11:45:36.940630+00:00",
+  "generated_at": "2026-07-23T12:00:37.078465+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1857,16 +1857,6 @@
   ],
   "news_alerts": [
     {
-      "time": "22/07 18:15",
-      "source": "**NYT World**: How the Trump Administration\u2019s Nuclear Deal With Saudi Arabia May Work",
-      "title": "How the Trump Administration\u2019s Nuclear Deal With Saudi Arabia May Work"
-    },
-    {
-      "time": "22/07 18:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Warsh Leaves Bond Traders in the Dark on Next Week\u2019s Rate Move",
-      "title": "Warsh Leaves Bond Traders in the Dark on Next Week\u2019s Rate Move"
-    },
-    {
       "time": "23/07 06:00",
       "source": "**NYT World**: Iran War Live Updates: Iran Digs In After Latest Trump Threat on Civilian Targets",
       "title": "Iran War Live Updates: Iran Digs In After Latest Trump Threat on Civilian Targets"
@@ -1955,6 +1945,16 @@
       "time": "23/07 12:00",
       "source": "**Cointelegraph**: Bitcoin will get \u2018lift\u2019 from Hyperliquid, Robinhood in next crypto bull market: Bitwise exec",
       "title": "Bitcoin will get \u2018lift\u2019 from Hyperliquid, Robinhood in next crypto bull market: Bitwise exec"
+    },
+    {
+      "time": "23/07 13:00",
+      "source": "**Cointelegraph**: Bernstein says Bitcoin mining deals necessary for AI power crunch",
+      "title": "Bernstein says Bitcoin mining deals necessary for AI power crunch"
+    },
+    {
+      "time": "23/07 13:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: McCormick Will Add London Listing After Unilever Food Deal",
+      "title": "McCormick Will Add London Listing After Unilever Food Deal"
     }
   ]
 }
