@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-23T05:45:36.902897+00:00",
+  "generated_at": "2026-07-23T05:55:41.422722+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -2598.07,
-    "total_pnl_pct": -5.2,
-    "cash_eur": 25044.68,
-    "invested_eur": 22179.03,
-    "portfolio_value": 47401.93,
+    "total_pnl_eur": -2305.25,
+    "total_pnl_pct": -4.61,
+    "cash_eur": 20962.72,
+    "invested_eur": 26236.34,
+    "portfolio_value": 47694.75,
     "open_positions": 6,
-    "total_trades": 100,
-    "win_rate": 44.0,
+    "total_trades": 101,
+    "win_rate": 43.6,
     "total_wins": 44,
-    "total_losses": 56,
+    "total_losses": 57,
     "avg_win": 41.66,
-    "avg_loss": -103.69,
+    "avg_loss": -102.3,
     "best_trade": {
       "id": 63,
       "ticker": "ETH",
@@ -50,8 +50,8 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 382,
-        "total": 393
+        "ok": 383,
+        "total": 394
       },
       "Registador de Decis\u00f5es": {
         "ok": 78,
@@ -67,7 +67,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "669/702"
+    "all_sessions_rate": "670/703"
   },
   "equity_curve": [
     {
@@ -313,6 +313,10 @@
     {
       "date": "2026-07-22",
       "value": 47401.93
+    },
+    {
+      "date": "2026-07-23",
+      "value": 47694.75
     }
   ],
   "monthly_pnl": [
@@ -326,7 +330,7 @@
     },
     {
       "month": "2026-07",
-      "pnl": -2221.84
+      "pnl": -2246.49
     }
   ],
   "ticker_pnl": [
@@ -364,7 +368,7 @@
     },
     {
       "ticker": "ETH",
-      "pnl": 250.69
+      "pnl": 226.04
     },
     {
       "ticker": "TLT",
@@ -526,24 +530,29 @@
       "forecast": false
     },
     {
+      "date": "2026-07-23",
+      "value": 47694.75,
+      "forecast": false
+    },
+    {
       "date": "2026-08-22",
-      "value": 45268.52,
-      "lower": 44702.02,
-      "upper": 45835.02,
+      "value": 45101.75,
+      "lower": 44534.28,
+      "upper": 45669.22,
       "forecast": true
     },
     {
       "date": "2026-09-21",
-      "value": 42314.02,
-      "lower": 41747.53,
-      "upper": 42880.52,
+      "value": 42105.83,
+      "lower": 41538.35,
+      "upper": 42673.3,
       "forecast": true
     },
     {
       "date": "2026-10-21",
-      "value": 39359.52,
-      "lower": 38793.03,
-      "upper": 39926.02,
+      "value": 39109.91,
+      "lower": 38542.43,
+      "upper": 39677.38,
       "forecast": true
     }
   ],
@@ -852,6 +861,11 @@
       "date": "2026-07-22",
       "drawdown_pct": 6.25,
       "value": 47401.93
+    },
+    {
+      "date": "2026-07-23",
+      "drawdown_pct": 5.67,
+      "value": 47694.75
     }
   ],
   "positions": [
@@ -862,7 +876,7 @@
       "size": 0.3085,
       "invested": 5764.77,
       "leverage": 3,
-      "sl": 56800.0,
+      "sl": 56500.0,
       "tp1": 60000.0,
       "tp2": 62500.0,
       "budget_pct": 12.0,
@@ -888,23 +902,6 @@
       "at_tp1": false,
       "reason": "Yields 10Y a subir (+0.55%) + DXY forte pressionam growth/tech; convergencia de 3 analistas (Acoes, Forex, Risco); R/R 2:1",
       "opened_at": "2026-07-20T14:26:15.795673"
-    },
-    {
-      "ticker": "ETH",
-      "direction": "LONG",
-      "entry": 1686.94,
-      "size": 3.9505,
-      "invested": 1666.06,
-      "leverage": 4,
-      "sl": 1640.0,
-      "tp1": 1800.0,
-      "tp2": 1935.0,
-      "budget_pct": 3.5,
-      "confidence": 7,
-      "is_crypto": true,
-      "at_tp1": false,
-      "reason": "Nova posi\u00e7\u00e3o LONG: uptrend HH/HL, MACD bullish 47.3>33.9, RSI 68.5 com margem at\u00e9 overbought, volume alinhado 1.0x. WIN anterior +12.1% no mesmo ticker refor\u00e7a momentum. Sizing reduzido para 10% (dent",
-      "opened_at": "2026-07-22T06:22:50.394964"
     },
     {
       "ticker": "XRP",
@@ -956,9 +953,33 @@
       "at_tp1": false,
       "reason": "USO \u00e9 o melhor ticker hist\u00f3rico da carteira (80% win rate, +\u20ac394 acumulado). Risco geopol\u00edtico Ir\u00e3o/Hormuz ativo com Goldman a prever Brent>$120 em caso de escalada; SHORT anterior (#65) foi fechado p",
       "opened_at": "2026-07-22T14:23:12.389473"
+    },
+    {
+      "ticker": "ETH",
+      "direction": "SHORT",
+      "entry": 1680.7,
+      "size": 17.0267,
+      "invested": 5723.37,
+      "leverage": 5,
+      "sl": 1720.0,
+      "tp1": 1550.0,
+      "tp2": 1500.0,
+      "budget_pct": 12.0,
+      "confidence": 8,
+      "is_crypto": true,
+      "at_tp1": false,
+      "reason": "SHORT obrigat\u00f3rio da sess\u00e3o. RSI 70.5 overbought + BB 87% da banda [OVERBOUGHT] + MACD neutro a perder for\u00e7a + crypto market cap -0.9% 24h + BTC dominance a subir para 56.6% (canibaliza\u00e7\u00e3o de altcoins",
+      "opened_at": "2026-07-23T06:55:37.519561"
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "ETH",
+      "direction": "LONG",
+      "pnl": -24.65,
+      "reason": "Fechar LONG #67 antes de abrir SHORT \u2014 RSI 70.5 overbought, BB 87%, tend\u00eancia semanal bearish, ETH Dom a cair para 10%, WR hist\u00f3rico 0% neste ticker. Gestor de Risco recomendou reduzir de 3 para 2 posi\u00e7\u00f5es cripto correlacionadas antes de qualquer nova exposi\u00e7\u00e3o em ETH.",
+      "closed_at": "2026-07-23T06:55:35.745882"
+    },
     {
       "ticker": "TLT",
       "direction": "SHORT",
@@ -1091,23 +1112,9 @@
       "pnl": 92.83,
       "reason": "\ud83d\udd34 STOP LOSS",
       "closed_at": "2026-07-02T18:11:08.709090"
-    },
-    {
-      "ticker": "GLD",
-      "direction": "SHORT",
-      "pnl": 129.96,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "closed_at": "2026-07-01T14:40:55.341743"
     }
   ],
   "recent_sessions": [
-    {
-      "id": "14f33a21",
-      "agent": "Diretor de Investimentos",
-      "status": "error",
-      "created": "2026-07-23T05:31:04.564Z",
-      "completed": ""
-    },
     {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
@@ -1144,6 +1151,13 @@
       "completed": ""
     },
     {
+      "id": "14f33a21",
+      "agent": "Diretor de Investimentos",
+      "status": "idle",
+      "created": "2026-07-23T05:55:39.367Z",
+      "completed": ""
+    },
+    {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
@@ -1153,7 +1167,7 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-22T13:23:36.297Z",
       "completed": ""
     },
@@ -1180,6 +1194,15 @@
       "date": "21/07/2026 10:35",
       "title": "POSTMORTEM conclu\u00eddo. Registo 63 (DOT LONG) criado. Score 4/10 \u2014 crypto continua a receber capital apesar de ser a classe mais perdedora (\u20ac-3.842). Al",
       "score": "4"
+    },
+    {
+      "type": "close_partial",
+      "ticker": "ETH",
+      "direction": "LONG",
+      "pnl": -24.65,
+      "reason": "Fechar LONG #67 antes de abrir SHORT \u2014 RSI 70.5 overbought, BB 87%, tend\u00eancia semanal bearish, ETH Dom a cair para 10%, WR hist\u00f3rico 0% neste ticker. Gestor de Risco recomendou reduzir de 3 para 2 posi\u00e7\u00f5es cripto correlacionadas antes de qualquer nova exposi\u00e7\u00e3o em ETH.",
+      "date": "2026-07-23T06:55",
+      "id": 67
     },
     {
       "type": "tp_hit",
@@ -1702,15 +1725,6 @@
       "reason": "SHORT contra UPTREND confirmado (RSI 59.2, +0.62% hoje) \u2014 PTJ: nunca contra a tend\u00eancia. Posi\u00e7\u00e3o em perda leve (-0.82\u20ac) sem catalisador de revers\u00e3o. Acima limite 25% (28.1%).",
       "date": "2026-05-12T19:03",
       "id": 26
-    },
-    {
-      "type": "close",
-      "ticker": "SOL",
-      "direction": "SHORT",
-      "pnl": 3.91,
-      "reason": "SHORT a lutar contra UPTREND RSI 77.4 \u2014 PTJ: nunca contra a tend\u00eancia. Liberta slot para AMD SHORT com melhor setup.",
-      "date": "2026-05-12T18:54",
-      "id": 23
     }
   ],
   "session_analysis": [
