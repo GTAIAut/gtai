@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-07-23T15:30:37.124272+00:00",
+  "generated_at": "2026-07-23T15:45:37.058796+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -2342.64,
-    "total_pnl_pct": -4.69,
-    "cash_eur": 33310.76,
-    "invested_eur": 13827.79,
+    "total_pnl_eur": -2335.68,
+    "total_pnl_pct": -4.67,
+    "cash_eur": 35588.04,
+    "invested_eur": 11931.71,
     "portfolio_value": 47677.52,
-    "open_positions": 4,
-    "total_trades": 104,
-    "win_rate": 43.3,
-    "total_wins": 45,
+    "open_positions": 3,
+    "total_trades": 105,
+    "win_rate": 43.8,
+    "total_wins": 46,
     "total_losses": 59,
-    "avg_win": 48.01,
+    "avg_win": 55.25,
     "avg_loss": -104.64,
     "best_trade": {
       "id": 63,
@@ -338,7 +338,7 @@
     },
     {
       "month": "2026-07",
-      "pnl": -2261.68
+      "pnl": -1880.48
     }
   ],
   "ticker_pnl": [
@@ -351,12 +351,12 @@
       "pnl": -1268.33
     },
     {
-      "ticker": "SOL",
-      "pnl": -782.65
+      "ticker": "USO",
+      "pnl": 1102.66
     },
     {
-      "ticker": "USO",
-      "pnl": 721.46
+      "ticker": "SOL",
+      "pnl": -782.65
     },
     {
       "ticker": "AVAX",
@@ -937,26 +937,16 @@
       "at_tp1": false,
       "reason": "Consenso un\u00e2nime dos 5 analistas (Macro, T\u00e9cnico, Equity, Cripto, Risco): hedge geopol\u00edtico com escalada Ucr\u00e2nia (demiss\u00e3o chefe militar) + tens\u00e3o Ir\u00e3o-Hormuz (Goldman prev\u00ea Brent>$120) + potencial ac",
       "opened_at": "2026-07-22T14:23:10.461063"
-    },
-    {
-      "ticker": "USO",
-      "direction": "LONG",
-      "entry": 112.85,
-      "size": 33.6041,
-      "invested": 1896.08,
-      "leverage": 2,
-      "sl": 118.91,
-      "tp1": 119.5,
-      "tp2": 124.0,
-      "budget_pct": 8.0,
-      "confidence": 7,
-      "is_crypto": false,
-      "at_tp1": true,
-      "reason": "USO \u00e9 o melhor ticker hist\u00f3rico da carteira (80% win rate, +\u20ac394 acumulado). Risco geopol\u00edtico Ir\u00e3o/Hormuz ativo com Goldman a prever Brent>$120 em caso de escalada; SHORT anterior (#65) foi fechado p",
-      "opened_at": "2026-07-22T14:23:12.389473"
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "USO",
+      "direction": "LONG",
+      "pnl": 381.2,
+      "reason": "\ud83c\udfc6 TP2",
+      "closed_at": "2026-07-23T16:32:35.770059"
+    },
     {
       "ticker": "USO",
       "direction": "LONG",
@@ -1089,13 +1079,6 @@
       "pnl": -296.38,
       "reason": "Tese invalidada \u2014 BTC +2.59% reverteu fraqueza cripto. TAO +4.33% hoje, perda -19.8%. Gestor de Risco e sistema: FECHAR.",
       "closed_at": "2026-07-10T08:40:50.582013"
-    },
-    {
-      "ticker": "SOL",
-      "direction": "SHORT",
-      "pnl": -40.81,
-      "reason": "UPTREND + RSI 70 overbought. SHORT contra tendencia com SL \u20ac70 a 2.5%. Cortar perda, libertar slot crypto.",
-      "closed_at": "2026-07-09T10:44:03.275930"
     }
   ],
   "recent_sessions": [
@@ -1194,6 +1177,15 @@
       "date": "21/07/2026 10:35",
       "title": "POSTMORTEM conclu\u00eddo. Registo 63 (DOT LONG) criado. Score 4/10 \u2014 crypto continua a receber capital apesar de ser a classe mais perdedora (\u20ac-3.842). Al",
       "score": "4"
+    },
+    {
+      "type": "tp_hit",
+      "ticker": "USO",
+      "direction": "LONG",
+      "pnl": 381.2,
+      "reason": "\ud83c\udfc6 TP2",
+      "date": "2026-07-23T16:32",
+      "id": 70
     },
     {
       "type": "tp_hit",
@@ -1697,15 +1689,6 @@
       "pnl": -0.03,
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-12T22:42",
-      "id": 31
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": -0.09,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-12T22:32",
       "id": 31
     }
   ],
