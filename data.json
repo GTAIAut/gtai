@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T04:45:36.853939+00:00",
+  "generated_at": "2026-07-23T05:00:36.853919+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1869,26 +1869,6 @@
   ],
   "news_alerts": [
     {
-      "time": "22/07 06:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Copper Wavers Near $14,000 as Traders Watch for Trump\u2019s Tariff",
-      "title": "Copper Wavers Near $14,000 as Traders Watch for Trump\u2019s Tariff"
-    },
-    {
-      "time": "22/07 07:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: FTSE 100 Live: Pound Makes Up Ground Ahead of Inflation Data",
-      "title": "FTSE 100 Live: Pound Makes Up Ground Ahead of Inflation Data"
-    },
-    {
-      "time": "22/07 07:15",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: FTSE 100 Live: UK Inflation Slows More Than Expected in June",
-      "title": "FTSE 100 Live: UK Inflation Slows More Than Expected in June"
-    },
-    {
-      "time": "22/07 07:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Rubio, Jaishankar Urge Trade Deal Despite Pharma Tariff Threat",
-      "title": "Rubio, Jaishankar Urge Trade Deal Despite Pharma Tariff Threat"
-    },
-    {
       "time": "22/07 09:00",
       "source": "**NYT World**: Iran\u2019s Neighbors Long for a Deal, Any Deal, to End the War",
       "title": "Iran\u2019s Neighbors Long for a Deal, Any Deal, to End the War"
@@ -1967,6 +1947,26 @@
       "time": "22/07 18:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Warsh Leaves Bond Traders in the Dark on Next Week\u2019s Rate Move",
       "title": "Warsh Leaves Bond Traders in the Dark on Next Week\u2019s Rate Move"
+    },
+    {
+      "time": "23/07 06:00",
+      "source": "**NYT World**: Iran War Live Updates: Iran Digs In After Latest Trump Threat on Civilian Targets",
+      "title": "Iran War Live Updates: Iran Digs In After Latest Trump Threat on Civilian Targets"
+    },
+    {
+      "time": "23/07 06:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China\u2019s Semight Is Said to Mull Hong Kong Listing After 2,200% Stock Rise",
+      "title": "China\u2019s Semight Is Said to Mull Hong Kong Listing After 2,200% Stock Rise"
+    },
+    {
+      "time": "23/07 06:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: India Rate-Hike Odds Rise as Pricey Crude Stokes Inflation Risk",
+      "title": "India Rate-Hike Odds Rise as Pricey Crude Stokes Inflation Risk"
+    },
+    {
+      "time": "23/07 06:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Solar Lobby Says Fewer Installs Mark Sustainable Shift",
+      "title": "China Solar Lobby Says Fewer Installs Mark Sustainable Shift"
     }
   ]
 }
