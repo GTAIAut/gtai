@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T09:00:36.905062+00:00",
+  "generated_at": "2026-07-23T09:15:36.989242+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -58,8 +58,8 @@
         "total": 94
       },
       "Analista T\u00e9cnico": {
-        "ok": 120,
-        "total": 123
+        "ok": 121,
+        "total": 124
       },
       "Gestor de Risco": {
         "ok": 89,
@@ -67,7 +67,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "671/704"
+    "all_sessions_rate": "672/705"
   },
   "equity_curve": [
     {
@@ -1119,35 +1119,35 @@
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
-      "created": "2026-07-23T05:27:45.527Z",
+      "created": "2026-07-23T09:14:50.440Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
       "status": "idle",
-      "created": "2026-07-23T05:20:04.177Z",
+      "created": "2026-07-23T09:11:57.804Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
       "status": "idle",
-      "created": "2026-07-23T05:14:47.119Z",
+      "created": "2026-07-23T09:09:37.919Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "running",
-      "created": "2026-07-23T05:02:19.442Z",
+      "status": "idle",
+      "created": "2026-07-23T09:03:15.340Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
       "status": "idle",
-      "created": "2026-07-23T05:12:47.745Z",
+      "created": "2026-07-23T09:06:30.347Z",
       "completed": ""
     },
     {
@@ -1160,7 +1160,7 @@
     {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-23T05:30:43.717Z",
       "completed": ""
     },
