@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-23T09:15:36.989242+00:00",
+  "generated_at": "2026-07-23T09:22:04.743372+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -2305.25,
-    "total_pnl_pct": -4.61,
-    "cash_eur": 20962.72,
-    "invested_eur": 26236.34,
-    "portfolio_value": 47694.75,
-    "open_positions": 6,
-    "total_trades": 101,
-    "win_rate": 43.6,
+    "total_pnl_eur": -2392.16,
+    "total_pnl_pct": -4.78,
+    "cash_eur": 30181.54,
+    "invested_eur": 16675.02,
+    "portfolio_value": 47607.84,
+    "open_positions": 4,
+    "total_trades": 103,
+    "win_rate": 42.7,
     "total_wins": 44,
-    "total_losses": 57,
+    "total_losses": 59,
     "avg_win": 41.66,
-    "avg_loss": -102.3,
+    "avg_loss": -104.64,
     "best_trade": {
       "id": 63,
       "ticker": "ETH",
@@ -50,8 +50,8 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 383,
-        "total": 394
+        "ok": 384,
+        "total": 395
       },
       "Registador de Decis\u00f5es": {
         "ok": 79,
@@ -62,12 +62,12 @@
         "total": 124
       },
       "Gestor de Risco": {
-        "ok": 89,
-        "total": 93
+        "ok": 90,
+        "total": 94
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "672/705"
+    "all_sessions_rate": "674/707"
   },
   "equity_curve": [
     {
@@ -317,6 +317,10 @@
     {
       "date": "2026-07-23",
       "value": 47694.75
+    },
+    {
+      "date": "2026-07-23",
+      "value": 47607.84
     }
   ],
   "monthly_pnl": [
@@ -330,7 +334,7 @@
     },
     {
       "month": "2026-07",
-      "pnl": -2246.49
+      "pnl": -2588.99
     }
   ],
   "ticker_pnl": [
@@ -367,8 +371,8 @@
       "pnl": -258.38
     },
     {
-      "ticker": "ETH",
-      "pnl": 226.04
+      "ticker": "QQQ",
+      "pnl": -175.78
     },
     {
       "ticker": "TLT",
@@ -381,6 +385,10 @@
     {
       "ticker": "IWM",
       "pnl": 92.96
+    },
+    {
+      "ticker": "ETH",
+      "pnl": 56.62
     },
     {
       "ticker": "INJ",
@@ -409,10 +417,6 @@
     {
       "ticker": "AAPL",
       "pnl": -4.88
-    },
-    {
-      "ticker": "QQQ",
-      "pnl": -2.7
     },
     {
       "ticker": "SPY",
@@ -531,28 +535,28 @@
     },
     {
       "date": "2026-07-23",
-      "value": 47694.75,
+      "value": 47607.84,
       "forecast": false
     },
     {
       "date": "2026-08-22",
-      "value": 45101.75,
-      "lower": 44534.28,
-      "upper": 45669.22,
+      "value": 45028.5,
+      "lower": 44458.43,
+      "upper": 45598.57,
       "forecast": true
     },
     {
       "date": "2026-09-21",
-      "value": 42105.83,
-      "lower": 41538.35,
-      "upper": 42673.3,
+      "value": 41988.14,
+      "lower": 41418.07,
+      "upper": 42558.21,
       "forecast": true
     },
     {
       "date": "2026-10-21",
-      "value": 39109.91,
-      "lower": 38542.43,
-      "upper": 39677.38,
+      "value": 38947.79,
+      "lower": 38377.72,
+      "upper": 39517.86,
       "forecast": true
     }
   ],
@@ -866,6 +870,11 @@
       "date": "2026-07-23",
       "drawdown_pct": 5.67,
       "value": 47694.75
+    },
+    {
+      "date": "2026-07-23",
+      "drawdown_pct": 5.84,
+      "value": 47607.84
     }
   ],
   "positions": [
@@ -885,23 +894,6 @@
       "at_tp1": false,
       "reason": "RSI 54.3 zona saudavel, MACD bullish (262 vs -39), uptrend confirmado, preco acima do pivot diario (64486 vs 64512), Fear&Greed 29 = contrarian bullish pre-CPI. Volume fraco (0.7x) e historico ruim em",
       "opened_at": "2026-07-20T06:29:25.496513"
-    },
-    {
-      "ticker": "QQQ",
-      "direction": "SHORT",
-      "entry": 608.71,
-      "size": 18.9152,
-      "invested": 3837.95,
-      "leverage": 3,
-      "sl": 628.0,
-      "tp1": 574.0,
-      "tp2": null,
-      "budget_pct": 8.0,
-      "confidence": 8,
-      "is_crypto": false,
-      "at_tp1": false,
-      "reason": "Yields 10Y a subir (+0.55%) + DXY forte pressionam growth/tech; convergencia de 3 analistas (Acoes, Forex, Risco); R/R 2:1",
-      "opened_at": "2026-07-20T14:26:15.795673"
     },
     {
       "ticker": "XRP",
@@ -953,26 +945,23 @@
       "at_tp1": false,
       "reason": "USO \u00e9 o melhor ticker hist\u00f3rico da carteira (80% win rate, +\u20ac394 acumulado). Risco geopol\u00edtico Ir\u00e3o/Hormuz ativo com Goldman a prever Brent>$120 em caso de escalada; SHORT anterior (#65) foi fechado p",
       "opened_at": "2026-07-22T14:23:12.389473"
-    },
-    {
-      "ticker": "ETH",
-      "direction": "SHORT",
-      "entry": 1680.7,
-      "size": 17.0267,
-      "invested": 5723.37,
-      "leverage": 5,
-      "sl": 1720.0,
-      "tp1": 1550.0,
-      "tp2": 1500.0,
-      "budget_pct": 12.0,
-      "confidence": 8,
-      "is_crypto": true,
-      "at_tp1": false,
-      "reason": "SHORT obrigat\u00f3rio da sess\u00e3o. RSI 70.5 overbought + BB 87% da banda [OVERBOUGHT] + MACD neutro a perder for\u00e7a + crypto market cap -0.9% 24h + BTC dominance a subir para 56.6% (canibaliza\u00e7\u00e3o de altcoins",
-      "opened_at": "2026-07-23T06:55:37.519561"
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "ETH",
+      "direction": "SHORT",
+      "pnl": -169.42,
+      "reason": "SHORT #71 com SL a apenas 1.9% do pre\u00e7o vs ATR di\u00e1rio 3.1% \u2014 R/R assim\u00e9trico contra n\u00f3s, risco de stop-out for\u00e7ado elevado. ETH RSI 71 overbought mas MACD ainda sem cruzamento bearish confirmado. Consenso Cripto+Risco para fechar antes do SL.",
+      "closed_at": "2026-07-23T10:21:59.656867"
+    },
+    {
+      "ticker": "QQQ",
+      "direction": "SHORT",
+      "pnl": -173.08,
+      "reason": "SHORT #64 a perder -4.6% sem catalisador bearish \u2014 CPI m/m -0.2% desinflacion\u00e1rio favorece tech, risco de short squeeze. Consenso un\u00e2nime dos analistas (Equity, Forex, Macro) para fechar.",
+      "closed_at": "2026-07-23T10:21:59.366332"
+    },
     {
       "ticker": "ETH",
       "direction": "LONG",
@@ -1098,20 +1087,6 @@
       "pnl": -7.57,
       "reason": "\ud83d\udd34 STOP LOSS",
       "closed_at": "2026-07-08T02:06:58.691334"
-    },
-    {
-      "ticker": "BTC",
-      "direction": "LONG",
-      "pnl": 111.99,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "closed_at": "2026-07-06T13:20:12.454512"
-    },
-    {
-      "ticker": "IWM",
-      "direction": "LONG",
-      "pnl": 92.83,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "closed_at": "2026-07-02T18:11:08.709090"
     }
   ],
   "recent_sessions": [
@@ -1154,20 +1129,20 @@
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
       "status": "idle",
-      "created": "2026-07-23T05:55:39.367Z",
+      "created": "2026-07-23T09:22:03.485Z",
       "completed": ""
     },
     {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
-      "status": "running",
-      "created": "2026-07-23T05:30:43.717Z",
+      "status": "idle",
+      "created": "2026-07-23T09:18:07.824Z",
       "completed": ""
     },
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-23T06:02:49.863Z",
       "completed": ""
     },
@@ -1202,6 +1177,24 @@
       "date": "21/07/2026 10:35",
       "title": "POSTMORTEM conclu\u00eddo. Registo 63 (DOT LONG) criado. Score 4/10 \u2014 crypto continua a receber capital apesar de ser a classe mais perdedora (\u20ac-3.842). Al",
       "score": "4"
+    },
+    {
+      "type": "close",
+      "ticker": "QQQ",
+      "direction": "SHORT",
+      "pnl": -173.08,
+      "reason": "SHORT #64 a perder -4.6% sem catalisador bearish \u2014 CPI m/m -0.2% desinflacion\u00e1rio favorece tech, risco de short squeeze. Consenso un\u00e2nime dos analistas (Equity, Forex, Macro) para fechar.",
+      "date": "2026-07-23T10:21",
+      "id": 64
+    },
+    {
+      "type": "close",
+      "ticker": "ETH",
+      "direction": "SHORT",
+      "pnl": -169.42,
+      "reason": "SHORT #71 com SL a apenas 1.9% do pre\u00e7o vs ATR di\u00e1rio 3.1% \u2014 R/R assim\u00e9trico contra n\u00f3s, risco de stop-out for\u00e7ado elevado. ETH RSI 71 overbought mas MACD ainda sem cruzamento bearish confirmado. Consenso Cripto+Risco para fechar antes do SL.",
+      "date": "2026-07-23T10:21",
+      "id": 71
     },
     {
       "type": "close_partial",
@@ -1706,24 +1699,6 @@
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-12T19:31",
       "id": 29
-    },
-    {
-      "type": "sl_hit",
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": 1.85,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-05-12T19:11",
-      "id": 24
-    },
-    {
-      "type": "sl_hit",
-      "ticker": "AVAX",
-      "direction": "SHORT",
-      "pnl": 2.51,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-05-12T19:11",
-      "id": 25
     }
   ],
   "session_analysis": [
