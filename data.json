@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T16:45:36.903158+00:00",
+  "generated_at": "2026-07-23T04:00:37.119412+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -526,21 +526,21 @@
       "forecast": false
     },
     {
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "value": 45268.52,
       "lower": 44702.02,
       "upper": 45835.02,
       "forecast": true
     },
     {
-      "date": "2026-09-20",
+      "date": "2026-09-21",
       "value": 42314.02,
       "lower": 41747.53,
       "upper": 42880.52,
       "forecast": true
     },
     {
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "value": 39359.52,
       "lower": 38793.03,
       "upper": 39926.02,
@@ -1869,16 +1869,6 @@
   ],
   "news_alerts": [
     {
-      "time": "22/07 06:00",
-      "source": "**Politico**: Trump-backed Jay Feely wins GOP primary in Arizona\u2019s battleground 1st District",
-      "title": "Trump-backed Jay Feely wins GOP primary in Arizona\u2019s battleground 1st District"
-    },
-    {
-      "time": "22/07 06:00",
-      "source": "**Cointelegraph**: CLARITY Act could help CFTC deal with prediction markets: Lawyer",
-      "title": "CLARITY Act could help CFTC deal with prediction markets: Lawyer"
-    },
-    {
       "time": "22/07 06:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Copper Wavers Near $14,000 as Traders Watch for Trump\u2019s Tariff",
       "title": "Copper Wavers Near $14,000 as Traders Watch for Trump\u2019s Tariff"
@@ -1967,6 +1957,16 @@
       "time": "22/07 17:15",
       "source": "**Cointelegraph**: BitGo, OTC Markets plan tokenized securities access for broker-dealers",
       "title": "BitGo, OTC Markets plan tokenized securities access for broker-dealers"
+    },
+    {
+      "time": "22/07 18:15",
+      "source": "**NYT World**: How the Trump Administration\u2019s Nuclear Deal With Saudi Arabia May Work",
+      "title": "How the Trump Administration\u2019s Nuclear Deal With Saudi Arabia May Work"
+    },
+    {
+      "time": "22/07 18:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Warsh Leaves Bond Traders in the Dark on Next Week\u2019s Rate Move",
+      "title": "Warsh Leaves Bond Traders in the Dark on Next Week\u2019s Rate Move"
     }
   ]
 }
