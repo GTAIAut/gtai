@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T09:30:37.000362+00:00",
+  "generated_at": "2026-07-23T09:45:36.966663+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -54,8 +54,8 @@
         "total": 395
       },
       "Registador de Decis\u00f5es": {
-        "ok": 79,
-        "total": 94
+        "ok": 80,
+        "total": 95
       },
       "Analista T\u00e9cnico": {
         "ok": 121,
@@ -67,7 +67,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "674/707"
+    "all_sessions_rate": "675/708"
   },
   "equity_curve": [
     {
@@ -1143,7 +1143,7 @@
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
       "status": "idle",
-      "created": "2026-07-23T06:02:49.863Z",
+      "created": "2026-07-23T09:31:35.415Z",
       "completed": ""
     },
     {
@@ -1857,16 +1857,6 @@
   ],
   "news_alerts": [
     {
-      "time": "22/07 15:45",
-      "source": "**NYT World**: Trump\u2019s 50% Tariffs on Canada: What to Know, and What\u2019s Next",
-      "title": "Trump\u2019s 50% Tariffs on Canada: What to Know, and What\u2019s Next"
-    },
-    {
-      "time": "22/07 16:00",
-      "source": "**NYT World**: Coveted U.S. Nuclear Deal Is a Coup for Saudi Crown Prince",
-      "title": "Coveted U.S. Nuclear Deal Is a Coup for Saudi Crown Prince"
-    },
-    {
       "time": "22/07 16:00",
       "source": "\ud83d\udcf0 **BBC News**: US to announce deal allowing Saudi Arabia a nuclear programme",
       "title": "US to announce deal allowing Saudi Arabia a nuclear programme"
@@ -1955,6 +1945,16 @@
       "time": "23/07 10:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Victoria Wins Bondholder Support for Debt Deal After HSBC U-Turn",
       "title": "Victoria Wins Bondholder Support for Debt Deal After HSBC U-Turn"
+    },
+    {
+      "time": "23/07 10:45",
+      "source": "**NYT World**: U.S.-Saudi Deal Prompts Fears of a Nuclear Arms Race",
+      "title": "U.S.-Saudi Deal Prompts Fears of a Nuclear Arms Race"
+    },
+    {
+      "time": "23/07 10:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Victoria Plc Wins Support for Debt Deal After HSBC U-Turn",
+      "title": "Victoria Plc Wins Support for Debt Deal After HSBC U-Turn"
     }
   ]
 }
