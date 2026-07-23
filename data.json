@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T05:30:37.754980+00:00",
+  "generated_at": "2026-07-23T05:45:36.902897+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -62,12 +62,12 @@
         "total": 123
       },
       "Gestor de Risco": {
-        "ok": 88,
-        "total": 92
+        "ok": 89,
+        "total": 93
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "668/701"
+    "all_sessions_rate": "669/702"
   },
   "equity_curve": [
     {
@@ -1102,6 +1102,13 @@
   ],
   "recent_sessions": [
     {
+      "id": "14f33a21",
+      "agent": "Diretor de Investimentos",
+      "status": "error",
+      "created": "2026-07-23T05:31:04.564Z",
+      "completed": ""
+    },
+    {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
@@ -1137,17 +1144,10 @@
       "completed": ""
     },
     {
-      "id": "14f33a21",
-      "agent": "Diretor de Investimentos",
-      "status": "idle",
-      "created": "2026-07-22T13:23:16.880Z",
-      "completed": ""
-    },
-    {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
-      "created": "2026-07-22T13:17:41.080Z",
+      "created": "2026-07-23T05:30:43.717Z",
       "completed": ""
     },
     {
@@ -1869,11 +1869,6 @@
   ],
   "news_alerts": [
     {
-      "time": "22/07 11:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Stumbling Stock Rally Looks to Earnings for Second Half Boost",
-      "title": "Stumbling Stock Rally Looks to Earnings for Second Half Boost"
-    },
-    {
       "time": "22/07 12:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Namibia Fuel Retailer Nasan Sees Oil Growth After Vitol Deal",
       "title": "Namibia Fuel Retailer Nasan Sees Oil Growth After Vitol Deal"
@@ -1967,6 +1962,11 @@
       "time": "23/07 06:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: BNP Paribas Stock Traders Ride Wall Street Rally With 43% Gain",
       "title": "BNP Paribas Stock Traders Ride Wall Street Rally With 43% Gain"
+    },
+    {
+      "time": "23/07 06:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Bond Rally Shows Weak Economic Sentiment Before Politburo",
+      "title": "China Bond Rally Shows Weak Economic Sentiment Before Politburo"
     }
   ]
 }
