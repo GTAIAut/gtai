@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T13:00:37.335245+00:00",
+  "generated_at": "2026-07-23T13:15:36.838941+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -58,8 +58,8 @@
         "total": 95
       },
       "Analista T\u00e9cnico": {
-        "ok": 121,
-        "total": 124
+        "ok": 122,
+        "total": 125
       },
       "Gestor de Risco": {
         "ok": 90,
@@ -67,7 +67,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "675/708"
+    "all_sessions_rate": "676/709"
   },
   "equity_curve": [
     {
@@ -1107,22 +1107,22 @@
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
-      "status": "idle",
-      "created": "2026-07-23T09:09:37.919Z",
+      "status": "error",
+      "created": "2026-07-23T13:12:36.157Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "running",
-      "created": "2026-07-23T09:03:15.340Z",
+      "status": "idle",
+      "created": "2026-07-23T13:03:15.443Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
       "status": "idle",
-      "created": "2026-07-23T09:06:30.347Z",
+      "created": "2026-07-23T13:07:19.873Z",
       "completed": ""
     },
     {
@@ -1865,11 +1865,6 @@
   ],
   "news_alerts": [
     {
-      "time": "23/07 06:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Solar Lobby Says Fewer Installs Mark Sustainable Shift",
-      "title": "China Solar Lobby Says Fewer Installs Mark Sustainable Shift"
-    },
-    {
       "time": "23/07 06:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Crop Prices Hit 3-Year High as Black Sea Attacks, Heat Stoke Food Inflation",
       "title": "Crop Prices Hit 3-Year High as Black Sea Attacks, Heat Stoke Food Inflation"
@@ -1963,6 +1958,11 @@
       "time": "23/07 14:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: US Treasury Yields Rise to 2026 Highs as Oil Gains Spark Fed Bet",
       "title": "US Treasury Yields Rise to 2026 Highs as Oil Gains Spark Fed Bet"
+    },
+    {
+      "time": "23/07 14:15",
+      "source": "\ud83d\udcf0 **BBC News**: Saudis must recognise Israel for nuclear deal, says Trump",
+      "title": "Saudis must recognise Israel for nuclear deal, says Trump"
     }
   ]
 }
