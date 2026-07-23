@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-07-23T13:45:37.931681+00:00",
+  "generated_at": "2026-07-23T14:00:36.983426+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -2322.48,
-    "total_pnl_pct": -4.64,
-    "cash_eur": 31087.38,
-    "invested_eur": 15723.86,
+    "total_pnl_eur": -2342.64,
+    "total_pnl_pct": -4.69,
+    "cash_eur": 33310.76,
+    "invested_eur": 13827.79,
     "portfolio_value": 47677.52,
     "open_positions": 4,
-    "total_trades": 103,
-    "win_rate": 42.7,
-    "total_wins": 44,
+    "total_trades": 104,
+    "win_rate": 43.3,
+    "total_wins": 45,
     "total_losses": 59,
-    "avg_win": 41.66,
+    "avg_win": 48.01,
     "avg_loss": -104.64,
     "best_trade": {
       "id": 63,
@@ -50,12 +50,12 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 385,
-        "total": 396
+        "ok": 386,
+        "total": 397
       },
       "Registador de Decis\u00f5es": {
-        "ok": 80,
-        "total": 95
+        "ok": 81,
+        "total": 96
       },
       "Analista T\u00e9cnico": {
         "ok": 122,
@@ -67,7 +67,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "679/712"
+    "all_sessions_rate": "681/714"
   },
   "equity_curve": [
     {
@@ -338,7 +338,7 @@
     },
     {
       "month": "2026-07",
-      "pnl": -2588.99
+      "pnl": -2261.68
     }
   ],
   "ticker_pnl": [
@@ -355,16 +355,16 @@
       "pnl": -782.65
     },
     {
+      "ticker": "USO",
+      "pnl": 721.46
+    },
+    {
       "ticker": "AVAX",
       "pnl": -619.54
     },
     {
       "ticker": "NEAR",
       "pnl": -436.04
-    },
-    {
-      "ticker": "USO",
-      "pnl": 394.15
     },
     {
       "ticker": "TAO",
@@ -942,21 +942,28 @@
       "ticker": "USO",
       "direction": "LONG",
       "entry": 112.85,
-      "size": 67.2081,
-      "invested": 3792.15,
+      "size": 33.6041,
+      "invested": 1896.08,
       "leverage": 2,
-      "sl": 109.5,
+      "sl": 118.91,
       "tp1": 119.5,
       "tp2": 124.0,
       "budget_pct": 8.0,
       "confidence": 7,
       "is_crypto": false,
-      "at_tp1": false,
+      "at_tp1": true,
       "reason": "USO \u00e9 o melhor ticker hist\u00f3rico da carteira (80% win rate, +\u20ac394 acumulado). Risco geopol\u00edtico Ir\u00e3o/Hormuz ativo com Goldman a prever Brent>$120 em caso de escalada; SHORT anterior (#65) foi fechado p",
       "opened_at": "2026-07-22T14:23:12.389473"
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "USO",
+      "direction": "LONG",
+      "pnl": 327.31,
+      "reason": "\u2705 TP1 (50%)",
+      "closed_at": "2026-07-23T14:52:02.108231"
+    },
     {
       "ticker": "ETH",
       "direction": "SHORT",
@@ -1089,13 +1096,6 @@
       "pnl": -40.81,
       "reason": "UPTREND + RSI 70 overbought. SHORT contra tendencia com SL \u20ac70 a 2.5%. Cortar perda, libertar slot crypto.",
       "closed_at": "2026-07-09T10:44:03.275930"
-    },
-    {
-      "ticker": "SOL",
-      "direction": "LONG",
-      "pnl": -7.57,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "closed_at": "2026-07-08T02:06:58.691334"
     }
   ],
   "recent_sessions": [
@@ -1137,8 +1137,8 @@
     {
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
-      "status": "running",
-      "created": "2026-07-23T13:44:38.046Z",
+      "status": "idle",
+      "created": "2026-07-23T13:46:26.594Z",
       "completed": ""
     },
     {
@@ -1152,7 +1152,7 @@
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
       "status": "idle",
-      "created": "2026-07-23T09:31:35.415Z",
+      "created": "2026-07-23T13:47:14.056Z",
       "completed": ""
     },
     {
@@ -1194,6 +1194,15 @@
       "date": "21/07/2026 10:35",
       "title": "POSTMORTEM conclu\u00eddo. Registo 63 (DOT LONG) criado. Score 4/10 \u2014 crypto continua a receber capital apesar de ser a classe mais perdedora (\u20ac-3.842). Al",
       "score": "4"
+    },
+    {
+      "type": "tp_hit",
+      "ticker": "USO",
+      "direction": "LONG",
+      "pnl": 327.31,
+      "reason": "\u2705 TP1 (50%)",
+      "date": "2026-07-23T14:52",
+      "id": 70
     },
     {
       "type": "close",
@@ -1698,15 +1707,6 @@
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-12T22:32",
       "id": 31
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "SOL",
-      "direction": "SHORT",
-      "pnl": -0.02,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-12T19:41",
-      "id": 29
     }
   ],
   "session_analysis": [
