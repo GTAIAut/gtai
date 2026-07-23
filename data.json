@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T08:45:36.960893+00:00",
+  "generated_at": "2026-07-23T09:00:36.905062+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1139,7 +1139,7 @@
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-23T05:02:19.442Z",
       "completed": ""
     },
@@ -1187,6 +1187,14 @@
     }
   ],
   "activity_feed": [
+    {
+      "type": "session",
+      "session_type": "MANHA",
+      "session_num": 110,
+      "date": "23/07/2026 06:55",
+      "title": "Postmortem conclu\u00eddo. An\u00e1lise cr\u00edtica publicada na issue. Trade register atualizado com os novos registos (3-6). Score de qualidade: 6/10. Alertas ati",
+      "score": ""
+    },
     {
       "type": "session",
       "session_type": "MEIODIA",
@@ -1716,18 +1724,17 @@
       "reason": "\ud83d\udd34 STOP LOSS",
       "date": "2026-05-12T19:11",
       "id": 25
-    },
-    {
-      "type": "close",
-      "ticker": "AAPL",
-      "direction": "SHORT",
-      "pnl": -0.6,
-      "reason": "SHORT contra UPTREND confirmado (RSI 59.2, +0.62% hoje) \u2014 PTJ: nunca contra a tend\u00eancia. Posi\u00e7\u00e3o em perda leve (-0.82\u20ac) sem catalisador de revers\u00e3o. Acima limite 25% (28.1%).",
-      "date": "2026-05-12T19:03",
-      "id": 26
     }
   ],
   "session_analysis": [
+    {
+      "session_type": "MANHA",
+      "session_num": 110,
+      "date": "23/07/2026 06:55",
+      "summary": "Postmortem conclu\u00eddo. An\u00e1lise cr\u00edtica publicada na issue. Trade register atualizado com os novos registos (#3-#6). Score de qualidade: 6/10. Alertas ativos: BTC (10% WR) e ETH (14% WR) \u2014 leverage excessivo em ETH SHORT. Ver [GTAA-1361](/GTAA/issues/GTAA-1361) para an\u00e1lise completa.",
+      "trades": [],
+      "findings": []
+    },
     {
       "session_type": "MEIODIA",
       "session_num": 105,
@@ -1871,14 +1878,6 @@
         "- **R/R QQQ**: 1.71:1 \u2705 acima do m\u00ednimo 1.5:1",
         "- **R/R USO**: 2.05:1 \u2705 excelente"
       ]
-    },
-    {
-      "session_type": "TARDE",
-      "session_num": 87,
-      "date": "10/07/2026 17:04",
-      "summary": "Postmortem conclu\u00eddo e publicado como coment\u00e1rio. Score: 6/10. Principal preocupa\u00e7\u00e3o: SOL LONG aberto por press\u00e3o de cash deployment com confidence 7 + leverage 5x \u2014 risco comportamental identificado. Recomenda\u00e7\u00e3o: adicionar vetos autom\u00e1ticos para MACD flat e volume abaixo da m\u00e9dia.",
-      "trades": [],
-      "findings": []
     }
   ],
   "news_alerts": [
