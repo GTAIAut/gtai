@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T05:55:41.422722+00:00",
+  "generated_at": "2026-07-23T06:00:37.046150+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1167,7 +1167,7 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "running",
+      "status": "idle",
       "created": "2026-07-22T13:23:36.297Z",
       "completed": ""
     },
@@ -1884,11 +1884,6 @@
   "news_alerts": [
     {
       "time": "22/07 12:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Namibia Fuel Retailer Nasan Sees Oil Growth After Vitol Deal",
-      "title": "Namibia Fuel Retailer Nasan Sees Oil Growth After Vitol Deal"
-    },
-    {
-      "time": "22/07 12:00",
       "source": "\ud83d\udcf0 **BBC News**: Some food prices have fallen \u2013 but inflation expected to rise from here",
       "title": "Some food prices have fallen \u2013 but inflation expected to rise from here"
     },
@@ -1981,6 +1976,11 @@
       "time": "23/07 06:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Bond Rally Shows Weak Economic Sentiment Before Politburo",
       "title": "China Bond Rally Shows Weak Economic Sentiment Before Politburo"
+    },
+    {
+      "time": "23/07 07:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Curbs Loan Structure Widely Used by Distressed Developers",
+      "title": "China Curbs Loan Structure Widely Used by Distressed Developers"
     }
   ]
 }
