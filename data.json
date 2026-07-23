@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T12:45:36.867879+00:00",
+  "generated_at": "2026-07-23T13:00:37.335245+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1114,7 +1114,7 @@
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-23T09:03:15.340Z",
       "completed": ""
     },
@@ -1162,6 +1162,14 @@
     }
   ],
   "activity_feed": [
+    {
+      "type": "session",
+      "session_type": "MEIODIA",
+      "session_num": 111,
+      "date": "23/07/2026 10:22",
+      "title": "POSTMORTEM \u2014 Sess\u00e3o MEIODIA 111 \u2014 23/07/2026",
+      "score": ""
+    },
     {
       "type": "session",
       "session_type": "MANHA",
@@ -1690,18 +1698,30 @@
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-12T19:41",
       "id": 29
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "SOL",
-      "direction": "SHORT",
-      "pnl": 0.12,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-12T19:31",
-      "id": 29
     }
   ],
   "session_analysis": [
+    {
+      "session_type": "MEIODIA",
+      "session_num": 111,
+      "date": "23/07/2026 10:22",
+      "summary": "## POSTMORTEM \u2014 Sess\u00e3o MEIODIA #111 \u2014 23/07/2026\n\n### \u26a0\ufe0f ALERTAS ATIVADOS\n\n**\ud83d\udea8 BTC com 10% WR (1/10, -\u20ac1268) recebeu pyramiding LONG com 5x leverage.** Ticker com hist\u00f3rico comprovadamente perdedor.\n\n**\ud83d\udea8 \u00daltimos 5 trades: 20% WR (1 win, 4 losses).** Tend\u00eancia descendente \u2014 aten\u00e7\u00e3o.\n\n---\n\n### AN\u00c1LISE TRADE A TRADE\n\n**\u2705 CLOSE QQQ SHORT #64** \u2014 Correto. CPI m/m -0.2% desinflacion\u00e1rio \u00e9 catalisador bullish para tech. Manter short contra o momentum macro seria erro.\n\n**\u2705 CLOSE ETH SHORT #71** \u2014 Correto no fecho, mas o erro foi na abertura. SL a 1.9% vs ATR 3.1% \u00e9 viola\u00e7\u00e3o estrutural. Risco devia ter vetado o setup inicial.\n\n**\u26a0\ufe0f OPEN BTC LONG #62 Pyramid** \u2014 Decis\u00e3o mais preocupante da sess\u00e3o:\n- BTC: 10% WR, pior ticker do portfolio\n- Refor\u00e7o porque \"j\u00e1 est\u00e1 a ganhar +7.6%\" = vi\u00e9s de confirma\u00e7\u00e3",
+      "trades": [
+        {
+          "ticker": "SL",
+          "action": "SL desalinhado ATR",
+          "detail": "ETH SHORT #71",
+          "assessment": "\u274c Fechado (aprendizagem)"
+        }
+      ],
+      "findings": [
+        "**\u2705 CLOSE QQQ SHORT #64** \u2014 Correto. CPI m/m -0.2% desinflacion\u00e1rio \u00e9 catalisador bullish para tech. Manter short contra o momentum macro seria erro.",
+        "**\u2705 CLOSE ETH SHORT #71** \u2014 Correto no fecho, mas o erro foi na abertura. SL a 1.9% vs ATR 3.1% \u00e9 viola\u00e7\u00e3o estrutural. Risco devia ter vetado o setup inicial.",
+        "**\u26a0\ufe0f OPEN BTC LONG #62 Pyramid** \u2014 Decis\u00e3o mais preocupante da sess\u00e3o:",
+        "| SL desalinhado ATR | ETH SHORT #71 | \u274c Fechado (aprendizagem) |",
+        "- **ECB 13:15** \u2014 sem prepara\u00e7\u00e3o de setup para EUR/USD"
+      ]
+    },
     {
       "session_type": "MANHA",
       "session_num": 110,
@@ -1841,31 +1861,9 @@
       "findings": [
         "**AN\u00c1LISE DE POSTMORTEM CONCLU\u00cdDA**\\n\\n**Score: 8.5/10** \u2014 diversifica\u00e7\u00e3o estrat\u00e9gica exemplar com framework multi-driver (t\u00e9cnico + macro + catalisador).\\n\\n**Li\u00e7\u00f5es principais:**\\n1. Consolidar fram"
       ]
-    },
-    {
-      "session_type": "TARDE",
-      "session_num": 89,
-      "date": "13/07/2026 15:45",
-      "summary": "## \ud83d\udcca AN\u00c1LISE CR\u00cdTICA \u2014 Sess\u00e3o TARDE #89 (13/07/2026 15:45)\n\n### 1. CONTEXTO MACRO E CONSIST\u00caNCIA\n- **QQQ SHORT**: justificado (downtrend + MACD bearish) \u2192 alinhado com ambiente de cautela em tech\n- **USO LONG**: catalisador geoestrat\u00e9gico v\u00e1lido (tens\u00e3o Hormuz) \u2192 hedge contra incerteza energ\u00e9tica\n- **Gest\u00e3o de risco**: redu\u00e7\u00e3o de concentra\u00e7\u00e3o SOL/BNB (49.8% \u2192 ~30% estimado) demonstra disciplina\n\n### 2. RESPEITO POR LIMITES DE RISCO\n- **R/R QQQ**: 1.71:1 \u2705 acima do m\u00ednimo 1.5:1\n- **R/R USO**: 2.05:1 \u2705 excelente\n- **Limites por classe**: cripto reduzido para n\u00edveis seguros ap\u00f3s parcial closes\n\n### 3. OPORTUNIDADES APROVEITADAS/FALHADAS\n\u2705 **APROVEITADAS**:\n- Hedge geoestrat\u00e9gico (USO) aproveitando catalisador imediato\n- Desalavancagem proativa de cripto antes de poss\u00edvel corre\u00e7\u00e3o\n- Timing def",
-      "trades": [],
-      "findings": [
-        "- **QQQ SHORT**: justificado (downtrend + MACD bearish) \u2192 alinhado com ambiente de cautela em tech",
-        "- **R/R QQQ**: 1.71:1 \u2705 acima do m\u00ednimo 1.5:1",
-        "- **R/R USO**: 2.05:1 \u2705 excelente"
-      ]
     }
   ],
   "news_alerts": [
-    {
-      "time": "23/07 06:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China\u2019s Semight Is Said to Mull Hong Kong Listing After 2,200% Stock Rise",
-      "title": "China\u2019s Semight Is Said to Mull Hong Kong Listing After 2,200% Stock Rise"
-    },
-    {
-      "time": "23/07 06:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: India Rate-Hike Odds Rise as Pricey Crude Stokes Inflation Risk",
-      "title": "India Rate-Hike Odds Rise as Pricey Crude Stokes Inflation Risk"
-    },
     {
       "time": "23/07 06:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Solar Lobby Says Fewer Installs Mark Sustainable Shift",
@@ -1955,6 +1953,16 @@
       "time": "23/07 13:15",
       "source": "**NYT World**: U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race",
       "title": "U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race"
+    },
+    {
+      "time": "23/07 14:00",
+      "source": "**Cointelegraph**: BitMEX token crashes 90% as exchange announces shutdown",
+      "title": "BitMEX token crashes 90% as exchange announces shutdown"
+    },
+    {
+      "time": "23/07 14:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: US Treasury Yields Rise to 2026 Highs as Oil Gains Spark Fed Bet",
+      "title": "US Treasury Yields Rise to 2026 Highs as Oil Gains Spark Fed Bet"
     }
   ]
 }
