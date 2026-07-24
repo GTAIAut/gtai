@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-24T05:15:36.940537+00:00",
+  "generated_at": "2026-07-24T05:17:06.691206+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -2335.68,
-    "total_pnl_pct": -4.67,
-    "cash_eur": 35588.04,
-    "invested_eur": 11931.71,
-    "portfolio_value": 47677.52,
-    "open_positions": 3,
+    "total_pnl_eur": -2212.16,
+    "total_pnl_pct": -4.42,
+    "cash_eur": 29853.5,
+    "invested_eur": 17666.25,
+    "portfolio_value": 47787.84,
+    "open_positions": 4,
     "total_trades": 105,
     "win_rate": 43.8,
     "total_wins": 46,
@@ -50,8 +50,8 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 386,
-        "total": 397
+        "ok": 387,
+        "total": 398
       },
       "Registador de Decis\u00f5es": {
         "ok": 81,
@@ -67,7 +67,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "683/716"
+    "all_sessions_rate": "684/717"
   },
   "equity_curve": [
     {
@@ -325,6 +325,10 @@
     {
       "date": "2026-07-23",
       "value": 47677.52
+    },
+    {
+      "date": "2026-07-24",
+      "value": 47787.84
     }
   ],
   "monthly_pnl": [
@@ -543,24 +547,29 @@
       "forecast": false
     },
     {
+      "date": "2026-07-24",
+      "value": 47787.84,
+      "forecast": false
+    },
+    {
       "date": "2026-08-23",
-      "value": 44973.23,
-      "lower": 44403.16,
-      "upper": 45543.31,
+      "value": 44848.13,
+      "lower": 44281.74,
+      "upper": 45414.51,
       "forecast": true
     },
     {
       "date": "2026-09-22",
-      "value": 41899.35,
-      "lower": 41329.27,
-      "upper": 42469.43,
+      "value": 41760.68,
+      "lower": 41194.3,
+      "upper": 42327.06,
       "forecast": true
     },
     {
       "date": "2026-10-22",
-      "value": 38825.47,
-      "lower": 38255.39,
-      "upper": 39395.54,
+      "value": 38673.24,
+      "lower": 38106.86,
+      "upper": 39239.62,
       "forecast": true
     }
   ],
@@ -884,6 +893,11 @@
       "date": "2026-07-23",
       "drawdown_pct": 5.71,
       "value": 47677.52
+    },
+    {
+      "date": "2026-07-24",
+      "drawdown_pct": 5.49,
+      "value": 47787.84
     }
   ],
   "positions": [
@@ -937,6 +951,23 @@
       "at_tp1": false,
       "reason": "Consenso un\u00e2nime dos 5 analistas (Macro, T\u00e9cnico, Equity, Cripto, Risco): hedge geopol\u00edtico com escalada Ucr\u00e2nia (demiss\u00e3o chefe militar) + tens\u00e3o Ir\u00e3o-Hormuz (Goldman prev\u00ea Brent>$120) + potencial ac",
       "opened_at": "2026-07-22T14:23:10.461063"
+    },
+    {
+      "ticker": "ETH",
+      "direction": "SHORT",
+      "entry": 1651.14,
+      "size": 13.8923,
+      "invested": 5734.54,
+      "leverage": 4,
+      "sl": 1695.66,
+      "tp1": 1575.0,
+      "tp2": 1511.16,
+      "budget_pct": 12.0,
+      "confidence": 8,
+      "is_crypto": true,
+      "at_tp1": false,
+      "reason": "Consenso un\u00e2nime T\u00e9cnico+Forex+Cripto+Risco. Regime RISK-OFF em transi\u00e7\u00e3o: VIX 18.7 (+12%), oil shock >$100, gold a quebrar correla\u00e7\u00e3o (-2% em risk-off = liquidity squeeze), yields 10Y a subir (+0.99%",
+      "opened_at": "2026-07-24T06:17:02.674473"
     }
   ],
   "recent_trades": [
@@ -1083,13 +1114,6 @@
   ],
   "recent_sessions": [
     {
-      "id": "14f33a21",
-      "agent": "Diretor de Investimentos",
-      "status": "running",
-      "created": "2026-07-23T13:46:26.594Z",
-      "completed": ""
-    },
-    {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
@@ -1125,6 +1149,13 @@
       "completed": ""
     },
     {
+      "id": "14f33a21",
+      "agent": "Diretor de Investimentos",
+      "status": "idle",
+      "created": "2026-07-24T05:17:04.909Z",
+      "completed": ""
+    },
+    {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
@@ -1134,7 +1165,7 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-23T13:47:14.056Z",
       "completed": ""
     },
