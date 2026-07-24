@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T12:15:36.926108+00:00",
+  "generated_at": "2026-07-24T12:30:37.056618+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1862,11 +1862,6 @@
   "news_alerts": [
     {
       "time": "23/07 15:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Dollar Jumps on Haven Flows as Middle East War Intensifies",
-      "title": "Dollar Jumps on Haven Flows as Middle East War Intensifies"
-    },
-    {
-      "time": "23/07 15:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Dow Says Iran War Could Boost Guidance as Supply Chain Shielded",
       "title": "Dow Says Iran War Could Boost Guidance as Supply Chain Shielded"
     },
@@ -1959,6 +1954,11 @@
       "time": "24/07 10:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Tanker Exits Red Sea Dark as China Ship Heads Toward Strait",
       "title": "Tanker Exits Red Sea Dark as China Ship Heads Toward Strait"
+    },
+    {
+      "time": "24/07 13:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Momentum Crash Hits YOLO Traders\u2019 Returns by Most in Four Years",
+      "title": "Momentum Crash Hits YOLO Traders\u2019 Returns by Most in Four Years"
     }
   ]
 }
