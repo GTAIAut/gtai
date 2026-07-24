@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T08:30:36.835516+00:00",
+  "generated_at": "2026-07-24T08:45:37.006000+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1887,11 +1887,6 @@
   ],
   "news_alerts": [
     {
-      "time": "23/07 14:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: US Treasury Yields Rise to 2026 Highs as Oil Gains Spark Fed Bet",
-      "title": "US Treasury Yields Rise to 2026 Highs as Oil Gains Spark Fed Bet"
-    },
-    {
       "time": "23/07 14:15",
       "source": "\ud83d\udcf0 **BBC News**: Saudis must recognise Israel for nuclear deal, says Trump",
       "title": "Saudis must recognise Israel for nuclear deal, says Trump"
@@ -1985,6 +1980,11 @@
       "time": "24/07 08:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Rushes to Buy East Russian Oil as Mideast Risks Grow",
       "title": "China Rushes to Buy East Russian Oil as Mideast Risks Grow"
+    },
+    {
+      "time": "24/07 09:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Victoria Plc Slumps to \u00a3326 Million Loss as Debt Deal Bites",
+      "title": "Victoria Plc Slumps to \u00a3326 Million Loss as Debt Deal Bites"
     }
   ]
 }
