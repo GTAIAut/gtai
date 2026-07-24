@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T04:45:36.766786+00:00",
+  "generated_at": "2026-07-24T05:00:37.139416+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1106,7 +1106,7 @@
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-23T13:03:15.443Z",
       "completed": ""
     },
@@ -1154,6 +1154,14 @@
     }
   ],
   "activity_feed": [
+    {
+      "type": "session",
+      "session_type": "TARDE",
+      "session_num": 112,
+      "date": "23/07/2026 14:45",
+      "title": "Postmortem conclu\u00eddo. An\u00e1lise cr\u00edtica publicada com 4 alertas (BTC 10% WR, WR global 42.7%, GLD R/R violado, ETH 12.5% WR). Score: 4/10. 5 li\u00e7\u00f5es acio",
+      "score": "4"
+    },
     {
       "type": "session",
       "session_type": "MEIODIA",
@@ -1681,18 +1689,19 @@
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-13T02:24",
       "id": 31
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": -0.03,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-12T22:42",
-      "id": 31
     }
   ],
   "session_analysis": [
+    {
+      "session_type": "TARDE",
+      "session_num": 112,
+      "date": "23/07/2026 14:45",
+      "summary": "Postmortem conclu\u00eddo. An\u00e1lise cr\u00edtica publicada com 4 alertas (BTC 10% WR, WR global 42.7%, GLD R/R violado, ETH 12.5% WR). Score: 4/10. 5 li\u00e7\u00f5es acion\u00e1veis para as pr\u00f3ximas 3 sess\u00f5es.",
+      "trades": [],
+      "findings": [
+        "Postmortem conclu\u00eddo. An\u00e1lise cr\u00edtica publicada com 4 alertas (BTC 10% WR, WR global 42.7%, GLD R/R violado, ETH 12.5% WR). Score: 4/10. 5 li\u00e7\u00f5es acion\u00e1veis para as pr\u00f3ximas 3 sess\u00f5es."
+      ]
+    },
     {
       "session_type": "MEIODIA",
       "session_num": 111,
@@ -1843,44 +1852,9 @@
         "- EURUSD: R/R 1.83:1 \u2705",
         "| SOL | -\u20ac783 (maior perda) | N\u00e3o abriu (bom) | Correto evitar SOL |"
       ]
-    },
-    {
-      "session_type": "TARDE",
-      "session_num": 91,
-      "date": "14/07/2026 14:21",
-      "summary": "**AN\u00c1LISE DE POSTMORTEM CONCLU\u00cdDA**\\n\\n**Score: 8.5/10** \u2014 diversifica\u00e7\u00e3o estrat\u00e9gica exemplar com framework multi-driver (t\u00e9cnico + macro + catalisador).\\n\\n**Li\u00e7\u00f5es principais:**\\n1. Consolidar framework tripla camada como protocolo padr\u00e3o\\n2. Manter gest\u00e3o de budget/leverage baseada em hist\u00f3rico por ticker\\n3. Manter disciplina de R/R (2.16:1 consistente)\\n\\n**Trades abertos:**\\n\u2022 QQQ LONG: R/R 2.16:1 \u2014 oversold extremo p\u00f3s-CPI \u2705\\n\u2022 BTC LONG: R/R 2.16:1 \u2014 alinhamento regime RISK-ON com risco ajustado \u2705\\n\u2022 USO LONG: R/R ~1.5:1 \u2014 catalisador geopol\u00edtico Trump Hormuz \u2705\\n\\n**Registo completo dispon\u00edvel no hist\u00f3rico do Departamento.**",
-      "trades": [],
-      "findings": [
-        "**AN\u00c1LISE DE POSTMORTEM CONCLU\u00cdDA**\\n\\n**Score: 8.5/10** \u2014 diversifica\u00e7\u00e3o estrat\u00e9gica exemplar com framework multi-driver (t\u00e9cnico + macro + catalisador).\\n\\n**Li\u00e7\u00f5es principais:**\\n1. Consolidar fram"
-      ]
     }
   ],
   "news_alerts": [
-    {
-      "time": "23/07 09:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Tankers Reach Red Sea Chokepoint Despite Houthi Threat",
-      "title": "China Tankers Reach Red Sea Chokepoint Despite Houthi Threat"
-    },
-    {
-      "time": "23/07 10:30",
-      "source": "**NYT World**: U.S.-Saudi Deal Prompts Fears of a World With Looser Nuclear Rules",
-      "title": "U.S.-Saudi Deal Prompts Fears of a World With Looser Nuclear Rules"
-    },
-    {
-      "time": "23/07 10:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Victoria Wins Bondholder Support for Debt Deal After HSBC U-Turn",
-      "title": "Victoria Wins Bondholder Support for Debt Deal After HSBC U-Turn"
-    },
-    {
-      "time": "23/07 10:45",
-      "source": "**NYT World**: U.S.-Saudi Deal Prompts Fears of a Nuclear Arms Race",
-      "title": "U.S.-Saudi Deal Prompts Fears of a Nuclear Arms Race"
-    },
-    {
-      "time": "23/07 10:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Victoria Plc Wins Support for Debt Deal After HSBC U-Turn",
-      "title": "Victoria Plc Wins Support for Debt Deal After HSBC U-Turn"
-    },
     {
       "time": "23/07 11:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: McCormick Plans to Add a London Listing After Unilever Food Deal",
@@ -1955,6 +1929,31 @@
       "time": "23/07 18:00",
       "source": "**Cointelegraph**: Here\u2019s why the CLARITY Act\u2019s ethics deal may be so hard to reach",
       "title": "Here\u2019s why the CLARITY Act\u2019s ethics deal may be so hard to reach"
+    },
+    {
+      "time": "24/07 06:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Global Bonds Are Reeling as Oil Surge Renews Inflation Threat",
+      "title": "Global Bonds Are Reeling as Oil Surge Renews Inflation Threat"
+    },
+    {
+      "time": "24/07 06:00",
+      "source": "\ud83d\udcf0 **BBC News**: US imposes tariffs on dozens of trade partners, citing forced labour concerns",
+      "title": "US imposes tariffs on dozens of trade partners, citing forced labour concerns"
+    },
+    {
+      "time": "24/07 06:00",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Korean Stocks Sink as Chipmakers Drop on Middle East, China IPO",
+      "title": "Korean Stocks Sink as Chipmakers Drop on Middle East, China IPO"
+    },
+    {
+      "time": "24/07 06:00",
+      "source": "**Politico**: Rob Bonta on blocking the Paramount merger, CNN concerns and Trump\u2019s DOJ",
+      "title": "Rob Bonta on blocking the Paramount merger, CNN concerns and Trump\u2019s DOJ"
+    },
+    {
+      "time": "24/07 06:00",
+      "source": "**Cointelegraph**: Gemini sent $10M in Bitcoin to Trump PAC after joint motion with CFTC",
+      "title": "Gemini sent $10M in Bitcoin to Trump PAC after joint motion with CFTC"
     }
   ]
 }
