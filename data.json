@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T06:00:37.002289+00:00",
+  "generated_at": "2026-07-24T06:15:37.077301+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1887,16 +1887,6 @@
   ],
   "news_alerts": [
     {
-      "time": "23/07 12:00",
-      "source": "**Cointelegraph**: Bitcoin will get \u2018lift\u2019 from Hyperliquid, Robinhood in next crypto bull market: Bitwise exec",
-      "title": "Bitcoin will get \u2018lift\u2019 from Hyperliquid, Robinhood in next crypto bull market: Bitwise exec"
-    },
-    {
-      "time": "23/07 13:00",
-      "source": "**Cointelegraph**: Bernstein says Bitcoin mining deals necessary for AI power crunch",
-      "title": "Bernstein says Bitcoin mining deals necessary for AI power crunch"
-    },
-    {
       "time": "23/07 13:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: McCormick Will Add London Listing After Unilever Food Deal",
       "title": "McCormick Will Add London Listing After Unilever Food Deal"
@@ -1985,6 +1975,16 @@
       "time": "24/07 06:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Rushes to Buy East Russian Oil as Middle East Risks Grow",
       "title": "China Rushes to Buy East Russian Oil as Middle East Risks Grow"
+    },
+    {
+      "time": "24/07 07:15",
+      "source": "\ud83d\udcf0 **BBC News**: US hits dozens of trading partners with new wave of tariffs",
+      "title": "US hits dozens of trading partners with new wave of tariffs"
+    },
+    {
+      "time": "24/07 07:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Tanker Exits Red Sea Dark as Another China Ship Heads to Strait",
+      "title": "Tanker Exits Red Sea Dark as Another China Ship Heads to Strait"
     }
   ]
 }
