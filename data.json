@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T13:33:27.040071+00:00",
+  "generated_at": "2026-07-24T13:45:36.899733+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -55,7 +55,7 @@
       },
       "Registador de Decis\u00f5es": {
         "ok": 82,
-        "total": 98
+        "total": 99
       },
       "Analista T\u00e9cnico": {
         "ok": 125,
@@ -67,7 +67,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "692/726"
+    "all_sessions_rate": "692/727"
   },
   "equity_curve": [
     {
@@ -1153,8 +1153,8 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "running",
-      "created": "2026-07-24T09:46:19.778Z",
+      "status": "error",
+      "created": "2026-07-24T13:33:39.219Z",
       "completed": ""
     },
     {
@@ -1857,11 +1857,6 @@
   ],
   "news_alerts": [
     {
-      "time": "23/07 15:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Dow Says Iran War Could Boost Guidance as Supply Chain Shielded",
-      "title": "Dow Says Iran War Could Boost Guidance as Supply Chain Shielded"
-    },
-    {
       "time": "23/07 16:15",
       "source": "**NYT World**: Iran War Live Updates: Attacks in Red Sea Send Oil Prices Over $100 a Barrel",
       "title": "Iran War Live Updates: Attacks in Red Sea Send Oil Prices Over $100 a Barrel"
@@ -1955,6 +1950,11 @@
       "time": "24/07 13:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Momentum Crash Hits YOLO Traders\u2019 Returns by Most in Four Years",
       "title": "Momentum Crash Hits YOLO Traders\u2019 Returns by Most in Four Years"
+    },
+    {
+      "time": "24/07 14:45",
+      "source": "**Cointelegraph**: A quantum roadmap would push Bitcoin much higher: Charles Edwards",
+      "title": "A quantum roadmap would push Bitcoin much higher: Charles Edwards"
     }
   ]
 }
