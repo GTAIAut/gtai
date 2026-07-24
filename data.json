@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-24T13:30:36.945770+00:00",
+  "generated_at": "2026-07-24T13:33:27.040071+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -2363.68,
-    "total_pnl_pct": -4.73,
-    "cash_eur": 35907.66,
-    "invested_eur": 11901.48,
-    "portfolio_value": 47642.16,
-    "open_positions": 3,
-    "total_trades": 106,
-    "win_rate": 44.3,
+    "total_pnl_eur": -2216.46,
+    "total_pnl_pct": -4.43,
+    "cash_eur": 37201.65,
+    "invested_eur": 10474.73,
+    "portfolio_value": 47783.54,
+    "open_positions": 2,
+    "total_trades": 107,
+    "win_rate": 43.9,
     "total_wins": 47,
-    "total_losses": 59,
+    "total_losses": 60,
     "avg_win": 60.23,
-    "avg_loss": -104.64,
+    "avg_loss": -105.11,
     "best_trade": {
       "id": 63,
       "ticker": "ETH",
@@ -333,6 +333,10 @@
     {
       "date": "2026-07-24",
       "value": 47642.16
+    },
+    {
+      "date": "2026-07-24",
+      "value": 47783.54
     }
   ],
   "monthly_pnl": [
@@ -346,7 +350,7 @@
     },
     {
       "month": "2026-07",
-      "pnl": -1591.09
+      "pnl": -1723.85
     }
   ],
   "ticker_pnl": [
@@ -389,6 +393,10 @@
     {
       "ticker": "TLT",
       "pnl": 160.37
+    },
+    {
+      "ticker": "XRP",
+      "pnl": -132.76
     },
     {
       "ticker": "GLD",
@@ -552,28 +560,28 @@
     },
     {
       "date": "2026-07-24",
-      "value": 47642.16,
+      "value": 47783.54,
       "forecast": false
     },
     {
       "date": "2026-08-23",
-      "value": 44808.08,
-      "lower": 44243.54,
-      "upper": 45372.61,
+      "value": 44790.48,
+      "lower": 44229.65,
+      "upper": 45351.32,
       "forecast": true
     },
     {
       "date": "2026-09-22",
-      "value": 41696.65,
-      "lower": 41132.11,
-      "upper": 42261.19,
+      "value": 41668.52,
+      "lower": 41107.68,
+      "upper": 42229.35,
       "forecast": true
     },
     {
       "date": "2026-10-22",
-      "value": 38585.22,
-      "lower": 38020.69,
-      "upper": 39149.76,
+      "value": 38546.55,
+      "lower": 37985.72,
+      "upper": 39107.39,
       "forecast": true
     }
   ],
@@ -907,26 +915,14 @@
       "date": "2026-07-24",
       "drawdown_pct": 5.78,
       "value": 47642.16
+    },
+    {
+      "date": "2026-07-24",
+      "drawdown_pct": 5.5,
+      "value": 47783.54
     }
   ],
   "positions": [
-    {
-      "ticker": "XRP",
-      "direction": "LONG",
-      "entry": 0.99,
-      "size": 4304.3871,
-      "invested": 1426.75,
-      "leverage": 3,
-      "sl": 0.94,
-      "tp1": 1.2,
-      "tp2": 1.45,
-      "budget_pct": 3.0,
-      "confidence": 7,
-      "is_crypto": true,
-      "at_tp1": false,
-      "reason": "Unica cripto no verde (+0.11%) num dia vermelho generalizado (BTC.D 56.8% a subir, F&G 33 Fear) - forca relativa genuina. R/R 1:1.9 TP1 / 1:4.2 TP2, acima do minimo 1.5:1. 3a posicao cripto dentro do ",
-      "opened_at": "2026-07-22T10:32:37.904393"
-    },
     {
       "ticker": "GLD",
       "direction": "LONG",
@@ -963,6 +959,13 @@
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "XRP",
+      "direction": "LONG",
+      "pnl": -132.76,
+      "reason": "MACD bearish cross confirmado (-0.0051 < -0.0050) + BB oversold 1% + volume 1.8x distribui\u00e7\u00e3o + proximidade do SL (2.8%, ATR 0.5%/dia). Consenso un\u00e2nime dos analistas T\u00e9cnico, Cripto e Gestor de Risco para fecho antecipado antes do stop-out for\u00e7ado.",
+      "closed_at": "2026-07-24T14:33:22.813840"
+    },
     {
       "ticker": "BTC",
       "direction": "LONG",
@@ -1095,23 +1098,9 @@
       "pnl": -784.07,
       "reason": "Posi\u00e7\u00e3o #53 em -17.0% sem catalisador de revers\u00e3o \u2014 MACD bearish cross confirmado + pre\u00e7o abaixo de S2 + volume 0.6x. Regra de corte imediato aplicada (posi\u00e7\u00e3o em -10%+ sem revers\u00e3o), corte total em vez de parcial para libertar slot cripto para ETH SHORT de maior convic\u00e7\u00e3o.",
       "closed_at": "2026-07-14T06:25:40.246110"
-    },
-    {
-      "ticker": "BTC",
-      "direction": "LONG",
-      "pnl": -6.36,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "closed_at": "2026-07-13T05:00:01.863856"
     }
   ],
   "recent_sessions": [
-    {
-      "id": "14f33a21",
-      "agent": "Diretor de Investimentos",
-      "status": "idle",
-      "created": "2026-07-24T13:16:40.193Z",
-      "completed": ""
-    },
     {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
@@ -1148,6 +1137,13 @@
       "completed": ""
     },
     {
+      "id": "14f33a21",
+      "agent": "Diretor de Investimentos",
+      "status": "idle",
+      "created": "2026-07-24T13:33:12.597Z",
+      "completed": ""
+    },
+    {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
@@ -1157,7 +1153,7 @@
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-24T09:46:19.778Z",
       "completed": ""
     },
@@ -1216,6 +1212,15 @@
       "date": "21/07/2026 10:35",
       "title": "POSTMORTEM conclu\u00eddo. Registo 63 (DOT LONG) criado. Score 4/10 \u2014 crypto continua a receber capital apesar de ser a classe mais perdedora (\u20ac-3.842). Al",
       "score": "4"
+    },
+    {
+      "type": "close",
+      "ticker": "XRP",
+      "direction": "LONG",
+      "pnl": -132.76,
+      "reason": "MACD bearish cross confirmado (-0.0051 < -0.0050) + BB oversold 1% + volume 1.8x distribui\u00e7\u00e3o + proximidade do SL (2.8%, ATR 0.5%/dia). Consenso un\u00e2nime dos analistas T\u00e9cnico, Cripto e Gestor de Risco para fecho antecipado antes do stop-out for\u00e7ado.",
+      "date": "2026-07-24T14:33",
+      "id": 68
     },
     {
       "type": "sl_hit",
@@ -1702,15 +1707,6 @@
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-13T14:58",
       "id": 33
-    },
-    {
-      "type": "sl_hit",
-      "ticker": "AAPL",
-      "direction": "SHORT",
-      "pnl": -3.75,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-05-13T14:38",
-      "id": 28
     }
   ],
   "session_analysis": [
