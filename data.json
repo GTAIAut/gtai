@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T08:45:37.006000+00:00",
+  "generated_at": "2026-07-24T09:00:36.959346+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1137,7 +1137,7 @@
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-24T05:02:58.388Z",
       "completed": ""
     },
@@ -1185,6 +1185,14 @@
     }
   ],
   "activity_feed": [
+    {
+      "type": "session",
+      "session_type": "MANHA",
+      "session_num": 113,
+      "date": "24/07/2026 06:17",
+      "title": "Postmortem completo publicado. An\u00e1lise cr\u00edtica: score 5/10 \u2014 trade tecnicamente correto mas inconsist\u00eancias estrat\u00e9gicas identificadas (regime contrad",
+      "score": "5"
+    },
     {
       "type": "session",
       "session_type": "TARDE",
@@ -1711,18 +1719,19 @@
       "reason": "\ud83d\udd34 STOP LOSS",
       "date": "2026-05-13T09:46",
       "id": 31
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": -1.15,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-13T02:24",
-      "id": 31
     }
   ],
   "session_analysis": [
+    {
+      "session_type": "MANHA",
+      "session_num": 113,
+      "date": "24/07/2026 06:17",
+      "summary": "Postmortem completo publicado. An\u00e1lise cr\u00edtica: score 5/10 \u2014 trade tecnicamente correto mas inconsist\u00eancias estrat\u00e9gicas identificadas (regime contradit\u00f3rio, 62% cash, ETH/BTC com WR < 30%). 4 recomenda\u00e7\u00f5es acion\u00e1veis para pr\u00f3ximas 3 sess\u00f5es.",
+      "trades": [],
+      "findings": [
+        "Postmortem completo publicado. An\u00e1lise cr\u00edtica: score 5/10 \u2014 trade tecnicamente correto mas inconsist\u00eancias estrat\u00e9gicas identificadas (regime contradit\u00f3rio, 62% cash, ETH/BTC com WR < 30%). 4 recomen"
+      ]
+    },
     {
       "session_type": "TARDE",
       "session_num": 112,
@@ -1856,41 +1865,9 @@
       "summary": "Postmortem completo. 3 novas posi\u00e7\u00f5es registadas (#018 BTC, #019 NVDA, #020 EURUSD=X) + SL updates em BNB e USO. Score 5/10 \u2014 alertas de BTC 10% WR e 5+ perdas consecutivas ativos. Registo completo em REGISTO_TRADES.md.",
       "trades": [],
       "findings": []
-    },
-    {
-      "session_type": "MANHA",
-      "session_num": 92,
-      "date": "15/07/2026 06:36",
-      "summary": "## POSTMORTEM \u2014 Sess\u00e3o MANHA #92 \u2014 15/07/2026\n\n### REGISTOS NOVOS\n- [#27 ETH SHORT](/GTAA/issues/GTAA-1191#document-plan)\n- [#28 EURUSD=X LONG](/GTAA/issues/GTAA-1191#document-plan)\n- [#29 USO SL UPDATE \u2192 102.90](/GTAA/issues/GTAA-1191#document-plan)\n\n---\n\n### AN\u00c1LISE CR\u00cdTICA\n\n#### 1. Os trades fazem sentido dado o regime e contexto macro?\n\n**ETH SHORT:** Tese t\u00e9cnica s\u00f3lida (RSI 80.9, BB 91%, resist\u00eancia R2). R/R 3.4:1 \u00e9 excelente. Por\u00e9m, o contexto macro n\u00e3o favorece \u2014 Fear & Greed 25 (medo extremo) tende a preceder squeezes, n\u00e3o quedas. Short num ambiente de medo extremo \u00e9 estatisticamente perigoso. Adicionalmente, entrar SHORT com 3x alavancagem num mercado que j\u00e1 caiu 5% hoje aumenta risco de squeeze violento.\n\n**EURUSD=X LONG:** Bem fundamentado. USD a perder carry com yields a cair,",
-      "trades": [
-        {
-          "ticker": "BTC",
-          "action": "BTC",
-          "detail": "10% WR (1/10), -\u20ac1268",
-          "assessment": "Finalmente uma sess\u00e3o sem BTC \u2014 positiva, quebra o padr\u00e3o de destrui\u00e7\u00e3o de valor"
-        },
-        {
-          "ticker": "SOL",
-          "action": "SOL",
-          "detail": "-\u20ac783 (maior perda)",
-          "assessment": "Correto evitar SOL"
-        }
-      ],
-      "findings": [
-        "**ETH SHORT:** Tese t\u00e9cnica s\u00f3lida (RSI 80.9, BB 91%, resist\u00eancia R2). R/R 3.4:1 \u00e9 excelente. Por\u00e9m, o contexto macro n\u00e3o favorece \u2014 Fear & Greed 25 (medo extremo) tende a preceder squeezes, n\u00e3o queda",
-        "#### 2. R/R e limites de risco respeitados?",
-        "- ETH: R/R 3.4:1 \u2705 (acima do m\u00ednimo 1.5:1)",
-        "- EURUSD: R/R 1.83:1 \u2705",
-        "| SOL | -\u20ac783 (maior perda) | N\u00e3o abriu (bom) | Correto evitar SOL |"
-      ]
     }
   ],
   "news_alerts": [
-    {
-      "time": "23/07 14:15",
-      "source": "\ud83d\udcf0 **BBC News**: Saudis must recognise Israel for nuclear deal, says Trump",
-      "title": "Saudis must recognise Israel for nuclear deal, says Trump"
-    },
     {
       "time": "23/07 15:15",
       "source": "**NYT World**: Iran War Live Updates: Oil Prices Hit $100 a Barrel After Attacks in Red Sea",
@@ -1985,6 +1962,11 @@
       "time": "24/07 09:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Victoria Plc Slumps to \u00a3326 Million Loss as Debt Deal Bites",
       "title": "Victoria Plc Slumps to \u00a3326 Million Loss as Debt Deal Bites"
+    },
+    {
+      "time": "24/07 10:00",
+      "source": "**Cointelegraph**: Bitcoin mining pool Poolin files for Chapter 11 bankruptcy",
+      "title": "Bitcoin mining pool Poolin files for Chapter 11 bankruptcy"
     }
   ]
 }
