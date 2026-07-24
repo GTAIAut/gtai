@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-07-24T10:45:37.033809+00:00",
+  "generated_at": "2026-07-24T11:00:37.028881+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -2357.84,
-    "total_pnl_pct": -4.72,
-    "cash_eur": 29853.5,
-    "invested_eur": 17666.25,
+    "total_pnl_eur": -2363.68,
+    "total_pnl_pct": -4.73,
+    "cash_eur": 35907.66,
+    "invested_eur": 11901.48,
     "portfolio_value": 47642.16,
-    "open_positions": 4,
-    "total_trades": 105,
-    "win_rate": 43.8,
-    "total_wins": 46,
+    "open_positions": 3,
+    "total_trades": 106,
+    "win_rate": 44.3,
+    "total_wins": 47,
     "total_losses": 59,
-    "avg_win": 55.25,
+    "avg_win": 60.23,
     "avg_loss": -104.64,
     "best_trade": {
       "id": 63,
@@ -346,7 +346,7 @@
     },
     {
       "month": "2026-07",
-      "pnl": -1880.48
+      "pnl": -1591.09
     }
   ],
   "ticker_pnl": [
@@ -355,12 +355,12 @@
       "pnl": -1326.63
     },
     {
-      "ticker": "BTC",
-      "pnl": -1268.33
-    },
-    {
       "ticker": "USO",
       "pnl": 1102.66
+    },
+    {
+      "ticker": "BTC",
+      "pnl": -978.94
     },
     {
       "ticker": "SOL",
@@ -911,23 +911,6 @@
   ],
   "positions": [
     {
-      "ticker": "BTC",
-      "direction": "LONG",
-      "entry": 56056,
-      "size": 0.3085,
-      "invested": 5764.77,
-      "leverage": 3,
-      "sl": 57000.0,
-      "tp1": 60000.0,
-      "tp2": 62500.0,
-      "budget_pct": 12.0,
-      "confidence": 7,
-      "is_crypto": true,
-      "at_tp1": false,
-      "reason": "RSI 54.3 zona saudavel, MACD bullish (262 vs -39), uptrend confirmado, preco acima do pivot diario (64486 vs 64512), Fear&Greed 29 = contrarian bullish pre-CPI. Volume fraco (0.7x) e historico ruim em",
-      "opened_at": "2026-07-20T06:29:25.496513"
-    },
-    {
       "ticker": "XRP",
       "direction": "LONG",
       "entry": 0.99,
@@ -980,6 +963,13 @@
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "BTC",
+      "direction": "LONG",
+      "pnl": 289.39,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "closed_at": "2026-07-24T11:56:21.964103"
+    },
     {
       "ticker": "USO",
       "direction": "LONG",
@@ -1112,13 +1102,6 @@
       "pnl": -6.36,
       "reason": "\ud83d\udd34 STOP LOSS",
       "closed_at": "2026-07-13T05:00:01.863856"
-    },
-    {
-      "ticker": "TAO",
-      "direction": "SHORT",
-      "pnl": -296.38,
-      "reason": "Tese invalidada \u2014 BTC +2.59% reverteu fraqueza cripto. TAO +4.33% hoje, perda -19.8%. Gestor de Risco e sistema: FECHAR.",
-      "closed_at": "2026-07-10T08:40:50.582013"
     }
   ],
   "recent_sessions": [
@@ -1233,6 +1216,15 @@
       "date": "21/07/2026 10:35",
       "title": "POSTMORTEM conclu\u00eddo. Registo 63 (DOT LONG) criado. Score 4/10 \u2014 crypto continua a receber capital apesar de ser a classe mais perdedora (\u20ac-3.842). Al",
       "score": "4"
+    },
+    {
+      "type": "sl_hit",
+      "ticker": "BTC",
+      "direction": "LONG",
+      "pnl": 289.39,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-07-24T11:56",
+      "id": 62
     },
     {
       "type": "tp_hit",
@@ -1719,15 +1711,6 @@
       "reason": "\ud83d\udd34 STOP LOSS",
       "date": "2026-05-13T14:38",
       "id": 28
-    },
-    {
-      "type": "sl_hit",
-      "ticker": "BNB",
-      "direction": "SHORT",
-      "pnl": -3.78,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-05-13T09:46",
-      "id": 31
     }
   ],
   "session_analysis": [
