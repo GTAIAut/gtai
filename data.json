@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T09:30:36.947933+00:00",
+  "generated_at": "2026-07-24T09:45:36.897661+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1116,8 +1116,8 @@
     {
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
-      "status": "idle",
-      "created": "2026-07-24T09:15:35.627Z",
+      "status": "running",
+      "created": "2026-07-24T09:34:49.040Z",
       "completed": ""
     },
     {
@@ -1869,11 +1869,6 @@
   ],
   "news_alerts": [
     {
-      "time": "23/07 15:15",
-      "source": "**NYT World**: For South Korea, U.S.-Saudi Nuclear Deal Exposes a Double Standard",
-      "title": "For South Korea, U.S.-Saudi Nuclear Deal Exposes a Double Standard"
-    },
-    {
       "time": "23/07 15:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Dollar Jumps on Haven Flows as Middle East War Intensifies",
       "title": "Dollar Jumps on Haven Flows as Middle East War Intensifies"
@@ -1967,6 +1962,11 @@
       "time": "24/07 10:15",
       "source": "\ud83d\udcf0 **BBC News**: US hits dozens of countries with new wave of tariffs",
       "title": "US hits dozens of countries with new wave of tariffs"
+    },
+    {
+      "time": "24/07 10:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Tanker Exits Red Sea Dark as China Ship Heads Toward Strait",
+      "title": "Tanker Exits Red Sea Dark as China Ship Heads Toward Strait"
     }
   ]
 }
