@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T09:00:36.959346+00:00",
+  "generated_at": "2026-07-24T09:15:37.052877+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -50,24 +50,24 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 388,
-        "total": 399
+        "ok": 389,
+        "total": 400
       },
       "Registador de Decis\u00f5es": {
         "ok": 82,
         "total": 97
       },
       "Analista T\u00e9cnico": {
-        "ok": 123,
-        "total": 126
+        "ok": 124,
+        "total": 127
       },
       "Gestor de Risco": {
-        "ok": 93,
-        "total": 97
+        "ok": 94,
+        "total": 98
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "686/719"
+    "all_sessions_rate": "689/722"
   },
   "equity_curve": [
     {
@@ -1114,52 +1114,52 @@
   ],
   "recent_sessions": [
     {
+      "id": "14f33a21",
+      "agent": "Diretor de Investimentos",
+      "status": "idle",
+      "created": "2026-07-24T09:15:35.627Z",
+      "completed": ""
+    },
+    {
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
-      "created": "2026-07-24T05:11:47.723Z",
+      "created": "2026-07-24T09:10:36.791Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
       "status": "idle",
-      "created": "2026-07-24T05:10:00.630Z",
+      "created": "2026-07-24T09:08:25.143Z",
       "completed": ""
     },
     {
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
       "status": "idle",
-      "created": "2026-07-24T05:08:22.615Z",
+      "created": "2026-07-24T09:06:42.435Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "running",
-      "created": "2026-07-24T05:02:58.388Z",
+      "status": "idle",
+      "created": "2026-07-24T09:01:45.684Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
       "status": "idle",
-      "created": "2026-07-24T05:06:45.191Z",
-      "completed": ""
-    },
-    {
-      "id": "14f33a21",
-      "agent": "Diretor de Investimentos",
-      "status": "idle",
-      "created": "2026-07-24T05:18:02.345Z",
+      "created": "2026-07-24T09:04:43.172Z",
       "completed": ""
     },
     {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
-      "created": "2026-07-24T05:15:20.541Z",
+      "created": "2026-07-24T09:14:18.931Z",
       "completed": ""
     },
     {
@@ -1870,11 +1870,6 @@
   "news_alerts": [
     {
       "time": "23/07 15:15",
-      "source": "**NYT World**: Iran War Live Updates: Oil Prices Hit $100 a Barrel After Attacks in Red Sea",
-      "title": "Iran War Live Updates: Oil Prices Hit $100 a Barrel After Attacks in Red Sea"
-    },
-    {
-      "time": "23/07 15:15",
       "source": "**NYT World**: For South Korea, U.S.-Saudi Nuclear Deal Exposes a Double Standard",
       "title": "For South Korea, U.S.-Saudi Nuclear Deal Exposes a Double Standard"
     },
@@ -1967,6 +1962,11 @@
       "time": "24/07 10:00",
       "source": "**Cointelegraph**: Bitcoin mining pool Poolin files for Chapter 11 bankruptcy",
       "title": "Bitcoin mining pool Poolin files for Chapter 11 bankruptcy"
+    },
+    {
+      "time": "24/07 10:15",
+      "source": "\ud83d\udcf0 **BBC News**: US hits dozens of countries with new wave of tariffs",
+      "title": "US hits dozens of countries with new wave of tariffs"
     }
   ]
 }
