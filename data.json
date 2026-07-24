@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T16:45:37.093175+00:00",
+  "generated_at": "2026-07-24T04:00:37.020633+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -543,21 +543,21 @@
       "forecast": false
     },
     {
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "value": 44973.23,
       "lower": 44403.16,
       "upper": 45543.31,
       "forecast": true
     },
     {
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "value": 41899.35,
       "lower": 41329.27,
       "upper": 42469.43,
       "forecast": true
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "value": 38825.47,
       "lower": 38255.39,
       "upper": 39395.54,
@@ -1857,11 +1857,6 @@
   ],
   "news_alerts": [
     {
-      "time": "23/07 08:00",
-      "source": "\ud83d\udcf0 **BBC News**: US signs landmark nuclear deal with Saudi Arabia",
-      "title": "US signs landmark nuclear deal with Saudi Arabia"
-    },
-    {
       "time": "23/07 09:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: China Tankers Reach Red Sea Chokepoint Despite Houthi Threat",
       "title": "China Tankers Reach Red Sea Chokepoint Despite Houthi Threat"
@@ -1955,6 +1950,11 @@
       "time": "23/07 17:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: BlackRock\u2019s GIP Eyes Bundling Fund Stakes in Securitization Deal",
       "title": "BlackRock\u2019s GIP Eyes Bundling Fund Stakes in Securitization Deal"
+    },
+    {
+      "time": "23/07 18:00",
+      "source": "**Cointelegraph**: Here\u2019s why the CLARITY Act\u2019s ethics deal may be so hard to reach",
+      "title": "Here\u2019s why the CLARITY Act\u2019s ethics deal may be so hard to reach"
     }
   ]
 }
