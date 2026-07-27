@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-27T09:15:36.969327+00:00",
+  "generated_at": "2026-07-27T09:23:49.968115+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -3055.24,
-    "total_pnl_pct": -6.11,
-    "cash_eur": 42271.58,
-    "invested_eur": 4740.19,
-    "portfolio_value": 46944.76,
-    "open_positions": 1,
+    "total_pnl_eur": -3047.8,
+    "total_pnl_pct": -6.1,
+    "cash_eur": 40393.5,
+    "invested_eur": 6618.28,
+    "portfolio_value": 46952.2,
+    "open_positions": 2,
     "total_trades": 108,
     "win_rate": 43.5,
     "total_wins": 47,
@@ -50,8 +50,8 @@
     },
     "agent_stats": {
       "Diretor de Investimentos": {
-        "ok": 392,
-        "total": 403
+        "ok": 393,
+        "total": 404
       },
       "Registador de Decis\u00f5es": {
         "ok": 82,
@@ -62,12 +62,12 @@
         "total": 130
       },
       "Gestor de Risco": {
-        "ok": 96,
-        "total": 100
+        "ok": 97,
+        "total": 101
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "697/733"
+    "all_sessions_rate": "699/735"
   },
   "equity_curve": [
     {
@@ -281,6 +281,10 @@
     {
       "date": "2026-07-27",
       "value": 46944.76
+    },
+    {
+      "date": "2026-07-27",
+      "value": 46952.2
     }
   ],
   "monthly_pnl": [
@@ -529,23 +533,23 @@
     },
     {
       "date": "2026-08-26",
-      "value": 43333.91,
-      "lower": 42856.37,
-      "upper": 43811.44,
+      "value": 43269.44,
+      "lower": 42791.81,
+      "upper": 43747.06,
       "forecast": true
     },
     {
       "date": "2026-09-25",
-      "value": 39381.95,
-      "lower": 38904.42,
-      "upper": 39859.49,
+      "value": 39276.78,
+      "lower": 38799.16,
+      "upper": 39754.41,
       "forecast": true
     },
     {
       "date": "2026-10-25",
-      "value": 35430.0,
-      "lower": 34952.46,
-      "upper": 35907.53,
+      "value": 35284.13,
+      "lower": 34806.5,
+      "upper": 35761.75,
       "forecast": true
     }
   ],
@@ -814,6 +818,11 @@
       "date": "2026-07-27",
       "drawdown_pct": 6.91,
       "value": 46944.76
+    },
+    {
+      "date": "2026-07-27",
+      "drawdown_pct": 6.9,
+      "value": 46952.2
     }
   ],
   "positions": [
@@ -833,6 +842,23 @@
       "at_tp1": false,
       "reason": "Consenso un\u00e2nime dos 5 analistas (Macro, T\u00e9cnico, Equity, Cripto, Risco): hedge geopol\u00edtico com escalada Ucr\u00e2nia (demiss\u00e3o chefe militar) + tens\u00e3o Ir\u00e3o-Hormuz (Goldman prev\u00ea Brent>$120) + potencial ac",
       "opened_at": "2026-07-22T14:23:10.461063"
+    },
+    {
+      "ticker": "LINK",
+      "direction": "LONG",
+      "entry": 7.69,
+      "size": 732.6741,
+      "invested": 1878.09,
+      "leverage": 3,
+      "sl": 7.4,
+      "tp1": 8.35,
+      "tp2": null,
+      "budget_pct": 4.0,
+      "confidence": 7,
+      "is_crypto": true,
+      "at_tp1": false,
+      "reason": "Momentum +4.68% 24h, uptrend cripto geral, correla\u00e7\u00e3o m\u00e9dia-alta com BTC gerida (apenas 2/3 slots cripto usados, SOL exclu\u00eddo para evitar concentra\u00e7\u00e3o excessiva num regime Fear&Greed=30). R/R 1.97:1.",
+      "opened_at": "2026-07-27T10:23:45.116749"
     }
   ],
   "recent_trades": [
@@ -982,14 +1008,14 @@
       "id": "77254f69",
       "agent": "Analista de A\u00e7\u00f5es",
       "status": "idle",
-      "created": "2026-07-27T05:14:02.270Z",
+      "created": "2026-07-27T09:19:17.694Z",
       "completed": ""
     },
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
-      "status": "running",
-      "created": "2026-07-27T05:10:54.113Z",
+      "status": "idle",
+      "created": "2026-07-27T09:16:19.006Z",
       "completed": ""
     },
     {
@@ -1016,21 +1042,21 @@
     {
       "id": "14f33a21",
       "agent": "Diretor de Investimentos",
-      "status": "idle",
-      "created": "2026-07-27T05:22:36.543Z",
+      "status": "running",
+      "created": "2026-07-27T09:23:38.410Z",
       "completed": ""
     },
     {
       "id": "2489a9f7",
       "agent": "Gestor de Risco",
       "status": "idle",
-      "created": "2026-07-27T05:17:23.245Z",
+      "created": "2026-07-27T09:21:19.560Z",
       "completed": ""
     },
     {
       "id": "fb9e75c9",
       "agent": "Registador de Decis\u00f5es",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-27T05:30:43.350Z",
       "completed": ""
     },
