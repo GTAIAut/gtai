@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T08:45:37.056047+00:00",
+  "generated_at": "2026-07-27T09:00:37.099104+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1002,7 +1002,7 @@
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-27T05:02:58.962Z",
       "completed": ""
     },
@@ -1050,6 +1050,14 @@
     }
   ],
   "activity_feed": [
+    {
+      "type": "session",
+      "session_type": "MANHA",
+      "session_num": 116,
+      "date": "27/07/2026 06:21",
+      "title": "Postmortem 116 conclu\u00eddo. REGISTO 30 (BTC LONG) e 31 (ETH LONG) adicionados ao REGISTO.md. An\u00e1lise cr\u00edtica: score 3/10 \u2014 3 alertas ativados (BTC 18% W",
+      "score": "3"
+    },
     {
       "type": "session",
       "session_type": "MANHA",
@@ -1575,18 +1583,17 @@
       "reason": "\u2702\ufe0f Auto-trim (30%)",
       "date": "2026-05-13T15:08",
       "id": 33
-    },
-    {
-      "type": "auto_trim",
-      "ticker": "TSLA",
-      "direction": "SHORT",
-      "pnl": -0.0,
-      "reason": "\u2702\ufe0f Auto-trim (30%)",
-      "date": "2026-05-13T14:58",
-      "id": 32
     }
   ],
   "session_analysis": [
+    {
+      "session_type": "MANHA",
+      "session_num": 116,
+      "date": "27/07/2026 06:21",
+      "summary": "Postmortem #116 conclu\u00eddo. REGISTO #30 (BTC LONG) e #31 (ETH LONG) adicionados ao REGISTO.md. An\u00e1lise cr\u00edtica: score 3/10 \u2014 3 alertas ativados (BTC 18% WR, ETH 11% WR, correla\u00e7\u00e3o cripto). 4 recomenda\u00e7\u00f5es acion\u00e1veis. Recomenda\u00e7\u00e3o principal: reconsiderar ETH LONG com 3x \u2014 89% probabilidade de perda baseada no hist\u00f3rico de 9 trades.",
+      "trades": [],
+      "findings": []
+    },
     {
       "session_type": "MANHA",
       "session_num": 113,
@@ -1720,14 +1727,6 @@
       "session_num": 95,
       "date": "16/07/2026 06:29",
       "summary": "Postmortem completo publicado. Score 4/10. Alertas emitidos: (1) 5 perdas consecutivas, (2) BTC com 10% WR hist\u00f3rico. Recomenda\u00e7\u00f5es: morat\u00f3rio BTC 5 sess\u00f5es, break de novas entradas, alavancagem m\u00e1x 3x cripto.",
-      "trades": [],
-      "findings": []
-    },
-    {
-      "session_type": "TARDE",
-      "session_num": 94,
-      "date": "15/07/2026 14:36",
-      "summary": "Postmortem completo. 3 novas posi\u00e7\u00f5es registadas (#018 BTC, #019 NVDA, #020 EURUSD=X) + SL updates em BNB e USO. Score 5/10 \u2014 alertas de BTC 10% WR e 5+ perdas consecutivas ativos. Registo completo em REGISTO_TRADES.md.",
       "trades": [],
       "findings": []
     }
