@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T09:00:37.099104+00:00",
+  "generated_at": "2026-07-27T09:15:36.969327+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -58,8 +58,8 @@
         "total": 100
       },
       "Analista T\u00e9cnico": {
-        "ok": 126,
-        "total": 129
+        "ok": 127,
+        "total": 130
       },
       "Gestor de Risco": {
         "ok": 96,
@@ -67,7 +67,7 @@
       }
     },
     "recent_session_rate": "0/10",
-    "all_sessions_rate": "696/732"
+    "all_sessions_rate": "697/733"
   },
   "equity_curve": [
     {
@@ -988,7 +988,7 @@
     {
       "id": "55882e4a",
       "agent": "Analista de Cripto",
-      "status": "idle",
+      "status": "running",
       "created": "2026-07-27T05:10:54.113Z",
       "completed": ""
     },
@@ -996,21 +996,21 @@
       "id": "a88b77ac",
       "agent": "Analista de Forex e \u00cdndices",
       "status": "idle",
-      "created": "2026-07-27T05:08:53.242Z",
+      "created": "2026-07-27T09:12:58.814Z",
       "completed": ""
     },
     {
       "id": "60347f24",
       "agent": "Analista Macro e Not\u00edcias",
-      "status": "running",
-      "created": "2026-07-27T05:02:58.962Z",
+      "status": "idle",
+      "created": "2026-07-27T09:01:50.942Z",
       "completed": ""
     },
     {
       "id": "95d86c9f",
       "agent": "Analista T\u00e9cnico",
       "status": "idle",
-      "created": "2026-07-27T05:06:42.087Z",
+      "created": "2026-07-27T09:04:47.596Z",
       "completed": ""
     },
     {
@@ -1733,11 +1733,6 @@
   ],
   "news_alerts": [
     {
-      "time": "24/07 10:00",
-      "source": "**Cointelegraph**: Bitcoin mining pool Poolin files for Chapter 11 bankruptcy",
-      "title": "Bitcoin mining pool Poolin files for Chapter 11 bankruptcy"
-    },
-    {
       "time": "24/07 10:15",
       "source": "\ud83d\udcf0 **BBC News**: US hits dozens of countries with new wave of tariffs",
       "title": "US hits dozens of countries with new wave of tariffs"
@@ -1831,6 +1826,11 @@
       "time": "27/07 09:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: SoftBank Said Near Deal for Blackstone\u2019s Japan Payments Firm",
       "title": "SoftBank Said Near Deal for Blackstone\u2019s Japan Payments Firm"
+    },
+    {
+      "time": "27/07 10:15",
+      "source": "**NYT World**: Cuba, Lacking Fuel, Relies on Ingenuity to Defy Trump\u2019s Blockade",
+      "title": "Cuba, Lacking Fuel, Relies on Ingenuity to Defy Trump\u2019s Blockade"
     }
   ]
 }
