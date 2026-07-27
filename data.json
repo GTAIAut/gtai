@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T10:30:37.006534+00:00",
+  "generated_at": "2026-07-27T10:45:37.187994+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1759,11 +1759,6 @@
   ],
   "news_alerts": [
     {
-      "time": "24/07 10:45",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Tanker Exits Red Sea Dark as China Ship Heads Toward Strait",
-      "title": "Tanker Exits Red Sea Dark as China Ship Heads Toward Strait"
-    },
-    {
       "time": "24/07 13:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Momentum Crash Hits YOLO Traders\u2019 Returns by Most in Four Years",
       "title": "Momentum Crash Hits YOLO Traders\u2019 Returns by Most in Four Years"
@@ -1857,6 +1852,11 @@
       "time": "27/07 11:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Stocks, Bonds Rise in Relief Rally as Oil Tumbles: Markets Wrap",
       "title": "Stocks, Bonds Rise in Relief Rally as Oil Tumbles: Markets Wrap"
+    },
+    {
+      "time": "27/07 11:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Whipsawing Oil Prices Muddy Traders\u2019 Outlook on Fed Meeting",
+      "title": "Whipsawing Oil Prices Muddy Traders\u2019 Outlook on Fed Meeting"
     }
   ]
 }
