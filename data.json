@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T08:15:37.139059+00:00",
+  "generated_at": "2026-07-27T08:30:37.051427+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1734,11 +1734,6 @@
   ],
   "news_alerts": [
     {
-      "time": "24/07 08:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: China Rushes to Buy East Russian Oil as Mideast Risks Grow",
-      "title": "China Rushes to Buy East Russian Oil as Mideast Risks Grow"
-    },
-    {
       "time": "24/07 09:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Victoria Plc Slumps to \u00a3326 Million Loss as Debt Deal Bites",
       "title": "Victoria Plc Slumps to \u00a3326 Million Loss as Debt Deal Bites"
@@ -1832,6 +1827,11 @@
       "time": "27/07 09:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Branko Milanovic\u00a0on China, Europe and National Market Liberalism",
       "title": "Branko Milanovic\u00a0on China, Europe and National Market Liberalism"
+    },
+    {
+      "time": "27/07 09:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: AT&T Kick Starts Sale of Five-Part Euro, Sterling Bond Deal",
+      "title": "AT&T Kick Starts Sale of Five-Part Euro, Sterling Bond Deal"
     }
   ]
 }
