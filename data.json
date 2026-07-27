@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-27T13:30:36.928387+00:00",
+  "generated_at": "2026-07-27T13:45:36.907517+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
     "week_start": "2026-05-04"
   },
   "stats": {
-    "total_pnl_eur": -3048.39,
-    "total_pnl_pct": -6.1,
-    "cash_eur": 35698.34,
-    "invested_eur": 11313.44,
+    "total_pnl_eur": -3150.98,
+    "total_pnl_pct": -6.3,
+    "cash_eur": 40237.73,
+    "invested_eur": 6618.28,
     "portfolio_value": 46951.61,
-    "open_positions": 3,
-    "total_trades": 108,
-    "win_rate": 43.5,
+    "open_positions": 2,
+    "total_trades": 109,
+    "win_rate": 43.1,
     "total_wins": 47,
-    "total_losses": 61,
+    "total_losses": 62,
     "avg_win": 60.23,
-    "avg_loss": -114.28,
+    "avg_loss": -114.95,
     "best_trade": {
       "id": 63,
       "ticker": "ETH",
@@ -302,7 +302,7 @@
     },
     {
       "month": "2026-07",
-      "pnl": -2388.46
+      "pnl": -2544.23
     }
   ],
   "ticker_pnl": [
@@ -360,7 +360,7 @@
     },
     {
       "ticker": "IWM",
-      "pnl": 92.96
+      "pnl": -62.81
     },
     {
       "ticker": "INJ",
@@ -873,26 +873,16 @@
       "at_tp1": false,
       "reason": "Momentum +4.68% 24h, uptrend cripto geral, correla\u00e7\u00e3o m\u00e9dia-alta com BTC gerida (apenas 2/3 slots cripto usados, SOL exclu\u00eddo para evitar concentra\u00e7\u00e3o excessiva num regime Fear&Greed=30). R/R 1.97:1.",
       "opened_at": "2026-07-27T10:23:45.116749"
-    },
-    {
-      "ticker": "IWM",
-      "direction": "SHORT",
-      "entry": 255.77,
-      "size": 55.0706,
-      "invested": 4695.16,
-      "leverage": 3,
-      "sl": 258.0,
-      "tp1": 251.5,
-      "tp2": 249.0,
-      "budget_pct": 10.0,
-      "confidence": 7,
-      "is_crypto": false,
-      "at_tp1": false,
-      "reason": "SHORT obrigat\u00f3rio da sess\u00e3o (avalia\u00e7\u00e3o bidirecional): \u00fanico \u00edndice negativo (-0.08%) enquanto SPY/QQQ sobem \u2014 diverg\u00eancia cl\u00e1ssica de breadth fraco small caps vs mega caps. VIX em complac\u00eancia (-4.42%",
-      "opened_at": "2026-07-27T14:26:44.996028"
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "IWM",
+      "direction": "SHORT",
+      "pnl": -155.77,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "closed_at": "2026-07-27T14:34:23.804255"
+    },
     {
       "ticker": "ETH",
       "direction": "SHORT",
@@ -1025,13 +1015,6 @@
       "pnl": -2.48,
       "reason": "\ud83d\udd34 STOP LOSS",
       "closed_at": "2026-07-17T00:20:27.789129"
-    },
-    {
-      "ticker": "USO",
-      "direction": "LONG",
-      "pnl": 128.18,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "closed_at": "2026-07-16T23:00:02.159780"
     }
   ],
   "recent_sessions": [
@@ -1162,6 +1145,15 @@
       "date": "21/07/2026 10:35",
       "title": "POSTMORTEM conclu\u00eddo. Registo 63 (DOT LONG) criado. Score 4/10 \u2014 crypto continua a receber capital apesar de ser a classe mais perdedora (\u20ac-3.842). Al",
       "score": "4"
+    },
+    {
+      "type": "sl_hit",
+      "ticker": "IWM",
+      "direction": "SHORT",
+      "pnl": -155.77,
+      "reason": "\ud83d\udd34 STOP LOSS",
+      "date": "2026-07-27T14:34",
+      "id": 74
     },
     {
       "type": "sl_hit",
@@ -1630,15 +1622,6 @@
       "reason": "\ud83d\udd34 STOP LOSS",
       "date": "2026-05-13T17:59",
       "id": 30
-    },
-    {
-      "type": "sl_hit",
-      "ticker": "TSLA",
-      "direction": "SHORT",
-      "pnl": -8.39,
-      "reason": "\ud83d\udd34 STOP LOSS",
-      "date": "2026-05-13T15:39",
-      "id": 32
     }
   ],
   "session_analysis": [
@@ -1789,16 +1772,6 @@
   ],
   "news_alerts": [
     {
-      "time": "24/07 16:45",
-      "source": "\ud83d\udcf0 **BBC News**: Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
-      "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating"
-    },
-    {
-      "time": "24/07 17:45",
-      "source": "**NYT World**: Iran War Live Updates: Netanyahu Says He Will Meet With Trump, as U.S.-Iran Strikes Continue",
-      "title": "Iran War Live Updates: Netanyahu Says He Will Meet With Trump, as U.S.-Iran Strikes Continue"
-    },
-    {
       "time": "27/07 06:00",
       "source": "**Cointelegraph**: Storj files for bankruptcy, explores equity path for tokenholders",
       "title": "Storj files for bankruptcy, explores equity path for tokenholders"
@@ -1887,6 +1860,16 @@
       "time": "27/07 14:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Treasury Yields Follow Oil Lower With Fed and Supply in Focus",
       "title": "Treasury Yields Follow Oil Lower With Fed and Supply in Focus"
+    },
+    {
+      "time": "27/07 14:45",
+      "source": "**Cointelegraph**: Rate path still divides investors: Five things to know in Bitcoin this week",
+      "title": "Rate path still divides investors: Five things to know in Bitcoin this week"
+    },
+    {
+      "time": "27/07 14:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Nvidia Credit Risk Jumps in Swaps Market on AI Deal Talk Reports",
+      "title": "Nvidia Credit Risk Jumps in Swaps Market on AI Deal Talk Reports"
     }
   ]
 }
