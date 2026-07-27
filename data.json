@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T16:30:36.830870+00:00",
+  "generated_at": "2026-07-27T16:45:36.941547+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1772,16 +1772,6 @@
   ],
   "news_alerts": [
     {
-      "time": "27/07 06:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Trip.com Fined in China Antitrust Case as Price Wars Continue",
-      "title": "Trip.com Fined in China Antitrust Case as Price Wars Continue"
-    },
-    {
-      "time": "27/07 08:15",
-      "source": "\ud83d\udcf0 **BBC News**: Trump paused attacks on Iran to make space for talks, US ambassador says",
-      "title": "Trump paused attacks on Iran to make space for talks, US ambassador says"
-    },
-    {
       "time": "27/07 08:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: First US LNG Shipment to China in a Year to Be Re-Exported",
       "title": "First US LNG Shipment to China in a Year to Be Re-Exported"
@@ -1870,6 +1860,16 @@
       "time": "27/07 17:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Nvidia Credit Risk Jumps in Swaps Market on AI Deal Talks",
       "title": "Nvidia Credit Risk Jumps in Swaps Market on AI Deal Talks"
+    },
+    {
+      "time": "27/07 17:45",
+      "source": "\ud83d\udcf0 **BBC News**: Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+      "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars"
+    },
+    {
+      "time": "27/07 17:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Paschi, Banco BPM Advisers Working on Deal With Cash Component",
+      "title": "Paschi, Banco BPM Advisers Working on Deal With Cash Component"
     }
   ]
 }
