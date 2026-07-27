@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T10:00:37.042471+00:00",
+  "generated_at": "2026-07-27T10:15:37.228725+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1759,11 +1759,6 @@
   ],
   "news_alerts": [
     {
-      "time": "24/07 10:15",
-      "source": "\ud83d\udcf0 **BBC News**: US hits dozens of countries with new wave of tariffs",
-      "title": "US hits dozens of countries with new wave of tariffs"
-    },
-    {
       "time": "24/07 10:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Tanker Exits Red Sea Dark as China Ship Heads Toward Strait",
       "title": "Tanker Exits Red Sea Dark as China Ship Heads Toward Strait"
@@ -1857,6 +1852,11 @@
       "time": "27/07 10:15",
       "source": "**NYT World**: Cuba, Lacking Fuel, Relies on Ingenuity to Defy Trump\u2019s Blockade",
       "title": "Cuba, Lacking Fuel, Relies on Ingenuity to Defy Trump\u2019s Blockade"
+    },
+    {
+      "time": "27/07 11:15",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Stocks, Bonds Rise in Relief Rally as Oil Tumbles: Markets Wrap",
+      "title": "Stocks, Bonds Rise in Relief Rally as Oil Tumbles: Markets Wrap"
     }
   ]
 }
