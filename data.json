@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T16:15:36.877584+00:00",
+  "generated_at": "2026-07-27T16:30:36.830870+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1772,11 +1772,6 @@
   ],
   "news_alerts": [
     {
-      "time": "27/07 06:00",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Oil Drops, Bonds Rally as US-Iran Tensions Ease: Markets Wrap",
-      "title": "Oil Drops, Bonds Rally as US-Iran Tensions Ease: Markets Wrap"
-    },
-    {
       "time": "27/07 06:30",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Trip.com Fined in China Antitrust Case as Price Wars Continue",
       "title": "Trip.com Fined in China Antitrust Case as Price Wars Continue"
@@ -1870,6 +1865,11 @@
       "time": "27/07 15:45",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Tyson, JBS Shares Surge as US Reopens Mexico Cattle Imports After Screwworm Ban",
       "title": "Tyson, JBS Shares Surge as US Reopens Mexico Cattle Imports After Screwworm Ban"
+    },
+    {
+      "time": "27/07 17:30",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Nvidia Credit Risk Jumps in Swaps Market on AI Deal Talks",
+      "title": "Nvidia Credit Risk Jumps in Swaps Market on AI Deal Talks"
     }
   ]
 }
