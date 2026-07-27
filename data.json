@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T07:30:37.038259+00:00",
+  "generated_at": "2026-07-27T07:45:37.252790+00:00",
   "portfolio": {
     "initial_capital": 50000.0,
     "created_at": "2026-05-04T23:21:00",
@@ -1734,11 +1734,6 @@
   ],
   "news_alerts": [
     {
-      "time": "24/07 07:30",
-      "source": "\ud83d\udcf0 **Bloomberg Markets**: Japan\u2019s 40-Year Yield Rises 10 Basis Points on Inflation Fears",
-      "title": "Japan\u2019s 40-Year Yield Rises 10 Basis Points on Inflation Fears"
-    },
-    {
       "time": "24/07 08:00",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: Japan 40-Year Yield Surges as Traders Question BOJ on Inflation",
       "title": "Japan 40-Year Yield Surges as Traders Question BOJ on Inflation"
@@ -1832,6 +1827,11 @@
       "time": "27/07 08:15",
       "source": "\ud83d\udcf0 **Bloomberg Markets**: First US LNG Shipment to China in a Year to Be Re-Exported",
       "title": "First US LNG Shipment to China in a Year to Be Re-Exported"
+    },
+    {
+      "time": "27/07 08:45",
+      "source": "\ud83d\udcf0 **Bloomberg Markets**: Audi Turns Gloomier on Sales Outlook Due to Downturn in China",
+      "title": "Audi Turns Gloomier on Sales Outlook Due to Downturn in China"
     }
   ]
 }
